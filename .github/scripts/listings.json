@@ -12,7 +12,7 @@
   "as_of": "2026-07-10",
   "window_days": 60,
   "total_site_jobs_str": "7.3M+",
-  "generated_at": "2026-07-10T10:28:52.008Z"
+  "generated_at": "2026-07-10T11:24:11.602Z"
  },
  "categories": [
   {
@@ -1400,6 +1400,22 @@
    "url": "https://workopia.io/jobs/2eb586800f67131745674fa0ac65bef0",
    "category": "finance",
    "tier": "Graduate"
+  },
+  {
+   "id": "3ccea8411011ca0ed6e5a900ef2ff2bd",
+   "source": "Workopia",
+   "company_name": "AIA",
+   "company_hi_slug": "aia",
+   "title": "Actuarial, Analyst",
+   "location": "Hong Kong",
+   "skills": "Financial projections, Business insights",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-08T04:16:37.988Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/3ccea8411011ca0ed6e5a900ef2ff2bd",
+   "category": "finance",
+   "tier": "Entry-level"
   },
   {
    "id": "a66ac04625bd6cfb9bb6ee7f45458dee",

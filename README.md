@@ -1,6 +1,6 @@
 # Hong Kong Graduate, Internship & Entry-Level Jobs 2026 — Updated Daily
 
-Track the latest Hong Kong **graduate schemes, entry-level roles, apprenticeships and internships** across Tech, Finance, Healthcare, Trades, Sales & Retail and Business & Admin. 149 hand-picked roles below — part of **7.3M+ active job ads sourced straight from employer career pages, refreshed daily, zero third-party scraping.**
+Track the latest Hong Kong **graduate schemes, entry-level roles, apprenticeships and internships** across Tech, Finance, Healthcare, Trades, Sales & Retail and Business & Admin. 150 hand-picked roles below — part of **7.3M+ active job ads sourced straight from employer career pages, refreshed daily, zero third-party scraping.**
 
 Maintained by [**Workopia**](https://workopia.io/browsejobs/hk?utm_source=github&utm_medium=repo&utm_campaign=hong-kong-graduate-internship-jobs) — the world's 2nd largest job database, 94 countries, 2,517 cities.
 
@@ -8,12 +8,12 @@ Maintained by [**Workopia**](https://workopia.io/browsejobs/hk?utm_source=github
 
 ---
 
-### Browse 149 Roles by Category
+### Browse 150 Roles by Category
 
 - 🎓 **[Graduate & Internship Programs](#graduate-internship-programs)** (49) — Internships 49 · Graduate 0 · Entry-level 0
 - 💻 **[Tech](#tech)** (16) — Internships 0 · Graduate 0 · Entry-level 16
 - 📊 **[Data, AI & ML](#data-ai-ml)** (9) — Internships 1 · Graduate 0 · Entry-level 8
-- 💷 **[Finance & Accounting](#finance-accounting)** (31) — Internships 8 · Graduate 1 · Entry-level 22
+- 💷 **[Finance & Accounting](#finance-accounting)** (32) — Internships 8 · Graduate 1 · Entry-level 23
 - 🔧 **[Trades & Apprenticeships](#trades-apprenticeships)** (5) — Entry-level 5
 - 🛍️ **[Sales & Retail](#sales-retail)** (18) — Entry-level 18
 - 🗂️ **[Business & Admin](#business-admin)** (21) — Entry-level 21
@@ -169,7 +169,7 @@ Set a job alert on Workopia by role + city and we'll email you when new Hong Kon
 <table>
 <thead><tr><th width="18%">Company</th><th width="30%">Role</th><th width="13%">Location</th><th width="25%">Key skills</th><th width="8%">Apply</th><th width="6%">Age</th></tr></thead>
 <tbody>
-<tr><td><strong><a href="https://workopia.io/hi/companies/infineon?utm_source=github&utm_medium=repo&utm_campaign=hong-kong-graduate-internship-jobs">Infineon</a></strong></td><td>Intern - Ai Engineer_2692</td><td>Hong Kong</td><td>Python programming, API integration</td><td><a href="https://workopia.io/jobs/HRC1592692?utm_source=github&utm_medium=repo&utm_campaign=hong-kong-graduate-internship-jobs">Apply →</a></td><td>2d</td></tr>
+<tr><td><strong><a href="https://workopia.io/hi/companies/infineon?utm_source=github&utm_medium=repo&utm_campaign=hong-kong-graduate-internship-jobs">Infineon</a></strong></td><td>Intern - Ai Engineer_2692</td><td>Hong Kong</td><td>Python programming, API integration</td><td><a href="https://workopia.io/jobs/HRC1592692?utm_source=github&utm_medium=repo&utm_campaign=hong-kong-graduate-internship-jobs">Apply →</a></td><td>3d</td></tr>
 </tbody>
 </table>
 
@@ -223,11 +223,12 @@ Set a job alert on Workopia by role + city and we'll email you when new Hong Kon
 </tbody>
 </table>
 
-### Entry-level (22)
+### Entry-level (23)
 
 <table>
 <thead><tr><th width="18%">Company</th><th width="30%">Role</th><th width="13%">Location</th><th width="25%">Key skills</th><th width="8%">Apply</th><th width="6%">Age</th></tr></thead>
 <tbody>
+<tr><td><strong><a href="https://workopia.io/hi/companies/aia?utm_source=github&utm_medium=repo&utm_campaign=hong-kong-graduate-internship-jobs">AIA</a></strong></td><td>Actuarial, Analyst</td><td>Hong Kong</td><td>Financial projections, Business insights</td><td><a href="https://workopia.io/jobs/3ccea8411011ca0ed6e5a900ef2ff2bd?utm_source=github&utm_medium=repo&utm_campaign=hong-kong-graduate-internship-jobs">Apply →</a></td><td>2d</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/androiddev-careers?utm_source=github&utm_medium=repo&utm_campaign=hong-kong-graduate-internship-jobs">androiddev.careers</a></strong></td><td>Accountant (global Scope)</td><td>Hong Kong Sar</td><td>Financial reporting, Accounting standards</td><td><a href="https://workopia.io/jobs/a66ac04625bd6cfb9bb6ee7f45458dee?utm_source=github&utm_medium=repo&utm_campaign=hong-kong-graduate-internship-jobs">Apply →</a></td><td>7d</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/aia?utm_source=github&utm_medium=repo&utm_campaign=hong-kong-graduate-internship-jobs">AIA</a></strong></td><td>Actuarial Specialist</td><td>Hong Kong</td><td>Solvency reporting, Financial risk managem</td><td><a href="https://workopia.io/jobs/d0eb7bcba2e70b48cdc2c5bcd455be87?utm_source=github&utm_medium=repo&utm_campaign=hong-kong-graduate-internship-jobs">Apply →</a></td><td>11d</td></tr>
 <tr><td>↳</td><td>Actuarial Analyst / Specialist</td><td>Hong Kong</td><td>Statutory and regulato, General insurance repo</td><td><a href="https://workopia.io/jobs/b00de562d1cf868ebdb374f68a54b580?utm_source=github&utm_medium=repo&utm_campaign=hong-kong-graduate-internship-jobs">Apply →</a></td><td>2w</td></tr>

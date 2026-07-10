@@ -1,0 +1,906 @@
+{
+ "asOf": "2026-07-10",
+ "count": 150,
+ "jobs": {
+  "e7312106e04956e88004ba362d03566c": {
+   "id": "e7312106e04956e88004ba362d03566c",
+   "company": "Barclays",
+   "role": "Sales, Trading And Structuring Summer Internship Programme 2027 Hong Kong",
+   "location": "Hong Kong"
+  },
+  "3ee67b60203672a47893f8541b2535d3": {
+   "id": "3ee67b60203672a47893f8541b2535d3",
+   "company": "Mercer",
+   "role": "Intern, Investment Consulting (6 Months)",
+   "location": "Hong Kong"
+  },
+  "c979b9b04ae6740ae357f997e810c9ae": {
+   "id": "c979b9b04ae6740ae357f997e810c9ae",
+   "company": "Mercer",
+   "role": "Intern - Retirement (pension) Consulting (6-months Internship)",
+   "location": "Hong Kong"
+  },
+  "18daf4ef0c23317e8f1294bc447ef5ad": {
+   "id": "18daf4ef0c23317e8f1294bc447ef5ad",
+   "company": "Point72",
+   "role": "Corporate Access, Off-cycle Internship (6-months) – Japanese Speaking",
+   "location": "Hong Kong"
+  },
+  "8ea5e2ee6d026143ceba9fe6319c6be4": {
+   "id": "8ea5e2ee6d026143ceba9fe6319c6be4",
+   "company": "AtkinsRealis UK",
+   "role": "Summer Internship 2026",
+   "location": "Hong Kong"
+  },
+  "0eca28b96c005b4613c934a96a852a92": {
+   "id": "0eca28b96c005b4613c934a96a852a92",
+   "company": "MARSH MCLENNAN",
+   "role": "Intern - Retirement (pension) Consulting (6-months Internship)",
+   "location": "Hong Kong"
+  },
+  "7f618443dfee5f36919d0ad39ee9fbd5": {
+   "id": "7f618443dfee5f36919d0ad39ee9fbd5",
+   "company": "MARSH MCLENNAN",
+   "role": "Intern, Investment Consulting (6 Months)",
+   "location": "Hong Kong"
+  },
+  "0baac69c5b0b6d9e1b1e8bfe071d01eb": {
+   "id": "0baac69c5b0b6d9e1b1e8bfe071d01eb",
+   "company": "AIA",
+   "role": "2026 Actuarial Intern",
+   "location": "Hong Kong"
+  },
+  "39cb720cd704f9ce4ac215fde7c5db22": {
+   "id": "39cb720cd704f9ce4ac215fde7c5db22",
+   "company": "AIA",
+   "role": "Intern, Transformation Automation-2",
+   "location": "Hong Kong"
+  },
+  "8ec53d65b953d4eb6731e6398018bb17": {
+   "id": "8ec53d65b953d4eb6731e6398018bb17",
+   "company": "Gensler",
+   "role": "Student Internship - Interiors - Hong Kong",
+   "location": "Hong Kong"
+  },
+  "57b627cb49f7ff1afd00c86bebfc68c9": {
+   "id": "57b627cb49f7ff1afd00c86bebfc68c9",
+   "company": "Chow Tai Fook",
+   "role": "Summer Internship Programme",
+   "location": "Hong Kong"
+  },
+  "44254d546fabdefb72ee194bdba06023": {
+   "id": "44254d546fabdefb72ee194bdba06023",
+   "company": "AIA",
+   "role": "Aia Actuarial Internship Programme",
+   "location": "Hong Kong"
+  },
+  "1dccdeea40663445d5e78d284141f7fd": {
+   "id": "1dccdeea40663445d5e78d284141f7fd",
+   "company": "AIA",
+   "role": "Intern, Transformation Automation",
+   "location": "Hong Kong"
+  },
+  "54f4e73cabf2e5ea35e307533d6739ba": {
+   "id": "54f4e73cabf2e5ea35e307533d6739ba",
+   "company": "AIA",
+   "role": "Intern",
+   "location": "Hong Kong"
+  },
+  "3c504117768135a442c45d287792b435": {
+   "id": "3c504117768135a442c45d287792b435",
+   "company": "AIA",
+   "role": "Intern - Inforce Management",
+   "location": "Hong Kong"
+  },
+  "602d424311f13232157e0a31ec21e0f4": {
+   "id": "602d424311f13232157e0a31ec21e0f4",
+   "company": "Valmont Industries, Inc",
+   "role": "Intern, Transaction Services Hong Kong",
+   "location": "Hong Kong SAR"
+  },
+  "a479e182fd284332d2e772f583d6ccb8": {
+   "id": "a479e182fd284332d2e772f583d6ccb8",
+   "company": "Sunriseatwolfchase",
+   "role": "Actuarial Internship 2027",
+   "location": "Hong Kong"
+  },
+  "bb873c8357eb5bb7298b7af591fb144d": {
+   "id": "bb873c8357eb5bb7298b7af591fb144d",
+   "company": "Edelman Inc",
+   "role": "Partnership Intern",
+   "location": "Hong Kong"
+  },
+  "3e309209c21ebde2cca5a6fa52c6679d": {
+   "id": "3e309209c21ebde2cca5a6fa52c6679d",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Summer Internship Programme 2026 [stem] - Pccw Global",
+   "location": "Hong Kong"
+  },
+  "b329f4f4c7ed80c9d76a69220bb1e44b": {
+   "id": "b329f4f4c7ed80c9d76a69220bb1e44b",
+   "company": "FWD",
+   "role": "Co-op Internship Programme 2026",
+   "location": "Hong Kong"
+  },
+  "d75ee2a3d876233a3eeca4939949ec79": {
+   "id": "d75ee2a3d876233a3eeca4939949ec79",
+   "company": "FWD",
+   "role": "Actuarial Internship (full-time For 2027 H1/h2)",
+   "location": "Hong Kong"
+  },
+  "9368d58f74e18f57e23a6f4bc4472307": {
+   "id": "9368d58f74e18f57e23a6f4bc4472307",
+   "company": "Edelman",
+   "role": "Communications Intern (jul - Dec 2026)",
+   "location": "Hong Kong"
+  },
+  "f82593c2a1f16ab1f89f9639463329ea": {
+   "id": "f82593c2a1f16ab1f89f9639463329ea",
+   "company": "aion-ia.in",
+   "role": "2026 Aia Hong Kong And Macau Summer Internship Program - Corporate Solutions",
+   "location": "Hong Kong"
+  },
+  "8f69e972fd6a06195fb68b81752b6472": {
+   "id": "8f69e972fd6a06195fb68b81752b6472",
+   "company": "Aaifire",
+   "role": "2026 Aia Hong Kong And Macau Summer Internship Program - Corporate Solutions",
+   "location": "Hong Kong"
+  },
+  "4edaac2b67c37132aecc81261da3aac2": {
+   "id": "4edaac2b67c37132aecc81261da3aac2",
+   "company": "Aaifire",
+   "role": "Agency, Intern",
+   "location": "Hong Kong"
+  },
+  "7541a8eb41f13c91b8f9a0e8907d7d33": {
+   "id": "7541a8eb41f13c91b8f9a0e8907d7d33",
+   "company": "Sun Life",
+   "role": "Hong Kong Actuarial Internship 2026",
+   "location": "Hong Kong"
+  },
+  "ea4d1ae3b4a0bb75c19372f7350427fa": {
+   "id": "ea4d1ae3b4a0bb75c19372f7350427fa",
+   "company": "AIA Australia",
+   "role": "2026 Aia Hong Kong And Macau Summer Internship Program - Corporate Solutions",
+   "location": "Hong Kong"
+  },
+  "bd51e047bdf7ab8b6330b7bed6cc4731": {
+   "id": "bd51e047bdf7ab8b6330b7bed6cc4731",
+   "company": "AIA Australia",
+   "role": "2026 Aia Hong Kong And Macau Summer Internship Program – Proposition & Healthcare",
+   "location": "Hong Kong"
+  },
+  "7786fc91327c00022d211f849a58c3b3": {
+   "id": "7786fc91327c00022d211f849a58c3b3",
+   "company": "Hang Lung Properties Ltd",
+   "role": "Intern 2026 Mainland Stream",
+   "location": "Hong Kong"
+  },
+  "7632f5c09bb7e1bbac6583f73d379600": {
+   "id": "7632f5c09bb7e1bbac6583f73d379600",
+   "company": "Marsh & McLennan Companies Inc",
+   "role": "Intern - Retirement (pension) Consulting (6-months Internship)",
+   "location": "Hong Kong"
+  },
+  "be60169c8d4853531a3dc5c09ac313e9": {
+   "id": "be60169c8d4853531a3dc5c09ac313e9",
+   "company": "LGT Crestone Wealth Management Limited",
+   "role": "Intern",
+   "location": "Hong Kong"
+  },
+  "55904781b8782eb79b3ff8098f5c6bcf": {
+   "id": "55904781b8782eb79b3ff8098f5c6bcf",
+   "company": "LGT Crestone Wealth Management Limited",
+   "role": "Intern - 2027 Intake",
+   "location": "Hong Kong"
+  },
+  "39c65c86a7318a710c0cdcda4fad0410": {
+   "id": "39c65c86a7318a710c0cdcda4fad0410",
+   "company": "Hong Kong Jockey Club -THE-",
+   "role": "Intern Staff",
+   "location": "Hong Kong"
+  },
+  "5c8a75ff06899fd328e8dc67267d5c8b": {
+   "id": "5c8a75ff06899fd328e8dc67267d5c8b",
+   "company": "JPMorgan Chase & Co.",
+   "role": "2027 Global Private Bank Advisor Program – Summer Internship - Hong Kong",
+   "location": "Hong Kong"
+  },
+  "c65296e2da60fbd4ea9e9e8da9a01c1c": {
+   "id": "c65296e2da60fbd4ea9e9e8da9a01c1c",
+   "company": "Hermès International",
+   "role": "Customer Experience Intern",
+   "location": "Hong Kong"
+  },
+  "660037d4b16d25e98d8082b8f073593e": {
+   "id": "660037d4b16d25e98d8082b8f073593e",
+   "company": "Hermès International",
+   "role": "Client Relations Center Intern",
+   "location": "Hong Kong"
+  },
+  "94af552f80d4bf5affa50b9d7488365a": {
+   "id": "94af552f80d4bf5affa50b9d7488365a",
+   "company": "Marriott International",
+   "role": "Student Intern",
+   "location": "Hong Kong"
+  },
+  "b9d776213f59fc825d9598fd6bc262af": {
+   "id": "b9d776213f59fc825d9598fd6bc262af",
+   "company": "AIA",
+   "role": "2026 Aia Hong Kong And Macau Summer Internship Program – Proposition & Healthcare",
+   "location": "Hong Kong"
+  },
+  "2995b30bfd28709698ad18fb5b364273": {
+   "id": "2995b30bfd28709698ad18fb5b364273",
+   "company": "Wellington Management",
+   "role": "2026 Apac Legal Off Cycle Internship - 6 Months At Wellington Management",
+   "location": "Hong Kong"
+  },
+  "8d2bfd678d5cdbec9bdda351e301b546": {
+   "id": "8d2bfd678d5cdbec9bdda351e301b546",
+   "company": "AIA International Limited",
+   "role": "2026 Aia Hong Kong And Macau Summer Internship Program - Technology / Hong Kong, Hk At Aia International Limited.",
+   "location": "Hong Kong"
+  },
+  "d7c826c8ac3c536cef3b0cb70cc0f539": {
+   "id": "d7c826c8ac3c536cef3b0cb70cc0f539",
+   "company": "Otis Worldwide",
+   "role": "Summer Internship",
+   "location": "Hong Kong"
+  },
+  "52cd2ae8d1ce2b64e3de998db0358dde": {
+   "id": "52cd2ae8d1ce2b64e3de998db0358dde",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Intern (legal, 6-12 Months)",
+   "location": "Hong Kong"
+  },
+  "8d05d0ff237682123691b3d0034c831b": {
+   "id": "8d05d0ff237682123691b3d0034c831b",
+   "company": "United Overseas Bank",
+   "role": "Summer Intern, Compliance/regulatory Compliance",
+   "location": "Hong Kong"
+  },
+  "6a6b0d10894cd0f520147d30e6fb621f": {
+   "id": "6a6b0d10894cd0f520147d30e6fb621f",
+   "company": "English Schools Foundation",
+   "role": "Esf Human Resources Information Systems Intern (immediately Available) - Esf Centre At English Schools Foundation",
+   "location": "Hong Kong"
+  },
+  "e6d6a148d4c4a35f86543bbd19e812a3": {
+   "id": "e6d6a148d4c4a35f86543bbd19e812a3",
+   "company": "UOB Group",
+   "role": "Summer Intern, Commercial Banking",
+   "location": "Hong Kong"
+  },
+  "9502244e8c5756b8e6f29d844becffea": {
+   "id": "9502244e8c5756b8e6f29d844becffea",
+   "company": "ING",
+   "role": "Intern, Transaction Services Hong Kong",
+   "location": "Hong Kong"
+  },
+  "b04fa430599e43e17e744c085062a497": {
+   "id": "b04fa430599e43e17e744c085062a497",
+   "company": "ING",
+   "role": "Intern, Real Estate Sector Hong Kong",
+   "location": "Hong Kong"
+  },
+  "d3741421f5ed2875fdfeea9e16855363": {
+   "id": "d3741421f5ed2875fdfeea9e16855363",
+   "company": "Sunlife Com Hk",
+   "role": "Actuarial Intern (jul - Dec 2026)",
+   "location": "Hong Kong"
+  },
+  "be99e9841fc0e1412edca24ef11bbda4": {
+   "id": "be99e9841fc0e1412edca24ef11bbda4",
+   "company": "Sun Life Hong Kong",
+   "role": "Finance Intern (jul - Dec 2026)",
+   "location": "Hong Kong"
+  },
+  "9e93db087505bff472176b0bc448651b": {
+   "id": "9e93db087505bff472176b0bc448651b",
+   "company": "OKX",
+   "role": "Software Engineer, Mobile, Web3",
+   "location": "Hong Kong"
+  },
+  "f8b2645e1e3bbcd22abebeec86e19fee": {
+   "id": "f8b2645e1e3bbcd22abebeec86e19fee",
+   "company": "OKX Australia Pty Ltd",
+   "role": "Software Engineer, Mobile, Web3",
+   "location": "Hong Kong"
+  },
+  "f029b19b7b7f54db4fc2308c81e651ae": {
+   "id": "f029b19b7b7f54db4fc2308c81e651ae",
+   "company": "Complianceriskexchange",
+   "role": "Software Engineer, Mobile, Web3",
+   "location": "Hong Kong"
+  },
+  "dae328a3bc04e42bbc3c187273375f49": {
+   "id": "dae328a3bc04e42bbc3c187273375f49",
+   "company": "web3hires.xyz",
+   "role": "Software Engineer, Mobile, Web3",
+   "location": "Hong Kong"
+  },
+  "618b5e6790511eabaf06bb3ac845f461": {
+   "id": "618b5e6790511eabaf06bb3ac845f461",
+   "company": "web3jobs.io",
+   "role": "Software Engineer, Mobile, Web3",
+   "location": "Hong Kong"
+  },
+  "c0962dbe08bb97aabad0a3acb22b7ccc": {
+   "id": "c0962dbe08bb97aabad0a3acb22b7ccc",
+   "company": "Me2Works",
+   "role": "Software Engineer (kdb+/q) - Up To 2,200,000 Hkd + Bonus + Benefits (hong Kong) At Hunter Bond",
+   "location": "Hong Kong"
+  },
+  "77fb6c06d4d2f1e1857868c0fe7627e3": {
+   "id": "77fb6c06d4d2f1e1857868c0fe7627e3",
+   "company": "Hong Kong Jockey Club -THE-",
+   "role": "Application Development Pre Ae",
+   "location": "Hong Kong"
+  },
+  "5adf2651f76ee5c63d0ffa23e810e4fa": {
+   "id": "5adf2651f76ee5c63d0ffa23e810e4fa",
+   "company": "ASTRI - Hong Kong Applied Science and Technology Research Institute Company Ltd",
+   "role": "Engineer, Software",
+   "location": "Hong Kong"
+  },
+  "c9b7f664b10c025dc68d6f0db2e69c51": {
+   "id": "c9b7f664b10c025dc68d6f0db2e69c51",
+   "company": "AIA Digital+",
+   "role": "Engineer",
+   "location": "Hong Kong"
+  },
+  "313301ed2ed0df60e8b2cf9a83a10bf3": {
+   "id": "313301ed2ed0df60e8b2cf9a83a10bf3",
+   "company": "Meta",
+   "role": "Business Engineer",
+   "location": "Hong Kong"
+  },
+  "8a149bacfd97bb069361903f24236554": {
+   "id": "8a149bacfd97bb069361903f24236554",
+   "company": "Google",
+   "role": "Forward Deployed Engineer, Generative Ai, Google Cloud",
+   "location": "Taipei +1"
+  },
+  "6dcf656c03dbb01ee54b00364680822f": {
+   "id": "6dcf656c03dbb01ee54b00364680822f",
+   "company": "Oex",
+   "role": "Application Support Engineer, Hong Kong, Oex",
+   "location": "Hong Kong"
+  },
+  "97aeec81e0f1660b8f90946a49dae067": {
+   "id": "97aeec81e0f1660b8f90946a49dae067",
+   "company": "Binance",
+   "role": "Growth Tech Leader",
+   "location": "Hong Kong"
+  },
+  "20eca37f34a1bad9f3e938f2e51b1ef0": {
+   "id": "20eca37f34a1bad9f3e938f2e51b1ef0",
+   "company": "Jane Street",
+   "role": "Software Engineer",
+   "location": "Hong Kong"
+  },
+  "47161fc06e3806be1f6011ac93d1e9d3": {
+   "id": "47161fc06e3806be1f6011ac93d1e9d3",
+   "company": "Jane Street",
+   "role": "Production Engineer",
+   "location": "Hong Kong"
+  },
+  "0f2a82f20801513800f920efe862e76f": {
+   "id": "0f2a82f20801513800f920efe862e76f",
+   "company": "Jane Street",
+   "role": "Fix Onboarding And Connectivity Engineer",
+   "location": "Hong Kong"
+  },
+  "HRC1592692": {
+   "id": "HRC1592692",
+   "company": "Infineon",
+   "role": "Intern - Ai Engineer_2692",
+   "location": "Hong Kong"
+  },
+  "6fec1d2996df19597e94088ae7174049": {
+   "id": "6fec1d2996df19597e94088ae7174049",
+   "company": "nahc.io Recruitment Firm in Asia",
+   "role": "Data Scientist",
+   "location": "Hong Kong"
+  },
+  "2edae40c05537f17990ca0e70fab52a2": {
+   "id": "2edae40c05537f17990ca0e70fab52a2",
+   "company": "Intact Financial",
+   "role": "Data Scientist I, Hk",
+   "location": "Hong Kong"
+  },
+  "010ec3feae0117b061d06938db211a53": {
+   "id": "010ec3feae0117b061d06938db211a53",
+   "company": "QBE Insurance",
+   "role": "Regional - Data Scientist",
+   "location": "Hong Kong"
+  },
+  "d71dc15de865921421ccd816d95c565b": {
+   "id": "d71dc15de865921421ccd816d95c565b",
+   "company": "Google",
+   "role": "Customer Engineer, Practice Ai, Google Cloud",
+   "location": "Hong Kong"
+  },
+  "3bf845212cbd48ff90c7d812eaac387b": {
+   "id": "3bf845212cbd48ff90c7d812eaac387b",
+   "company": "Intact Insurance",
+   "role": "Data Scientist I, Hk",
+   "location": "Hong Kong"
+  },
+  "e30a3c88fc6f72149a2ebe2c348f1c76": {
+   "id": "e30a3c88fc6f72149a2ebe2c348f1c76",
+   "company": "Intact Financial Corporation",
+   "role": "Data Scientist I, Hk",
+   "location": "Hong Kong"
+  },
+  "b67b5f603b54ed641b0077af99d90238": {
+   "id": "b67b5f603b54ed641b0077af99d90238",
+   "company": "kerryprops",
+   "role": "Ai Agent Developer (greater Bay Area Youth Employment Scheme)",
+   "location": "Hong Kong"
+  },
+  "3f7c4ff75201363855155772f17235cd": {
+   "id": "3f7c4ff75201363855155772f17235cd",
+   "company": "Binance",
+   "role": "Binance Accelerator Program - Data Scientist (llm & Trading)",
+   "location": "Hong Kong"
+  },
+  "2229dc3141540a682c8c9407e6ad3174": {
+   "id": "2229dc3141540a682c8c9407e6ad3174",
+   "company": "Barclays",
+   "role": "Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong",
+   "location": "Hong Kong"
+  },
+  "de1d1d8ea9be667d969a14cb4326d44b": {
+   "id": "de1d1d8ea9be667d969a14cb4326d44b",
+   "company": "Mangroup",
+   "role": "Quantitative Developer, Intern",
+   "location": "Hong Kong"
+  },
+  "c684a16e8e459214cdbc12077f9059a0": {
+   "id": "c684a16e8e459214cdbc12077f9059a0",
+   "company": "AIA",
+   "role": "Actuarial Intern",
+   "location": "Hong Kong"
+  },
+  "81443a5a18efd502891944241eb8dde6": {
+   "id": "81443a5a18efd502891944241eb8dde6",
+   "company": "Sunlife Com Hk",
+   "role": "Internship For Valuation Actuary",
+   "location": "Hong Kong"
+  },
+  "d88d57f32d7bea636955e9bfe3047f7a": {
+   "id": "d88d57f32d7bea636955e9bfe3047f7a",
+   "company": "Sun Life Hong Kong",
+   "role": "Actuarial Internship 2027",
+   "location": "Hong Kong"
+  },
+  "f84b2d4e5f30a513dabac3d4963e68af": {
+   "id": "f84b2d4e5f30a513dabac3d4963e68af",
+   "company": "AIA Australia Limited",
+   "role": "Aia Actuarial Internship Programme",
+   "location": "Hong Kong"
+  },
+  "2bf2722612dc696bc69789cea6a6f470": {
+   "id": "2bf2722612dc696bc69789cea6a6f470",
+   "company": "AIA Group",
+   "role": "Aia Actuarial Internship Programme",
+   "location": "Hong Kong"
+  },
+  "34b00b0e10d622e9a47a088ef0135057": {
+   "id": "34b00b0e10d622e9a47a088ef0135057",
+   "company": "Sun Life",
+   "role": "Actuarial Internship 2027",
+   "location": "Hong Kong"
+  },
+  "2eb586800f67131745674fa0ac65bef0": {
+   "id": "2eb586800f67131745674fa0ac65bef0",
+   "company": "Flow Traders",
+   "role": "Graduate Quant Trader",
+   "location": "Hong Kong"
+  },
+  "3ccea8411011ca0ed6e5a900ef2ff2bd": {
+   "id": "3ccea8411011ca0ed6e5a900ef2ff2bd",
+   "company": "AIA",
+   "role": "Actuarial, Analyst",
+   "location": "Hong Kong"
+  },
+  "a66ac04625bd6cfb9bb6ee7f45458dee": {
+   "id": "a66ac04625bd6cfb9bb6ee7f45458dee",
+   "company": "androiddev.careers",
+   "role": "Accountant (global Scope)",
+   "location": "Hong Kong Sar"
+  },
+  "d0eb7bcba2e70b48cdc2c5bcd455be87": {
+   "id": "d0eb7bcba2e70b48cdc2c5bcd455be87",
+   "company": "AIA",
+   "role": "Actuarial Specialist",
+   "location": "Hong Kong"
+  },
+  "b00de562d1cf868ebdb374f68a54b580": {
+   "id": "b00de562d1cf868ebdb374f68a54b580",
+   "company": "AIA",
+   "role": "Actuarial Analyst / Specialist",
+   "location": "Hong Kong"
+  },
+  "3b7d07e9e662f8da0758fc656f8d29e7": {
+   "id": "3b7d07e9e662f8da0758fc656f8d29e7",
+   "company": "Me2Works",
+   "role": "Business Analyst (wealth Management / Private Banking) At Sanderson-ikas Hong Kong",
+   "location": "Hong Kong"
+  },
+  "858ed56dac978a19f6ce66827d927166": {
+   "id": "858ed56dac978a19f6ce66827d927166",
+   "company": "Me2Works",
+   "role": "會計 Accountant At Grace Bright Holdings Limited",
+   "location": "Hong Kong"
+  },
+  "2e526e509be97b582b7f06ff77aa5bc1": {
+   "id": "2e526e509be97b582b7f06ff77aa5bc1",
+   "company": "Morgan Stanley",
+   "role": "Fixed Income Compliance - Vice President",
+   "location": "Hong Kong"
+  },
+  "e23471ae03dfdd45e19ac9f90f60da92": {
+   "id": "e23471ae03dfdd45e19ac9f90f60da92",
+   "company": "Hyphen Connect",
+   "role": "Compliance Officer/ Money Laundering Reporting Officer (co/mlro)",
+   "location": "Hong Kong"
+  },
+  "9d15a783cab98971aa8235fda8ccfa71": {
+   "id": "9d15a783cab98971aa8235fda8ccfa71",
+   "company": "Hyphen Partners",
+   "role": "Compliance Officer/ Money Laundering Reporting Officer (co/mlro)",
+   "location": "Hong Kong"
+  },
+  "77d7d48ac4443c24a95346417c9bc003": {
+   "id": "77d7d48ac4443c24a95346417c9bc003",
+   "company": "Morgan Stanley UK",
+   "role": "Fixed Income Compliance - Vice President",
+   "location": "Hong Kong"
+  },
+  "a9ad9b0a72bf46413cbde4e6120fcad3": {
+   "id": "a9ad9b0a72bf46413cbde4e6120fcad3",
+   "company": "CICC",
+   "role": "Compliance Officer (aml Team) At Cicc",
+   "location": "Hong Kong"
+  },
+  "fe53c5f08a3ce0a4ea40e6db04d5e03f": {
+   "id": "fe53c5f08a3ce0a4ea40e6db04d5e03f",
+   "company": "Hong Kong Jockey Club -THE-",
+   "role": "Membership Business Analyst",
+   "location": "Hong Kong"
+  },
+  "cd820f472113ba12b0e5c491d2231e54": {
+   "id": "cd820f472113ba12b0e5c491d2231e54",
+   "company": "DKSH Corporate Shared Services Center Sdn Bhd",
+   "role": "Accountant, Treasury",
+   "location": "Hong Kong"
+  },
+  "74fad177dc98c2ddfd3bfbeb90312c27": {
+   "id": "74fad177dc98c2ddfd3bfbeb90312c27",
+   "company": "Jpc Texson Ltd",
+   "role": "Business Analyst / Application Specialist (32k-35k X 13; Work-from-home 2 Days Per Week; Annual Leave 22 Days) – French Mnc Trading (kwun Tong) At Jpc Texson Ltd",
+   "location": "Hong Kong"
+  },
+  "156baf483b6b312a437f98a7a4f09abd": {
+   "id": "156baf483b6b312a437f98a7a4f09abd",
+   "company": "Sunlife Com Hk",
+   "role": "Analyst - Actuarial",
+   "location": "Hong Kong"
+  },
+  "5cc0263723303697cef3471ac7a5bb1e": {
+   "id": "5cc0263723303697cef3471ac7a5bb1e",
+   "company": "Nomura International PLC",
+   "role": "Quantitative Strategist",
+   "location": "Hong Kong"
+  },
+  "e80198fc889a0f358cb621458560a415": {
+   "id": "e80198fc889a0f358cb621458560a415",
+   "company": "AIA",
+   "role": "Specialist - Record To Report",
+   "location": "Hong Kong"
+  },
+  "9763fd01aea8eb02eb3b9e815d7b986c": {
+   "id": "9763fd01aea8eb02eb3b9e815d7b986c",
+   "company": "Prudential Corporation Asia Ltd",
+   "role": "Actuarial Assistant, Pricing",
+   "location": "Hong Kong"
+  },
+  "f8b091eb9e8c7cc1a74d4c730d70eda6": {
+   "id": "f8b091eb9e8c7cc1a74d4c730d70eda6",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Business Analyst, Member Engagement",
+   "location": "Hong Kong"
+  },
+  "2951aae958b71821b54e74d93c9ab896": {
+   "id": "2951aae958b71821b54e74d93c9ab896",
+   "company": "Flow Traders",
+   "role": "Digital Assets Trader",
+   "location": "Hong Kong"
+  },
+  "ff92ad3cf62bd70b09d14aedf8d46455": {
+   "id": "ff92ad3cf62bd70b09d14aedf8d46455",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Assistant Business Analyst",
+   "location": "Hong Kong"
+  },
+  "a6af6e96fb6fe6abf3f27f858e14e5a8": {
+   "id": "a6af6e96fb6fe6abf3f27f858e14e5a8",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Accountant",
+   "location": "Hong Kong"
+  },
+  "cb1ff07c85223c259cac09708b8a1782": {
+   "id": "cb1ff07c85223c259cac09708b8a1782",
+   "company": "Binance",
+   "role": "Junior Quantitative Researcher (fresh Stem Phd Graduates Are Welcome)",
+   "location": "Hong Kong"
+  },
+  "69bd77a71fb96be65a62e9e4dc9c1d61": {
+   "id": "69bd77a71fb96be65a62e9e4dc9c1d61",
+   "company": "OTIS",
+   "role": "助理技工",
+   "location": "Hong Kong"
+  },
+  "d70a8759659cf9feb85486ed224d7090": {
+   "id": "d70a8759659cf9feb85486ed224d7090",
+   "company": "Ascenseur Nsa",
+   "role": "Technician I (rw)",
+   "location": "Hong Kong"
+  },
+  "cdf19bb337f3128868dfe350e5a78d61": {
+   "id": "cdf19bb337f3128868dfe350e5a78d61",
+   "company": "Otis Elevator Co.",
+   "role": "Technician I (rw)",
+   "location": "Hong Kong"
+  },
+  "28adeb9f9000a4e43d0c4cefeed5f60a": {
+   "id": "28adeb9f9000a4e43d0c4cefeed5f60a",
+   "company": "Otis Worldwide",
+   "role": "助理技工",
+   "location": "Hong Kong"
+  },
+  "b095c52b6954a93bd2be271779558adb": {
+   "id": "b095c52b6954a93bd2be271779558adb",
+   "company": "Otisjob",
+   "role": "Technician Engineer",
+   "location": "Hong Kong"
+  },
+  "2cd50da27281a6cba4b5041b5843b66a": {
+   "id": "2cd50da27281a6cba4b5041b5843b66a",
+   "company": "Alo Yoga",
+   "role": "Sales Associate (part-time) - K11 Musea",
+   "location": "Hong Kong"
+  },
+  "93159fb3f31cd2717da696fda87b6612": {
+   "id": "93159fb3f31cd2717da696fda87b6612",
+   "company": "Sidefame Ltd",
+   "role": "【全職】marimekko (銅鑼灣sogo分店) Sales Operation Assistant 銷售營運助理【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
+   "location": "Hong Kong"
+  },
+  "014bcf02a009ecbe3f19b724b93efc4d": {
+   "id": "014bcf02a009ecbe3f19b724b93efc4d",
+   "company": "Sidefame Ltd",
+   "role": "【全職】anteprima (海港城分店) 銷售專員 Sales Specialist【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
+   "location": "Hong Kong"
+  },
+  "8718a4ec65b2d2d3b6bddbb096878b47": {
+   "id": "8718a4ec65b2d2d3b6bddbb096878b47",
+   "company": "Sidefame Ltd",
+   "role": "【全職】the Little Shop (利園分店) Sales & Fashion Stylist 服裝銷售及時尚造型顧問【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
+   "location": "Hong Kong"
+  },
+  "946ce9927d73d9b4cc6569528c5e3b3a": {
+   "id": "946ce9927d73d9b4cc6569528c5e3b3a",
+   "company": "Sidefame Ltd",
+   "role": "【全職】marimekko (銅鑼灣sogo分店) Sales & Fashion Stylist 服裝銷售及時尚造型顧問【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
+   "location": "Hong Kong"
+  },
+  "R111935": {
+   "id": "R111935",
+   "company": "Kering",
+   "role": "Qeelin Sales Associate",
+   "location": "Hong Kong"
+  },
+  "R160207": {
+   "id": "R160207",
+   "company": "Kering",
+   "role": "Pomellato Sales Associate",
+   "location": "Hong Kong"
+  },
+  "035ff6032715c59661d549e1eedfba80": {
+   "id": "035ff6032715c59661d549e1eedfba80",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Full Time Sales Advisor (pacific Place, Admiralty)",
+   "location": "Hong Kong"
+  },
+  "7821367bb61bf86972282e67a1a5352d": {
+   "id": "7821367bb61bf86972282e67a1a5352d",
+   "company": "COS",
+   "role": "Full Time Sales Advisor (pacific Place, Admiralty)",
+   "location": "Hong Kong"
+  },
+  "d4b329434e42597247d0a38a8b723e98": {
+   "id": "d4b329434e42597247d0a38a8b723e98",
+   "company": "Me2Works",
+   "role": "(港珠澳橋 Hzmb) 兼職銷售助理 Part-time Sales Associate At The Nuance Group (hk) Limited",
+   "location": "Hong Kong"
+  },
+  "cda14eca3e0750774611b0d7b1fd8c7d": {
+   "id": "cda14eca3e0750774611b0d7b1fd8c7d",
+   "company": "PVH",
+   "role": "Sales Associate 售貨員 - Tommy Hilfiger",
+   "location": "Hong Kong"
+  },
+  "8eb3c570a30f2acbd4d9bdc2f4af4c70": {
+   "id": "8eb3c570a30f2acbd4d9bdc2f4af4c70",
+   "company": "Hypebeaststore",
+   "role": "Personal Shopper",
+   "location": "Hong Kong"
+  },
+  "64e292f4b58aa874db0ee2a0bcb0b9ec": {
+   "id": "64e292f4b58aa874db0ee2a0bcb0b9ec",
+   "company": "HBX",
+   "role": "Personal Shopper",
+   "location": "Hong Kong"
+  },
+  "12de8f350506b6a44eae92b146c89c90": {
+   "id": "12de8f350506b6a44eae92b146c89c90",
+   "company": "The Korner Limited",
+   "role": "資深銷售員(多區選擇-需有相關工作經驗) At The Korner Limited",
+   "location": "Hong Kong"
+  },
+  "14e99b61b77eac9f5530655ed10d16f5": {
+   "id": "14e99b61b77eac9f5530655ed10d16f5",
+   "company": "COS",
+   "role": "Part Time Sales Advisor - Temporary (harbour City)",
+   "location": "Hong Kong"
+  },
+  "26d664138780176c5c0394c479594063": {
+   "id": "26d664138780176c5c0394c479594063",
+   "company": "Me2Works",
+   "role": "【全職】the Little Shop (利園分店) Client Sales Representative 顧客銷售代表【永久保證佣金+新人獎金$3,000】 At Executive / Personal Assistant / Customer Service",
+   "location": "Hong Kong"
+  },
+  "871b9e79eba47f8152a5c6a82ae793e1": {
+   "id": "871b9e79eba47f8152a5c6a82ae793e1",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Insource Device Sales Representative",
+   "location": "Hong Kong"
+  },
+  "3d424ee4686e8e43aaa469c88c7372ee": {
+   "id": "3d424ee4686e8e43aaa469c88c7372ee",
+   "company": "Lululemon",
+   "role": "Full Time- Educator (Sales Associate) / Times Square",
+   "location": "Hong Kong"
+  },
+  "78594ad5644da24c334da6fd41875c71": {
+   "id": "78594ad5644da24c334da6fd41875c71",
+   "company": "AIA",
+   "role": "Agency Communications Specialist",
+   "location": "Hong Kong"
+  },
+  "13d0ba6b3b18c2bbd6adb0aabdea1a30": {
+   "id": "13d0ba6b3b18c2bbd6adb0aabdea1a30",
+   "company": "Hong Kong Jockey Club -THE-",
+   "role": "Part-time Administration Assistant(archives Team)",
+   "location": "Hong Kong"
+  },
+  "8c1fc1ff0139dcdd1c64bedf074b2bcb": {
+   "id": "8c1fc1ff0139dcdd1c64bedf074b2bcb",
+   "company": "Me2Works",
+   "role": "Fresh Grad Welcome - Insurance Admin (mid - Back Office) At Hays",
+   "location": "Hong Kong"
+  },
+  "4cca173008ffb8d7cf7ddfc7293719d7": {
+   "id": "4cca173008ffb8d7cf7ddfc7293719d7",
+   "company": "Iwantatechjob",
+   "role": "Hr&admin Officer (hk)",
+   "location": "Hong Kong"
+  },
+  "d5d9e288280cab3f9f366b5a5005711b": {
+   "id": "d5d9e288280cab3f9f366b5a5005711b",
+   "company": "xapelabz.xyz",
+   "role": "Hr&admin Officer (hk)",
+   "location": "Hong Kong"
+  },
+  "4d54c2dd65c06602d409d66a9fbb7df5": {
+   "id": "4d54c2dd65c06602d409d66a9fbb7df5",
+   "company": "Cryptonomads",
+   "role": "Hr&admin Officer (hk)",
+   "location": "Hong Kong"
+  },
+  "3232459ba64cd017ae0a5edb94e6bc56": {
+   "id": "3232459ba64cd017ae0a5edb94e6bc56",
+   "company": "coins.xyz",
+   "role": "Hr&admin Officer (hk)",
+   "location": "Hong Kong"
+  },
+  "d44c083d6a72c6a86e9e26bbd8d982bd": {
+   "id": "d44c083d6a72c6a86e9e26bbd8d982bd",
+   "company": "coinsxyz.me",
+   "role": "Hr&admin Officer (hk)",
+   "location": "Hong Kong"
+  },
+  "9e813891ef7de012dbb9732f7974d889": {
+   "id": "9e813891ef7de012dbb9732f7974d889",
+   "company": "coins.ph",
+   "role": "Hr&admin Officer (hk)",
+   "location": "Hong Kong"
+  },
+  "7d61ce3e5b8c0df25d094e8892a6dbd8": {
+   "id": "7d61ce3e5b8c0df25d094e8892a6dbd8",
+   "company": "coins.co.th",
+   "role": "Hr&admin Officer (hk)",
+   "location": "Hong Kong"
+  },
+  "bf34409c4e39690bc69260ccf66bf1f1": {
+   "id": "bf34409c4e39690bc69260ccf66bf1f1",
+   "company": "Nanfunglsre",
+   "role": "Company Secretarial Assistant",
+   "location": "Hong Kong"
+  },
+  "74e84df2c19d422d2c8ad598b97c0022": {
+   "id": "74e84df2c19d422d2c8ad598b97c0022",
+   "company": "Hong Kong Jockey Club -THE-",
+   "role": "Administrative &amp; Analytics Assistant (1-year Contract)",
+   "location": "Unknown"
+  },
+  "03106f639de8c1697794cce3074cb88e": {
+   "id": "03106f639de8c1697794cce3074cb88e",
+   "company": "The Ritz-Carlton",
+   "role": "Administrative Assistant - Sales & Marketing",
+   "location": "Hong Kong"
+  },
+  "80547a74cbee23546742d8b345558b50": {
+   "id": "80547a74cbee23546742d8b345558b50",
+   "company": "St. Regis Hotels & Resorts",
+   "role": "Executive Assistant - Hotel Operations",
+   "location": "Hong Kong"
+  },
+  "2e3c2fc10f1b7b293b7a85a54217b491": {
+   "id": "2e3c2fc10f1b7b293b7a85a54217b491",
+   "company": "Chubb",
+   "role": "Temporary Administration Assistant (6 Months Contract)",
+   "location": "Hong Kong"
+  },
+  "950888c88c160a9bf85b370b7d170edc": {
+   "id": "950888c88c160a9bf85b370b7d170edc",
+   "company": "Marriott International",
+   "role": "Executive Assistant - Hotel Operations",
+   "location": "Hong Kong"
+  },
+  "6393c1190c8ccf470c0371d7a6364749": {
+   "id": "6393c1190c8ccf470c0371d7a6364749",
+   "company": "Marriott International",
+   "role": "Administrative Assistant - Sales & Marketing",
+   "location": "Hong Kong"
+  },
+  "32a2d6fd32f48abe008dc7f1a03cfe14": {
+   "id": "32a2d6fd32f48abe008dc7f1a03cfe14",
+   "company": "SS&C Technologies",
+   "role": "Executive Assistant",
+   "location": "Hong Kong"
+  },
+  "e0f32ee79aa05129b95a678c0400aaad": {
+   "id": "e0f32ee79aa05129b95a678c0400aaad",
+   "company": "SS&C",
+   "role": "Executive Assistant",
+   "location": "Hong Kong"
+  },
+  "223d421c6c44f8671be70def81458739": {
+   "id": "223d421c6c44f8671be70def81458739",
+   "company": "Hong Kong Jockey Club -THE-",
+   "role": "Part-time Administrative Assistant (payment Operations For Charities)",
+   "location": "Hong Kong"
+  },
+  "bbccfdca81888930343d4af3f3127544": {
+   "id": "bbccfdca81888930343d4af3f3127544",
+   "company": "kerryprops",
+   "role": "Administration Assistant (greater Bay Area Youth Employment Scheme)",
+   "location": "Hong Kong"
+  }
+ }
+}
