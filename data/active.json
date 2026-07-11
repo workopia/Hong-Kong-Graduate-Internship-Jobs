@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-10",
- "count": 150,
+ "asOf": "2026-07-11",
+ "count": 147,
  "jobs": {
   "e7312106e04956e88004ba362d03566c": {
    "id": "e7312106e04956e88004ba362d03566c",
@@ -372,24 +372,6 @@
    "id": "97aeec81e0f1660b8f90946a49dae067",
    "company": "Binance",
    "role": "Growth Tech Leader",
-   "location": "Hong Kong"
-  },
-  "20eca37f34a1bad9f3e938f2e51b1ef0": {
-   "id": "20eca37f34a1bad9f3e938f2e51b1ef0",
-   "company": "Jane Street",
-   "role": "Software Engineer",
-   "location": "Hong Kong"
-  },
-  "47161fc06e3806be1f6011ac93d1e9d3": {
-   "id": "47161fc06e3806be1f6011ac93d1e9d3",
-   "company": "Jane Street",
-   "role": "Production Engineer",
-   "location": "Hong Kong"
-  },
-  "0f2a82f20801513800f920efe862e76f": {
-   "id": "0f2a82f20801513800f920efe862e76f",
-   "company": "Jane Street",
-   "role": "Fix Onboarding And Connectivity Engineer",
    "location": "Hong Kong"
   },
   "HRC1592692": {

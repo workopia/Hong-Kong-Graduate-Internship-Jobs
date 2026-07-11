@@ -9,10 +9,10 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-07-10",
+  "as_of": "2026-07-11",
   "window_days": 60,
   "total_site_jobs_str": "7.3M+",
-  "generated_at": "2026-07-10T11:24:11.602Z"
+  "generated_at": "2026-07-11T01:03:28.025Z"
  },
  "categories": [
   {
@@ -1062,54 +1062,6 @@
    "date_posted": "2026-05-18T13:00:45.429Z",
    "active": true,
    "url": "https://workopia.io/jobs/97aeec81e0f1660b8f90946a49dae067",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
-   "id": "20eca37f34a1bad9f3e938f2e51b1ef0",
-   "source": "Workopia",
-   "company_name": "Jane Street",
-   "company_hi_slug": "janestreet",
-   "title": "Software Engineer",
-   "location": "Hong Kong",
-   "skills": "Top-notch programming , Deep experience with t",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-11T19:26:15.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/20eca37f34a1bad9f3e938f2e51b1ef0",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
-   "id": "47161fc06e3806be1f6011ac93d1e9d3",
-   "source": "Workopia",
-   "company_name": "Jane Street",
-   "company_hi_slug": "janestreet",
-   "title": "Production Engineer",
-   "location": "Hong Kong",
-   "skills": "Strong programming ski, Ability to write and r",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-11T19:26:15.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/47161fc06e3806be1f6011ac93d1e9d3",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
-   "id": "0f2a82f20801513800f920efe862e76f",
-   "source": "Workopia",
-   "company_name": "Jane Street",
-   "company_hi_slug": "janestreet",
-   "title": "Fix Onboarding And Connectivity Engineer",
-   "location": "Hong Kong",
-   "skills": "Proficient with coding, Fluent in English lang",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-11T19:26:15.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/0f2a82f20801513800f920efe862e76f",
    "category": "tech",
    "tier": "Entry-level"
   },
