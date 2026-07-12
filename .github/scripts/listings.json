@@ -12,7 +12,7 @@
   "as_of": "2026-07-12",
   "window_days": 60,
   "total_site_jobs_str": "7.4M+",
-  "generated_at": "2026-07-12T00:49:47.530Z"
+  "generated_at": "2026-07-12T05:26:53.288Z"
  },
  "categories": [
   {
@@ -38,7 +38,7 @@
   },
   {
    "key": "finance",
-   "name": "Finance & Accounting",
+   "name": "Finance, Consulting & Accounting",
    "icon": "💷",
    "mode": "tiered",
    "l4slug": "graduate-analyst"
@@ -74,6 +74,7 @@
  ],
  "listings": [
   {
+   "salary_display": null,
    "id": "a5bf9290832c2ecfe1a3872864286ea7",
    "source": "Workopia",
    "company_name": "Cathaysubsidiaryservices",
@@ -90,6 +91,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "e7312106e04956e88004ba362d03566c",
    "source": "Workopia",
    "company_name": "Barclays",
@@ -106,6 +108,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "3ee67b60203672a47893f8541b2535d3",
    "source": "Workopia",
    "company_name": "Mercer",
@@ -122,6 +125,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c979b9b04ae6740ae357f997e810c9ae",
    "source": "Workopia",
    "company_name": "Mercer",
@@ -138,6 +142,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "18daf4ef0c23317e8f1294bc447ef5ad",
    "source": "Workopia",
    "company_name": "Point72",
@@ -154,6 +159,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "8ea5e2ee6d026143ceba9fe6319c6be4",
    "source": "Workopia",
    "company_name": "AtkinsRealis UK",
@@ -170,6 +176,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "0eca28b96c005b4613c934a96a852a92",
    "source": "Workopia",
    "company_name": "MARSH MCLENNAN",
@@ -186,6 +193,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "7f618443dfee5f36919d0ad39ee9fbd5",
    "source": "Workopia",
    "company_name": "MARSH MCLENNAN",
@@ -202,6 +210,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "0baac69c5b0b6d9e1b1e8bfe071d01eb",
    "source": "Workopia",
    "company_name": "AIA",
@@ -218,6 +227,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "39cb720cd704f9ce4ac215fde7c5db22",
    "source": "Workopia",
    "company_name": "AIA",
@@ -234,6 +244,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "8ec53d65b953d4eb6731e6398018bb17",
    "source": "Workopia",
    "company_name": "Gensler",
@@ -250,6 +261,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "57b627cb49f7ff1afd00c86bebfc68c9",
    "source": "Workopia",
    "company_name": "Chow Tai Fook",
@@ -266,6 +278,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "44254d546fabdefb72ee194bdba06023",
    "source": "Workopia",
    "company_name": "AIA",
@@ -282,6 +295,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "1dccdeea40663445d5e78d284141f7fd",
    "source": "Workopia",
    "company_name": "AIA",
@@ -298,6 +312,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "54f4e73cabf2e5ea35e307533d6739ba",
    "source": "Workopia",
    "company_name": "AIA",
@@ -314,6 +329,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "3c504117768135a442c45d287792b435",
    "source": "Workopia",
    "company_name": "AIA",
@@ -330,6 +346,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "602d424311f13232157e0a31ec21e0f4",
    "source": "Workopia",
    "company_name": "Valmont Industries, Inc",
@@ -346,6 +363,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "a479e182fd284332d2e772f583d6ccb8",
    "source": "Workopia",
    "company_name": "Sunriseatwolfchase",
@@ -362,6 +380,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "bb873c8357eb5bb7298b7af591fb144d",
    "source": "Workopia",
    "company_name": "Edelman Inc",
@@ -378,6 +397,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "3e309209c21ebde2cca5a6fa52c6679d",
    "source": "Workopia",
    "company_name": "PCCW-HKT DataCom Services Ltd",
@@ -394,6 +414,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "b329f4f4c7ed80c9d76a69220bb1e44b",
    "source": "Workopia",
    "company_name": "FWD",
@@ -410,6 +431,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d75ee2a3d876233a3eeca4939949ec79",
    "source": "Workopia",
    "company_name": "FWD",
@@ -426,6 +448,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9368d58f74e18f57e23a6f4bc4472307",
    "source": "Workopia",
    "company_name": "Edelman",
@@ -442,6 +465,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "f82593c2a1f16ab1f89f9639463329ea",
    "source": "Workopia",
    "company_name": "aion-ia.in",
@@ -458,6 +482,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "8f69e972fd6a06195fb68b81752b6472",
    "source": "Workopia",
    "company_name": "Aaifire",
@@ -474,6 +499,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "4edaac2b67c37132aecc81261da3aac2",
    "source": "Workopia",
    "company_name": "Aaifire",
@@ -490,6 +516,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "7541a8eb41f13c91b8f9a0e8907d7d33",
    "source": "Workopia",
    "company_name": "Sun Life",
@@ -506,6 +533,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "ea4d1ae3b4a0bb75c19372f7350427fa",
    "source": "Workopia",
    "company_name": "AIA Australia",
@@ -522,6 +550,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "bd51e047bdf7ab8b6330b7bed6cc4731",
    "source": "Workopia",
    "company_name": "AIA Australia",
@@ -538,6 +567,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "7786fc91327c00022d211f849a58c3b3",
    "source": "Workopia",
    "company_name": "Hang Lung Properties Ltd",
@@ -554,6 +584,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "7632f5c09bb7e1bbac6583f73d379600",
    "source": "Workopia",
    "company_name": "Marsh & McLennan Companies Inc",
@@ -570,6 +601,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "be60169c8d4853531a3dc5c09ac313e9",
    "source": "Workopia",
    "company_name": "LGT Crestone Wealth Management Limited",
@@ -586,6 +618,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "55904781b8782eb79b3ff8098f5c6bcf",
    "source": "Workopia",
    "company_name": "LGT Crestone Wealth Management Limited",
@@ -602,6 +635,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "39c65c86a7318a710c0cdcda4fad0410",
    "source": "Workopia",
    "company_name": "Hong Kong Jockey Club -THE-",
@@ -618,6 +652,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "5c8a75ff06899fd328e8dc67267d5c8b",
    "source": "Workopia",
    "company_name": "JPMorgan Chase & Co.",
@@ -634,6 +669,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c65296e2da60fbd4ea9e9e8da9a01c1c",
    "source": "Workopia",
    "company_name": "Hermès International",
@@ -650,6 +686,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "660037d4b16d25e98d8082b8f073593e",
    "source": "Workopia",
    "company_name": "Hermès International",
@@ -666,6 +703,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "94af552f80d4bf5affa50b9d7488365a",
    "source": "Workopia",
    "company_name": "Marriott International",
@@ -682,6 +720,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "b9d776213f59fc825d9598fd6bc262af",
    "source": "Workopia",
    "company_name": "AIA",
@@ -698,6 +737,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "2995b30bfd28709698ad18fb5b364273",
    "source": "Workopia",
    "company_name": "Wellington Management",
@@ -714,6 +754,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "8d2bfd678d5cdbec9bdda351e301b546",
    "source": "Workopia",
    "company_name": "AIA International Limited",
@@ -730,6 +771,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d7c826c8ac3c536cef3b0cb70cc0f539",
    "source": "Workopia",
    "company_name": "Otis Worldwide",
@@ -746,6 +788,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "52cd2ae8d1ce2b64e3de998db0358dde",
    "source": "Workopia",
    "company_name": "Zurich Insurance Company Ltd",
@@ -762,6 +805,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "8d05d0ff237682123691b3d0034c831b",
    "source": "Workopia",
    "company_name": "United Overseas Bank",
@@ -778,6 +822,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "6a6b0d10894cd0f520147d30e6fb621f",
    "source": "Workopia",
    "company_name": "English Schools Foundation",
@@ -794,6 +839,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "e6d6a148d4c4a35f86543bbd19e812a3",
    "source": "Workopia",
    "company_name": "UOB Group",
@@ -810,6 +856,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9502244e8c5756b8e6f29d844becffea",
    "source": "Workopia",
    "company_name": "ING",
@@ -826,6 +873,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "b04fa430599e43e17e744c085062a497",
    "source": "Workopia",
    "company_name": "ING",
@@ -842,6 +890,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d3741421f5ed2875fdfeea9e16855363",
    "source": "Workopia",
    "company_name": "Sunlife Com Hk",
@@ -858,6 +907,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "be99e9841fc0e1412edca24ef11bbda4",
    "source": "Workopia",
    "company_name": "Sun Life Hong Kong",
@@ -874,6 +924,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "9e93db087505bff472176b0bc448651b",
    "source": "Workopia",
    "company_name": "OKX",
@@ -890,6 +941,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "f8b2645e1e3bbcd22abebeec86e19fee",
    "source": "Workopia",
    "company_name": "OKX Australia Pty Ltd",
@@ -906,6 +958,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "f029b19b7b7f54db4fc2308c81e651ae",
    "source": "Workopia",
    "company_name": "Complianceriskexchange",
@@ -922,6 +975,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "dae328a3bc04e42bbc3c187273375f49",
    "source": "Workopia",
    "company_name": "web3hires.xyz",
@@ -938,6 +992,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "618b5e6790511eabaf06bb3ac845f461",
    "source": "Workopia",
    "company_name": "web3jobs.io",
@@ -954,6 +1009,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "c0962dbe08bb97aabad0a3acb22b7ccc",
    "source": "Workopia",
    "company_name": "Me2Works",
@@ -970,6 +1026,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "77fb6c06d4d2f1e1857868c0fe7627e3",
    "source": "Workopia",
    "company_name": "Hong Kong Jockey Club -THE-",
@@ -986,6 +1043,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "5adf2651f76ee5c63d0ffa23e810e4fa",
    "source": "Workopia",
    "company_name": "ASTRI - Hong Kong Applied Science and Technology Research Institute Company Ltd",
@@ -1002,6 +1060,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "c9b7f664b10c025dc68d6f0db2e69c51",
    "source": "Workopia",
    "company_name": "AIA Digital+",
@@ -1018,6 +1077,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "313301ed2ed0df60e8b2cf9a83a10bf3",
    "source": "Workopia",
    "company_name": "Meta",
@@ -1034,6 +1094,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "8a149bacfd97bb069361903f24236554",
    "source": "Workopia",
    "company_name": "Google",
@@ -1050,6 +1111,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "6dcf656c03dbb01ee54b00364680822f",
    "source": "Workopia",
    "company_name": "Oex",
@@ -1066,6 +1128,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "97aeec81e0f1660b8f90946a49dae067",
    "source": "Workopia",
    "company_name": "Binance",
@@ -1082,6 +1145,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "HRC1592692",
    "source": "Workopia",
    "company_name": "Infineon",
@@ -1098,6 +1162,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "HK$22k–38k/mo*",
    "id": "6fec1d2996df19597e94088ae7174049",
    "source": "Workopia",
    "company_name": "nahc.io Recruitment Firm in Asia",
@@ -1114,6 +1179,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$22k–38k/mo*",
    "id": "2edae40c05537f17990ca0e70fab52a2",
    "source": "Workopia",
    "company_name": "Intact Financial",
@@ -1130,6 +1196,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$22k–38k/mo*",
    "id": "010ec3feae0117b061d06938db211a53",
    "source": "Workopia",
    "company_name": "QBE Insurance",
@@ -1146,6 +1213,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$22k–38k/mo*",
    "id": "d71dc15de865921421ccd816d95c565b",
    "source": "Workopia",
    "company_name": "Google",
@@ -1162,6 +1230,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$22k–38k/mo*",
    "id": "3bf845212cbd48ff90c7d812eaac387b",
    "source": "Workopia",
    "company_name": "Intact Insurance",
@@ -1178,6 +1247,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$22k–38k/mo*",
    "id": "e30a3c88fc6f72149a2ebe2c348f1c76",
    "source": "Workopia",
    "company_name": "Intact Financial Corporation",
@@ -1194,6 +1264,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$22k–38k/mo*",
    "id": "b67b5f603b54ed641b0077af99d90238",
    "source": "Workopia",
    "company_name": "kerryprops",
@@ -1210,6 +1281,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$22k–38k/mo*",
    "id": "3f7c4ff75201363855155772f17235cd",
    "source": "Workopia",
    "company_name": "Binance",
@@ -1226,6 +1298,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2229dc3141540a682c8c9407e6ad3174",
    "source": "Workopia",
    "company_name": "Barclays",
@@ -1242,6 +1315,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "de1d1d8ea9be667d969a14cb4326d44b",
    "source": "Workopia",
    "company_name": "Mangroup",
@@ -1258,6 +1332,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c684a16e8e459214cdbc12077f9059a0",
    "source": "Workopia",
    "company_name": "AIA",
@@ -1274,6 +1349,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "81443a5a18efd502891944241eb8dde6",
    "source": "Workopia",
    "company_name": "Sunlife Com Hk",
@@ -1290,6 +1366,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d88d57f32d7bea636955e9bfe3047f7a",
    "source": "Workopia",
    "company_name": "Sun Life Hong Kong",
@@ -1306,6 +1383,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "f84b2d4e5f30a513dabac3d4963e68af",
    "source": "Workopia",
    "company_name": "AIA Australia Limited",
@@ -1322,6 +1400,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "2bf2722612dc696bc69789cea6a6f470",
    "source": "Workopia",
    "company_name": "AIA Group",
@@ -1338,6 +1417,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "34b00b0e10d622e9a47a088ef0135057",
    "source": "Workopia",
    "company_name": "Sun Life",
@@ -1354,6 +1434,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "2eb586800f67131745674fa0ac65bef0",
    "source": "Workopia",
    "company_name": "Flow Traders",
@@ -1370,6 +1451,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "3ccea8411011ca0ed6e5a900ef2ff2bd",
    "source": "Workopia",
    "company_name": "AIA",
@@ -1386,6 +1468,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "a66ac04625bd6cfb9bb6ee7f45458dee",
    "source": "Workopia",
    "company_name": "androiddev.careers",
@@ -1402,6 +1485,24 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "0613032caf29e97d5cc19beab5900b64",
+   "source": "Workopia",
+   "company_name": "Mercer",
+   "company_hi_slug": "mercer",
+   "title": "Rewards & Talent Strategy Consulting Analyst",
+   "location": "Hong Kong",
+   "skills": "Compensation and Benef, Client Relationship Ma",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-06-28T20:36:44.917Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/0613032caf29e97d5cc19beab5900b64",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "d0eb7bcba2e70b48cdc2c5bcd455be87",
    "source": "Workopia",
    "company_name": "AIA",
@@ -1418,6 +1519,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "b00de562d1cf868ebdb374f68a54b580",
    "source": "Workopia",
    "company_name": "AIA",
@@ -1434,6 +1536,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "3b7d07e9e662f8da0758fc656f8d29e7",
    "source": "Workopia",
    "company_name": "Me2Works",
@@ -1450,6 +1553,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "858ed56dac978a19f6ce66827d927166",
    "source": "Workopia",
    "company_name": "Me2Works",
@@ -1466,6 +1570,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "2e526e509be97b582b7f06ff77aa5bc1",
    "source": "Workopia",
    "company_name": "Morgan Stanley",
@@ -1482,6 +1587,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "e23471ae03dfdd45e19ac9f90f60da92",
    "source": "Workopia",
    "company_name": "Hyphen Connect",
@@ -1498,6 +1604,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "9d15a783cab98971aa8235fda8ccfa71",
    "source": "Workopia",
    "company_name": "Hyphen Partners",
@@ -1514,6 +1621,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "77d7d48ac4443c24a95346417c9bc003",
    "source": "Workopia",
    "company_name": "Morgan Stanley UK",
@@ -1530,6 +1638,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "a9ad9b0a72bf46413cbde4e6120fcad3",
    "source": "Workopia",
    "company_name": "CICC",
@@ -1546,6 +1655,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "fe53c5f08a3ce0a4ea40e6db04d5e03f",
    "source": "Workopia",
    "company_name": "Hong Kong Jockey Club -THE-",
@@ -1562,6 +1672,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "cd820f472113ba12b0e5c491d2231e54",
    "source": "Workopia",
    "company_name": "DKSH Corporate Shared Services Center Sdn Bhd",
@@ -1578,6 +1689,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$32,000–35,000/mo",
    "id": "74fad177dc98c2ddfd3bfbeb90312c27",
    "source": "Workopia",
    "company_name": "Jpc Texson Ltd",
@@ -1594,6 +1706,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "156baf483b6b312a437f98a7a4f09abd",
    "source": "Workopia",
    "company_name": "Sunlife Com Hk",
@@ -1610,6 +1723,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "5cc0263723303697cef3471ac7a5bb1e",
    "source": "Workopia",
    "company_name": "Nomura International PLC",
@@ -1626,6 +1740,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "e80198fc889a0f358cb621458560a415",
    "source": "Workopia",
    "company_name": "AIA",
@@ -1642,6 +1757,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "9763fd01aea8eb02eb3b9e815d7b986c",
    "source": "Workopia",
    "company_name": "Prudential Corporation Asia Ltd",
@@ -1658,6 +1774,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–19k/mo*",
    "id": "f8b091eb9e8c7cc1a74d4c730d70eda6",
    "source": "Workopia",
    "company_name": "PCCW-HKT DataCom Services Ltd",
@@ -1674,6 +1791,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "2951aae958b71821b54e74d93c9ab896",
    "source": "Workopia",
    "company_name": "Flow Traders",
@@ -1690,6 +1808,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–19k/mo*",
    "id": "ff92ad3cf62bd70b09d14aedf8d46455",
    "source": "Workopia",
    "company_name": "PCCW-HKT DataCom Services Ltd",
@@ -1706,6 +1825,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–19k/mo*",
    "id": "a6af6e96fb6fe6abf3f27f858e14e5a8",
    "source": "Workopia",
    "company_name": "PCCW-HKT DataCom Services Ltd",
@@ -1722,6 +1842,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "cb1ff07c85223c259cac09708b8a1782",
    "source": "Workopia",
    "company_name": "Binance",
@@ -1738,6 +1859,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$15k–27k/mo*",
    "id": "69bd77a71fb96be65a62e9e4dc9c1d61",
    "source": "Workopia",
    "company_name": "OTIS",
@@ -1754,6 +1876,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$15k–27k/mo*",
    "id": "d70a8759659cf9feb85486ed224d7090",
    "source": "Workopia",
    "company_name": "Ascenseur Nsa",
@@ -1770,6 +1893,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$15k–27k/mo*",
    "id": "cdf19bb337f3128868dfe350e5a78d61",
    "source": "Workopia",
    "company_name": "Otis Elevator Co.",
@@ -1786,6 +1910,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$15k–27k/mo*",
    "id": "28adeb9f9000a4e43d0c4cefeed5f60a",
    "source": "Workopia",
    "company_name": "Otis Worldwide",
@@ -1802,6 +1927,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$15k–27k/mo*",
    "id": "b095c52b6954a93bd2be271779558adb",
    "source": "Workopia",
    "company_name": "Otisjob",
@@ -1818,6 +1944,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "035ff6032715c59661d549e1eedfba80",
    "source": "Workopia",
    "company_name": "H & M Hennes & Mauritz AB",
@@ -1834,6 +1961,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "2cd50da27281a6cba4b5041b5843b66a",
    "source": "Workopia",
    "company_name": "Alo Yoga",
@@ -1850,6 +1978,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "93159fb3f31cd2717da696fda87b6612",
    "source": "Workopia",
    "company_name": "Sidefame Ltd",
@@ -1866,6 +1995,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "014bcf02a009ecbe3f19b724b93efc4d",
    "source": "Workopia",
    "company_name": "Sidefame Ltd",
@@ -1882,6 +2012,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$3,000/mo",
    "id": "8718a4ec65b2d2d3b6bddbb096878b47",
    "source": "Workopia",
    "company_name": "Sidefame Ltd",
@@ -1898,6 +2029,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$3,000/mo",
    "id": "946ce9927d73d9b4cc6569528c5e3b3a",
    "source": "Workopia",
    "company_name": "Sidefame Ltd",
@@ -1914,6 +2046,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "R111935",
    "source": "Workopia",
    "company_name": "Kering",
@@ -1930,6 +2063,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "R160207",
    "source": "Workopia",
    "company_name": "Kering",
@@ -1946,6 +2080,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "7821367bb61bf86972282e67a1a5352d",
    "source": "Workopia",
    "company_name": "COS",
@@ -1962,6 +2097,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "d4b329434e42597247d0a38a8b723e98",
    "source": "Workopia",
    "company_name": "Me2Works",
@@ -1978,6 +2114,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "cda14eca3e0750774611b0d7b1fd8c7d",
    "source": "Workopia",
    "company_name": "PVH",
@@ -1994,6 +2131,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "8eb3c570a30f2acbd4d9bdc2f4af4c70",
    "source": "Workopia",
    "company_name": "Hypebeaststore",
@@ -2010,6 +2148,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "64e292f4b58aa874db0ee2a0bcb0b9ec",
    "source": "Workopia",
    "company_name": "HBX",
@@ -2026,6 +2165,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "12de8f350506b6a44eae92b146c89c90",
    "source": "Workopia",
    "company_name": "The Korner Limited",
@@ -2042,6 +2182,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "14e99b61b77eac9f5530655ed10d16f5",
    "source": "Workopia",
    "company_name": "COS",
@@ -2058,6 +2199,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$3,000/mo",
    "id": "26d664138780176c5c0394c479594063",
    "source": "Workopia",
    "company_name": "Me2Works",
@@ -2074,6 +2216,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$25,000",
    "id": "871b9e79eba47f8152a5c6a82ae793e1",
    "source": "Workopia",
    "company_name": "PCCW-HKT DataCom Services Ltd",
@@ -2090,6 +2233,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "3d424ee4686e8e43aaa469c88c7372ee",
    "source": "Workopia",
    "company_name": "Lululemon",
@@ -2106,6 +2250,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "78594ad5644da24c334da6fd41875c71",
    "source": "Workopia",
    "company_name": "AIA",
@@ -2122,6 +2267,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$86.5/hr",
    "id": "13d0ba6b3b18c2bbd6adb0aabdea1a30",
    "source": "Workopia",
    "company_name": "Hong Kong Jockey Club -THE-",
@@ -2138,6 +2284,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "8c1fc1ff0139dcdd1c64bedf074b2bcb",
    "source": "Workopia",
    "company_name": "Me2Works",
@@ -2154,6 +2301,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "4cca173008ffb8d7cf7ddfc7293719d7",
    "source": "Workopia",
    "company_name": "Iwantatechjob",
@@ -2170,6 +2318,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "d5d9e288280cab3f9f366b5a5005711b",
    "source": "Workopia",
    "company_name": "xapelabz.xyz",
@@ -2186,6 +2335,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "4d54c2dd65c06602d409d66a9fbb7df5",
    "source": "Workopia",
    "company_name": "Cryptonomads",
@@ -2202,6 +2352,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "3232459ba64cd017ae0a5edb94e6bc56",
    "source": "Workopia",
    "company_name": "coins.xyz",
@@ -2218,6 +2369,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "d44c083d6a72c6a86e9e26bbd8d982bd",
    "source": "Workopia",
    "company_name": "coinsxyz.me",
@@ -2234,6 +2386,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "9e813891ef7de012dbb9732f7974d889",
    "source": "Workopia",
    "company_name": "coins.ph",
@@ -2250,6 +2403,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "7d61ce3e5b8c0df25d094e8892a6dbd8",
    "source": "Workopia",
    "company_name": "coins.co.th",
@@ -2266,6 +2420,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "bf34409c4e39690bc69260ccf66bf1f1",
    "source": "Workopia",
    "company_name": "Nanfunglsre",
@@ -2282,6 +2437,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "74e84df2c19d422d2c8ad598b97c0022",
    "source": "Workopia",
    "company_name": "Hong Kong Jockey Club -THE-",
@@ -2298,6 +2454,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "03106f639de8c1697794cce3074cb88e",
    "source": "Workopia",
    "company_name": "The Ritz-Carlton",
@@ -2314,6 +2471,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "80547a74cbee23546742d8b345558b50",
    "source": "Workopia",
    "company_name": "St. Regis Hotels & Resorts",
@@ -2330,6 +2488,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "2e3c2fc10f1b7b293b7a85a54217b491",
    "source": "Workopia",
    "company_name": "Chubb",
@@ -2346,6 +2505,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "950888c88c160a9bf85b370b7d170edc",
    "source": "Workopia",
    "company_name": "Marriott International",
@@ -2362,6 +2522,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "6393c1190c8ccf470c0371d7a6364749",
    "source": "Workopia",
    "company_name": "Marriott International",
@@ -2378,6 +2539,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "32a2d6fd32f48abe008dc7f1a03cfe14",
    "source": "Workopia",
    "company_name": "SS&C Technologies",
@@ -2394,6 +2556,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "e0f32ee79aa05129b95a678c0400aaad",
    "source": "Workopia",
    "company_name": "SS&C",
@@ -2410,6 +2573,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "223d421c6c44f8671be70def81458739",
    "source": "Workopia",
    "company_name": "Hong Kong Jockey Club -THE-",
@@ -2426,6 +2590,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "bbccfdca81888930343d4af3f3127544",
    "source": "Workopia",
    "company_name": "kerryprops",

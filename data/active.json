@@ -1,6 +1,6 @@
 {
  "asOf": "2026-07-12",
- "count": 148,
+ "count": 149,
  "jobs": {
   "a5bf9290832c2ecfe1a3872864286ea7": {
    "id": "a5bf9290832c2ecfe1a3872864286ea7",
@@ -499,6 +499,12 @@
    "company": "androiddev.careers",
    "role": "Accountant (global Scope)",
    "location": "Hong Kong Sar"
+  },
+  "0613032caf29e97d5cc19beab5900b64": {
+   "id": "0613032caf29e97d5cc19beab5900b64",
+   "company": "Mercer",
+   "role": "Rewards & Talent Strategy Consulting Analyst",
+   "location": "Hong Kong"
   },
   "d0eb7bcba2e70b48cdc2c5bcd455be87": {
    "id": "d0eb7bcba2e70b48cdc2c5bcd455be87",
