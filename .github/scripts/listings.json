@@ -9,10 +9,10 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-07-11",
+  "as_of": "2026-07-12",
   "window_days": 60,
-  "total_site_jobs_str": "7.3M+",
-  "generated_at": "2026-07-11T01:03:28.025Z"
+  "total_site_jobs_str": "7.4M+",
+  "generated_at": "2026-07-12T00:49:47.530Z"
  },
  "categories": [
   {
@@ -73,6 +73,22 @@
   }
  ],
  "listings": [
+  {
+   "id": "a5bf9290832c2ecfe1a3872864286ea7",
+   "source": "Workopia",
+   "company_name": "Cathaysubsidiaryservices",
+   "company_hi_slug": "cathaysubsidiaryservices",
+   "title": "Summer Internship Programme 2026",
+   "location": "Lantau Island",
+   "skills": "—",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-10T03:42:13.673Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a5bf9290832c2ecfe1a3872864286ea7",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "id": "e7312106e04956e88004ba362d03566c",
    "source": "Workopia",
@@ -1802,6 +1818,22 @@
    "tier": "Entry-level"
   },
   {
+   "id": "035ff6032715c59661d549e1eedfba80",
+   "source": "Workopia",
+   "company_name": "H & M Hennes & Mauritz AB",
+   "company_hi_slug": "h-m-hennes-mauritz-ab",
+   "title": "Full Time Sales Advisor (queen's Road Central)",
+   "location": "Hong Kong",
+   "skills": "Customer service, Retail environment",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-09T12:13:36.174Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/035ff6032715c59661d549e1eedfba80",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
    "id": "2cd50da27281a6cba4b5041b5843b66a",
    "source": "Workopia",
    "company_name": "Alo Yoga",
@@ -1910,22 +1942,6 @@
    "date_posted": "2026-06-09T18:20:52.095Z",
    "active": true,
    "url": "https://workopia.io/jobs/R160207",
-   "category": "sales",
-   "tier": "Entry-level"
-  },
-  {
-   "id": "035ff6032715c59661d549e1eedfba80",
-   "source": "Workopia",
-   "company_name": "H & M Hennes & Mauritz AB",
-   "company_hi_slug": "h-m-hennes-mauritz-ab",
-   "title": "Full Time Sales Advisor (pacific Place, Admiralty)",
-   "location": "Hong Kong",
-   "skills": "Customer-focused with , Adaptable and flexible",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-02T10:40:51.185Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/035ff6032715c59661d549e1eedfba80",
    "category": "sales",
    "tier": "Entry-level"
   },

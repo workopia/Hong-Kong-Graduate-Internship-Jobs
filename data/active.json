@@ -1,7 +1,13 @@
 {
- "asOf": "2026-07-11",
- "count": 147,
+ "asOf": "2026-07-12",
+ "count": 148,
  "jobs": {
+  "a5bf9290832c2ecfe1a3872864286ea7": {
+   "id": "a5bf9290832c2ecfe1a3872864286ea7",
+   "company": "Cathaysubsidiaryservices",
+   "role": "Summer Internship Programme 2026",
+   "location": "Lantau Island"
+  },
   "e7312106e04956e88004ba362d03566c": {
    "id": "e7312106e04956e88004ba362d03566c",
    "company": "Barclays",
@@ -650,6 +656,12 @@
    "role": "Technician Engineer",
    "location": "Hong Kong"
   },
+  "035ff6032715c59661d549e1eedfba80": {
+   "id": "035ff6032715c59661d549e1eedfba80",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Full Time Sales Advisor (queen's Road Central)",
+   "location": "Hong Kong"
+  },
   "2cd50da27281a6cba4b5041b5843b66a": {
    "id": "2cd50da27281a6cba4b5041b5843b66a",
    "company": "Alo Yoga",
@@ -690,12 +702,6 @@
    "id": "R160207",
    "company": "Kering",
    "role": "Pomellato Sales Associate",
-   "location": "Hong Kong"
-  },
-  "035ff6032715c59661d549e1eedfba80": {
-   "id": "035ff6032715c59661d549e1eedfba80",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Full Time Sales Advisor (pacific Place, Admiralty)",
    "location": "Hong Kong"
   },
   "7821367bb61bf86972282e67a1a5352d": {
