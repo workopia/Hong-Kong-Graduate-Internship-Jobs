@@ -1,7 +1,25 @@
 {
- "asOf": "2026-07-12",
- "count": 149,
+ "asOf": "2026-07-13",
+ "count": 153,
  "jobs": {
+  "6b80830662939e4bd21d16e72ce8ce3c": {
+   "id": "6b80830662939e4bd21d16e72ce8ce3c",
+   "company": "Hong Kong Productivity Council",
+   "role": "Intern, Environmental Engineering",
+   "location": "Hong Kong"
+  },
+  "a54ccb907c8ac2648467830f5c880ec6": {
+   "id": "a54ccb907c8ac2648467830f5c880ec6",
+   "company": "Knorr-Bremse AG",
+   "role": "Hr Student Intern",
+   "location": "Hong Kong"
+  },
+  "507259e8f35d7ef8e74af928b3e12ee8": {
+   "id": "507259e8f35d7ef8e74af928b3e12ee8",
+   "company": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
+   "role": "Internship",
+   "location": "Hong Kong"
+  },
   "a5bf9290832c2ecfe1a3872864286ea7": {
    "id": "a5bf9290832c2ecfe1a3872864286ea7",
    "company": "Cathaysubsidiaryservices",
@@ -768,6 +786,12 @@
    "id": "3d424ee4686e8e43aaa469c88c7372ee",
    "company": "Lululemon",
    "role": "Full Time- Educator (Sales Associate) / Times Square",
+   "location": "Hong Kong"
+  },
+  "c05a7fd26dbe939f079722131612290e": {
+   "id": "c05a7fd26dbe939f079722131612290e",
+   "company": "Haeco Group",
+   "role": "Production Planning Coordinator",
    "location": "Hong Kong"
   },
   "78594ad5644da24c334da6fd41875c71": {

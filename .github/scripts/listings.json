@@ -9,10 +9,10 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-07-12",
+  "as_of": "2026-07-13",
   "window_days": 60,
-  "total_site_jobs_str": "7.4M+",
-  "generated_at": "2026-07-12T05:26:53.288Z"
+  "total_site_jobs_str": "7.6M+",
+  "generated_at": "2026-07-13T01:13:54.696Z"
  },
  "categories": [
   {
@@ -73,6 +73,57 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "6b80830662939e4bd21d16e72ce8ce3c",
+   "source": "Workopia",
+   "company_name": "Hong Kong Productivity Council",
+   "company_hi_slug": "hong-kong-productivity-council",
+   "title": "Intern, Environmental Engineering",
+   "location": "Hong Kong",
+   "skills": "Laboratory system oper, Data logging",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-12T04:23:10.249Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/6b80830662939e4bd21d16e72ce8ce3c",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "a54ccb907c8ac2648467830f5c880ec6",
+   "source": "Workopia",
+   "company_name": "Knorr-Bremse AG",
+   "company_hi_slug": "knorr-bremse-ag",
+   "title": "Hr Student Intern",
+   "location": "Hong Kong",
+   "skills": "Microsoft Office profi, HR operations support",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-12T03:42:59.140Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a54ccb907c8ac2648467830f5c880ec6",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "507259e8f35d7ef8e74af928b3e12ee8",
+   "source": "Workopia",
+   "company_name": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
+   "company_hi_slug": "chun-wo-development-holdings-ltd",
+   "title": "Internship",
+   "location": "Hong Kong",
+   "skills": "Site inspections, Data recording",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-11T03:12:02.816Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/507259e8f35d7ef8e74af928b3e12ee8",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "a5bf9290832c2ecfe1a3872864286ea7",
@@ -2247,6 +2298,23 @@
    "active": true,
    "url": "https://workopia.io/jobs/3d424ee4686e8e43aaa469c88c7372ee",
    "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$18k–26k/mo*",
+   "id": "c05a7fd26dbe939f079722131612290e",
+   "source": "Workopia",
+   "company_name": "Haeco Group",
+   "company_hi_slug": "haeco-group",
+   "title": "Production Planning Coordinator",
+   "location": "Hong Kong",
+   "skills": "Resource Sourcing, Conflict Resolution",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-11T03:20:06.281Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/c05a7fd26dbe939f079722131612290e",
+   "category": "admin",
    "tier": "Entry-level"
   },
   {
