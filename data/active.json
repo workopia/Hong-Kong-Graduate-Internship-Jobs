@@ -1,7 +1,13 @@
 {
- "asOf": "2026-07-13",
- "count": 153,
+ "asOf": "2026-07-14",
+ "count": 155,
  "jobs": {
+  "9470737a9987ae811a22e565ed0b690e": {
+   "id": "9470737a9987ae811a22e565ed0b690e",
+   "company": "CTF Services Ltd",
+   "role": "Intern, Risk Management",
+   "location": "Hong Kong"
+  },
   "6b80830662939e4bd21d16e72ce8ce3c": {
    "id": "6b80830662939e4bd21d16e72ce8ce3c",
    "company": "Hong Kong Productivity Council",
@@ -506,6 +512,12 @@
    "role": "Graduate Quant Trader",
    "location": "Hong Kong"
   },
+  "5eb41b8e65042dba88510a063f4ddf10": {
+   "id": "5eb41b8e65042dba88510a063f4ddf10",
+   "company": "Specsavers Optical Group Ltd",
+   "role": "Commercial Accountant",
+   "location": "Hong Kong"
+  },
   "3ccea8411011ca0ed6e5a900ef2ff2bd": {
    "id": "3ccea8411011ca0ed6e5a900ef2ff2bd",
    "company": "AIA",
@@ -642,12 +654,6 @@
    "id": "a6af6e96fb6fe6abf3f27f858e14e5a8",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Accountant",
-   "location": "Hong Kong"
-  },
-  "cb1ff07c85223c259cac09708b8a1782": {
-   "id": "cb1ff07c85223c259cac09708b8a1782",
-   "company": "Binance",
-   "role": "Junior Quantitative Researcher (fresh Stem Phd Graduates Are Welcome)",
    "location": "Hong Kong"
   },
   "69bd77a71fb96be65a62e9e4dc9c1d61": {
@@ -792,6 +798,12 @@
    "id": "c05a7fd26dbe939f079722131612290e",
    "company": "Haeco Group",
    "role": "Production Planning Coordinator",
+   "location": "Hong Kong"
+  },
+  "d61cea4da9e54a75a874c987859af8df": {
+   "id": "d61cea4da9e54a75a874c987859af8df",
+   "company": "Me2Works",
+   "role": "Assistant Officer (applications) At Hong Kong Housing Society",
    "location": "Hong Kong"
   },
   "78594ad5644da24c334da6fd41875c71": {

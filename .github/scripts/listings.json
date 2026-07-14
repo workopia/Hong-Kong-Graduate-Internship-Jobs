@@ -9,10 +9,10 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-07-13",
+  "as_of": "2026-07-14",
   "window_days": 60,
   "total_site_jobs_str": "7.6M+",
-  "generated_at": "2026-07-13T01:13:54.696Z"
+  "generated_at": "2026-07-14T00:54:34.347Z"
  },
  "categories": [
   {
@@ -73,6 +73,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "9470737a9987ae811a22e565ed0b690e",
+   "source": "Workopia",
+   "company_name": "CTF Services Ltd",
+   "company_hi_slug": "ctf-services-ltd",
+   "title": "Intern, Risk Management",
+   "location": "Hong Kong",
+   "skills": "Microsoft Excel, Power BI",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-13T04:21:05.378Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/9470737a9987ae811a22e565ed0b690e",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "6b80830662939e4bd21d16e72ce8ce3c",
@@ -843,7 +860,7 @@
    "id": "52cd2ae8d1ce2b64e3de998db0358dde",
    "source": "Workopia",
    "company_name": "Zurich Insurance Company Ltd",
-   "company_hi_slug": "zurich-insurance-company-ltd",
+   "company_hi_slug": "zurich-insurance-uk",
    "title": "Intern (legal, 6-12 Months)",
    "location": "Hong Kong",
    "skills": "Undergraduate degree i, Excellent written Chin",
@@ -1503,6 +1520,23 @@
   },
   {
    "salary_display": "HK$20k–32k/mo*",
+   "id": "5eb41b8e65042dba88510a063f4ddf10",
+   "source": "Workopia",
+   "company_name": "Specsavers Optical Group Ltd",
+   "company_hi_slug": "specsavers-optical-group-ltd",
+   "title": "Commercial Accountant",
+   "location": "Hong Kong",
+   "skills": "Monthly financial repo, Variance analysis",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-13T12:07:38.982Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/5eb41b8e65042dba88510a063f4ddf10",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "3ccea8411011ca0ed6e5a900ef2ff2bd",
    "source": "Workopia",
    "company_name": "AIA",
@@ -1889,23 +1923,6 @@
    "date_posted": "2026-05-16T07:53:44.011Z",
    "active": true,
    "url": "https://workopia.io/jobs/a6af6e96fb6fe6abf3f27f858e14e5a8",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "cb1ff07c85223c259cac09708b8a1782",
-   "source": "Workopia",
-   "company_name": "Binance",
-   "company_hi_slug": "binance",
-   "title": "Junior Quantitative Researcher (fresh Stem Phd Graduates Are Welcome)",
-   "location": "Hong Kong",
-   "skills": "Strong research backgr, Interest in trading an",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-14T08:13:16.483Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/cb1ff07c85223c259cac09708b8a1782",
    "category": "finance",
    "tier": "Entry-level"
   },
@@ -2314,6 +2331,23 @@
    "date_posted": "2026-07-11T03:20:06.281Z",
    "active": true,
    "url": "https://workopia.io/jobs/c05a7fd26dbe939f079722131612290e",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$18k–26k/mo*",
+   "id": "d61cea4da9e54a75a874c987859af8df",
+   "source": "Workopia",
+   "company_name": "Me2Works",
+   "company_hi_slug": "me2works",
+   "title": "Assistant Officer (applications) At Hong Kong Housing Society",
+   "location": "Hong Kong",
+   "skills": "data extraction, document management",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-11T01:35:47.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/d61cea4da9e54a75a874c987859af8df",
    "category": "admin",
    "tier": "Entry-level"
   },
