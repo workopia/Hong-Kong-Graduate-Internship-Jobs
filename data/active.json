@@ -1,11 +1,29 @@
 {
- "asOf": "2026-07-14",
- "count": 155,
+ "asOf": "2026-07-15",
+ "count": 158,
  "jobs": {
+  "34b905b70ab17119e81581a9a91c2a29": {
+   "id": "34b905b70ab17119e81581a9a91c2a29",
+   "company": "Teneo",
+   "role": "Internship, Financial Advisory",
+   "location": "Hong Kong"
+  },
   "9470737a9987ae811a22e565ed0b690e": {
    "id": "9470737a9987ae811a22e565ed0b690e",
    "company": "CTF Services Ltd",
    "role": "Intern, Risk Management",
+   "location": "Hong Kong"
+  },
+  "e3ae2bb78a0a60ffe05ac1b754394ccd": {
+   "id": "e3ae2bb78a0a60ffe05ac1b754394ccd",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Intern",
+   "location": "Hong Kong"
+  },
+  "603e665cf9c37cd4cb2e16cf056489eb": {
+   "id": "603e665cf9c37cd4cb2e16cf056489eb",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Summer Internship Programme 2026 [stem] - Pccw Global",
    "location": "Hong Kong"
   },
   "6b80830662939e4bd21d16e72ce8ce3c": {
@@ -138,12 +156,6 @@
    "id": "bb873c8357eb5bb7298b7af591fb144d",
    "company": "Edelman Inc",
    "role": "Partnership Intern",
-   "location": "Hong Kong"
-  },
-  "3e309209c21ebde2cca5a6fa52c6679d": {
-   "id": "3e309209c21ebde2cca5a6fa52c6679d",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Summer Internship Programme 2026 [stem] - Pccw Global",
    "location": "Hong Kong"
   },
   "b329f4f4c7ed80c9d76a69220bb1e44b": {
@@ -518,6 +530,12 @@
    "role": "Commercial Accountant",
    "location": "Hong Kong"
   },
+  "6545d143e6d7efea6ca0e41667762609": {
+   "id": "6545d143e6d7efea6ca0e41667762609",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Business Analyst, Member Engagement",
+   "location": "Hong Kong"
+  },
   "3ccea8411011ca0ed6e5a900ef2ff2bd": {
    "id": "3ccea8411011ca0ed6e5a900ef2ff2bd",
    "company": "AIA",
@@ -564,6 +582,12 @@
    "id": "2e526e509be97b582b7f06ff77aa5bc1",
    "company": "Morgan Stanley",
    "role": "Fixed Income Compliance - Vice President",
+   "location": "Hong Kong"
+  },
+  "368e634a4b151bb4753318427802b925": {
+   "id": "368e634a4b151bb4753318427802b925",
+   "company": "Milliman",
+   "role": "Actuarial Associate-hong Kong Special Adm Region- Hkg",
    "location": "Hong Kong"
   },
   "e23471ae03dfdd45e19ac9f90f60da92": {
@@ -630,12 +654,6 @@
    "id": "9763fd01aea8eb02eb3b9e815d7b986c",
    "company": "Prudential Corporation Asia Ltd",
    "role": "Actuarial Assistant, Pricing",
-   "location": "Hong Kong"
-  },
-  "f8b091eb9e8c7cc1a74d4c730d70eda6": {
-   "id": "f8b091eb9e8c7cc1a74d4c730d70eda6",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Business Analyst, Member Engagement",
    "location": "Hong Kong"
   },
   "2951aae958b71821b54e74d93c9ab896": {
