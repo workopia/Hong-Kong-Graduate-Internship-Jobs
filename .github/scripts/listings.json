@@ -9,10 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-07-15",
+  "as_of": "2026-07-16",
   "window_days": 60,
   "total_site_jobs_str": "7.7M+",
-  "generated_at": "2026-07-15T01:01:55.818Z"
+  "country_live_total": 2044,
+  "generated_at": "2026-07-16T00:52:55.318Z"
  },
  "categories": [
   {
@@ -73,6 +74,40 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "fe943d3d85ed8494de9f85098ff173a0",
+   "source": "Workopia",
+   "company_name": "Hong Kong Jockey Club -THE-",
+   "company_hi_slug": "hong-kong-jockey-club-the",
+   "title": "Intern Staff",
+   "location": "Hong Kong",
+   "skills": "practical experience, team collaboration",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-15T10:27:46.193Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/fe943d3d85ed8494de9f85098ff173a0",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": "$50/hr",
+   "id": "2ce90dfba1afb3636c06fd608d85eb69",
+   "source": "Workopia",
+   "company_name": "Christie's",
+   "company_hi_slug": "christie-s",
+   "title": "Internship (aug - Dec 2026)",
+   "location": "Asia",
+   "skills": "Full-time availability, Strong organizational ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-14T03:22:30.970Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/2ce90dfba1afb3636c06fd608d85eb69",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "34b905b70ab17119e81581a9a91c2a29",
@@ -733,23 +768,6 @@
    "date_posted": "2026-06-19T17:22:18.977Z",
    "active": true,
    "url": "https://workopia.io/jobs/55904781b8782eb79b3ff8098f5c6bcf",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "39c65c86a7318a710c0cdcda4fad0410",
-   "source": "Workopia",
-   "company_name": "Hong Kong Jockey Club -THE-",
-   "company_hi_slug": "hong-kong-jockey-club-the",
-   "title": "Intern Staff",
-   "location": "Hong Kong",
-   "skills": "Strong communication s, Team collaboration abi",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-10T09:48:13.117Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/39c65c86a7318a710c0cdcda4fad0410",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1961,23 +1979,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$17k–19k/mo*",
-   "id": "a6af6e96fb6fe6abf3f27f858e14e5a8",
-   "source": "Workopia",
-   "company_name": "PCCW-HKT DataCom Services Ltd",
-   "company_hi_slug": "pccw-hkt-datacom-services-ltd",
-   "title": "Accountant",
-   "location": "Hong Kong",
-   "skills": "Monthly account closin, Financial and manageme",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-16T07:53:44.011Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/a6af6e96fb6fe6abf3f27f858e14e5a8",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": "HK$15k–27k/mo*",
    "id": "69bd77a71fb96be65a62e9e4dc9c1d61",
    "source": "Workopia",
@@ -2366,6 +2367,23 @@
    "active": true,
    "url": "https://workopia.io/jobs/3d424ee4686e8e43aaa469c88c7372ee",
    "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "056cfe8a848b4df2cfd02b8401986506",
+   "source": "Workopia",
+   "company_name": "Hong Kong Jockey Club -THE-",
+   "company_hi_slug": "hong-kong-jockey-club-the",
+   "title": "Part-time Administrative Assistant",
+   "location": "Hong Kong",
+   "skills": "cross-party coordinati, publicity and promotio",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-15T10:27:46.215Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/056cfe8a848b4df2cfd02b8401986506",
+   "category": "admin",
    "tier": "Entry-level"
   },
   {

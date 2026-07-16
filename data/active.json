@@ -1,7 +1,19 @@
 {
- "asOf": "2026-07-15",
- "count": 158,
+ "asOf": "2026-07-16",
+ "count": 159,
  "jobs": {
+  "fe943d3d85ed8494de9f85098ff173a0": {
+   "id": "fe943d3d85ed8494de9f85098ff173a0",
+   "company": "Hong Kong Jockey Club -THE-",
+   "role": "Intern Staff",
+   "location": "Hong Kong"
+  },
+  "2ce90dfba1afb3636c06fd608d85eb69": {
+   "id": "2ce90dfba1afb3636c06fd608d85eb69",
+   "company": "Christie's",
+   "role": "Internship (aug - Dec 2026)",
+   "location": "Asia"
+  },
   "34b905b70ab17119e81581a9a91c2a29": {
    "id": "34b905b70ab17119e81581a9a91c2a29",
    "company": "Teneo",
@@ -234,12 +246,6 @@
    "id": "55904781b8782eb79b3ff8098f5c6bcf",
    "company": "LGT Crestone Wealth Management Limited",
    "role": "Intern - 2027 Intake",
-   "location": "Hong Kong"
-  },
-  "39c65c86a7318a710c0cdcda4fad0410": {
-   "id": "39c65c86a7318a710c0cdcda4fad0410",
-   "company": "Hong Kong Jockey Club -THE-",
-   "role": "Intern Staff",
    "location": "Hong Kong"
   },
   "5c8a75ff06899fd328e8dc67267d5c8b": {
@@ -668,12 +674,6 @@
    "role": "Assistant Business Analyst",
    "location": "Hong Kong"
   },
-  "a6af6e96fb6fe6abf3f27f858e14e5a8": {
-   "id": "a6af6e96fb6fe6abf3f27f858e14e5a8",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Accountant",
-   "location": "Hong Kong"
-  },
   "69bd77a71fb96be65a62e9e4dc9c1d61": {
    "id": "69bd77a71fb96be65a62e9e4dc9c1d61",
    "company": "OTIS",
@@ -810,6 +810,12 @@
    "id": "3d424ee4686e8e43aaa469c88c7372ee",
    "company": "Lululemon",
    "role": "Full Time- Educator (Sales Associate) / Times Square",
+   "location": "Hong Kong"
+  },
+  "056cfe8a848b4df2cfd02b8401986506": {
+   "id": "056cfe8a848b4df2cfd02b8401986506",
+   "company": "Hong Kong Jockey Club -THE-",
+   "role": "Part-time Administrative Assistant",
    "location": "Hong Kong"
   },
   "c05a7fd26dbe939f079722131612290e": {
