@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-16",
- "count": 159,
+ "asOf": "2026-07-17",
+ "count": 161,
  "jobs": {
   "fe943d3d85ed8494de9f85098ff173a0": {
    "id": "fe943d3d85ed8494de9f85098ff173a0",
@@ -530,6 +530,18 @@
    "role": "Graduate Quant Trader",
    "location": "Hong Kong"
   },
+  "2cafa618ed59cb8181235276b7eeb1a3": {
+   "id": "2cafa618ed59cb8181235276b7eeb1a3",
+   "company": "Nomura International PLC",
+   "role": "Quantitative Strategist",
+   "location": "Hong Kong"
+  },
+  "f4934fb9a65c15dc972628ba51c51e19": {
+   "id": "f4934fb9a65c15dc972628ba51c51e19",
+   "company": "Nomura International PLC",
+   "role": "Associate, Quantitative Strategist",
+   "location": "Hong Kong"
+  },
   "5eb41b8e65042dba88510a063f4ddf10": {
    "id": "5eb41b8e65042dba88510a063f4ddf10",
    "company": "Specsavers Optical Group Ltd",
@@ -642,12 +654,6 @@
    "id": "156baf483b6b312a437f98a7a4f09abd",
    "company": "Sunlife Com Hk",
    "role": "Analyst - Actuarial",
-   "location": "Hong Kong"
-  },
-  "5cc0263723303697cef3471ac7a5bb1e": {
-   "id": "5cc0263723303697cef3471ac7a5bb1e",
-   "company": "Nomura International PLC",
-   "role": "Quantitative Strategist",
    "location": "Hong Kong"
   },
   "e80198fc889a0f358cb621458560a415": {
@@ -810,6 +816,12 @@
    "id": "3d424ee4686e8e43aaa469c88c7372ee",
    "company": "Lululemon",
    "role": "Full Time- Educator (Sales Associate) / Times Square",
+   "location": "Hong Kong"
+  },
+  "46f72d22a8d6f5df968815a613fa3c0b": {
+   "id": "46f72d22a8d6f5df968815a613fa3c0b",
+   "company": "Hang Lung Properties Ltd",
+   "role": "Officer (administration And Documentation Support)",
    "location": "Hong Kong"
   },
   "056cfe8a848b4df2cfd02b8401986506": {

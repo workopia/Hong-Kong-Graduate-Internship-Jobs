@@ -10,4 +10,5 @@
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Business Analyst, Member Engagement</td><td>Hong Kong</td><td>2026-07-15</td></tr>
 <tr><td>Hong Kong Jockey Club -THE-</td><td>Intern Staff</td><td>Hong Kong</td><td>2026-07-16</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Accountant</td><td>Hong Kong</td><td>2026-07-16</td></tr>
+<tr><td>Nomura International PLC</td><td>Quantitative Strategist</td><td>Hong Kong</td><td>2026-07-17</td></tr>
 </table>
