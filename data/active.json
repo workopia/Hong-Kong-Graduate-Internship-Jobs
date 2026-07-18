@@ -1,7 +1,13 @@
 {
- "asOf": "2026-07-17",
- "count": 161,
+ "asOf": "2026-07-18",
+ "count": 160,
  "jobs": {
+  "c979b9b04ae6740ae357f997e810c9ae": {
+   "id": "c979b9b04ae6740ae357f997e810c9ae",
+   "company": "Mercer",
+   "role": "Intern - Retirement (pension) Consulting (6-months Internship)",
+   "location": "Hong Kong"
+  },
   "fe943d3d85ed8494de9f85098ff173a0": {
    "id": "fe943d3d85ed8494de9f85098ff173a0",
    "company": "Hong Kong Jockey Club -THE-",
@@ -72,12 +78,6 @@
    "id": "3ee67b60203672a47893f8541b2535d3",
    "company": "Mercer",
    "role": "Intern, Investment Consulting (6 Months)",
-   "location": "Hong Kong"
-  },
-  "c979b9b04ae6740ae357f997e810c9ae": {
-   "id": "c979b9b04ae6740ae357f997e810c9ae",
-   "company": "Mercer",
-   "role": "Intern - Retirement (pension) Consulting (6-months Internship)",
    "location": "Hong Kong"
   },
   "18daf4ef0c23317e8f1294bc447ef5ad": {
@@ -414,12 +414,6 @@
    "id": "6dcf656c03dbb01ee54b00364680822f",
    "company": "Oex",
    "role": "Application Support Engineer, Hong Kong, Oex",
-   "location": "Hong Kong"
-  },
-  "97aeec81e0f1660b8f90946a49dae067": {
-   "id": "97aeec81e0f1660b8f90946a49dae067",
-   "company": "Binance",
-   "role": "Growth Tech Leader",
    "location": "Hong Kong"
   },
   "HRC1592692": {

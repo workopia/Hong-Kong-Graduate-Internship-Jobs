@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-07-17",
+  "as_of": "2026-07-18",
   "window_days": 60,
   "total_site_jobs_str": "7.8M+",
-  "country_live_total": 2046,
-  "generated_at": "2026-07-17T01:10:11.801Z"
+  "country_live_total": 2045,
+  "generated_at": "2026-07-18T01:14:50.779Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "c979b9b04ae6740ae357f997e810c9ae",
+   "source": "Workopia",
+   "company_name": "Mercer",
+   "company_hi_slug": "mercer",
+   "title": "Intern - Retirement (pension) Consulting (6-months Internship)",
+   "location": "Hong Kong",
+   "skills": "Pension consulting, Client communication",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-16T16:03:01.011Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/c979b9b04ae6740ae357f997e810c9ae",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "fe943d3d85ed8494de9f85098ff173a0",
@@ -275,23 +292,6 @@
    "date_posted": "2026-07-02T01:01:52.130Z",
    "active": true,
    "url": "https://workopia.io/jobs/3ee67b60203672a47893f8541b2535d3",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "c979b9b04ae6740ae357f997e810c9ae",
-   "source": "Workopia",
-   "company_name": "Mercer",
-   "company_hi_slug": "mercer",
-   "title": "Intern - Retirement (pension) Consulting (6-months Internship)",
-   "location": "Hong Kong",
-   "skills": "Pension consulting, Client communication",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-02T01:01:52.127Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/c979b9b04ae6740ae357f997e810c9ae",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1244,23 +1244,6 @@
    "date_posted": "2026-05-22T08:57:57.853Z",
    "active": true,
    "url": "https://workopia.io/jobs/6dcf656c03dbb01ee54b00364680822f",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "97aeec81e0f1660b8f90946a49dae067",
-   "source": "Workopia",
-   "company_name": "Binance",
-   "company_hi_slug": "binance",
-   "title": "Growth Tech Leader",
-   "location": "Hong Kong",
-   "skills": "backend system develop, affiliate program supp",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-18T13:00:45.429Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/97aeec81e0f1660b8f90946a49dae067",
    "category": "tech",
    "tier": "Entry-level"
   },
