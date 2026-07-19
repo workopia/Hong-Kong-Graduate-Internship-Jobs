@@ -1,7 +1,25 @@
 {
- "asOf": "2026-07-18",
- "count": 160,
+ "asOf": "2026-07-19",
+ "count": 162,
  "jobs": {
+  "981809950bc8d13c964215a61d3b5974": {
+   "id": "981809950bc8d13c964215a61d3b5974",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Intern",
+   "location": "Hong Kong"
+  },
+  "5271aeeb075be4258258c66361ae6a70": {
+   "id": "5271aeeb075be4258258c66361ae6a70",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Summer Internship Programme 2026 [stem] - Information Technology",
+   "location": "Hong Kong"
+  },
+  "6c6b8719b9a02dca5f58b9aad5280425": {
+   "id": "6c6b8719b9a02dca5f58b9aad5280425",
+   "company": "Chow Tai Fook",
+   "role": "Summer Intern, People & Culture",
+   "location": "Hong Kong"
+  },
   "c979b9b04ae6740ae357f997e810c9ae": {
    "id": "c979b9b04ae6740ae357f997e810c9ae",
    "company": "Mercer",
@@ -30,12 +48,6 @@
    "id": "9470737a9987ae811a22e565ed0b690e",
    "company": "CTF Services Ltd",
    "role": "Intern, Risk Management",
-   "location": "Hong Kong"
-  },
-  "e3ae2bb78a0a60ffe05ac1b754394ccd": {
-   "id": "e3ae2bb78a0a60ffe05ac1b754394ccd",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Intern",
    "location": "Hong Kong"
   },
   "603e665cf9c37cd4cb2e16cf056489eb": {
@@ -524,6 +536,12 @@
    "role": "Graduate Quant Trader",
    "location": "Hong Kong"
   },
+  "0b0d1b914f06cafe8f81f96fe64092d5": {
+   "id": "0b0d1b914f06cafe8f81f96fe64092d5",
+   "company": "Me2Works",
+   "role": "Accountant - Financial Reporting At Michael Page",
+   "location": "Hong Kong"
+  },
   "2cafa618ed59cb8181235276b7eeb1a3": {
    "id": "2cafa618ed59cb8181235276b7eeb1a3",
    "company": "Nomura International PLC",
@@ -798,12 +816,6 @@
    "id": "26d664138780176c5c0394c479594063",
    "company": "Me2Works",
    "role": "【全職】the Little Shop (利園分店) Client Sales Representative 顧客銷售代表【永久保證佣金+新人獎金$3,000】 At Executive / Personal Assistant / Customer Service",
-   "location": "Hong Kong"
-  },
-  "871b9e79eba47f8152a5c6a82ae793e1": {
-   "id": "871b9e79eba47f8152a5c6a82ae793e1",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Insource Device Sales Representative",
    "location": "Hong Kong"
   },
   "3d424ee4686e8e43aaa469c88c7372ee": {

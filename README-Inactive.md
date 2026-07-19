@@ -12,4 +12,6 @@
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Accountant</td><td>Hong Kong</td><td>2026-07-16</td></tr>
 <tr><td>Nomura International PLC</td><td>Quantitative Strategist</td><td>Hong Kong</td><td>2026-07-17</td></tr>
 <tr><td>Binance</td><td>Growth Tech Leader</td><td>Hong Kong</td><td>2026-07-18</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Intern</td><td>Hong Kong</td><td>2026-07-19</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Insource Device Sales Representative</td><td>Hong Kong</td><td>2026-07-19</td></tr>
 </table>
