@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-19",
- "count": 162,
+ "asOf": "2026-07-20",
+ "count": 160,
  "jobs": {
   "981809950bc8d13c964215a61d3b5974": {
    "id": "981809950bc8d13c964215a61d3b5974",
@@ -476,12 +476,6 @@
    "role": "Ai Agent Developer (greater Bay Area Youth Employment Scheme)",
    "location": "Hong Kong"
   },
-  "3f7c4ff75201363855155772f17235cd": {
-   "id": "3f7c4ff75201363855155772f17235cd",
-   "company": "Binance",
-   "role": "Binance Accelerator Program - Data Scientist (llm & Trading)",
-   "location": "Hong Kong"
-  },
   "2229dc3141540a682c8c9407e6ad3174": {
    "id": "2229dc3141540a682c8c9407e6ad3174",
    "company": "Barclays",
@@ -582,12 +576,6 @@
    "id": "0613032caf29e97d5cc19beab5900b64",
    "company": "Mercer",
    "role": "Rewards & Talent Strategy Consulting Analyst",
-   "location": "Hong Kong"
-  },
-  "d0eb7bcba2e70b48cdc2c5bcd455be87": {
-   "id": "d0eb7bcba2e70b48cdc2c5bcd455be87",
-   "company": "AIA",
-   "role": "Actuarial Specialist",
    "location": "Hong Kong"
   },
   "b00de562d1cf868ebdb374f68a54b580": {

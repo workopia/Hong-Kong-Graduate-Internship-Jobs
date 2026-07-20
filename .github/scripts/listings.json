@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-07-19",
+  "as_of": "2026-07-20",
   "window_days": 60,
   "total_site_jobs_str": "7.9M+",
-  "country_live_total": 2051,
-  "generated_at": "2026-07-19T00:54:42.190Z"
+  "country_live_total": 2050,
+  "generated_at": "2026-07-20T00:56:48.786Z"
  },
  "categories": [
   {
@@ -1418,23 +1418,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$22k–38k/mo*",
-   "id": "3f7c4ff75201363855155772f17235cd",
-   "source": "Workopia",
-   "company_name": "Binance",
-   "company_hi_slug": "binance",
-   "title": "Binance Accelerator Program - Data Scientist (llm & Trading)",
-   "location": "Hong Kong",
-   "skills": "Data Science expertise, Large Language Model (",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-20T09:58:52.345Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/3f7c4ff75201363855155772f17235cd",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": null,
    "id": "2229dc3141540a682c8c9407e6ad3174",
    "source": "Workopia",
@@ -1720,23 +1703,6 @@
    "date_posted": "2026-06-28T20:36:44.917Z",
    "active": true,
    "url": "https://workopia.io/jobs/0613032caf29e97d5cc19beab5900b64",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "d0eb7bcba2e70b48cdc2c5bcd455be87",
-   "source": "Workopia",
-   "company_name": "AIA",
-   "company_hi_slug": "aia",
-   "title": "Actuarial Specialist",
-   "location": "Hong Kong",
-   "skills": "Solvency reporting, Financial risk managem",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-28T20:18:49.650Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/d0eb7bcba2e70b48cdc2c5bcd455be87",
    "category": "finance",
    "tier": "Entry-level"
   },
