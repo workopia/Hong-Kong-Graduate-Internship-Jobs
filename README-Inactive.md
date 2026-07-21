@@ -16,4 +16,5 @@
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Insource Device Sales Representative</td><td>Hong Kong</td><td>2026-07-19</td></tr>
 <tr><td>Binance</td><td>Binance Accelerator Program - Data Scientist (llm & Trading)</td><td>Hong Kong</td><td>2026-07-20</td></tr>
 <tr><td>AIA</td><td>Actuarial Specialist</td><td>Hong Kong</td><td>2026-07-20</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Assistant Business Analyst</td><td>Hong Kong</td><td>2026-07-21</td></tr>
 </table>

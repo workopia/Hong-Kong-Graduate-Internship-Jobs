@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-20",
- "count": 160,
+ "asOf": "2026-07-21",
+ "count": 159,
  "jobs": {
   "981809950bc8d13c964215a61d3b5974": {
    "id": "981809950bc8d13c964215a61d3b5974",
@@ -672,12 +672,6 @@
    "id": "2951aae958b71821b54e74d93c9ab896",
    "company": "Flow Traders",
    "role": "Digital Assets Trader",
-   "location": "Hong Kong"
-  },
-  "ff92ad3cf62bd70b09d14aedf8d46455": {
-   "id": "ff92ad3cf62bd70b09d14aedf8d46455",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Assistant Business Analyst",
    "location": "Hong Kong"
   },
   "69bd77a71fb96be65a62e9e4dc9c1d61": {
