@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-21",
- "count": 159,
+ "asOf": "2026-07-22",
+ "count": 158,
  "jobs": {
   "981809950bc8d13c964215a61d3b5974": {
    "id": "981809950bc8d13c964215a61d3b5974",
@@ -421,12 +421,6 @@
    "company": "Google",
    "role": "Forward Deployed Engineer, Generative Ai, Google Cloud",
    "location": "Taipei +1"
-  },
-  "6dcf656c03dbb01ee54b00364680822f": {
-   "id": "6dcf656c03dbb01ee54b00364680822f",
-   "company": "Oex",
-   "role": "Application Support Engineer, Hong Kong, Oex",
-   "location": "Hong Kong"
   },
   "HRC1592692": {
    "id": "HRC1592692",
