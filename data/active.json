@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-22",
- "count": 158,
+ "asOf": "2026-07-23",
+ "count": 157,
  "jobs": {
   "981809950bc8d13c964215a61d3b5974": {
    "id": "981809950bc8d13c964215a61d3b5974",
@@ -410,18 +410,6 @@
    "role": "Engineer",
    "location": "Hong Kong"
   },
-  "313301ed2ed0df60e8b2cf9a83a10bf3": {
-   "id": "313301ed2ed0df60e8b2cf9a83a10bf3",
-   "company": "Meta",
-   "role": "Business Engineer",
-   "location": "Hong Kong"
-  },
-  "8a149bacfd97bb069361903f24236554": {
-   "id": "8a149bacfd97bb069361903f24236554",
-   "company": "Google",
-   "role": "Forward Deployed Engineer, Generative Ai, Google Cloud",
-   "location": "Taipei +1"
-  },
   "HRC1592692": {
    "id": "HRC1592692",
    "company": "Infineon",
@@ -522,6 +510,12 @@
    "id": "2eb586800f67131745674fa0ac65bef0",
    "company": "Flow Traders",
    "role": "Graduate Quant Trader",
+   "location": "Hong Kong"
+  },
+  "20c908fd47f46d43b84b1a05c7ef6167": {
+   "id": "20c908fd47f46d43b84b1a05c7ef6167",
+   "company": "aion-ia.in",
+   "role": "Actuarial Associate, Actuarial Services",
    "location": "Hong Kong"
   },
   "0b0d1b914f06cafe8f81f96fe64092d5": {

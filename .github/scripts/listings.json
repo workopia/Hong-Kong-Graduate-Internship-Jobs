@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-07-22",
+  "as_of": "2026-07-23",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 2054,
-  "generated_at": "2026-07-22T00:54:42.290Z"
+  "generated_at": "2026-07-23T00:57:28.988Z"
  },
  "categories": [
   {
@@ -1231,40 +1231,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "313301ed2ed0df60e8b2cf9a83a10bf3",
-   "source": "Workopia",
-   "company_name": "Meta",
-   "company_hi_slug": "meta",
-   "title": "Business Engineer",
-   "location": "Hong Kong",
-   "skills": "Shipping production qu, Fluent in Mandarin lan",
-   "sponsorship": false,
-   "hot": true,
-   "date_posted": "2026-05-23T12:18:51.081Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/313301ed2ed0df60e8b2cf9a83a10bf3",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "8a149bacfd97bb069361903f24236554",
-   "source": "Workopia",
-   "company_name": "Google",
-   "company_hi_slug": "google",
-   "title": "Forward Deployed Engineer, Generative Ai, Google Cloud",
-   "location": "Taipei +1",
-   "skills": "Lead developer for AI , Architect connections ",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-23T11:54:39.893Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/8a149bacfd97bb069361903f24236554",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": null,
    "id": "HRC1592692",
    "source": "Workopia",
@@ -1552,6 +1518,23 @@
    "url": "https://workopia.io/jobs/2eb586800f67131745674fa0ac65bef0",
    "category": "finance",
    "tier": "Graduate"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "20c908fd47f46d43b84b1a05c7ef6167",
+   "source": "Workopia",
+   "company_name": "aion-ia.in",
+   "company_hi_slug": "aion-ia-in",
+   "title": "Actuarial Associate, Actuarial Services",
+   "location": "Hong Kong",
+   "skills": "actuarial services, statutory reporting",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-22T13:56:07.413Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/20c908fd47f46d43b84b1a05c7ef6167",
+   "category": "finance",
+   "tier": "Entry-level"
   },
   {
    "salary_display": "HK$20k–32k/mo*",

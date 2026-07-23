@@ -18,4 +18,6 @@
 <tr><td>AIA</td><td>Actuarial Specialist</td><td>Hong Kong</td><td>2026-07-20</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Assistant Business Analyst</td><td>Hong Kong</td><td>2026-07-21</td></tr>
 <tr><td>Oex</td><td>Application Support Engineer, Hong Kong, Oex</td><td>Hong Kong</td><td>2026-07-22</td></tr>
+<tr><td>Meta</td><td>Business Engineer</td><td>Hong Kong</td><td>2026-07-23</td></tr>
+<tr><td>Google</td><td>Forward Deployed Engineer, Generative Ai, Google Cloud</td><td>Taipei +1</td><td>2026-07-23</td></tr>
 </table>
