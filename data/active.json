@@ -1,7 +1,25 @@
 {
- "asOf": "2026-07-23",
- "count": 157,
+ "asOf": "2026-07-24",
+ "count": 166,
  "jobs": {
+  "7d611fd171f63f70913c5615a3df8ce8": {
+   "id": "7d611fd171f63f70913c5615a3df8ce8",
+   "company": "Me2Works",
+   "role": "Student Intern, Application Management, Information Technology (6-month Contract) / Hong Kong, Hk At Fwd Group Management Holdings Limited",
+   "location": "Hong Kong"
+  },
+  "09aa5a14335b90e99685236aee90ffcf": {
+   "id": "09aa5a14335b90e99685236aee90ffcf",
+   "company": "Me2Works",
+   "role": "Human Resources Intern (part-time Or Full-time) At Zurich Insurance Company Ltd.",
+   "location": "Hong Kong"
+  },
+  "507259e8f35d7ef8e74af928b3e12ee8": {
+   "id": "507259e8f35d7ef8e74af928b3e12ee8",
+   "company": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
+   "role": "Internship",
+   "location": "Hong Kong"
+  },
   "981809950bc8d13c964215a61d3b5974": {
    "id": "981809950bc8d13c964215a61d3b5974",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -66,12 +84,6 @@
    "id": "a54ccb907c8ac2648467830f5c880ec6",
    "company": "Knorr-Bremse AG",
    "role": "Hr Student Intern",
-   "location": "Hong Kong"
-  },
-  "507259e8f35d7ef8e74af928b3e12ee8": {
-   "id": "507259e8f35d7ef8e74af928b3e12ee8",
-   "company": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
-   "role": "Internship",
    "location": "Hong Kong"
   },
   "a5bf9290832c2ecfe1a3872864286ea7": {
@@ -356,6 +368,12 @@
    "role": "Finance Intern (jul - Dec 2026)",
    "location": "Hong Kong"
   },
+  "d23dd8c6371bc6893a85490eff2f3643": {
+   "id": "d23dd8c6371bc6893a85490eff2f3643",
+   "company": "Meiyume",
+   "role": "Intern",
+   "location": "Hong Kong"
+  },
   "9e93db087505bff472176b0bc448651b": {
    "id": "9e93db087505bff472176b0bc448651b",
    "company": "OKX",
@@ -506,10 +524,22 @@
    "role": "Actuarial Internship 2027",
    "location": "Hong Kong"
   },
+  "32c2beeba03b2d0de05d8bf1568039fe": {
+   "id": "32c2beeba03b2d0de05d8bf1568039fe",
+   "company": "FWD Group",
+   "role": "Actuarial Internship (jun 2026 - Jan 2027)",
+   "location": "Hong Kong"
+  },
   "2eb586800f67131745674fa0ac65bef0": {
    "id": "2eb586800f67131745674fa0ac65bef0",
    "company": "Flow Traders",
    "role": "Graduate Quant Trader",
+   "location": "Hong Kong"
+  },
+  "f4934fb9a65c15dc972628ba51c51e19": {
+   "id": "f4934fb9a65c15dc972628ba51c51e19",
+   "company": "Nomura International PLC",
+   "role": "Associate, Quantitative Strategist",
    "location": "Hong Kong"
   },
   "20c908fd47f46d43b84b1a05c7ef6167": {
@@ -528,12 +558,6 @@
    "id": "2cafa618ed59cb8181235276b7eeb1a3",
    "company": "Nomura International PLC",
    "role": "Quantitative Strategist",
-   "location": "Hong Kong"
-  },
-  "f4934fb9a65c15dc972628ba51c51e19": {
-   "id": "f4934fb9a65c15dc972628ba51c51e19",
-   "company": "Nomura International PLC",
-   "role": "Associate, Quantitative Strategist",
    "location": "Hong Kong"
   },
   "5eb41b8e65042dba88510a063f4ddf10": {
@@ -584,6 +608,12 @@
    "role": "會計 Accountant At Grace Bright Holdings Limited",
    "location": "Hong Kong"
   },
+  "9b088c5e91d166b9238f11e17ce46b55": {
+   "id": "9b088c5e91d166b9238f11e17ce46b55",
+   "company": "Milliman",
+   "role": "Actuarial Associate",
+   "location": "Hong Kong"
+  },
   "2e526e509be97b582b7f06ff77aa5bc1": {
    "id": "2e526e509be97b582b7f06ff77aa5bc1",
    "company": "Morgan Stanley",
@@ -632,6 +662,12 @@
    "role": "Accountant, Treasury",
    "location": "Hong Kong"
   },
+  "056c4b58c6acf098d4202c21612a2f00": {
+   "id": "056c4b58c6acf098d4202c21612a2f00",
+   "company": "Me2Works",
+   "role": "Officer, Business Control Dept, Apd (hkg) - Operation Support & Control Group At Smbc Group",
+   "location": "Hong Kong"
+  },
   "74fad177dc98c2ddfd3bfbeb90312c27": {
    "id": "74fad177dc98c2ddfd3bfbeb90312c27",
    "company": "Jpc Texson Ltd",
@@ -654,6 +690,12 @@
    "id": "9763fd01aea8eb02eb3b9e815d7b986c",
    "company": "Prudential Corporation Asia Ltd",
    "role": "Actuarial Assistant, Pricing",
+   "location": "Hong Kong"
+  },
+  "55fce8ada5902231ff64af3b808da2c4": {
+   "id": "55fce8ada5902231ff64af3b808da2c4",
+   "company": "Interactive Brokers Group, Inc.",
+   "role": "Compliance Analyst - Fiu",
    "location": "Hong Kong"
   },
   "2951aae958b71821b54e74d93c9ab896": {
@@ -798,6 +840,18 @@
    "id": "46f72d22a8d6f5df968815a613fa3c0b",
    "company": "Hang Lung Properties Ltd",
    "role": "Officer (administration And Documentation Support)",
+   "location": "Hong Kong"
+  },
+  "6e868e53639f59c5246c062dbe7dbe66": {
+   "id": "6e868e53639f59c5246c062dbe7dbe66",
+   "company": "Ernst & Young",
+   "role": "Tax - Business Tax Services - Admin Assistant - Hong Kong",
+   "location": "Hong Kong"
+  },
+  "ce5be5174f7c0223d452054e93c3d290": {
+   "id": "ce5be5174f7c0223d452054e93c3d290",
+   "company": "Ernst & Young",
+   "role": "Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong",
    "location": "Hong Kong"
   },
   "056cfe8a848b4df2cfd02b8401986506": {
