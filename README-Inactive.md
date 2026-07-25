@@ -20,4 +20,8 @@
 <tr><td>Oex</td><td>Application Support Engineer, Hong Kong, Oex</td><td>Hong Kong</td><td>2026-07-22</td></tr>
 <tr><td>Meta</td><td>Business Engineer</td><td>Hong Kong</td><td>2026-07-23</td></tr>
 <tr><td>Google</td><td>Forward Deployed Engineer, Generative Ai, Google Cloud</td><td>Taipei +1</td><td>2026-07-23</td></tr>
+<tr><td>CHUN WO DEVELOPMENT HOLDINGS Ltd</td><td>Internship</td><td>Hong Kong</td><td>2026-07-25</td></tr>
+<tr><td>Nomura International PLC</td><td>Quantitative Strategist</td><td>Hong Kong</td><td>2026-07-25</td></tr>
+<tr><td>androiddev.careers</td><td>Accountant (global Scope)</td><td>Hong Kong Sar</td><td>2026-07-25</td></tr>
+<tr><td>Flow Traders</td><td>Digital Assets Trader</td><td>Hong Kong</td><td>2026-07-25</td></tr>
 </table>

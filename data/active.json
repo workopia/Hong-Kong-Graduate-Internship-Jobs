@@ -1,7 +1,25 @@
 {
- "asOf": "2026-07-24",
- "count": 166,
+ "asOf": "2026-07-25",
+ "count": 169,
  "jobs": {
+  "1925287e966b4586eecea77fbb0a46ca": {
+   "id": "1925287e966b4586eecea77fbb0a46ca",
+   "company": "Plateral",
+   "role": "Off-cycle Intern - Financial Restructuring, Hong Kong",
+   "location": "Hong Kong"
+  },
+  "45701019344bda4bcae22225234a2071": {
+   "id": "45701019344bda4bcae22225234a2071",
+   "company": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
+   "role": "Internship",
+   "location": "HK"
+  },
+  "a54ccb907c8ac2648467830f5c880ec6": {
+   "id": "a54ccb907c8ac2648467830f5c880ec6",
+   "company": "Knorr-Bremse AG",
+   "role": "Hr Student Intern",
+   "location": "Hong Kong"
+  },
   "7d611fd171f63f70913c5615a3df8ce8": {
    "id": "7d611fd171f63f70913c5615a3df8ce8",
    "company": "Me2Works",
@@ -12,12 +30,6 @@
    "id": "09aa5a14335b90e99685236aee90ffcf",
    "company": "Me2Works",
    "role": "Human Resources Intern (part-time Or Full-time) At Zurich Insurance Company Ltd.",
-   "location": "Hong Kong"
-  },
-  "507259e8f35d7ef8e74af928b3e12ee8": {
-   "id": "507259e8f35d7ef8e74af928b3e12ee8",
-   "company": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
-   "role": "Internship",
    "location": "Hong Kong"
   },
   "981809950bc8d13c964215a61d3b5974": {
@@ -78,12 +90,6 @@
    "id": "6b80830662939e4bd21d16e72ce8ce3c",
    "company": "Hong Kong Productivity Council",
    "role": "Intern, Environmental Engineering",
-   "location": "Hong Kong"
-  },
-  "a54ccb907c8ac2648467830f5c880ec6": {
-   "id": "a54ccb907c8ac2648467830f5c880ec6",
-   "company": "Knorr-Bremse AG",
-   "role": "Hr Student Intern",
    "location": "Hong Kong"
   },
   "a5bf9290832c2ecfe1a3872864286ea7": {
@@ -374,6 +380,12 @@
    "role": "Intern",
    "location": "Hong Kong"
   },
+  "6143863e89c7c1406176829ce69556fc": {
+   "id": "6143863e89c7c1406176829ce69556fc",
+   "company": "IMC Trading",
+   "role": "Software Engineer - Strategy",
+   "location": "Hong Kong"
+  },
   "9e93db087505bff472176b0bc448651b": {
    "id": "9e93db087505bff472176b0bc448651b",
    "company": "OKX",
@@ -542,20 +554,8 @@
    "role": "Associate, Quantitative Strategist",
    "location": "Hong Kong"
   },
-  "20c908fd47f46d43b84b1a05c7ef6167": {
-   "id": "20c908fd47f46d43b84b1a05c7ef6167",
-   "company": "aion-ia.in",
-   "role": "Actuarial Associate, Actuarial Services",
-   "location": "Hong Kong"
-  },
-  "0b0d1b914f06cafe8f81f96fe64092d5": {
-   "id": "0b0d1b914f06cafe8f81f96fe64092d5",
-   "company": "Me2Works",
-   "role": "Accountant - Financial Reporting At Michael Page",
-   "location": "Hong Kong"
-  },
-  "2cafa618ed59cb8181235276b7eeb1a3": {
-   "id": "2cafa618ed59cb8181235276b7eeb1a3",
+  "5cc0263723303697cef3471ac7a5bb1e": {
+   "id": "5cc0263723303697cef3471ac7a5bb1e",
    "company": "Nomura International PLC",
    "role": "Quantitative Strategist",
    "location": "Hong Kong"
@@ -564,6 +564,24 @@
    "id": "5eb41b8e65042dba88510a063f4ddf10",
    "company": "Specsavers Optical Group Ltd",
    "role": "Commercial Accountant",
+   "location": "Hong Kong"
+  },
+  "20c908fd47f46d43b84b1a05c7ef6167": {
+   "id": "20c908fd47f46d43b84b1a05c7ef6167",
+   "company": "aion-ia.in",
+   "role": "Actuarial Associate, Actuarial Services",
+   "location": "Hong Kong"
+  },
+  "2c88a1bcf3a567602ed2c0b4d6cd749f": {
+   "id": "2c88a1bcf3a567602ed2c0b4d6cd749f",
+   "company": "AIA",
+   "role": "Actuarial Associate, Actuarial Services",
+   "location": "Hong Kong"
+  },
+  "0b0d1b914f06cafe8f81f96fe64092d5": {
+   "id": "0b0d1b914f06cafe8f81f96fe64092d5",
+   "company": "Me2Works",
+   "role": "Accountant - Financial Reporting At Michael Page",
    "location": "Hong Kong"
   },
   "6545d143e6d7efea6ca0e41667762609": {
@@ -577,12 +595,6 @@
    "company": "AIA",
    "role": "Actuarial, Analyst",
    "location": "Hong Kong"
-  },
-  "a66ac04625bd6cfb9bb6ee7f45458dee": {
-   "id": "a66ac04625bd6cfb9bb6ee7f45458dee",
-   "company": "androiddev.careers",
-   "role": "Accountant (global Scope)",
-   "location": "Hong Kong Sar"
   },
   "0613032caf29e97d5cc19beab5900b64": {
    "id": "0613032caf29e97d5cc19beab5900b64",
@@ -698,10 +710,10 @@
    "role": "Compliance Analyst - Fiu",
    "location": "Hong Kong"
   },
-  "2951aae958b71821b54e74d93c9ab896": {
-   "id": "2951aae958b71821b54e74d93c9ab896",
-   "company": "Flow Traders",
-   "role": "Digital Assets Trader",
+  "33caa4b881bd80977c187fa2e2c885d5": {
+   "id": "33caa4b881bd80977c187fa2e2c885d5",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Service Engineer",
    "location": "Hong Kong"
   },
   "69bd77a71fb96be65a62e9e4dc9c1d61": {
@@ -840,6 +852,12 @@
    "id": "46f72d22a8d6f5df968815a613fa3c0b",
    "company": "Hang Lung Properties Ltd",
    "role": "Officer (administration And Documentation Support)",
+   "location": "Hong Kong"
+  },
+  "bee7e5def4046379c440059dc74768be": {
+   "id": "bee7e5def4046379c440059dc74768be",
+   "company": "LSEG",
+   "role": "Sales Specialist, Analytics & Ai Solutions",
    "location": "Hong Kong"
   },
   "6e868e53639f59c5246c062dbe7dbe66": {
