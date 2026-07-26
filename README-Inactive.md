@@ -24,4 +24,7 @@
 <tr><td>Nomura International PLC</td><td>Quantitative Strategist</td><td>Hong Kong</td><td>2026-07-25</td></tr>
 <tr><td>androiddev.careers</td><td>Accountant (global Scope)</td><td>Hong Kong Sar</td><td>2026-07-25</td></tr>
 <tr><td>Flow Traders</td><td>Digital Assets Trader</td><td>Hong Kong</td><td>2026-07-25</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Business Analyst, Member Engagement</td><td>Hong Kong</td><td>2026-07-26</td></tr>
+<tr><td>Me2Works</td><td>【全職】the Little Shop (利園分店) Client Sales Representative 顧客銷售代表【永久保證佣金+新人獎金$3,000】 At Executive / Personal Assistant / Customer Service</td><td>Hong Kong</td><td>2026-07-26</td></tr>
+<tr><td>Hong Kong Jockey Club -THE-</td><td>Part-time Administration Assistant(archives Team)</td><td>Hong Kong</td><td>2026-07-26</td></tr>
 </table>
