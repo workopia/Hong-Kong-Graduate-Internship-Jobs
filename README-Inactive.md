@@ -27,4 +27,19 @@
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Business Analyst, Member Engagement</td><td>Hong Kong</td><td>2026-07-26</td></tr>
 <tr><td>Me2Works</td><td>【全職】the Little Shop (利園分店) Client Sales Representative 顧客銷售代表【永久保證佣金+新人獎金$3,000】 At Executive / Personal Assistant / Customer Service</td><td>Hong Kong</td><td>2026-07-26</td></tr>
 <tr><td>Hong Kong Jockey Club -THE-</td><td>Part-time Administration Assistant(archives Team)</td><td>Hong Kong</td><td>2026-07-26</td></tr>
+<tr><td>ASTRI - Hong Kong Applied Science and Technology Research Institute Company Ltd</td><td>Engineer, Software</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>AIA Digital+</td><td>Engineer</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>Intact Insurance</td><td>Data Scientist I, Hk</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>Intact Financial Corporation</td><td>Data Scientist I, Hk</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>kerryprops</td><td>Ai Agent Developer (greater Bay Area Youth Employment Scheme)</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>Sun Life</td><td>Actuarial Internship 2027</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>FWD Group</td><td>Actuarial Internship (jun 2026 - Jan 2027)</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>AIA</td><td>Specialist - Record To Report</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>Prudential Corporation Asia Ltd</td><td>Actuarial Assistant, Pricing</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>Interactive Brokers Group, Inc.</td><td>Compliance Analyst - Fiu</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>COS</td><td>Part Time Sales Advisor - Temporary (harbour City)</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>SS&C Technologies</td><td>Executive Assistant</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>SS&C</td><td>Executive Assistant</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>Hong Kong Jockey Club -THE-</td><td>Part-time Administrative Assistant (payment Operations For Charities)</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>kerryprops</td><td>Administration Assistant (greater Bay Area Youth Employment Scheme)</td><td>Hong Kong</td><td>2026-07-27</td></tr>
 </table>

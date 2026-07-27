@@ -1,7 +1,19 @@
 {
- "asOf": "2026-07-26",
- "count": 170,
+ "asOf": "2026-07-27",
+ "count": 156,
  "jobs": {
+  "9470737a9987ae811a22e565ed0b690e": {
+   "id": "9470737a9987ae811a22e565ed0b690e",
+   "company": "CTF Services Ltd",
+   "role": "Intern, Risk Management",
+   "location": "Hong Kong"
+  },
+  "56626602280668f1dd2c0f2f6a12f3af": {
+   "id": "56626602280668f1dd2c0f2f6a12f3af",
+   "company": "AIA",
+   "role": "Agency, Intern",
+   "location": "Hong Kong"
+  },
   "1925287e966b4586eecea77fbb0a46ca": {
    "id": "1925287e966b4586eecea77fbb0a46ca",
    "company": "Plateral",
@@ -72,12 +84,6 @@
    "id": "34b905b70ab17119e81581a9a91c2a29",
    "company": "Teneo",
    "role": "Internship, Financial Advisory",
-   "location": "Hong Kong"
-  },
-  "9470737a9987ae811a22e565ed0b690e": {
-   "id": "9470737a9987ae811a22e565ed0b690e",
-   "company": "CTF Services Ltd",
-   "role": "Intern, Risk Management",
    "location": "Hong Kong"
   },
   "603e665cf9c37cd4cb2e16cf056489eb": {
@@ -428,18 +434,6 @@
    "role": "Application Development Pre Ae",
    "location": "Hong Kong"
   },
-  "5adf2651f76ee5c63d0ffa23e810e4fa": {
-   "id": "5adf2651f76ee5c63d0ffa23e810e4fa",
-   "company": "ASTRI - Hong Kong Applied Science and Technology Research Institute Company Ltd",
-   "role": "Engineer, Software",
-   "location": "Hong Kong"
-  },
-  "c9b7f664b10c025dc68d6f0db2e69c51": {
-   "id": "c9b7f664b10c025dc68d6f0db2e69c51",
-   "company": "AIA Digital+",
-   "role": "Engineer",
-   "location": "Hong Kong"
-  },
   "HRC1592692": {
    "id": "HRC1592692",
    "company": "Infineon",
@@ -468,24 +462,6 @@
    "id": "d71dc15de865921421ccd816d95c565b",
    "company": "Google",
    "role": "Customer Engineer, Practice Ai, Google Cloud",
-   "location": "Hong Kong"
-  },
-  "3bf845212cbd48ff90c7d812eaac387b": {
-   "id": "3bf845212cbd48ff90c7d812eaac387b",
-   "company": "Intact Insurance",
-   "role": "Data Scientist I, Hk",
-   "location": "Hong Kong"
-  },
-  "e30a3c88fc6f72149a2ebe2c348f1c76": {
-   "id": "e30a3c88fc6f72149a2ebe2c348f1c76",
-   "company": "Intact Financial Corporation",
-   "role": "Data Scientist I, Hk",
-   "location": "Hong Kong"
-  },
-  "b67b5f603b54ed641b0077af99d90238": {
-   "id": "b67b5f603b54ed641b0077af99d90238",
-   "company": "kerryprops",
-   "role": "Ai Agent Developer (greater Bay Area Youth Employment Scheme)",
    "location": "Hong Kong"
   },
   "2229dc3141540a682c8c9407e6ad3174": {
@@ -528,18 +504,6 @@
    "id": "2bf2722612dc696bc69789cea6a6f470",
    "company": "AIA Group",
    "role": "Aia Actuarial Internship Programme",
-   "location": "Hong Kong"
-  },
-  "34b00b0e10d622e9a47a088ef0135057": {
-   "id": "34b00b0e10d622e9a47a088ef0135057",
-   "company": "Sun Life",
-   "role": "Actuarial Internship 2027",
-   "location": "Hong Kong"
-  },
-  "32c2beeba03b2d0de05d8bf1568039fe": {
-   "id": "32c2beeba03b2d0de05d8bf1568039fe",
-   "company": "FWD Group",
-   "role": "Actuarial Internship (jun 2026 - Jan 2027)",
    "location": "Hong Kong"
   },
   "2eb586800f67131745674fa0ac65bef0": {
@@ -704,24 +668,6 @@
    "role": "Analyst - Actuarial",
    "location": "Hong Kong"
   },
-  "e80198fc889a0f358cb621458560a415": {
-   "id": "e80198fc889a0f358cb621458560a415",
-   "company": "AIA",
-   "role": "Specialist - Record To Report",
-   "location": "Hong Kong"
-  },
-  "9763fd01aea8eb02eb3b9e815d7b986c": {
-   "id": "9763fd01aea8eb02eb3b9e815d7b986c",
-   "company": "Prudential Corporation Asia Ltd",
-   "role": "Actuarial Assistant, Pricing",
-   "location": "Hong Kong"
-  },
-  "55fce8ada5902231ff64af3b808da2c4": {
-   "id": "55fce8ada5902231ff64af3b808da2c4",
-   "company": "Interactive Brokers Group, Inc.",
-   "role": "Compliance Analyst - Fiu",
-   "location": "Hong Kong"
-  },
   "33caa4b881bd80977c187fa2e2c885d5": {
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -840,12 +786,6 @@
    "id": "12de8f350506b6a44eae92b146c89c90",
    "company": "The Korner Limited",
    "role": "資深銷售員(多區選擇-需有相關工作經驗) At The Korner Limited",
-   "location": "Hong Kong"
-  },
-  "14e99b61b77eac9f5530655ed10d16f5": {
-   "id": "14e99b61b77eac9f5530655ed10d16f5",
-   "company": "COS",
-   "role": "Part Time Sales Advisor - Temporary (harbour City)",
    "location": "Hong Kong"
   },
   "3d424ee4686e8e43aaa469c88c7372ee": {
@@ -996,30 +936,6 @@
    "id": "6393c1190c8ccf470c0371d7a6364749",
    "company": "Marriott International",
    "role": "Administrative Assistant - Sales & Marketing",
-   "location": "Hong Kong"
-  },
-  "32a2d6fd32f48abe008dc7f1a03cfe14": {
-   "id": "32a2d6fd32f48abe008dc7f1a03cfe14",
-   "company": "SS&C Technologies",
-   "role": "Executive Assistant",
-   "location": "Hong Kong"
-  },
-  "e0f32ee79aa05129b95a678c0400aaad": {
-   "id": "e0f32ee79aa05129b95a678c0400aaad",
-   "company": "SS&C",
-   "role": "Executive Assistant",
-   "location": "Hong Kong"
-  },
-  "223d421c6c44f8671be70def81458739": {
-   "id": "223d421c6c44f8671be70def81458739",
-   "company": "Hong Kong Jockey Club -THE-",
-   "role": "Part-time Administrative Assistant (payment Operations For Charities)",
-   "location": "Hong Kong"
-  },
-  "bbccfdca81888930343d4af3f3127544": {
-   "id": "bbccfdca81888930343d4af3f3127544",
-   "company": "kerryprops",
-   "role": "Administration Assistant (greater Bay Area Youth Employment Scheme)",
    "location": "Hong Kong"
   }
  }
