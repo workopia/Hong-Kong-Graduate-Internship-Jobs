@@ -42,4 +42,9 @@
 <tr><td>SS&C</td><td>Executive Assistant</td><td>Hong Kong</td><td>2026-07-27</td></tr>
 <tr><td>Hong Kong Jockey Club -THE-</td><td>Part-time Administrative Assistant (payment Operations For Charities)</td><td>Hong Kong</td><td>2026-07-27</td></tr>
 <tr><td>kerryprops</td><td>Administration Assistant (greater Bay Area Youth Employment Scheme)</td><td>Hong Kong</td><td>2026-07-27</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Intern</td><td>Hong Kong</td><td>2026-07-28</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Summer Internship Programme 2026 [stem] - Information Technology</td><td>Hong Kong</td><td>2026-07-28</td></tr>
+<tr><td>AIA Australia Limited</td><td>Aia Actuarial Internship Programme</td><td>Hong Kong</td><td>2026-07-28</td></tr>
+<tr><td>AIA Group</td><td>Aia Actuarial Internship Programme</td><td>Hong Kong</td><td>2026-07-28</td></tr>
+<tr><td>The Korner Limited</td><td>資深銷售員(多區選擇-需有相關工作經驗) At The Korner Limited</td><td>Hong Kong</td><td>2026-07-28</td></tr>
 </table>

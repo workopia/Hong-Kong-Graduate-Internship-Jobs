@@ -1,7 +1,19 @@
 {
- "asOf": "2026-07-27",
- "count": 156,
+ "asOf": "2026-07-28",
+ "count": 155,
  "jobs": {
+  "4870c3f15396c4cb1a7159addb63f556": {
+   "id": "4870c3f15396c4cb1a7159addb63f556",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Summer Internship Programme 2026 [stem] - Information Technology",
+   "location": "Hong Kong"
+  },
+  "d616d25da85757e1f27fc576a990a7d7": {
+   "id": "d616d25da85757e1f27fc576a990a7d7",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Intern",
+   "location": "Hong Kong"
+  },
   "9470737a9987ae811a22e565ed0b690e": {
    "id": "9470737a9987ae811a22e565ed0b690e",
    "company": "CTF Services Ltd",
@@ -42,18 +54,6 @@
    "id": "09aa5a14335b90e99685236aee90ffcf",
    "company": "Me2Works",
    "role": "Human Resources Intern (part-time Or Full-time) At Zurich Insurance Company Ltd.",
-   "location": "Hong Kong"
-  },
-  "981809950bc8d13c964215a61d3b5974": {
-   "id": "981809950bc8d13c964215a61d3b5974",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Intern",
-   "location": "Hong Kong"
-  },
-  "5271aeeb075be4258258c66361ae6a70": {
-   "id": "5271aeeb075be4258258c66361ae6a70",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Summer Internship Programme 2026 [stem] - Information Technology",
    "location": "Hong Kong"
   },
   "6c6b8719b9a02dca5f58b9aad5280425": {
@@ -386,6 +386,12 @@
    "role": "Intern",
    "location": "Hong Kong"
   },
+  "784a59d2b4bf0a7e88ea6d43554ffc40": {
+   "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
+   "company": "IMC Trading",
+   "role": "Software Engineer - Tooling",
+   "location": "Hong Kong"
+  },
   "6143863e89c7c1406176829ce69556fc": {
    "id": "6143863e89c7c1406176829ce69556fc",
    "company": "IMC Trading",
@@ -494,22 +500,16 @@
    "role": "Actuarial Internship 2027",
    "location": "Hong Kong"
   },
-  "f84b2d4e5f30a513dabac3d4963e68af": {
-   "id": "f84b2d4e5f30a513dabac3d4963e68af",
-   "company": "AIA Australia Limited",
-   "role": "Aia Actuarial Internship Programme",
-   "location": "Hong Kong"
-  },
-  "2bf2722612dc696bc69789cea6a6f470": {
-   "id": "2bf2722612dc696bc69789cea6a6f470",
-   "company": "AIA Group",
-   "role": "Aia Actuarial Internship Programme",
-   "location": "Hong Kong"
-  },
   "2eb586800f67131745674fa0ac65bef0": {
    "id": "2eb586800f67131745674fa0ac65bef0",
    "company": "Flow Traders",
    "role": "Graduate Quant Trader",
+   "location": "Hong Kong"
+  },
+  "75d9acabaa99e430cb43b216fa49b367": {
+   "id": "75d9acabaa99e430cb43b216fa49b367",
+   "company": "Me2Works",
+   "role": "Finance Business Analyst / Hong Kong, Hk / In-office At Robert Walters Hong Kong",
    "location": "Hong Kong"
   },
   "f8b091eb9e8c7cc1a74d4c730d70eda6": {
@@ -780,12 +780,6 @@
    "id": "64e292f4b58aa874db0ee2a0bcb0b9ec",
    "company": "HBX",
    "role": "Personal Shopper",
-   "location": "Hong Kong"
-  },
-  "12de8f350506b6a44eae92b146c89c90": {
-   "id": "12de8f350506b6a44eae92b146c89c90",
-   "company": "The Korner Limited",
-   "role": "資深銷售員(多區選擇-需有相關工作經驗) At The Korner Limited",
    "location": "Hong Kong"
   },
   "3d424ee4686e8e43aaa469c88c7372ee": {
