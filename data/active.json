@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-28",
- "count": 155,
+ "asOf": "2026-07-29",
+ "count": 150,
  "jobs": {
   "4870c3f15396c4cb1a7159addb63f556": {
    "id": "4870c3f15396c4cb1a7159addb63f556",
@@ -380,12 +380,6 @@
    "role": "Finance Intern (jul - Dec 2026)",
    "location": "Hong Kong"
   },
-  "d23dd8c6371bc6893a85490eff2f3643": {
-   "id": "d23dd8c6371bc6893a85490eff2f3643",
-   "company": "Meiyume",
-   "role": "Intern",
-   "location": "Hong Kong"
-  },
   "784a59d2b4bf0a7e88ea6d43554ffc40": {
    "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
    "company": "IMC Trading",
@@ -432,12 +426,6 @@
    "id": "c0962dbe08bb97aabad0a3acb22b7ccc",
    "company": "Me2Works",
    "role": "Software Engineer (kdb+/q) - Up To 2,200,000 Hkd + Bonus + Benefits (hong Kong) At Hunter Bond",
-   "location": "Hong Kong"
-  },
-  "77fb6c06d4d2f1e1857868c0fe7627e3": {
-   "id": "77fb6c06d4d2f1e1857868c0fe7627e3",
-   "company": "Hong Kong Jockey Club -THE-",
-   "role": "Application Development Pre Ae",
    "location": "Hong Kong"
   },
   "HRC1592692": {
@@ -762,24 +750,6 @@
    "id": "d4b329434e42597247d0a38a8b723e98",
    "company": "Me2Works",
    "role": "(港珠澳橋 Hzmb) 兼職銷售助理 Part-time Sales Associate At The Nuance Group (hk) Limited",
-   "location": "Hong Kong"
-  },
-  "cda14eca3e0750774611b0d7b1fd8c7d": {
-   "id": "cda14eca3e0750774611b0d7b1fd8c7d",
-   "company": "PVH",
-   "role": "Sales Associate 售貨員 - Tommy Hilfiger",
-   "location": "Hong Kong"
-  },
-  "8eb3c570a30f2acbd4d9bdc2f4af4c70": {
-   "id": "8eb3c570a30f2acbd4d9bdc2f4af4c70",
-   "company": "Hypebeaststore",
-   "role": "Personal Shopper",
-   "location": "Hong Kong"
-  },
-  "64e292f4b58aa874db0ee2a0bcb0b9ec": {
-   "id": "64e292f4b58aa874db0ee2a0bcb0b9ec",
-   "company": "HBX",
-   "role": "Personal Shopper",
    "location": "Hong Kong"
   },
   "3d424ee4686e8e43aaa469c88c7372ee": {

@@ -47,4 +47,9 @@
 <tr><td>AIA Australia Limited</td><td>Aia Actuarial Internship Programme</td><td>Hong Kong</td><td>2026-07-28</td></tr>
 <tr><td>AIA Group</td><td>Aia Actuarial Internship Programme</td><td>Hong Kong</td><td>2026-07-28</td></tr>
 <tr><td>The Korner Limited</td><td>資深銷售員(多區選擇-需有相關工作經驗) At The Korner Limited</td><td>Hong Kong</td><td>2026-07-28</td></tr>
+<tr><td>Meiyume</td><td>Intern</td><td>Hong Kong</td><td>2026-07-29</td></tr>
+<tr><td>Hong Kong Jockey Club -THE-</td><td>Application Development Pre Ae</td><td>Hong Kong</td><td>2026-07-29</td></tr>
+<tr><td>PVH</td><td>Sales Associate 售貨員 - Tommy Hilfiger</td><td>Hong Kong</td><td>2026-07-29</td></tr>
+<tr><td>Hypebeaststore</td><td>Personal Shopper</td><td>Hong Kong</td><td>2026-07-29</td></tr>
+<tr><td>HBX</td><td>Personal Shopper</td><td>Hong Kong</td><td>2026-07-29</td></tr>
 </table>
