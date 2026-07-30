@@ -1,7 +1,13 @@
 {
- "asOf": "2026-07-29",
- "count": 150,
+ "asOf": "2026-07-30",
+ "count": 146,
  "jobs": {
+  "892e4f6b7ecaa1e0bbffa4ad9308269b": {
+   "id": "892e4f6b7ecaa1e0bbffa4ad9308269b",
+   "company": "MEDTRONIC",
+   "role": "Intern, Cardiovascular Team (12-month Contract; Part-time)",
+   "location": "Hong Kong"
+  },
   "4870c3f15396c4cb1a7159addb63f556": {
    "id": "4870c3f15396c4cb1a7159addb63f556",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -368,18 +374,6 @@
    "role": "Intern, Real Estate Sector Hong Kong",
    "location": "Hong Kong"
   },
-  "d3741421f5ed2875fdfeea9e16855363": {
-   "id": "d3741421f5ed2875fdfeea9e16855363",
-   "company": "Sunlife Com Hk",
-   "role": "Actuarial Intern (jul - Dec 2026)",
-   "location": "Hong Kong"
-  },
-  "be99e9841fc0e1412edca24ef11bbda4": {
-   "id": "be99e9841fc0e1412edca24ef11bbda4",
-   "company": "Sun Life Hong Kong",
-   "role": "Finance Intern (jul - Dec 2026)",
-   "location": "Hong Kong"
-  },
   "784a59d2b4bf0a7e88ea6d43554ffc40": {
    "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
    "company": "IMC Trading",
@@ -482,16 +476,16 @@
    "role": "Internship For Valuation Actuary",
    "location": "Hong Kong"
   },
-  "d88d57f32d7bea636955e9bfe3047f7a": {
-   "id": "d88d57f32d7bea636955e9bfe3047f7a",
-   "company": "Sun Life Hong Kong",
-   "role": "Actuarial Internship 2027",
-   "location": "Hong Kong"
-  },
   "2eb586800f67131745674fa0ac65bef0": {
    "id": "2eb586800f67131745674fa0ac65bef0",
    "company": "Flow Traders",
    "role": "Graduate Quant Trader",
+   "location": "Hong Kong"
+  },
+  "75e6015225a01cce33e8d06e08774c62": {
+   "id": "75e6015225a01cce33e8d06e08774c62",
+   "company": "Goldman Sachs",
+   "role": "Financial Crime Controls, Kyc & Edd, Associate, Hong Kong At Goldman Sachs",
    "location": "Hong Kong"
   },
   "75d9acabaa99e430cb43b216fa49b367": {
@@ -644,18 +638,6 @@
    "role": "Officer, Business Control Dept, Apd (hkg) - Operation Support & Control Group At Smbc Group",
    "location": "Hong Kong"
   },
-  "74fad177dc98c2ddfd3bfbeb90312c27": {
-   "id": "74fad177dc98c2ddfd3bfbeb90312c27",
-   "company": "Jpc Texson Ltd",
-   "role": "Business Analyst / Application Specialist (32k-35k X 13; Work-from-home 2 Days Per Week; Annual Leave 22 Days) – French Mnc Trading (kwun Tong) At Jpc Texson Ltd",
-   "location": "Hong Kong"
-  },
-  "156baf483b6b312a437f98a7a4f09abd": {
-   "id": "156baf483b6b312a437f98a7a4f09abd",
-   "company": "Sunlife Com Hk",
-   "role": "Analyst - Actuarial",
-   "location": "Hong Kong"
-  },
   "33caa4b881bd80977c187fa2e2c885d5": {
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -684,12 +666,6 @@
    "id": "28adeb9f9000a4e43d0c4cefeed5f60a",
    "company": "Otis Worldwide",
    "role": "助理技工",
-   "location": "Hong Kong"
-  },
-  "b095c52b6954a93bd2be271779558adb": {
-   "id": "b095c52b6954a93bd2be271779558adb",
-   "company": "Otisjob",
-   "role": "Technician Engineer",
    "location": "Hong Kong"
   },
   "035ff6032715c59661d549e1eedfba80": {

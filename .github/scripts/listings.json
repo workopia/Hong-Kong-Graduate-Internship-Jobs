@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-07-29",
+  "as_of": "2026-07-30",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 986,
-  "generated_at": "2026-07-29T00:44:20.322Z"
+  "country_live_total": 992,
+  "generated_at": "2026-07-30T00:53:23.651Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "892e4f6b7ecaa1e0bbffa4ad9308269b",
+   "source": "Workopia",
+   "company_name": "MEDTRONIC",
+   "company_hi_slug": "medtronic",
+   "title": "Intern, Cardiovascular Team (12-month Contract; Part-time)",
+   "location": "Hong Kong",
+   "skills": "Research support, Project coordination",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-29T12:17:12.112Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/892e4f6b7ecaa1e0bbffa4ad9308269b",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "4870c3f15396c4cb1a7159addb63f556",
@@ -1112,40 +1129,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "d3741421f5ed2875fdfeea9e16855363",
-   "source": "Workopia",
-   "company_name": "Sunlife Com Hk",
-   "company_hi_slug": "sunlife-com-hk",
-   "title": "Actuarial Intern (jul - Dec 2026)",
-   "location": "Hong Kong",
-   "skills": "Knowledge of IFRS 17 a, Understanding of risk ",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-30T06:04:27.204Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/d3741421f5ed2875fdfeea9e16855363",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "be99e9841fc0e1412edca24ef11bbda4",
-   "source": "Workopia",
-   "company_name": "Sun Life Hong Kong",
-   "company_hi_slug": "sun-life-hong-kong",
-   "title": "Finance Intern (jul - Dec 2026)",
-   "location": "Hong Kong",
-   "skills": "Full-time availability, University undergradua",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-30T06:04:27.204Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/be99e9841fc0e1412edca24ef11bbda4",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
    "source": "Workopia",
@@ -1435,23 +1418,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "d88d57f32d7bea636955e9bfe3047f7a",
-   "source": "Workopia",
-   "company_name": "Sun Life Hong Kong",
-   "company_hi_slug": "sun-life-hong-kong",
-   "title": "Actuarial Internship 2027",
-   "location": "Hong Kong",
-   "skills": "Year 2-4 student in Ac, Proficient in Microsof",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-30T06:04:27.882Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/d88d57f32d7bea636955e9bfe3047f7a",
-   "category": "finance",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "2eb586800f67131745674fa0ac65bef0",
    "source": "Workopia",
@@ -1467,6 +1433,23 @@
    "url": "https://workopia.io/jobs/2eb586800f67131745674fa0ac65bef0",
    "category": "finance",
    "tier": "Graduate"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "75e6015225a01cce33e8d06e08774c62",
+   "source": "Workopia",
+   "company_name": "Goldman Sachs",
+   "company_hi_slug": "goldman-sachs",
+   "title": "Financial Crime Controls, Kyc & Edd, Associate, Hong Kong At Goldman Sachs",
+   "location": "Hong Kong",
+   "skills": "KYC, EDD",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-28T17:48:05.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/75e6015225a01cce33e8d06e08774c62",
+   "category": "finance",
+   "tier": "Entry-level"
   },
   {
    "salary_display": "HK$20k–32k/mo*",
@@ -1894,40 +1877,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$32,000–35,000/mo",
-   "id": "74fad177dc98c2ddfd3bfbeb90312c27",
-   "source": "Workopia",
-   "company_name": "Jpc Texson Ltd",
-   "company_hi_slug": "jpc-texson-ltd",
-   "title": "Business Analyst / Application Specialist (32k-35k X 13; Work-from-home 2 Days Per Week; Annual Leave 22 Days) – French Mnc Trading (kwun Tong) At Jpc Texson Ltd",
-   "location": "Hong Kong",
-   "skills": "System configuration a, Business process mappi",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-31T00:20:38.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/74fad177dc98c2ddfd3bfbeb90312c27",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "156baf483b6b312a437f98a7a4f09abd",
-   "source": "Workopia",
-   "company_name": "Sunlife Com Hk",
-   "company_hi_slug": "sunlife-com-hk",
-   "title": "Analyst - Actuarial",
-   "location": "Hong Kong",
-   "skills": "Graduate or Postgradua, At least 2 actuarial e",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-30T06:04:25.288Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/156baf483b6b312a437f98a7a4f09abd",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": "HK$17k–19k/mo*",
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "source": "Workopia",
@@ -2009,23 +1958,6 @@
    "date_posted": "2026-06-06T08:51:03.823Z",
    "active": true,
    "url": "https://workopia.io/jobs/28adeb9f9000a4e43d0c4cefeed5f60a",
-   "category": "trades",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$15k–27k/mo*",
-   "id": "b095c52b6954a93bd2be271779558adb",
-   "source": "Workopia",
-   "company_name": "Otisjob",
-   "company_hi_slug": "otisjob",
-   "title": "Technician Engineer",
-   "location": "Hong Kong",
-   "skills": "Troubleshooting elevat, Electrical and mechani",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-05-30T05:32:23.843Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/b095c52b6954a93bd2be271779558adb",
    "category": "trades",
    "tier": "Entry-level"
   },

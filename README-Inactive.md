@@ -52,4 +52,10 @@
 <tr><td>PVH</td><td>Sales Associate 售貨員 - Tommy Hilfiger</td><td>Hong Kong</td><td>2026-07-29</td></tr>
 <tr><td>Hypebeaststore</td><td>Personal Shopper</td><td>Hong Kong</td><td>2026-07-29</td></tr>
 <tr><td>HBX</td><td>Personal Shopper</td><td>Hong Kong</td><td>2026-07-29</td></tr>
+<tr><td>Sunlife Com Hk</td><td>Actuarial Intern (jul - Dec 2026)</td><td>Hong Kong</td><td>2026-07-30</td></tr>
+<tr><td>Sun Life Hong Kong</td><td>Finance Intern (jul - Dec 2026)</td><td>Hong Kong</td><td>2026-07-30</td></tr>
+<tr><td>Sun Life Hong Kong</td><td>Actuarial Internship 2027</td><td>Hong Kong</td><td>2026-07-30</td></tr>
+<tr><td>Jpc Texson Ltd</td><td>Business Analyst / Application Specialist (32k-35k X 13; Work-from-home 2 Days Per Week; Annual Leave 22 Days) – French Mnc Trading (kwun Tong) At Jpc Texson Ltd</td><td>Hong Kong</td><td>2026-07-30</td></tr>
+<tr><td>Sunlife Com Hk</td><td>Analyst - Actuarial</td><td>Hong Kong</td><td>2026-07-30</td></tr>
+<tr><td>Otisjob</td><td>Technician Engineer</td><td>Hong Kong</td><td>2026-07-30</td></tr>
 </table>
