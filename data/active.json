@@ -1,23 +1,35 @@
 {
- "asOf": "2026-07-30",
- "count": 146,
+ "asOf": "2026-07-31",
+ "count": 148,
  "jobs": {
+  "22c54cce33ded734533deb707091f925": {
+   "id": "22c54cce33ded734533deb707091f925",
+   "company": "TD SYNNEX Accessboard",
+   "role": "Student Intern",
+   "location": "Millennium City"
+  },
   "892e4f6b7ecaa1e0bbffa4ad9308269b": {
    "id": "892e4f6b7ecaa1e0bbffa4ad9308269b",
    "company": "MEDTRONIC",
    "role": "Intern, Cardiovascular Team (12-month Contract; Part-time)",
    "location": "Hong Kong"
   },
-  "4870c3f15396c4cb1a7159addb63f556": {
-   "id": "4870c3f15396c4cb1a7159addb63f556",
+  "603e665cf9c37cd4cb2e16cf056489eb": {
+   "id": "603e665cf9c37cd4cb2e16cf056489eb",
    "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Summer Internship Programme 2026 [stem] - Information Technology",
+   "role": "Summer Internship Programme 2026 [stem] - Pccw Global",
    "location": "Hong Kong"
   },
-  "d616d25da85757e1f27fc576a990a7d7": {
-   "id": "d616d25da85757e1f27fc576a990a7d7",
+  "e3ae2bb78a0a60ffe05ac1b754394ccd": {
+   "id": "e3ae2bb78a0a60ffe05ac1b754394ccd",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Intern",
+   "location": "Hong Kong"
+  },
+  "5271aeeb075be4258258c66361ae6a70": {
+   "id": "5271aeeb075be4258258c66361ae6a70",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Summer Internship Programme 2026 [stem] - Information Technology",
    "location": "Hong Kong"
   },
   "9470737a9987ae811a22e565ed0b690e": {
@@ -90,12 +102,6 @@
    "id": "34b905b70ab17119e81581a9a91c2a29",
    "company": "Teneo",
    "role": "Internship, Financial Advisory",
-   "location": "Hong Kong"
-  },
-  "603e665cf9c37cd4cb2e16cf056489eb": {
-   "id": "603e665cf9c37cd4cb2e16cf056489eb",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Summer Internship Programme 2026 [stem] - Pccw Global",
    "location": "Hong Kong"
   },
   "6b80830662939e4bd21d16e72ce8ce3c": {
@@ -446,12 +452,6 @@
    "role": "Regional - Data Scientist",
    "location": "Hong Kong"
   },
-  "d71dc15de865921421ccd816d95c565b": {
-   "id": "d71dc15de865921421ccd816d95c565b",
-   "company": "Google",
-   "role": "Customer Engineer, Practice Ai, Google Cloud",
-   "location": "Hong Kong"
-  },
   "2229dc3141540a682c8c9407e6ad3174": {
    "id": "2229dc3141540a682c8c9407e6ad3174",
    "company": "Barclays",
@@ -482,6 +482,18 @@
    "role": "Graduate Quant Trader",
    "location": "Hong Kong"
   },
+  "aef0e01cb0bec3d1edb18e1fd321d304": {
+   "id": "aef0e01cb0bec3d1edb18e1fd321d304",
+   "company": "Me2Works",
+   "role": "Marketing Actuary, Life & Health - Hong Kong At Scor",
+   "location": "Hong Kong"
+  },
+  "6545d143e6d7efea6ca0e41667762609": {
+   "id": "6545d143e6d7efea6ca0e41667762609",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Business Analyst, Member Engagement",
+   "location": "Hong Kong"
+  },
   "75e6015225a01cce33e8d06e08774c62": {
    "id": "75e6015225a01cce33e8d06e08774c62",
    "company": "Goldman Sachs",
@@ -492,12 +504,6 @@
    "id": "75d9acabaa99e430cb43b216fa49b367",
    "company": "Me2Works",
    "role": "Finance Business Analyst / Hong Kong, Hk / In-office At Robert Walters Hong Kong",
-   "location": "Hong Kong"
-  },
-  "f8b091eb9e8c7cc1a74d4c730d70eda6": {
-   "id": "f8b091eb9e8c7cc1a74d4c730d70eda6",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Business Analyst, Member Engagement",
    "location": "Hong Kong"
   },
   "bfd80f89ec854d4a936812e63f70e37b": {
@@ -638,8 +644,8 @@
    "role": "Officer, Business Control Dept, Apd (hkg) - Operation Support & Control Group At Smbc Group",
    "location": "Hong Kong"
   },
-  "33caa4b881bd80977c187fa2e2c885d5": {
-   "id": "33caa4b881bd80977c187fa2e2c885d5",
+  "0c7f9a1dcab217f88e68c5c0759d4e2d": {
+   "id": "0c7f9a1dcab217f88e68c5c0759d4e2d",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
    "location": "Hong Kong"
@@ -732,6 +738,12 @@
    "id": "3d424ee4686e8e43aaa469c88c7372ee",
    "company": "Lululemon",
    "role": "Full Time- Educator (Sales Associate) / Times Square",
+   "location": "Hong Kong"
+  },
+  "0e60e50fa270a207bb41df04c87dcc19": {
+   "id": "0e60e50fa270a207bb41df04c87dcc19",
+   "company": "Jll Com Sg",
+   "role": "Customer Service Assistant",
    "location": "Hong Kong"
   },
   "dd31174fa166c2945bcf32fc0b14a194": {

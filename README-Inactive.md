@@ -58,4 +58,9 @@
 <tr><td>Jpc Texson Ltd</td><td>Business Analyst / Application Specialist (32k-35k X 13; Work-from-home 2 Days Per Week; Annual Leave 22 Days) – French Mnc Trading (kwun Tong) At Jpc Texson Ltd</td><td>Hong Kong</td><td>2026-07-30</td></tr>
 <tr><td>Sunlife Com Hk</td><td>Analyst - Actuarial</td><td>Hong Kong</td><td>2026-07-30</td></tr>
 <tr><td>Otisjob</td><td>Technician Engineer</td><td>Hong Kong</td><td>2026-07-30</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Summer Internship Programme 2026 [stem] - Information Technology</td><td>Hong Kong</td><td>2026-07-31</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Intern</td><td>Hong Kong</td><td>2026-07-31</td></tr>
+<tr><td>Google</td><td>Customer Engineer, Practice Ai, Google Cloud</td><td>Hong Kong</td><td>2026-07-31</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Business Analyst, Member Engagement</td><td>Hong Kong</td><td>2026-07-31</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-07-31</td></tr>
 </table>
