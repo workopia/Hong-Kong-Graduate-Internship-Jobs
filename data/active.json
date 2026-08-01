@@ -1,23 +1,35 @@
 {
- "asOf": "2026-07-31",
- "count": 148,
+ "asOf": "2026-08-01",
+ "count": 150,
  "jobs": {
+  "3e309209c21ebde2cca5a6fa52c6679d": {
+   "id": "3e309209c21ebde2cca5a6fa52c6679d",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Summer Internship Programme 2026 [stem] - Pccw Global",
+   "location": "Hong Kong"
+  },
   "22c54cce33ded734533deb707091f925": {
    "id": "22c54cce33ded734533deb707091f925",
    "company": "TD SYNNEX Accessboard",
    "role": "Student Intern",
    "location": "Millennium City"
   },
+  "c979b9b04ae6740ae357f997e810c9ae": {
+   "id": "c979b9b04ae6740ae357f997e810c9ae",
+   "company": "Mercer",
+   "role": "Intern - Retirement (pension) Consulting (6-months Internship)",
+   "location": "Hong Kong"
+  },
+  "d8f116eadda8bf0a5e4c01abdc9083d9": {
+   "id": "d8f116eadda8bf0a5e4c01abdc9083d9",
+   "company": "Knorr-Bremse",
+   "role": "Hr Student Intern",
+   "location": "Hong Kong"
+  },
   "892e4f6b7ecaa1e0bbffa4ad9308269b": {
    "id": "892e4f6b7ecaa1e0bbffa4ad9308269b",
    "company": "MEDTRONIC",
    "role": "Intern, Cardiovascular Team (12-month Contract; Part-time)",
-   "location": "Hong Kong"
-  },
-  "603e665cf9c37cd4cb2e16cf056489eb": {
-   "id": "603e665cf9c37cd4cb2e16cf056489eb",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Summer Internship Programme 2026 [stem] - Pccw Global",
    "location": "Hong Kong"
   },
   "e3ae2bb78a0a60ffe05ac1b754394ccd": {
@@ -30,6 +42,12 @@
    "id": "5271aeeb075be4258258c66361ae6a70",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Summer Internship Programme 2026 [stem] - Information Technology",
+   "location": "Hong Kong"
+  },
+  "31d20d71db450b6c9556d176ef4e7a94": {
+   "id": "31d20d71db450b6c9556d176ef4e7a94",
+   "company": "Medtronic Diabetes",
+   "role": "Intern, Cardiovascular Team (12-month Contract; Part-time)",
    "location": "Hong Kong"
   },
   "9470737a9987ae811a22e565ed0b690e": {
@@ -78,12 +96,6 @@
    "id": "6c6b8719b9a02dca5f58b9aad5280425",
    "company": "Chow Tai Fook",
    "role": "Summer Intern, People & Culture",
-   "location": "Hong Kong"
-  },
-  "c979b9b04ae6740ae357f997e810c9ae": {
-   "id": "c979b9b04ae6740ae357f997e810c9ae",
-   "company": "Mercer",
-   "role": "Intern - Retirement (pension) Consulting (6-months Internship)",
    "location": "Hong Kong"
   },
   "fe943d3d85ed8494de9f85098ff173a0": {
@@ -638,14 +650,8 @@
    "role": "Accountant, Treasury",
    "location": "Hong Kong"
   },
-  "056c4b58c6acf098d4202c21612a2f00": {
-   "id": "056c4b58c6acf098d4202c21612a2f00",
-   "company": "Me2Works",
-   "role": "Officer, Business Control Dept, Apd (hkg) - Operation Support & Control Group At Smbc Group",
-   "location": "Hong Kong"
-  },
-  "0c7f9a1dcab217f88e68c5c0759d4e2d": {
-   "id": "0c7f9a1dcab217f88e68c5c0759d4e2d",
+  "33caa4b881bd80977c187fa2e2c885d5": {
+   "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
    "location": "Hong Kong"
@@ -728,12 +734,6 @@
    "role": "Full Time Sales Advisor (pacific Place, Admiralty)",
    "location": "Hong Kong"
   },
-  "d4b329434e42597247d0a38a8b723e98": {
-   "id": "d4b329434e42597247d0a38a8b723e98",
-   "company": "Me2Works",
-   "role": "(港珠澳橋 Hzmb) 兼職銷售助理 Part-time Sales Associate At The Nuance Group (hk) Limited",
-   "location": "Hong Kong"
-  },
   "3d424ee4686e8e43aaa469c88c7372ee": {
    "id": "3d424ee4686e8e43aaa469c88c7372ee",
    "company": "Lululemon",
@@ -743,6 +743,18 @@
   "0e60e50fa270a207bb41df04c87dcc19": {
    "id": "0e60e50fa270a207bb41df04c87dcc19",
    "company": "Jll Com Sg",
+   "role": "Customer Service Assistant",
+   "location": "Hong Kong"
+  },
+  "c4e8545118498ec0edce42da951a2b7f": {
+   "id": "c4e8545118498ec0edce42da951a2b7f",
+   "company": "Building Engines",
+   "role": "Customer Service Assistant",
+   "location": "Hong Kong"
+  },
+  "c8dd37b5717054c763611a6979c78444": {
+   "id": "c8dd37b5717054c763611a6979c78444",
+   "company": "JLL UK",
    "role": "Customer Service Assistant",
    "location": "Hong Kong"
   },

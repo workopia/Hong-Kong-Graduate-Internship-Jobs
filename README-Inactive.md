@@ -63,4 +63,8 @@
 <tr><td>Google</td><td>Customer Engineer, Practice Ai, Google Cloud</td><td>Hong Kong</td><td>2026-07-31</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Business Analyst, Member Engagement</td><td>Hong Kong</td><td>2026-07-31</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-07-31</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Summer Internship Programme 2026 [stem] - Pccw Global</td><td>Hong Kong</td><td>2026-08-01</td></tr>
+<tr><td>Me2Works</td><td>Officer, Business Control Dept, Apd (hkg) - Operation Support & Control Group At Smbc Group</td><td>Hong Kong</td><td>2026-08-01</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-08-01</td></tr>
+<tr><td>Me2Works</td><td>(港珠澳橋 Hzmb) 兼職銷售助理 Part-time Sales Associate At The Nuance Group (hk) Limited</td><td>Hong Kong</td><td>2026-08-01</td></tr>
 </table>
