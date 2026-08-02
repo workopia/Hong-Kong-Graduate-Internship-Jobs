@@ -67,4 +67,13 @@
 <tr><td>Me2Works</td><td>Officer, Business Control Dept, Apd (hkg) - Operation Support & Control Group At Smbc Group</td><td>Hong Kong</td><td>2026-08-01</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-08-01</td></tr>
 <tr><td>Me2Works</td><td>(港珠澳橋 Hzmb) 兼職銷售助理 Part-time Sales Associate At The Nuance Group (hk) Limited</td><td>Hong Kong</td><td>2026-08-01</td></tr>
+<tr><td>CHUN WO DEVELOPMENT HOLDINGS Ltd</td><td>Internship</td><td>HK</td><td>2026-08-02</td></tr>
+<tr><td>United Overseas Bank</td><td>Summer Intern, Compliance/regulatory Compliance</td><td>Hong Kong</td><td>2026-08-02</td></tr>
+<tr><td>English Schools Foundation</td><td>Esf Human Resources Information Systems Intern (immediately Available) - Esf Centre At English Schools Foundation</td><td>Hong Kong</td><td>2026-08-02</td></tr>
+<tr><td>UOB Group</td><td>Summer Intern, Commercial Banking</td><td>Hong Kong</td><td>2026-08-02</td></tr>
+<tr><td>ING</td><td>Intern, Transaction Services Hong Kong</td><td>Hong Kong</td><td>2026-08-02</td></tr>
+<tr><td>ING</td><td>Intern, Real Estate Sector Hong Kong</td><td>Hong Kong</td><td>2026-08-02</td></tr>
+<tr><td>DKSH Corporate Shared Services Center Sdn Bhd</td><td>Accountant, Treasury</td><td>Hong Kong</td><td>2026-08-02</td></tr>
+<tr><td>COS</td><td>Full Time Sales Advisor (pacific Place, Admiralty)</td><td>Hong Kong</td><td>2026-08-02</td></tr>
+<tr><td>Marriott International</td><td>Administrative Assistant - Sales & Marketing</td><td>Hong Kong</td><td>2026-08-02</td></tr>
 </table>

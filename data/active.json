@@ -1,7 +1,13 @@
 {
- "asOf": "2026-08-01",
- "count": 150,
+ "asOf": "2026-08-02",
+ "count": 145,
  "jobs": {
+  "507259e8f35d7ef8e74af928b3e12ee8": {
+   "id": "507259e8f35d7ef8e74af928b3e12ee8",
+   "company": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
+   "role": "Internship",
+   "location": "Hong Kong"
+  },
   "3e309209c21ebde2cca5a6fa52c6679d": {
    "id": "3e309209c21ebde2cca5a6fa52c6679d",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -67,12 +73,6 @@
    "company": "Plateral",
    "role": "Off-cycle Intern - Financial Restructuring, Hong Kong",
    "location": "Hong Kong"
-  },
-  "45701019344bda4bcae22225234a2071": {
-   "id": "45701019344bda4bcae22225234a2071",
-   "company": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
-   "role": "Internship",
-   "location": "HK"
   },
   "a54ccb907c8ac2648467830f5c880ec6": {
    "id": "a54ccb907c8ac2648467830f5c880ec6",
@@ -362,36 +362,6 @@
    "role": "Intern (legal, 6-12 Months)",
    "location": "Hong Kong"
   },
-  "8d05d0ff237682123691b3d0034c831b": {
-   "id": "8d05d0ff237682123691b3d0034c831b",
-   "company": "United Overseas Bank",
-   "role": "Summer Intern, Compliance/regulatory Compliance",
-   "location": "Hong Kong"
-  },
-  "6a6b0d10894cd0f520147d30e6fb621f": {
-   "id": "6a6b0d10894cd0f520147d30e6fb621f",
-   "company": "English Schools Foundation",
-   "role": "Esf Human Resources Information Systems Intern (immediately Available) - Esf Centre At English Schools Foundation",
-   "location": "Hong Kong"
-  },
-  "e6d6a148d4c4a35f86543bbd19e812a3": {
-   "id": "e6d6a148d4c4a35f86543bbd19e812a3",
-   "company": "UOB Group",
-   "role": "Summer Intern, Commercial Banking",
-   "location": "Hong Kong"
-  },
-  "9502244e8c5756b8e6f29d844becffea": {
-   "id": "9502244e8c5756b8e6f29d844becffea",
-   "company": "ING",
-   "role": "Intern, Transaction Services Hong Kong",
-   "location": "Hong Kong"
-  },
-  "b04fa430599e43e17e744c085062a497": {
-   "id": "b04fa430599e43e17e744c085062a497",
-   "company": "ING",
-   "role": "Intern, Real Estate Sector Hong Kong",
-   "location": "Hong Kong"
-  },
   "784a59d2b4bf0a7e88ea6d43554ffc40": {
    "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
    "company": "IMC Trading",
@@ -492,6 +462,24 @@
    "id": "2eb586800f67131745674fa0ac65bef0",
    "company": "Flow Traders",
    "role": "Graduate Quant Trader",
+   "location": "Hong Kong"
+  },
+  "91eb01bf0b54015366ad1bca643336bd": {
+   "id": "91eb01bf0b54015366ad1bca643336bd",
+   "company": "wintermute-agent.site",
+   "role": "Prediction Markets Trader",
+   "location": "Hong Kong"
+  },
+  "bfa132907ab9354a23cfcce7fd625782": {
+   "id": "bfa132907ab9354a23cfcce7fd625782",
+   "company": "Wmotc",
+   "role": "Prediction Markets Trader",
+   "location": "Hong Kong"
+  },
+  "a038d14a9011386be3f44fe2e221efc4": {
+   "id": "a038d14a9011386be3f44fe2e221efc4",
+   "company": "Winmutetrading",
+   "role": "Prediction Markets Trader",
    "location": "Hong Kong"
   },
   "aef0e01cb0bec3d1edb18e1fd321d304": {
@@ -644,12 +632,6 @@
    "role": "Membership Business Analyst",
    "location": "Hong Kong"
   },
-  "cd820f472113ba12b0e5c491d2231e54": {
-   "id": "cd820f472113ba12b0e5c491d2231e54",
-   "company": "DKSH Corporate Shared Services Center Sdn Bhd",
-   "role": "Accountant, Treasury",
-   "location": "Hong Kong"
-  },
   "33caa4b881bd80977c187fa2e2c885d5": {
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -728,16 +710,16 @@
    "role": "Pomellato Sales Associate",
    "location": "Hong Kong"
   },
-  "7821367bb61bf86972282e67a1a5352d": {
-   "id": "7821367bb61bf86972282e67a1a5352d",
-   "company": "COS",
-   "role": "Full Time Sales Advisor (pacific Place, Admiralty)",
-   "location": "Hong Kong"
-  },
   "3d424ee4686e8e43aaa469c88c7372ee": {
    "id": "3d424ee4686e8e43aaa469c88c7372ee",
    "company": "Lululemon",
    "role": "Full Time- Educator (Sales Associate) / Times Square",
+   "location": "Hong Kong"
+  },
+  "056cfe8a848b4df2cfd02b8401986506": {
+   "id": "056cfe8a848b4df2cfd02b8401986506",
+   "company": "Hong Kong Jockey Club -THE-",
+   "role": "Part-time Administrative Assistant",
    "location": "Hong Kong"
   },
   "0e60e50fa270a207bb41df04c87dcc19": {
@@ -786,12 +768,6 @@
    "id": "ce5be5174f7c0223d452054e93c3d290",
    "company": "Ernst & Young",
    "role": "Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong",
-   "location": "Hong Kong"
-  },
-  "056cfe8a848b4df2cfd02b8401986506": {
-   "id": "056cfe8a848b4df2cfd02b8401986506",
-   "company": "Hong Kong Jockey Club -THE-",
-   "role": "Part-time Administrative Assistant",
    "location": "Hong Kong"
   },
   "c05a7fd26dbe939f079722131612290e": {
@@ -894,12 +870,6 @@
    "id": "950888c88c160a9bf85b370b7d170edc",
    "company": "Marriott International",
    "role": "Executive Assistant - Hotel Operations",
-   "location": "Hong Kong"
-  },
-  "6393c1190c8ccf470c0371d7a6364749": {
-   "id": "6393c1190c8ccf470c0371d7a6364749",
-   "company": "Marriott International",
-   "role": "Administrative Assistant - Sales & Marketing",
    "location": "Hong Kong"
   }
  }
