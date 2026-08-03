@@ -76,4 +76,8 @@
 <tr><td>DKSH Corporate Shared Services Center Sdn Bhd</td><td>Accountant, Treasury</td><td>Hong Kong</td><td>2026-08-02</td></tr>
 <tr><td>COS</td><td>Full Time Sales Advisor (pacific Place, Admiralty)</td><td>Hong Kong</td><td>2026-08-02</td></tr>
 <tr><td>Marriott International</td><td>Administrative Assistant - Sales & Marketing</td><td>Hong Kong</td><td>2026-08-02</td></tr>
+<tr><td>Chow Tai Fook</td><td>Summer Intern, People & Culture</td><td>Hong Kong</td><td>2026-08-03</td></tr>
+<tr><td>Nomura International PLC</td><td>Associate, Quantitative Strategist</td><td>Hong Kong</td><td>2026-08-03</td></tr>
+<tr><td>CICC</td><td>Compliance Officer (aml Team) At Cicc</td><td>Hong Kong</td><td>2026-08-03</td></tr>
+<tr><td>Hong Kong Jockey Club -THE-</td><td>Membership Business Analyst</td><td>Hong Kong</td><td>2026-08-03</td></tr>
 </table>

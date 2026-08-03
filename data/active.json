@@ -1,7 +1,19 @@
 {
- "asOf": "2026-08-02",
+ "asOf": "2026-08-03",
  "count": 145,
  "jobs": {
+  "bc4750c6f2f2da14eb4c249a4eb7d425": {
+   "id": "bc4750c6f2f2da14eb4c249a4eb7d425",
+   "company": "Chow Tai Fook",
+   "role": "Summer Intern, People & Culture",
+   "location": "Hong Kong"
+  },
+  "43ccc0529961755dc9860f67e8ed97bf": {
+   "id": "43ccc0529961755dc9860f67e8ed97bf",
+   "company": "Freshfields Bruckhaus Deringer",
+   "role": "Hong Kong Summer Internship Programme (2027)",
+   "location": "Hong Kong"
+  },
   "507259e8f35d7ef8e74af928b3e12ee8": {
    "id": "507259e8f35d7ef8e74af928b3e12ee8",
    "company": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
@@ -90,12 +102,6 @@
    "id": "09aa5a14335b90e99685236aee90ffcf",
    "company": "Me2Works",
    "role": "Human Resources Intern (part-time Or Full-time) At Zurich Insurance Company Ltd.",
-   "location": "Hong Kong"
-  },
-  "6c6b8719b9a02dca5f58b9aad5280425": {
-   "id": "6c6b8719b9a02dca5f58b9aad5280425",
-   "company": "Chow Tai Fook",
-   "role": "Summer Intern, People & Culture",
    "location": "Hong Kong"
   },
   "fe943d3d85ed8494de9f85098ff173a0": {
@@ -464,6 +470,12 @@
    "role": "Graduate Quant Trader",
    "location": "Hong Kong"
   },
+  "2766d7094c78f5b5bb8e90748b9ef5ae": {
+   "id": "2766d7094c78f5b5bb8e90748b9ef5ae",
+   "company": "Nomura International PLC",
+   "role": "Associate, Quantitative Strategist",
+   "location": "Hong Kong"
+  },
   "91eb01bf0b54015366ad1bca643336bd": {
    "id": "91eb01bf0b54015366ad1bca643336bd",
    "company": "wintermute-agent.site",
@@ -479,6 +491,12 @@
   "a038d14a9011386be3f44fe2e221efc4": {
    "id": "a038d14a9011386be3f44fe2e221efc4",
    "company": "Winmutetrading",
+   "role": "Prediction Markets Trader",
+   "location": "Hong Kong"
+  },
+  "7347881a53bc4977a2402f67f1c24e9b": {
+   "id": "7347881a53bc4977a2402f67f1c24e9b",
+   "company": "Wintermute Corporation",
    "role": "Prediction Markets Trader",
    "location": "Hong Kong"
   },
@@ -516,12 +534,6 @@
    "id": "fa2f75b9ffb3887b23a11b8aaf54e81d",
    "company": "Me2Works",
    "role": "Accountant (global Scope) At Lalamove",
-   "location": "Hong Kong"
-  },
-  "f4934fb9a65c15dc972628ba51c51e19": {
-   "id": "f4934fb9a65c15dc972628ba51c51e19",
-   "company": "Nomura International PLC",
-   "role": "Associate, Quantitative Strategist",
    "location": "Hong Kong"
   },
   "5cc0263723303697cef3471ac7a5bb1e": {
@@ -620,18 +632,6 @@
    "role": "Fixed Income Compliance - Vice President",
    "location": "Hong Kong"
   },
-  "a9ad9b0a72bf46413cbde4e6120fcad3": {
-   "id": "a9ad9b0a72bf46413cbde4e6120fcad3",
-   "company": "CICC",
-   "role": "Compliance Officer (aml Team) At Cicc",
-   "location": "Hong Kong"
-  },
-  "fe53c5f08a3ce0a4ea40e6db04d5e03f": {
-   "id": "fe53c5f08a3ce0a4ea40e6db04d5e03f",
-   "company": "Hong Kong Jockey Club -THE-",
-   "role": "Membership Business Analyst",
-   "location": "Hong Kong"
-  },
   "33caa4b881bd80977c187fa2e2c885d5": {
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -716,6 +716,12 @@
    "role": "Full Time- Educator (Sales Associate) / Times Square",
    "location": "Hong Kong"
   },
+  "46f72d22a8d6f5df968815a613fa3c0b": {
+   "id": "46f72d22a8d6f5df968815a613fa3c0b",
+   "company": "Hang Lung Properties Ltd",
+   "role": "Officer (administration And Documentation Support)",
+   "location": "Hong Kong"
+  },
   "056cfe8a848b4df2cfd02b8401986506": {
    "id": "056cfe8a848b4df2cfd02b8401986506",
    "company": "Hong Kong Jockey Club -THE-",
@@ -745,12 +751,6 @@
    "company": "BOUYGUES CONSTRUCTION IT SNC",
    "role": "Assistant Foreman",
    "location": "Kwun Tong District"
-  },
-  "46f72d22a8d6f5df968815a613fa3c0b": {
-   "id": "46f72d22a8d6f5df968815a613fa3c0b",
-   "company": "Hang Lung Properties Ltd",
-   "role": "Officer (administration And Documentation Support)",
-   "location": "Hong Kong"
   },
   "bee7e5def4046379c440059dc74768be": {
    "id": "bee7e5def4046379c440059dc74768be",
