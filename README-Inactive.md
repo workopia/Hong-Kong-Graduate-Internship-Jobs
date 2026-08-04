@@ -80,4 +80,6 @@
 <tr><td>Nomura International PLC</td><td>Associate, Quantitative Strategist</td><td>Hong Kong</td><td>2026-08-03</td></tr>
 <tr><td>CICC</td><td>Compliance Officer (aml Team) At Cicc</td><td>Hong Kong</td><td>2026-08-03</td></tr>
 <tr><td>Hong Kong Jockey Club -THE-</td><td>Membership Business Analyst</td><td>Hong Kong</td><td>2026-08-03</td></tr>
+<tr><td>Morgan Stanley UK</td><td>Fixed Income Compliance - Vice President</td><td>Hong Kong</td><td>2026-08-04</td></tr>
+<tr><td>Marriott International</td><td>Executive Assistant - Hotel Operations</td><td>Hong Kong</td><td>2026-08-04</td></tr>
 </table>

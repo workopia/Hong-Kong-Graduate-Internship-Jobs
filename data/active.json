@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-03",
- "count": 145,
+ "asOf": "2026-08-04",
+ "count": 143,
  "jobs": {
   "bc4750c6f2f2da14eb4c249a4eb7d425": {
    "id": "bc4750c6f2f2da14eb4c249a4eb7d425",
@@ -626,12 +626,6 @@
    "role": "Compliance Officer/ Money Laundering Reporting Officer (co/mlro)",
    "location": "Hong Kong"
   },
-  "77d7d48ac4443c24a95346417c9bc003": {
-   "id": "77d7d48ac4443c24a95346417c9bc003",
-   "company": "Morgan Stanley UK",
-   "role": "Fixed Income Compliance - Vice President",
-   "location": "Hong Kong"
-  },
   "33caa4b881bd80977c187fa2e2c885d5": {
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -864,12 +858,6 @@
    "id": "2e3c2fc10f1b7b293b7a85a54217b491",
    "company": "Chubb",
    "role": "Temporary Administration Assistant (6 Months Contract)",
-   "location": "Hong Kong"
-  },
-  "950888c88c160a9bf85b370b7d170edc": {
-   "id": "950888c88c160a9bf85b370b7d170edc",
-   "company": "Marriott International",
-   "role": "Executive Assistant - Hotel Operations",
    "location": "Hong Kong"
   }
  }

@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-08-03",
+  "as_of": "2026-08-04",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1006,
-  "generated_at": "2026-08-03T01:08:58.869Z"
+  "country_live_total": 1007,
+  "generated_at": "2026-08-04T00:56:27.436Z"
  },
  "categories": [
   {
@@ -1843,23 +1843,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "77d7d48ac4443c24a95346417c9bc003",
-   "source": "Workopia",
-   "company_name": "Morgan Stanley UK",
-   "company_hi_slug": "morgan-stanley",
-   "title": "Fixed Income Compliance - Vice President",
-   "location": "Hong Kong",
-   "skills": "Fluency in English and, Knowledge of Asian reg",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-04T08:40:05.403Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/77d7d48ac4443c24a95346417c9bc003",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": "HK$17k–19k/mo*",
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "source": "Workopia",
@@ -2519,23 +2502,6 @@
    "date_posted": "2026-06-08T23:46:03.476Z",
    "active": true,
    "url": "https://workopia.io/jobs/2e3c2fc10f1b7b293b7a85a54217b491",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$18k–26k/mo*",
-   "id": "950888c88c160a9bf85b370b7d170edc",
-   "source": "Workopia",
-   "company_name": "Marriott International",
-   "company_hi_slug": "marriott-international",
-   "title": "Executive Assistant - Hotel Operations",
-   "location": "Hong Kong",
-   "skills": "Computer databases, Office equipment",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-05T00:00:00.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/950888c88c160a9bf85b370b7d170edc",
    "category": "admin",
    "tier": "Entry-level"
   }
