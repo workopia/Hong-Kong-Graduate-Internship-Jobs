@@ -1,7 +1,19 @@
 {
- "asOf": "2026-08-04",
- "count": 143,
+ "asOf": "2026-08-05",
+ "count": 140,
  "jobs": {
+  "bcf5482d59a505da4d065883eb1ada17": {
+   "id": "bcf5482d59a505da4d065883eb1ada17",
+   "company": "MARSH MCLENNAN",
+   "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
+   "location": "Taikoo"
+  },
+  "3fa815b146cab7d89408a740e83038d2": {
+   "id": "3fa815b146cab7d89408a740e83038d2",
+   "company": "itinfinance.nl",
+   "role": "Intern, Transaction Services Hong Kong",
+   "location": "Hong Kong"
+  },
   "bc4750c6f2f2da14eb4c249a4eb7d425": {
    "id": "bc4750c6f2f2da14eb4c249a4eb7d425",
    "company": "Chow Tai Fook",
@@ -362,12 +374,6 @@
    "role": "Summer Internship",
    "location": "Hong Kong"
   },
-  "52cd2ae8d1ce2b64e3de998db0358dde": {
-   "id": "52cd2ae8d1ce2b64e3de998db0358dde",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Intern (legal, 6-12 Months)",
-   "location": "Hong Kong"
-  },
   "784a59d2b4bf0a7e88ea6d43554ffc40": {
    "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
    "company": "IMC Trading",
@@ -462,12 +468,6 @@
    "id": "81443a5a18efd502891944241eb8dde6",
    "company": "Sunlife Com Hk",
    "role": "Internship For Valuation Actuary",
-   "location": "Hong Kong"
-  },
-  "2eb586800f67131745674fa0ac65bef0": {
-   "id": "2eb586800f67131745674fa0ac65bef0",
-   "company": "Flow Traders",
-   "role": "Graduate Quant Trader",
    "location": "Hong Kong"
   },
   "2766d7094c78f5b5bb8e90748b9ef5ae": {
@@ -606,24 +606,6 @@
    "id": "2e526e509be97b582b7f06ff77aa5bc1",
    "company": "Morgan Stanley",
    "role": "Fixed Income Compliance - Vice President",
-   "location": "Hong Kong"
-  },
-  "368e634a4b151bb4753318427802b925": {
-   "id": "368e634a4b151bb4753318427802b925",
-   "company": "Milliman",
-   "role": "Actuarial Associate-hong Kong Special Adm Region- Hkg",
-   "location": "Hong Kong"
-  },
-  "e23471ae03dfdd45e19ac9f90f60da92": {
-   "id": "e23471ae03dfdd45e19ac9f90f60da92",
-   "company": "Hyphen Connect",
-   "role": "Compliance Officer/ Money Laundering Reporting Officer (co/mlro)",
-   "location": "Hong Kong"
-  },
-  "9d15a783cab98971aa8235fda8ccfa71": {
-   "id": "9d15a783cab98971aa8235fda8ccfa71",
-   "company": "Hyphen Partners",
-   "role": "Compliance Officer/ Money Laundering Reporting Officer (co/mlro)",
    "location": "Hong Kong"
   },
   "33caa4b881bd80977c187fa2e2c885d5": {

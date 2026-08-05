@@ -82,4 +82,9 @@
 <tr><td>Hong Kong Jockey Club -THE-</td><td>Membership Business Analyst</td><td>Hong Kong</td><td>2026-08-03</td></tr>
 <tr><td>Morgan Stanley UK</td><td>Fixed Income Compliance - Vice President</td><td>Hong Kong</td><td>2026-08-04</td></tr>
 <tr><td>Marriott International</td><td>Executive Assistant - Hotel Operations</td><td>Hong Kong</td><td>2026-08-04</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Intern (legal, 6-12 Months)</td><td>Hong Kong</td><td>2026-08-05</td></tr>
+<tr><td>Flow Traders</td><td>Graduate Quant Trader</td><td>Hong Kong</td><td>2026-08-05</td></tr>
+<tr><td>Milliman</td><td>Actuarial Associate-hong Kong Special Adm Region- Hkg</td><td>Hong Kong</td><td>2026-08-05</td></tr>
+<tr><td>Hyphen Connect</td><td>Compliance Officer/ Money Laundering Reporting Officer (co/mlro)</td><td>Hong Kong</td><td>2026-08-05</td></tr>
+<tr><td>Hyphen Partners</td><td>Compliance Officer/ Money Laundering Reporting Officer (co/mlro)</td><td>Hong Kong</td><td>2026-08-05</td></tr>
 </table>
