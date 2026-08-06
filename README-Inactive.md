@@ -87,4 +87,6 @@
 <tr><td>Milliman</td><td>Actuarial Associate-hong Kong Special Adm Region- Hkg</td><td>Hong Kong</td><td>2026-08-05</td></tr>
 <tr><td>Hyphen Connect</td><td>Compliance Officer/ Money Laundering Reporting Officer (co/mlro)</td><td>Hong Kong</td><td>2026-08-05</td></tr>
 <tr><td>Hyphen Partners</td><td>Compliance Officer/ Money Laundering Reporting Officer (co/mlro)</td><td>Hong Kong</td><td>2026-08-05</td></tr>
+<tr><td>Otis Worldwide</td><td>Summer Internship</td><td>Hong Kong</td><td>2026-08-06</td></tr>
+<tr><td>Otis Worldwide</td><td>助理技工</td><td>Hong Kong</td><td>2026-08-06</td></tr>
 </table>

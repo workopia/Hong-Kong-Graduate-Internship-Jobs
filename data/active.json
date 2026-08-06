@@ -1,7 +1,19 @@
 {
- "asOf": "2026-08-05",
- "count": 140,
+ "asOf": "2026-08-06",
+ "count": 142,
  "jobs": {
+  "4933ded0246c050f29091d0f40e352d8": {
+   "id": "4933ded0246c050f29091d0f40e352d8",
+   "company": "AIA Group",
+   "role": "2027 1h Actuarial Internship Programme, Aia Group Office",
+   "location": "Hong Kong"
+  },
+  "503be9de3ef1f4df72437363bae37820": {
+   "id": "503be9de3ef1f4df72437363bae37820",
+   "company": "AIA Group",
+   "role": "Agency, Intern",
+   "location": "Hong Kong"
+  },
   "bcf5482d59a505da4d065883eb1ada17": {
    "id": "bcf5482d59a505da4d065883eb1ada17",
    "company": "MARSH MCLENNAN",
@@ -12,6 +24,12 @@
    "id": "3fa815b146cab7d89408a740e83038d2",
    "company": "itinfinance.nl",
    "role": "Intern, Transaction Services Hong Kong",
+   "location": "Hong Kong"
+  },
+  "7277cd2ef47499e2aa5bd74920a2b0a7": {
+   "id": "7277cd2ef47499e2aa5bd74920a2b0a7",
+   "company": "Me2Works",
+   "role": "Hong Kong Summer Internship Programme (2027) / Hong Kong, Hk At Freshfields Bruckhaus Deringer",
    "location": "Hong Kong"
   },
   "bc4750c6f2f2da14eb4c249a4eb7d425": {
@@ -368,12 +386,6 @@
    "role": "2026 Aia Hong Kong And Macau Summer Internship Program - Technology / Hong Kong, Hk At Aia International Limited.",
    "location": "Hong Kong"
   },
-  "d7c826c8ac3c536cef3b0cb70cc0f539": {
-   "id": "d7c826c8ac3c536cef3b0cb70cc0f539",
-   "company": "Otis Worldwide",
-   "role": "Summer Internship",
-   "location": "Hong Kong"
-  },
   "784a59d2b4bf0a7e88ea6d43554ffc40": {
    "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
    "company": "IMC Trading",
@@ -470,6 +482,12 @@
    "role": "Internship For Valuation Actuary",
    "location": "Hong Kong"
   },
+  "5eb41b8e65042dba88510a063f4ddf10": {
+   "id": "5eb41b8e65042dba88510a063f4ddf10",
+   "company": "Specsavers Optical Group Ltd",
+   "role": "Commercial Accountant",
+   "location": "Hong Kong"
+  },
   "2766d7094c78f5b5bb8e90748b9ef5ae": {
    "id": "2766d7094c78f5b5bb8e90748b9ef5ae",
    "company": "Nomura International PLC",
@@ -540,12 +558,6 @@
    "id": "5cc0263723303697cef3471ac7a5bb1e",
    "company": "Nomura International PLC",
    "role": "Quantitative Strategist",
-   "location": "Hong Kong"
-  },
-  "5eb41b8e65042dba88510a063f4ddf10": {
-   "id": "5eb41b8e65042dba88510a063f4ddf10",
-   "company": "Specsavers Optical Group Ltd",
-   "role": "Commercial Accountant",
    "location": "Hong Kong"
   },
   "20c908fd47f46d43b84b1a05c7ef6167": {
@@ -632,12 +644,6 @@
    "role": "Technician I (rw)",
    "location": "Hong Kong"
   },
-  "28adeb9f9000a4e43d0c4cefeed5f60a": {
-   "id": "28adeb9f9000a4e43d0c4cefeed5f60a",
-   "company": "Otis Worldwide",
-   "role": "助理技工",
-   "location": "Hong Kong"
-  },
   "035ff6032715c59661d549e1eedfba80": {
    "id": "035ff6032715c59661d549e1eedfba80",
    "company": "H & M Hennes & Mauritz AB",
@@ -690,6 +696,12 @@
    "id": "3d424ee4686e8e43aaa469c88c7372ee",
    "company": "Lululemon",
    "role": "Full Time- Educator (Sales Associate) / Times Square",
+   "location": "Hong Kong"
+  },
+  "d4729da61833ed60d617eaacdb322378": {
+   "id": "d4729da61833ed60d617eaacdb322378",
+   "company": "JLL",
+   "role": "Customer Services Assistant",
    "location": "Hong Kong"
   },
   "46f72d22a8d6f5df968815a613fa3c0b": {
