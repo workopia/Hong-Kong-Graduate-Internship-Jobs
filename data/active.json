@@ -1,7 +1,13 @@
 {
- "asOf": "2026-08-06",
+ "asOf": "2026-08-07",
  "count": 142,
  "jobs": {
+  "a54ccb907c8ac2648467830f5c880ec6": {
+   "id": "a54ccb907c8ac2648467830f5c880ec6",
+   "company": "Knorr-Bremse AG",
+   "role": "Hr Student Intern",
+   "location": "Hong Kong"
+  },
   "4933ded0246c050f29091d0f40e352d8": {
    "id": "4933ded0246c050f29091d0f40e352d8",
    "company": "AIA Group",
@@ -20,10 +26,28 @@
    "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
    "location": "Taikoo"
   },
+  "4e33ebb28179fd6ed465a37a81864f9b": {
+   "id": "4e33ebb28179fd6ed465a37a81864f9b",
+   "company": "Marsh",
+   "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
+   "location": "Taikoo"
+  },
   "3fa815b146cab7d89408a740e83038d2": {
    "id": "3fa815b146cab7d89408a740e83038d2",
    "company": "itinfinance.nl",
    "role": "Intern, Transaction Services Hong Kong",
+   "location": "Hong Kong"
+  },
+  "52e1c7dbf6669baf90941d1657b00290": {
+   "id": "52e1c7dbf6669baf90941d1657b00290",
+   "company": "ING",
+   "role": "Intern, Transaction Services Hong Kong",
+   "location": "Hong Kong"
+  },
+  "6bd7a55800b2dd9b1756fdb7fe5cec2a": {
+   "id": "6bd7a55800b2dd9b1756fdb7fe5cec2a",
+   "company": "Flowfusiondata",
+   "role": "Trading Intern",
    "location": "Hong Kong"
   },
   "7277cd2ef47499e2aa5bd74920a2b0a7": {
@@ -114,12 +138,6 @@
    "id": "1925287e966b4586eecea77fbb0a46ca",
    "company": "Plateral",
    "role": "Off-cycle Intern - Financial Restructuring, Hong Kong",
-   "location": "Hong Kong"
-  },
-  "a54ccb907c8ac2648467830f5c880ec6": {
-   "id": "a54ccb907c8ac2648467830f5c880ec6",
-   "company": "Knorr-Bremse AG",
-   "role": "Hr Student Intern",
    "location": "Hong Kong"
   },
   "7d611fd171f63f70913c5615a3df8ce8": {
@@ -366,24 +384,6 @@
    "id": "94af552f80d4bf5affa50b9d7488365a",
    "company": "Marriott International",
    "role": "Student Intern",
-   "location": "Hong Kong"
-  },
-  "b9d776213f59fc825d9598fd6bc262af": {
-   "id": "b9d776213f59fc825d9598fd6bc262af",
-   "company": "AIA",
-   "role": "2026 Aia Hong Kong And Macau Summer Internship Program – Proposition & Healthcare",
-   "location": "Hong Kong"
-  },
-  "2995b30bfd28709698ad18fb5b364273": {
-   "id": "2995b30bfd28709698ad18fb5b364273",
-   "company": "Wellington Management",
-   "role": "2026 Apac Legal Off Cycle Internship - 6 Months At Wellington Management",
-   "location": "Hong Kong"
-  },
-  "8d2bfd678d5cdbec9bdda351e301b546": {
-   "id": "8d2bfd678d5cdbec9bdda351e301b546",
-   "company": "AIA International Limited",
-   "role": "2026 Aia Hong Kong And Macau Summer Internship Program - Technology / Hong Kong, Hk At Aia International Limited.",
    "location": "Hong Kong"
   },
   "784a59d2b4bf0a7e88ea6d43554ffc40": {

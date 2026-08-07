@@ -89,4 +89,7 @@
 <tr><td>Hyphen Partners</td><td>Compliance Officer/ Money Laundering Reporting Officer (co/mlro)</td><td>Hong Kong</td><td>2026-08-05</td></tr>
 <tr><td>Otis Worldwide</td><td>Summer Internship</td><td>Hong Kong</td><td>2026-08-06</td></tr>
 <tr><td>Otis Worldwide</td><td>助理技工</td><td>Hong Kong</td><td>2026-08-06</td></tr>
+<tr><td>AIA</td><td>2026 Aia Hong Kong And Macau Summer Internship Program – Proposition & Healthcare</td><td>Hong Kong</td><td>2026-08-07</td></tr>
+<tr><td>Wellington Management</td><td>2026 Apac Legal Off Cycle Internship - 6 Months At Wellington Management</td><td>Hong Kong</td><td>2026-08-07</td></tr>
+<tr><td>AIA International Limited</td><td>2026 Aia Hong Kong And Macau Summer Internship Program - Technology / Hong Kong, Hk At Aia International Limited.</td><td>Hong Kong</td><td>2026-08-07</td></tr>
 </table>
