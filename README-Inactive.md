@@ -92,4 +92,10 @@
 <tr><td>AIA</td><td>2026 Aia Hong Kong And Macau Summer Internship Program – Proposition & Healthcare</td><td>Hong Kong</td><td>2026-08-07</td></tr>
 <tr><td>Wellington Management</td><td>2026 Apac Legal Off Cycle Internship - 6 Months At Wellington Management</td><td>Hong Kong</td><td>2026-08-07</td></tr>
 <tr><td>AIA International Limited</td><td>2026 Aia Hong Kong And Macau Summer Internship Program - Technology / Hong Kong, Hk At Aia International Limited.</td><td>Hong Kong</td><td>2026-08-07</td></tr>
+<tr><td>Valmont Industries, Inc</td><td>Intern, Transaction Services Hong Kong</td><td>Hong Kong SAR</td><td>2026-08-08</td></tr>
+<tr><td>Hermès International</td><td>Customer Experience Intern</td><td>Hong Kong</td><td>2026-08-08</td></tr>
+<tr><td>Hermès International</td><td>Client Relations Center Intern</td><td>Hong Kong</td><td>2026-08-08</td></tr>
+<tr><td>Nomura International PLC</td><td>Associate, Quantitative Strategist</td><td>Hong Kong</td><td>2026-08-08</td></tr>
+<tr><td>Nomura International PLC</td><td>Quantitative Strategist</td><td>Hong Kong</td><td>2026-08-08</td></tr>
+<tr><td>Chubb</td><td>Temporary Administration Assistant (6 Months Contract)</td><td>Hong Kong</td><td>2026-08-08</td></tr>
 </table>

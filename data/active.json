@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-07",
+ "asOf": "2026-08-08",
  "count": 142,
  "jobs": {
   "a54ccb907c8ac2648467830f5c880ec6": {
@@ -18,6 +18,18 @@
    "id": "503be9de3ef1f4df72437363bae37820",
    "company": "AIA Group",
    "role": "Agency, Intern",
+   "location": "Hong Kong"
+  },
+  "824c20ed7cb4766c17a7ffa661501b63": {
+   "id": "824c20ed7cb4766c17a7ffa661501b63",
+   "company": "AIA Australia Limited",
+   "role": "Agency, Intern",
+   "location": "Hong Kong"
+  },
+  "33420abcd779120fdd80527db9ddb696": {
+   "id": "33420abcd779120fdd80527db9ddb696",
+   "company": "AIA Australia Limited",
+   "role": "2027 1h Actuarial Internship Programme, Aia Group Office",
    "location": "Hong Kong"
   },
   "bcf5482d59a505da4d065883eb1ada17": {
@@ -41,6 +53,12 @@
   "52e1c7dbf6669baf90941d1657b00290": {
    "id": "52e1c7dbf6669baf90941d1657b00290",
    "company": "ING",
+   "role": "Intern, Transaction Services Hong Kong",
+   "location": "Hong Kong"
+  },
+  "6b11c1b59903e0c2f88397aaca62ecee": {
+   "id": "6b11c1b59903e0c2f88397aaca62ecee",
+   "company": "Valmont Industries, Inc",
    "role": "Intern, Transaction Services Hong Kong",
    "location": "Hong Kong"
   },
@@ -120,6 +138,12 @@
    "id": "31d20d71db450b6c9556d176ef4e7a94",
    "company": "Medtronic Diabetes",
    "role": "Intern, Cardiovascular Team (12-month Contract; Part-time)",
+   "location": "Hong Kong"
+  },
+  "94af552f80d4bf5affa50b9d7488365a": {
+   "id": "94af552f80d4bf5affa50b9d7488365a",
+   "company": "Marriott International",
+   "role": "Student Intern",
    "location": "Hong Kong"
   },
   "9470737a9987ae811a22e565ed0b690e": {
@@ -266,12 +290,6 @@
    "role": "Intern - Inforce Management",
    "location": "Hong Kong"
   },
-  "602d424311f13232157e0a31ec21e0f4": {
-   "id": "602d424311f13232157e0a31ec21e0f4",
-   "company": "Valmont Industries, Inc",
-   "role": "Intern, Transaction Services Hong Kong",
-   "location": "Hong Kong SAR"
-  },
   "a479e182fd284332d2e772f583d6ccb8": {
    "id": "a479e182fd284332d2e772f583d6ccb8",
    "company": "Sunriseatwolfchase",
@@ -366,24 +384,6 @@
    "id": "5c8a75ff06899fd328e8dc67267d5c8b",
    "company": "JPMorgan Chase & Co.",
    "role": "2027 Global Private Bank Advisor Program – Summer Internship - Hong Kong",
-   "location": "Hong Kong"
-  },
-  "c65296e2da60fbd4ea9e9e8da9a01c1c": {
-   "id": "c65296e2da60fbd4ea9e9e8da9a01c1c",
-   "company": "Hermès International",
-   "role": "Customer Experience Intern",
-   "location": "Hong Kong"
-  },
-  "660037d4b16d25e98d8082b8f073593e": {
-   "id": "660037d4b16d25e98d8082b8f073593e",
-   "company": "Hermès International",
-   "role": "Client Relations Center Intern",
-   "location": "Hong Kong"
-  },
-  "94af552f80d4bf5affa50b9d7488365a": {
-   "id": "94af552f80d4bf5affa50b9d7488365a",
-   "company": "Marriott International",
-   "role": "Student Intern",
    "location": "Hong Kong"
   },
   "784a59d2b4bf0a7e88ea6d43554ffc40": {
@@ -482,16 +482,22 @@
    "role": "Internship For Valuation Actuary",
    "location": "Hong Kong"
   },
+  "2cafa618ed59cb8181235276b7eeb1a3": {
+   "id": "2cafa618ed59cb8181235276b7eeb1a3",
+   "company": "Nomura International PLC",
+   "role": "Quantitative Strategist",
+   "location": "Hong Kong"
+  },
+  "f4934fb9a65c15dc972628ba51c51e19": {
+   "id": "f4934fb9a65c15dc972628ba51c51e19",
+   "company": "Nomura International PLC",
+   "role": "Associate, Quantitative Strategist",
+   "location": "Hong Kong"
+  },
   "5eb41b8e65042dba88510a063f4ddf10": {
    "id": "5eb41b8e65042dba88510a063f4ddf10",
    "company": "Specsavers Optical Group Ltd",
    "role": "Commercial Accountant",
-   "location": "Hong Kong"
-  },
-  "2766d7094c78f5b5bb8e90748b9ef5ae": {
-   "id": "2766d7094c78f5b5bb8e90748b9ef5ae",
-   "company": "Nomura International PLC",
-   "role": "Associate, Quantitative Strategist",
    "location": "Hong Kong"
   },
   "91eb01bf0b54015366ad1bca643336bd": {
@@ -552,12 +558,6 @@
    "id": "fa2f75b9ffb3887b23a11b8aaf54e81d",
    "company": "Me2Works",
    "role": "Accountant (global Scope) At Lalamove",
-   "location": "Hong Kong"
-  },
-  "5cc0263723303697cef3471ac7a5bb1e": {
-   "id": "5cc0263723303697cef3471ac7a5bb1e",
-   "company": "Nomura International PLC",
-   "role": "Quantitative Strategist",
    "location": "Hong Kong"
   },
   "20c908fd47f46d43b84b1a05c7ef6167": {
@@ -704,6 +704,12 @@
    "role": "Customer Services Assistant",
    "location": "Hong Kong"
   },
+  "96df0fae551a2683baee3f3ecebf345a": {
+   "id": "96df0fae551a2683baee3f3ecebf345a",
+   "company": "Jll Com Sg",
+   "role": "Customer Services Assistant",
+   "location": "Hong Kong"
+  },
   "46f72d22a8d6f5df968815a613fa3c0b": {
    "id": "46f72d22a8d6f5df968815a613fa3c0b",
    "company": "Hang Lung Properties Ltd",
@@ -846,12 +852,6 @@
    "id": "80547a74cbee23546742d8b345558b50",
    "company": "St. Regis Hotels & Resorts",
    "role": "Executive Assistant - Hotel Operations",
-   "location": "Hong Kong"
-  },
-  "2e3c2fc10f1b7b293b7a85a54217b491": {
-   "id": "2e3c2fc10f1b7b293b7a85a54217b491",
-   "company": "Chubb",
-   "role": "Temporary Administration Assistant (6 Months Contract)",
    "location": "Hong Kong"
   }
  }
