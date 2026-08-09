@@ -1,7 +1,19 @@
 {
- "asOf": "2026-08-08",
- "count": 142,
+ "asOf": "2026-08-09",
+ "count": 140,
  "jobs": {
+  "3e309209c21ebde2cca5a6fa52c6679d": {
+   "id": "3e309209c21ebde2cca5a6fa52c6679d",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Summer Internship Programme 2026 [stem] - Pccw Global",
+   "location": "Hong Kong"
+  },
+  "21ece88fe3fd45b0582c7966ff997e65": {
+   "id": "21ece88fe3fd45b0582c7966ff997e65",
+   "company": "Neuberger Berman Group",
+   "role": "Intern",
+   "location": "Hong Kong"
+  },
   "a54ccb907c8ac2648467830f5c880ec6": {
    "id": "a54ccb907c8ac2648467830f5c880ec6",
    "company": "Knorr-Bremse AG",
@@ -90,12 +102,6 @@
    "id": "507259e8f35d7ef8e74af928b3e12ee8",
    "company": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
    "role": "Internship",
-   "location": "Hong Kong"
-  },
-  "3e309209c21ebde2cca5a6fa52c6679d": {
-   "id": "3e309209c21ebde2cca5a6fa52c6679d",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Summer Internship Programme 2026 [stem] - Pccw Global",
    "location": "Hong Kong"
   },
   "22c54cce33ded734533deb707091f925": {
@@ -380,12 +386,6 @@
    "role": "Intern - 2027 Intake",
    "location": "Hong Kong"
   },
-  "5c8a75ff06899fd328e8dc67267d5c8b": {
-   "id": "5c8a75ff06899fd328e8dc67267d5c8b",
-   "company": "JPMorgan Chase & Co.",
-   "role": "2027 Global Private Bank Advisor Program – Summer Internship - Hong Kong",
-   "location": "Hong Kong"
-  },
   "784a59d2b4bf0a7e88ea6d43554ffc40": {
    "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
    "company": "IMC Trading",
@@ -480,6 +480,18 @@
    "id": "81443a5a18efd502891944241eb8dde6",
    "company": "Sunlife Com Hk",
    "role": "Internship For Valuation Actuary",
+   "location": "Hong Kong"
+  },
+  "72536700dc1ac934e9db6dd01e973833": {
+   "id": "72536700dc1ac934e9db6dd01e973833",
+   "company": "Barclays",
+   "role": "Investment Banking Financial Crime Officer",
+   "location": "Hong Kong"
+  },
+  "3fca2462f839984b6bbd4dd7eb57a4ca": {
+   "id": "3fca2462f839984b6bbd4dd7eb57a4ca",
+   "company": "jobs.barclays",
+   "role": "Investment Banking Financial Crime Officer",
    "location": "Hong Kong"
   },
   "2cafa618ed59cb8181235276b7eeb1a3": {
@@ -614,12 +626,6 @@
    "role": "Actuarial Associate",
    "location": "Hong Kong"
   },
-  "2e526e509be97b582b7f06ff77aa5bc1": {
-   "id": "2e526e509be97b582b7f06ff77aa5bc1",
-   "company": "Morgan Stanley",
-   "role": "Fixed Income Compliance - Vice President",
-   "location": "Hong Kong"
-  },
   "33caa4b881bd80977c187fa2e2c885d5": {
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -680,22 +686,16 @@
    "role": "【全職】marimekko (銅鑼灣sogo分店) Sales & Fashion Stylist 服裝銷售及時尚造型顧問【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
    "location": "Hong Kong"
   },
-  "R111935": {
-   "id": "R111935",
-   "company": "Kering",
-   "role": "Qeelin Sales Associate",
-   "location": "Hong Kong"
-  },
-  "R160207": {
-   "id": "R160207",
-   "company": "Kering",
-   "role": "Pomellato Sales Associate",
-   "location": "Hong Kong"
-  },
   "3d424ee4686e8e43aaa469c88c7372ee": {
    "id": "3d424ee4686e8e43aaa469c88c7372ee",
    "company": "Lululemon",
    "role": "Full Time- Educator (Sales Associate) / Times Square",
+   "location": "Hong Kong"
+  },
+  "112f85130b58249e3bcce59b7f93c76c": {
+   "id": "112f85130b58249e3bcce59b7f93c76c",
+   "company": "Me2Works",
+   "role": "Project Administrative Assistant - $22-25k+ Bonus At Michael Page",
    "location": "Hong Kong"
   },
   "d4729da61833ed60d617eaacdb322378": {
@@ -841,18 +841,6 @@
    "company": "Hong Kong Jockey Club -THE-",
    "role": "Administrative &amp; Analytics Assistant (1-year Contract)",
    "location": "Unknown"
-  },
-  "03106f639de8c1697794cce3074cb88e": {
-   "id": "03106f639de8c1697794cce3074cb88e",
-   "company": "The Ritz-Carlton",
-   "role": "Administrative Assistant - Sales & Marketing",
-   "location": "Hong Kong"
-  },
-  "80547a74cbee23546742d8b345558b50": {
-   "id": "80547a74cbee23546742d8b345558b50",
-   "company": "St. Regis Hotels & Resorts",
-   "role": "Executive Assistant - Hotel Operations",
-   "location": "Hong Kong"
   }
  }
 }

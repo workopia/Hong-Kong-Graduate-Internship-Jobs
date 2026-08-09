@@ -98,4 +98,10 @@
 <tr><td>Nomura International PLC</td><td>Associate, Quantitative Strategist</td><td>Hong Kong</td><td>2026-08-08</td></tr>
 <tr><td>Nomura International PLC</td><td>Quantitative Strategist</td><td>Hong Kong</td><td>2026-08-08</td></tr>
 <tr><td>Chubb</td><td>Temporary Administration Assistant (6 Months Contract)</td><td>Hong Kong</td><td>2026-08-08</td></tr>
+<tr><td>JPMorgan Chase & Co.</td><td>2027 Global Private Bank Advisor Program – Summer Internship - Hong Kong</td><td>Hong Kong</td><td>2026-08-09</td></tr>
+<tr><td>Morgan Stanley</td><td>Fixed Income Compliance - Vice President</td><td>Hong Kong</td><td>2026-08-09</td></tr>
+<tr><td>Kering</td><td>Qeelin Sales Associate</td><td>Hong Kong</td><td>2026-08-09</td></tr>
+<tr><td>Kering</td><td>Pomellato Sales Associate</td><td>Hong Kong</td><td>2026-08-09</td></tr>
+<tr><td>The Ritz-Carlton</td><td>Administrative Assistant - Sales & Marketing</td><td>Hong Kong</td><td>2026-08-09</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Executive Assistant - Hotel Operations</td><td>Hong Kong</td><td>2026-08-09</td></tr>
 </table>
