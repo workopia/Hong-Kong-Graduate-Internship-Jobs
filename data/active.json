@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-09",
- "count": 140,
+ "asOf": "2026-08-10",
+ "count": 138,
  "jobs": {
   "3e309209c21ebde2cca5a6fa52c6679d": {
    "id": "3e309209c21ebde2cca5a6fa52c6679d",
@@ -476,10 +476,10 @@
    "role": "Actuarial Intern",
    "location": "Hong Kong"
   },
-  "81443a5a18efd502891944241eb8dde6": {
-   "id": "81443a5a18efd502891944241eb8dde6",
-   "company": "Sunlife Com Hk",
-   "role": "Internship For Valuation Actuary",
+  "c7cdab971f382ddf88aeed1b182958de": {
+   "id": "c7cdab971f382ddf88aeed1b182958de",
+   "company": "Me2Works",
+   "role": "Income Auditor At Shangri-la Group",
    "location": "Hong Kong"
   },
   "72536700dc1ac934e9db6dd01e973833": {
@@ -672,18 +672,6 @@
    "id": "014bcf02a009ecbe3f19b724b93efc4d",
    "company": "Sidefame Ltd",
    "role": "【全職】anteprima (海港城分店) 銷售專員 Sales Specialist【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
-   "location": "Hong Kong"
-  },
-  "8718a4ec65b2d2d3b6bddbb096878b47": {
-   "id": "8718a4ec65b2d2d3b6bddbb096878b47",
-   "company": "Sidefame Ltd",
-   "role": "【全職】the Little Shop (利園分店) Sales & Fashion Stylist 服裝銷售及時尚造型顧問【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
-   "location": "Hong Kong"
-  },
-  "946ce9927d73d9b4cc6569528c5e3b3a": {
-   "id": "946ce9927d73d9b4cc6569528c5e3b3a",
-   "company": "Sidefame Ltd",
-   "role": "【全職】marimekko (銅鑼灣sogo分店) Sales & Fashion Stylist 服裝銷售及時尚造型顧問【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
    "location": "Hong Kong"
   },
   "3d424ee4686e8e43aaa469c88c7372ee": {

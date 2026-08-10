@@ -104,4 +104,7 @@
 <tr><td>Kering</td><td>Pomellato Sales Associate</td><td>Hong Kong</td><td>2026-08-09</td></tr>
 <tr><td>The Ritz-Carlton</td><td>Administrative Assistant - Sales & Marketing</td><td>Hong Kong</td><td>2026-08-09</td></tr>
 <tr><td>St. Regis Hotels & Resorts</td><td>Executive Assistant - Hotel Operations</td><td>Hong Kong</td><td>2026-08-09</td></tr>
+<tr><td>Sunlife Com Hk</td><td>Internship For Valuation Actuary</td><td>Hong Kong</td><td>2026-08-10</td></tr>
+<tr><td>Sidefame Ltd</td><td>【全職】the Little Shop (利園分店) Sales & Fashion Stylist 服裝銷售及時尚造型顧問【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd</td><td>Hong Kong</td><td>2026-08-10</td></tr>
+<tr><td>Sidefame Ltd</td><td>【全職】marimekko (銅鑼灣sogo分店) Sales & Fashion Stylist 服裝銷售及時尚造型顧問【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd</td><td>Hong Kong</td><td>2026-08-10</td></tr>
 </table>
