@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-10",
- "count": 138,
+ "asOf": "2026-08-11",
+ "count": 137,
  "jobs": {
   "3e309209c21ebde2cca5a6fa52c6679d": {
    "id": "3e309209c21ebde2cca5a6fa52c6679d",
@@ -452,12 +452,6 @@
    "role": "Data Scientist I, Hk",
    "location": "Hong Kong"
   },
-  "010ec3feae0117b061d06938db211a53": {
-   "id": "010ec3feae0117b061d06938db211a53",
-   "company": "QBE Insurance",
-   "role": "Regional - Data Scientist",
-   "location": "Hong Kong"
-  },
   "2229dc3141540a682c8c9407e6ad3174": {
    "id": "2229dc3141540a682c8c9407e6ad3174",
    "company": "Barclays",
@@ -476,6 +470,12 @@
    "role": "Actuarial Intern",
    "location": "Hong Kong"
   },
+  "5cc0263723303697cef3471ac7a5bb1e": {
+   "id": "5cc0263723303697cef3471ac7a5bb1e",
+   "company": "Nomura International PLC",
+   "role": "Quantitative Strategist",
+   "location": "Hong Kong"
+  },
   "c7cdab971f382ddf88aeed1b182958de": {
    "id": "c7cdab971f382ddf88aeed1b182958de",
    "company": "Me2Works",
@@ -492,12 +492,6 @@
    "id": "3fca2462f839984b6bbd4dd7eb57a4ca",
    "company": "jobs.barclays",
    "role": "Investment Banking Financial Crime Officer",
-   "location": "Hong Kong"
-  },
-  "2cafa618ed59cb8181235276b7eeb1a3": {
-   "id": "2cafa618ed59cb8181235276b7eeb1a3",
-   "company": "Nomura International PLC",
-   "role": "Quantitative Strategist",
    "location": "Hong Kong"
   },
   "f4934fb9a65c15dc972628ba51c51e19": {

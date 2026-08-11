@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-08-10",
+  "as_of": "2026-08-11",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1052,
-  "generated_at": "2026-08-10T01:02:58.226Z"
+  "country_live_total": 1057,
+  "generated_at": "2026-08-11T01:00:11.794Z"
  },
  "categories": [
   {
@@ -1350,23 +1350,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$22k–38k/mo*",
-   "id": "010ec3feae0117b061d06938db211a53",
-   "source": "Workopia",
-   "company_name": "QBE Insurance",
-   "company_hi_slug": "qbe-insurance",
-   "title": "Regional - Data Scientist",
-   "location": "Hong Kong",
-   "skills": "Bachelor's or Master's, Intermediate Python an",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-11T23:45:33.431Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/010ec3feae0117b061d06938db211a53",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": null,
    "id": "2229dc3141540a682c8c9407e6ad3174",
    "source": "Workopia",
@@ -1419,6 +1402,23 @@
   },
   {
    "salary_display": "HK$20k–32k/mo*",
+   "id": "5cc0263723303697cef3471ac7a5bb1e",
+   "source": "Workopia",
+   "company_name": "Nomura International PLC",
+   "company_hi_slug": "nomura-international-plc",
+   "title": "Quantitative Strategist",
+   "location": "Hong Kong",
+   "skills": "SQL, Python",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-09T22:35:02.097Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/5cc0263723303697cef3471ac7a5bb1e",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "c7cdab971f382ddf88aeed1b182958de",
    "source": "Workopia",
    "company_name": "Me2Works",
@@ -1465,23 +1465,6 @@
    "date_posted": "2026-08-07T15:04:07.388Z",
    "active": true,
    "url": "https://workopia.io/jobs/3fca2462f839984b6bbd4dd7eb57a4ca",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "2cafa618ed59cb8181235276b7eeb1a3",
-   "source": "Workopia",
-   "company_name": "Nomura International PLC",
-   "company_hi_slug": "nomura-international-plc",
-   "title": "Quantitative Strategist",
-   "location": "Hong Kong",
-   "skills": "SQL, Python",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-06T03:13:51.824Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/2cafa618ed59cb8181235276b7eeb1a3",
    "category": "finance",
    "tier": "Entry-level"
   },

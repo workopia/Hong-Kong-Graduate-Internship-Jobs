@@ -107,4 +107,6 @@
 <tr><td>Sunlife Com Hk</td><td>Internship For Valuation Actuary</td><td>Hong Kong</td><td>2026-08-10</td></tr>
 <tr><td>Sidefame Ltd</td><td>【全職】the Little Shop (利園分店) Sales & Fashion Stylist 服裝銷售及時尚造型顧問【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd</td><td>Hong Kong</td><td>2026-08-10</td></tr>
 <tr><td>Sidefame Ltd</td><td>【全職】marimekko (銅鑼灣sogo分店) Sales & Fashion Stylist 服裝銷售及時尚造型顧問【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd</td><td>Hong Kong</td><td>2026-08-10</td></tr>
+<tr><td>QBE Insurance</td><td>Regional - Data Scientist</td><td>Hong Kong</td><td>2026-08-11</td></tr>
+<tr><td>Nomura International PLC</td><td>Quantitative Strategist</td><td>Hong Kong</td><td>2026-08-11</td></tr>
 </table>
