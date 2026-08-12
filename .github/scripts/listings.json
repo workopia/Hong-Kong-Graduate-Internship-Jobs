@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-08-11",
+  "as_of": "2026-08-12",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1057,
-  "generated_at": "2026-08-11T01:00:11.794Z"
+  "country_live_total": 1060,
+  "generated_at": "2026-08-12T00:58:14.804Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "2470a7353bdf46f6dc6a2eb027a19b23",
+   "source": "Workopia",
+   "company_name": "FWD Singapore",
+   "company_hi_slug": "fwd",
+   "title": "Student Intern, Application Management, Information Technology (6-month Contract)",
+   "location": "Hong Kong",
+   "skills": "API-enabled architectu, program development",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-11T06:31:17.012Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/2470a7353bdf46f6dc6a2eb027a19b23",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "3e309209c21ebde2cca5a6fa52c6679d",
@@ -1946,23 +1963,6 @@
   },
   {
    "salary_display": "HK$17k–25k/mo*",
-   "id": "014bcf02a009ecbe3f19b724b93efc4d",
-   "source": "Workopia",
-   "company_name": "Sidefame Ltd",
-   "company_hi_slug": "sidefame-ltd",
-   "title": "【全職】anteprima (海港城分店) 銷售專員 Sales Specialist【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
-   "location": "Hong Kong",
-   "skills": "Fluent in Cantonese, Basic English",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-12T05:56:16.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/014bcf02a009ecbe3f19b724b93efc4d",
-   "category": "sales",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$17k–25k/mo*",
    "id": "3d424ee4686e8e43aaa469c88c7372ee",
    "source": "Workopia",
    "company_name": "Lululemon",
@@ -2383,23 +2383,6 @@
    "date_posted": "2026-06-24T21:30:26.312Z",
    "active": true,
    "url": "https://workopia.io/jobs/bf34409c4e39690bc69260ccf66bf1f1",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "74e84df2c19d422d2c8ad598b97c0022",
-   "source": "Workopia",
-   "company_name": "Hong Kong Jockey Club -THE-",
-   "company_hi_slug": "hong-kong-jockey-club-the",
-   "title": "Administrative &amp; Analytics Assistant (1-year Contract)",
-   "location": "Unknown",
-   "skills": "Administrative support, Data analysis skills",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-12T09:09:09.402Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/74e84df2c19d422d2c8ad598b97c0022",
    "category": "admin",
    "tier": "Entry-level"
   }
