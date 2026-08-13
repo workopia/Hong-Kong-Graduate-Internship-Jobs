@@ -111,4 +111,5 @@
 <tr><td>Nomura International PLC</td><td>Quantitative Strategist</td><td>Hong Kong</td><td>2026-08-11</td></tr>
 <tr><td>Sidefame Ltd</td><td>【全職】anteprima (海港城分店) 銷售專員 Sales Specialist【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd</td><td>Hong Kong</td><td>2026-08-12</td></tr>
 <tr><td>Hong Kong Jockey Club -THE-</td><td>Administrative &amp; Analytics Assistant (1-year Contract)</td><td>Unknown</td><td>2026-08-12</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-08-13</td></tr>
 </table>
