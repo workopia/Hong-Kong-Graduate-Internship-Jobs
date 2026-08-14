@@ -1,7 +1,19 @@
 {
- "asOf": "2026-08-13",
- "count": 138,
+ "asOf": "2026-08-14",
+ "count": 147,
  "jobs": {
+  "8e1f47f42509f959efff4834389cb3af": {
+   "id": "8e1f47f42509f959efff4834389cb3af",
+   "company": "FWD Singapore",
+   "role": "Student Intern, Business Training",
+   "location": "Hong Kong"
+  },
+  "4cb6e4eaf9b8a936568f0a0d2ed4bdc7": {
+   "id": "4cb6e4eaf9b8a936568f0a0d2ed4bdc7",
+   "company": "IMC Trading",
+   "role": "Hk - 2027 - Trader Intern",
+   "location": "Hong Kong"
+  },
   "5271aeeb075be4258258c66361ae6a70": {
    "id": "5271aeeb075be4258258c66361ae6a70",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -17,6 +29,12 @@
   "2470a7353bdf46f6dc6a2eb027a19b23": {
    "id": "2470a7353bdf46f6dc6a2eb027a19b23",
    "company": "FWD Singapore",
+   "role": "Student Intern, Application Management, Information Technology (6-month Contract)",
+   "location": "Hong Kong"
+  },
+  "8b5a9da5be03e879825921573ad46945": {
+   "id": "8b5a9da5be03e879825921573ad46945",
+   "company": "FWD",
    "role": "Student Intern, Application Management, Information Technology (6-month Contract)",
    "location": "Hong Kong"
   },
@@ -476,6 +494,12 @@
    "role": "Actuarial Intern",
    "location": "Hong Kong"
   },
+  "78e72c6b454458c048d53d26d18e82f5": {
+   "id": "78e72c6b454458c048d53d26d18e82f5",
+   "company": "Morgan Stanley",
+   "role": "Fixed Income Compliance - Vice President",
+   "location": "Hong Kong"
+  },
   "6545d143e6d7efea6ca0e41667762609": {
    "id": "6545d143e6d7efea6ca0e41667762609",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -486,6 +510,12 @@
    "id": "743d8e5602646571fee25b5120ec90cc",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Officer, Financial Crime Operations, Financial Services",
+   "location": "Hong Kong"
+  },
+  "94ee457fd97c6c5cfc7cfc2a57525b84": {
+   "id": "94ee457fd97c6c5cfc7cfc2a57525b84",
+   "company": "Civica",
+   "role": "Securities Lending Tech Business Analyst, Equity Finance Technology,vice President",
    "location": "Hong Kong"
   },
   "5cc0263723303697cef3471ac7a5bb1e": {
@@ -596,6 +626,12 @@
    "role": "Accountant - Financial Reporting At Michael Page",
    "location": "Hong Kong"
   },
+  "targetjobs:3bc6eb03-08eb-44ac-b5e3-f1bfe56f69da": {
+   "id": "targetjobs:3bc6eb03-08eb-44ac-b5e3-f1bfe56f69da",
+   "company": "Leversys Ltd",
+   "role": "Analyst (Client and Data) - Hong Kong",
+   "location": "Hong Kong"
+  },
   "3ccea8411011ca0ed6e5a900ef2ff2bd": {
    "id": "3ccea8411011ca0ed6e5a900ef2ff2bd",
    "company": "AIA",
@@ -686,9 +722,27 @@
    "role": "Part-time Administrative Assistant",
    "location": "Hong Kong"
   },
+  "7076eba0cca934ca24bd44cf05a354bf": {
+   "id": "7076eba0cca934ca24bd44cf05a354bf",
+   "company": "Computershare",
+   "role": "Admin Support",
+   "location": "Hong Kong"
+  },
+  "14acbd22a80edb7a134b94633b16e90a": {
+   "id": "14acbd22a80edb7a134b94633b16e90a",
+   "company": "International SOS Assistance (HK) Ltd",
+   "role": "Executive Assistant",
+   "location": "Hong Kong"
+  },
   "513b6046df605693b590876c762c7b3d": {
    "id": "513b6046df605693b590876c762c7b3d",
    "company": "jobgamezone best work from home in 2025",
+   "role": "Executive Assistant To The Ceo - Strategic & Operational Partner",
+   "location": "Hong Kong"
+  },
+  "1e55fc2ee024a34472e3f0f0b8727d25": {
+   "id": "1e55fc2ee024a34472e3f0f0b8727d25",
+   "company": "m32.ai",
    "role": "Executive Assistant To The Ceo - Strategic & Operational Partner",
    "location": "Hong Kong"
   },
