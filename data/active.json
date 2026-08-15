@@ -1,10 +1,22 @@
 {
- "asOf": "2026-08-14",
- "count": 147,
+ "asOf": "2026-08-15",
+ "count": 151,
  "jobs": {
+  "26980210": {
+   "id": "26980210",
+   "company": "Citi",
+   "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
   "8e1f47f42509f959efff4834389cb3af": {
    "id": "8e1f47f42509f959efff4834389cb3af",
    "company": "FWD Singapore",
+   "role": "Student Intern, Business Training",
+   "location": "Hong Kong"
+  },
+  "564b74ec25c1b912aca0a712dd156268": {
+   "id": "564b74ec25c1b912aca0a712dd156268",
+   "company": "FWD",
    "role": "Student Intern, Business Training",
    "location": "Hong Kong"
   },
@@ -494,6 +506,12 @@
    "role": "Actuarial Intern",
    "location": "Hong Kong"
   },
+  "fff3aba9b77a59ee61fb7c4120b15da4": {
+   "id": "fff3aba9b77a59ee61fb7c4120b15da4",
+   "company": "Work From Home With CiCi",
+   "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
   "78e72c6b454458c048d53d26d18e82f5": {
    "id": "78e72c6b454458c048d53d26d18e82f5",
    "company": "Morgan Stanley",
@@ -515,6 +533,12 @@
   "94ee457fd97c6c5cfc7cfc2a57525b84": {
    "id": "94ee457fd97c6c5cfc7cfc2a57525b84",
    "company": "Civica",
+   "role": "Securities Lending Tech Business Analyst, Equity Finance Technology,vice President",
+   "location": "Hong Kong"
+  },
+  "5885cba957d15a74a0de734ad90c8f65": {
+   "id": "5885cba957d15a74a0de734ad90c8f65",
+   "company": "Workforcity",
    "role": "Securities Lending Tech Business Analyst, Equity Finance Technology,vice President",
    "location": "Hong Kong"
   },
