@@ -112,4 +112,49 @@
 <tr><td>Sidefame Ltd</td><td>【全職】anteprima (海港城分店) 銷售專員 Sales Specialist【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd</td><td>Hong Kong</td><td>2026-08-12</td></tr>
 <tr><td>Hong Kong Jockey Club -THE-</td><td>Administrative &amp; Analytics Assistant (1-year Contract)</td><td>Unknown</td><td>2026-08-12</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-08-13</td></tr>
+<tr><td>Marriott International</td><td>Student Intern</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>CTF Services Ltd</td><td>Intern, Risk Management</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Me2Works</td><td>Student Intern, Application Management, Information Technology (6-month Contract) / Hong Kong, Hk At Fwd Group Management Holdings Limited</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Me2Works</td><td>Human Resources Intern (part-time Or Full-time) At Zurich Insurance Company Ltd.</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Hong Kong Jockey Club -THE-</td><td>Intern Staff</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Teneo</td><td>Internship, Financial Advisory</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Hong Kong Productivity Council</td><td>Intern, Environmental Engineering</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Barclays</td><td>Sales, Trading And Structuring Summer Internship Programme 2027 Hong Kong</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Mercer</td><td>Intern, Investment Consulting (6 Months)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Point72</td><td>Corporate Access, Off-cycle Internship (6-months) – Japanese Speaking</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Intern - Retirement (pension) Consulting (6-months Internship)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Intern, Investment Consulting (6 Months)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Chow Tai Fook</td><td>Summer Internship Programme</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>FWD</td><td>Co-op Internship Programme 2026</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>aion-ia.in</td><td>2026 Aia Hong Kong And Macau Summer Internship Program - Corporate Solutions</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Aaifire</td><td>Agency, Intern</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Sun Life</td><td>Hong Kong Actuarial Internship 2026</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>AIA Australia</td><td>2026 Aia Hong Kong And Macau Summer Internship Program - Corporate Solutions</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>AIA Australia</td><td>2026 Aia Hong Kong And Macau Summer Internship Program – Proposition & Healthcare</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Hang Lung Properties Ltd</td><td>Intern 2026 Mainland Stream</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Marsh & McLennan Companies Inc</td><td>Intern - Retirement (pension) Consulting (6-months Internship)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>LGT Crestone Wealth Management Limited</td><td>Intern</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>LGT Crestone Wealth Management Limited</td><td>Intern - 2027 Intake</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>IMC Trading</td><td>Software Engineer - Strategy</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>OKX</td><td>Software Engineer, Mobile, Web3</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>OKX Australia Pty Ltd</td><td>Software Engineer, Mobile, Web3</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Complianceriskexchange</td><td>Software Engineer, Mobile, Web3</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>web3hires.xyz</td><td>Software Engineer, Mobile, Web3</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Leversys Ltd</td><td>Analyst (Client and Data) - Hong Kong</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>AIA</td><td>Actuarial, Analyst</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Milliman</td><td>Actuarial Associate</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>OTIS</td><td>助理技工</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Otis Elevator Co.</td><td>Technician I (rw)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Alo Yoga</td><td>Sales Associate (part-time) - K11 Musea</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Lululemon</td><td>Full Time- Educator (Sales Associate) / Times Square</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Haeco Group</td><td>Production Planning Coordinator</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Me2Works</td><td>Assistant Officer (applications) At Hong Kong Housing Society</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>AIA</td><td>Agency Communications Specialist</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Iwantatechjob</td><td>Hr&admin Officer (hk)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>xapelabz.xyz</td><td>Hr&admin Officer (hk)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Cryptonomads</td><td>Hr&admin Officer (hk)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>coins.xyz</td><td>Hr&admin Officer (hk)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>coinsxyz.me</td><td>Hr&admin Officer (hk)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>coins.ph</td><td>Hr&admin Officer (hk)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>coins.co.th</td><td>Hr&admin Officer (hk)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
 </table>
