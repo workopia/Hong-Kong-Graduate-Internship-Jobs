@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-16",
- "count": 111,
+ "asOf": "2026-08-17",
+ "count": 120,
  "jobs": {
   "26980210": {
    "id": "26980210",
@@ -11,6 +11,12 @@
   "c01ccb86eefd85f09b7e58fc5c521a7f": {
    "id": "c01ccb86eefd85f09b7e58fc5c521a7f",
    "company": "FWD Singapore",
+   "role": "Student Intern, Investment",
+   "location": "Hong Kong"
+  },
+  "9c752fb74c4a5f548473a40657f4c6ec": {
+   "id": "9c752fb74c4a5f548473a40657f4c6ec",
+   "company": "FWD",
    "role": "Student Intern, Investment",
    "location": "Hong Kong"
   },
@@ -368,6 +374,12 @@
    "role": "Actuarial Intern",
    "location": "Hong Kong"
   },
+  "0b0d1b914f06cafe8f81f96fe64092d5": {
+   "id": "0b0d1b914f06cafe8f81f96fe64092d5",
+   "company": "Me2Works",
+   "role": "Accountant - Financial Reporting At Michael Page",
+   "location": "Hong Kong"
+  },
   "fff3aba9b77a59ee61fb7c4120b15da4": {
    "id": "fff3aba9b77a59ee61fb7c4120b15da4",
    "company": "Work From Home With CiCi",
@@ -506,12 +518,6 @@
    "role": "Actuarial Associate, Actuarial Services",
    "location": "Hong Kong"
   },
-  "0b0d1b914f06cafe8f81f96fe64092d5": {
-   "id": "0b0d1b914f06cafe8f81f96fe64092d5",
-   "company": "Me2Works",
-   "role": "Accountant - Financial Reporting At Michael Page",
-   "location": "Hong Kong"
-  },
   "0613032caf29e97d5cc19beab5900b64": {
    "id": "0613032caf29e97d5cc19beab5900b64",
    "company": "Mercer",
@@ -548,6 +554,48 @@
    "role": "Technician I (rw)",
    "location": "Hong Kong"
   },
+  "d611115783fab34a31d34d2888a6c73c": {
+   "id": "d611115783fab34a31d34d2888a6c73c",
+   "company": "Lululemon",
+   "role": "Part Time Educator (sales Associate) / Hong Kong Cityplaza, Taikoo",
+   "location": "Hong Kong"
+  },
+  "661279bc808d4d4750227aea7c9e93f8": {
+   "id": "661279bc808d4d4750227aea7c9e93f8",
+   "company": "Lululemon",
+   "role": "Full-time Educator (sales Associate) / Queen&#039;s Road Central",
+   "location": "Hong Kong"
+  },
+  "06958a33e3d8d04410e8b84d9d440a42": {
+   "id": "06958a33e3d8d04410e8b84d9d440a42",
+   "company": "Lululemon",
+   "role": "Full-time Educator (sales Associate) / K11 Musea",
+   "location": "Hong Kong"
+  },
+  "17343f047fd5b74e219cb0b9a387801a": {
+   "id": "17343f047fd5b74e219cb0b9a387801a",
+   "company": "Lululemon",
+   "role": "Full Time Educator (sales Associate) / Ifc Store",
+   "location": "Hong Kong"
+  },
+  "de0b652255031d2bc0ed9a6aeb515318": {
+   "id": "de0b652255031d2bc0ed9a6aeb515318",
+   "company": "lululemon",
+   "role": "Part Time Educator (sales Associate) / Ifc Store",
+   "location": "Hong Kong"
+  },
+  "25e9b9fd3687f6b8027d3ce5e2bda6c4": {
+   "id": "25e9b9fd3687f6b8027d3ce5e2bda6c4",
+   "company": "Lululemon",
+   "role": "Part-time Educator (sales Associate) / K11 Musea",
+   "location": "Hong Kong"
+  },
+  "45f81547c7b8f6a994e54bf02187a407": {
+   "id": "45f81547c7b8f6a994e54bf02187a407",
+   "company": "lululemon",
+   "role": "Educator (full-time Sales Associate) / Pacific Place Store",
+   "location": "Hong Kong"
+  },
   "035ff6032715c59661d549e1eedfba80": {
    "id": "035ff6032715c59661d549e1eedfba80",
    "company": "H & M Hennes & Mauritz AB",
@@ -559,6 +607,12 @@
    "company": "Sidefame Ltd",
    "role": "【全職】marimekko (銅鑼灣sogo分店) Sales Operation Assistant 銷售營運助理【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
    "location": "Hong Kong"
+  },
+  "79d28372143cfcd0b9ab450a6df7db5c": {
+   "id": "79d28372143cfcd0b9ab450a6df7db5c",
+   "company": "The Hong Kong Jockey Club",
+   "role": "Part-time Administrative Assistant",
+   "location": "Search By Location"
   },
   "056cfe8a848b4df2cfd02b8401986506": {
    "id": "056cfe8a848b4df2cfd02b8401986506",
