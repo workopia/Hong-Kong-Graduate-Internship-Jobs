@@ -157,4 +157,5 @@
 <tr><td>coinsxyz.me</td><td>Hr&admin Officer (hk)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
 <tr><td>coins.ph</td><td>Hr&admin Officer (hk)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
 <tr><td>coins.co.th</td><td>Hr&admin Officer (hk)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
+<tr><td>Me2Works</td><td>Software Engineer (kdb+/q) - Up To 2,200,000 Hkd + Bonus + Benefits (hong Kong) At Hunter Bond</td><td>Hong Kong</td><td>2026-08-19</td></tr>
 </table>

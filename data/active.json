@@ -1,11 +1,47 @@
 {
- "asOf": "2026-08-18",
- "count": 120,
+ "asOf": "2026-08-19",
+ "count": 127,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "0af958ed0ac3d968c6f5a24d01014296": {
+   "id": "0af958ed0ac3d968c6f5a24d01014296",
+   "company": "Hang Lung Properties Ltd",
+   "role": "Intern",
+   "location": "Hong Kong"
+  },
+  "10c81518a0b31564a413bf9bd610146b": {
+   "id": "10c81518a0b31564a413bf9bd610146b",
+   "company": "MEDTRONIC",
+   "role": "Cv Intern",
+   "location": "Hong Kong"
+  },
+  "ad1e33e979332fb9b131cdcfffe8325b": {
+   "id": "ad1e33e979332fb9b131cdcfffe8325b",
+   "company": "Entrust",
+   "role": "Ai & Automation Intern",
+   "location": "Hong Kong"
+  },
+  "651475d555eb2388e601d7e0a79b5f39": {
+   "id": "651475d555eb2388e601d7e0a79b5f39",
+   "company": "Hyperion Group",
+   "role": "Intern",
+   "location": "Hong Kong"
+  },
+  "551689f6ba0193738c9ede43d38d1189": {
+   "id": "551689f6ba0193738c9ede43d38d1189",
+   "company": "Hang Seng Bank Limited",
+   "role": "Student Internship Programme 1h2027 - Audit - Hang Seng Bank (hk) At Hsbc",
+   "location": "Hong Kong"
+  },
+  "d9d225372da2d2bc598d30f53e5b08ff": {
+   "id": "d9d225372da2d2bc598d30f53e5b08ff",
+   "company": "Hypebae",
+   "role": "Creative Intern",
    "location": "Hong Kong"
   },
   "c01ccb86eefd85f09b7e58fc5c521a7f": {
@@ -332,12 +368,6 @@
    "role": "Software Engineer, Mobile, Web3",
    "location": "Hong Kong"
   },
-  "c0962dbe08bb97aabad0a3acb22b7ccc": {
-   "id": "c0962dbe08bb97aabad0a3acb22b7ccc",
-   "company": "Me2Works",
-   "role": "Software Engineer (kdb+/q) - Up To 2,200,000 Hkd + Bonus + Benefits (hong Kong) At Hunter Bond",
-   "location": "Hong Kong"
-  },
   "HRC1592692": {
    "id": "HRC1592692",
    "company": "Infineon",
@@ -608,6 +638,24 @@
    "role": "【全職】marimekko (銅鑼灣sogo分店) Sales Operation Assistant 銷售營運助理【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
    "location": "Hong Kong"
   },
+  "46f72d22a8d6f5df968815a613fa3c0b": {
+   "id": "46f72d22a8d6f5df968815a613fa3c0b",
+   "company": "Hang Lung Properties Ltd",
+   "role": "Officer (administration And Documentation Support)",
+   "location": "Hong Kong"
+  },
+  "3c5bffa4deafbf34ea8f833b1f0f2ef0": {
+   "id": "3c5bffa4deafbf34ea8f833b1f0f2ef0",
+   "company": "Me2Works",
+   "role": "Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Open University Of Hong Kong",
+   "location": "Hong Kong"
+  },
+  "e074e5be26fab68d27b018c9e9187cb5": {
+   "id": "e074e5be26fab68d27b018c9e9187cb5",
+   "company": "Hong Kong Metropolitan University",
+   "role": "Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Hong Kong Metropolitan University",
+   "location": "Hong Kong"
+  },
   "79d28372143cfcd0b9ab450a6df7db5c": {
    "id": "79d28372143cfcd0b9ab450a6df7db5c",
    "company": "The Hong Kong Jockey Club",
@@ -660,12 +708,6 @@
    "id": "96df0fae551a2683baee3f3ecebf345a",
    "company": "Jll Com Sg",
    "role": "Customer Services Assistant",
-   "location": "Hong Kong"
-  },
-  "46f72d22a8d6f5df968815a613fa3c0b": {
-   "id": "46f72d22a8d6f5df968815a613fa3c0b",
-   "company": "Hang Lung Properties Ltd",
-   "role": "Officer (administration And Documentation Support)",
    "location": "Hong Kong"
   },
   "0e60e50fa270a207bb41df04c87dcc19": {
