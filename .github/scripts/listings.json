@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-08-19",
+  "as_of": "2026-08-20",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1140,
-  "generated_at": "2026-08-19T09:48:21.115Z"
+  "country_live_total": 1144,
+  "generated_at": "2026-08-20T01:07:44.317Z"
  },
  "categories": [
   {
@@ -74,6 +74,57 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "503be9de3ef1f4df72437363bae37820",
+   "source": "Workopia",
+   "company_name": "AIA Group",
+   "company_hi_slug": "aia-group",
+   "title": "Agency, Intern",
+   "location": "Hong Kong",
+   "skills": "Marketing campaigns, Communication campaign",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-19T14:03:36.073Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/503be9de3ef1f4df72437363bae37820",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "4b6315a622510ff1e65bd25057aa7dcf",
+   "source": "Workopia",
+   "company_name": "IMC Trading",
+   "company_hi_slug": "imc-trading",
+   "title": "Quantitative Trader Intern 2027",
+   "location": "Hong Kong",
+   "skills": "Analytical skills, Problem-solving",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-19T07:21:01.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/4b6315a622510ff1e65bd25057aa7dcf",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "a1b588107aadc2341183e2a0efa6da3e",
+   "source": "Workopia",
+   "company_name": "IMC Trading",
+   "company_hi_slug": "imc-trading",
+   "title": "Imc Trading Sim - Hong Kong",
+   "location": "Hong Kong",
+   "skills": "Python, Trading Bot",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-19T01:24:27.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a1b588107aadc2341183e2a0efa6da3e",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "0af958ed0ac3d968c6f5a24d01014296",
@@ -479,23 +530,6 @@
    "date_posted": "2026-08-05T12:46:20.328Z",
    "active": true,
    "url": "https://workopia.io/jobs/4933ded0246c050f29091d0f40e352d8",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "503be9de3ef1f4df72437363bae37820",
-   "source": "Workopia",
-   "company_name": "AIA Group",
-   "company_hi_slug": "aia-group",
-   "title": "Agency, Intern",
-   "location": "Hong Kong",
-   "skills": "Administrative support, Data analysis",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-05T12:46:20.328Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/503be9de3ef1f4df72437363bae37820",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1874,6 +1908,23 @@
    "active": true,
    "url": "https://workopia.io/jobs/93159fb3f31cd2717da696fda87b6612",
    "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$60,000",
+   "id": "33b3030c91d064ad80c9f6185afcc959",
+   "source": "Workopia",
+   "company_name": "Me2Works",
+   "company_hi_slug": "me2works",
+   "title": "Administrative/executive Assistant- Up To 60k / Hong Kong, Hk At Michael Page",
+   "location": "Hong Kong",
+   "skills": "calendar management, meeting coordination",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-18T17:57:55.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/33b3030c91d064ad80c9f6185afcc959",
+   "category": "admin",
    "tier": "Entry-level"
   },
   {

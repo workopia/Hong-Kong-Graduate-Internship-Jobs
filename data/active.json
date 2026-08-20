@@ -1,11 +1,29 @@
 {
- "asOf": "2026-08-19",
- "count": 127,
+ "asOf": "2026-08-20",
+ "count": 130,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "503be9de3ef1f4df72437363bae37820": {
+   "id": "503be9de3ef1f4df72437363bae37820",
+   "company": "AIA Group",
+   "role": "Agency, Intern",
+   "location": "Hong Kong"
+  },
+  "4b6315a622510ff1e65bd25057aa7dcf": {
+   "id": "4b6315a622510ff1e65bd25057aa7dcf",
+   "company": "IMC Trading",
+   "role": "Quantitative Trader Intern 2027",
+   "location": "Hong Kong"
+  },
+  "a1b588107aadc2341183e2a0efa6da3e": {
+   "id": "a1b588107aadc2341183e2a0efa6da3e",
+   "company": "IMC Trading",
+   "role": "Imc Trading Sim - Hong Kong",
    "location": "Hong Kong"
   },
   "0af958ed0ac3d968c6f5a24d01014296": {
@@ -150,12 +168,6 @@
    "id": "4933ded0246c050f29091d0f40e352d8",
    "company": "AIA Group",
    "role": "2027 1h Actuarial Internship Programme, Aia Group Office",
-   "location": "Hong Kong"
-  },
-  "503be9de3ef1f4df72437363bae37820": {
-   "id": "503be9de3ef1f4df72437363bae37820",
-   "company": "AIA Group",
-   "role": "Agency, Intern",
    "location": "Hong Kong"
   },
   "824c20ed7cb4766c17a7ffa661501b63": {
@@ -636,6 +648,12 @@
    "id": "93159fb3f31cd2717da696fda87b6612",
    "company": "Sidefame Ltd",
    "role": "【全職】marimekko (銅鑼灣sogo分店) Sales Operation Assistant 銷售營運助理【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
+   "location": "Hong Kong"
+  },
+  "33b3030c91d064ad80c9f6185afcc959": {
+   "id": "33b3030c91d064ad80c9f6185afcc959",
+   "company": "Me2Works",
+   "role": "Administrative/executive Assistant- Up To 60k / Hong Kong, Hk At Michael Page",
    "location": "Hong Kong"
   },
   "46f72d22a8d6f5df968815a613fa3c0b": {
