@@ -158,4 +158,8 @@
 <tr><td>coins.ph</td><td>Hr&admin Officer (hk)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
 <tr><td>coins.co.th</td><td>Hr&admin Officer (hk)</td><td>Hong Kong</td><td>2026-08-16</td></tr>
 <tr><td>Me2Works</td><td>Software Engineer (kdb+/q) - Up To 2,200,000 Hkd + Bonus + Benefits (hong Kong) At Hunter Bond</td><td>Hong Kong</td><td>2026-08-19</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Summer Internship Programme 2026 [stem] - Information Technology</td><td>Hong Kong</td><td>2026-08-21</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Business Analyst, Member Engagement</td><td>Hong Kong</td><td>2026-08-21</td></tr>
+<tr><td>Me2Works</td><td>會計 Accountant At Grace Bright Holdings Limited</td><td>Hong Kong</td><td>2026-08-21</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-08-21</td></tr>
 </table>

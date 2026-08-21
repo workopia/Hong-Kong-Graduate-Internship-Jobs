@@ -1,11 +1,17 @@
 {
- "asOf": "2026-08-20",
- "count": 130,
+ "asOf": "2026-08-21",
+ "count": 131,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "4870c3f15396c4cb1a7159addb63f556": {
+   "id": "4870c3f15396c4cb1a7159addb63f556",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Summer Internship Programme 2026 [stem] - Information Technology",
    "location": "Hong Kong"
   },
   "503be9de3ef1f4df72437363bae37820": {
@@ -44,6 +50,12 @@
    "role": "Ai & Automation Intern",
    "location": "Hong Kong"
   },
+  "c52eeeb1fb805a564d8df784ecfceab6": {
+   "id": "c52eeeb1fb805a564d8df784ecfceab6",
+   "company": "Medtronic Diabetes",
+   "role": "Cv Intern",
+   "location": "Hong Kong"
+  },
   "651475d555eb2388e601d7e0a79b5f39": {
    "id": "651475d555eb2388e601d7e0a79b5f39",
    "company": "Hyperion Group",
@@ -59,6 +71,12 @@
   "d9d225372da2d2bc598d30f53e5b08ff": {
    "id": "d9d225372da2d2bc598d30f53e5b08ff",
    "company": "Hypebae",
+   "role": "Creative Intern",
+   "location": "Hong Kong"
+  },
+  "97dd157253639e9320e44ae5d91df289": {
+   "id": "97dd157253639e9320e44ae5d91df289",
+   "company": "Hbx",
    "role": "Creative Intern",
    "location": "Hong Kong"
   },
@@ -120,12 +138,6 @@
    "id": "4cb6e4eaf9b8a936568f0a0d2ed4bdc7",
    "company": "IMC Trading",
    "role": "Hk - 2027 - Trader Intern",
-   "location": "Hong Kong"
-  },
-  "5271aeeb075be4258258c66361ae6a70": {
-   "id": "5271aeeb075be4258258c66361ae6a70",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Summer Internship Programme 2026 [stem] - Information Technology",
    "location": "Hong Kong"
   },
   "e3ae2bb78a0a60ffe05ac1b754394ccd": {
@@ -416,6 +428,12 @@
    "role": "Actuarial Intern",
    "location": "Hong Kong"
   },
+  "f8b091eb9e8c7cc1a74d4c730d70eda6": {
+   "id": "f8b091eb9e8c7cc1a74d4c730d70eda6",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Business Analyst, Member Engagement",
+   "location": "Hong Kong"
+  },
   "0b0d1b914f06cafe8f81f96fe64092d5": {
    "id": "0b0d1b914f06cafe8f81f96fe64092d5",
    "company": "Me2Works",
@@ -432,12 +450,6 @@
    "id": "78e72c6b454458c048d53d26d18e82f5",
    "company": "Morgan Stanley",
    "role": "Fixed Income Compliance - Vice President",
-   "location": "Hong Kong"
-  },
-  "6545d143e6d7efea6ca0e41667762609": {
-   "id": "6545d143e6d7efea6ca0e41667762609",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Business Analyst, Member Engagement",
    "location": "Hong Kong"
   },
   "743d8e5602646571fee25b5120ec90cc": {
@@ -578,14 +590,8 @@
    "role": "Business Analyst (wealth Management / Private Banking) At Sanderson-ikas Hong Kong",
    "location": "Hong Kong"
   },
-  "858ed56dac978a19f6ce66827d927166": {
-   "id": "858ed56dac978a19f6ce66827d927166",
-   "company": "Me2Works",
-   "role": "會計 Accountant At Grace Bright Holdings Limited",
-   "location": "Hong Kong"
-  },
-  "0c7f9a1dcab217f88e68c5c0759d4e2d": {
-   "id": "0c7f9a1dcab217f88e68c5c0759d4e2d",
+  "33caa4b881bd80977c187fa2e2c885d5": {
+   "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
    "location": "Hong Kong"
