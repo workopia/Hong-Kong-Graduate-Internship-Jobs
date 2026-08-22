@@ -162,4 +162,9 @@
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Business Analyst, Member Engagement</td><td>Hong Kong</td><td>2026-08-21</td></tr>
 <tr><td>Me2Works</td><td>會計 Accountant At Grace Bright Holdings Limited</td><td>Hong Kong</td><td>2026-08-21</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-08-21</td></tr>
+<tr><td>Aaifire</td><td>2026 Aia Hong Kong And Macau Summer Internship Program - Corporate Solutions</td><td>Hong Kong</td><td>2026-08-22</td></tr>
+<tr><td>web3jobs.io</td><td>Software Engineer, Mobile, Web3</td><td>Hong Kong</td><td>2026-08-22</td></tr>
+<tr><td>Me2Works</td><td>Business Analyst (wealth Management / Private Banking) At Sanderson-ikas Hong Kong</td><td>Hong Kong</td><td>2026-08-22</td></tr>
+<tr><td>Ascenseur Nsa</td><td>Technician I (rw)</td><td>Hong Kong</td><td>2026-08-22</td></tr>
+<tr><td>Sidefame Ltd</td><td>【全職】marimekko (銅鑼灣sogo分店) Sales Operation Assistant 銷售營運助理【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd</td><td>Hong Kong</td><td>2026-08-22</td></tr>
 </table>

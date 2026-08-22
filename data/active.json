@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-21",
- "count": 131,
+ "asOf": "2026-08-22",
+ "count": 126,
  "jobs": {
   "26980210": {
    "id": "26980210",
@@ -17,6 +17,12 @@
   "503be9de3ef1f4df72437363bae37820": {
    "id": "503be9de3ef1f4df72437363bae37820",
    "company": "AIA Group",
+   "role": "Agency, Intern",
+   "location": "Hong Kong"
+  },
+  "824c20ed7cb4766c17a7ffa661501b63": {
+   "id": "824c20ed7cb4766c17a7ffa661501b63",
+   "company": "AIA Australia Limited",
    "role": "Agency, Intern",
    "location": "Hong Kong"
   },
@@ -180,12 +186,6 @@
    "id": "4933ded0246c050f29091d0f40e352d8",
    "company": "AIA Group",
    "role": "2027 1h Actuarial Internship Programme, Aia Group Office",
-   "location": "Hong Kong"
-  },
-  "824c20ed7cb4766c17a7ffa661501b63": {
-   "id": "824c20ed7cb4766c17a7ffa661501b63",
-   "company": "AIA Australia Limited",
-   "role": "Agency, Intern",
    "location": "Hong Kong"
   },
   "33420abcd779120fdd80527db9ddb696": {
@@ -374,22 +374,10 @@
    "role": "Communications Intern (jul - Dec 2026)",
    "location": "Hong Kong"
   },
-  "8f69e972fd6a06195fb68b81752b6472": {
-   "id": "8f69e972fd6a06195fb68b81752b6472",
-   "company": "Aaifire",
-   "role": "2026 Aia Hong Kong And Macau Summer Internship Program - Corporate Solutions",
-   "location": "Hong Kong"
-  },
   "784a59d2b4bf0a7e88ea6d43554ffc40": {
    "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
    "company": "IMC Trading",
    "role": "Software Engineer - Tooling",
-   "location": "Hong Kong"
-  },
-  "618b5e6790511eabaf06bb3ac845f461": {
-   "id": "618b5e6790511eabaf06bb3ac845f461",
-   "company": "web3jobs.io",
-   "role": "Software Engineer, Mobile, Web3",
    "location": "Hong Kong"
   },
   "HRC1592692": {
@@ -584,22 +572,10 @@
    "role": "Actuarial Analyst / Specialist",
    "location": "Hong Kong"
   },
-  "3b7d07e9e662f8da0758fc656f8d29e7": {
-   "id": "3b7d07e9e662f8da0758fc656f8d29e7",
-   "company": "Me2Works",
-   "role": "Business Analyst (wealth Management / Private Banking) At Sanderson-ikas Hong Kong",
-   "location": "Hong Kong"
-  },
   "33caa4b881bd80977c187fa2e2c885d5": {
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
-   "location": "Hong Kong"
-  },
-  "d70a8759659cf9feb85486ed224d7090": {
-   "id": "d70a8759659cf9feb85486ed224d7090",
-   "company": "Ascenseur Nsa",
-   "role": "Technician I (rw)",
    "location": "Hong Kong"
   },
   "d611115783fab34a31d34d2888a6c73c": {
@@ -648,12 +624,6 @@
    "id": "035ff6032715c59661d549e1eedfba80",
    "company": "H & M Hennes & Mauritz AB",
    "role": "Full Time Sales Advisor (queen's Road Central)",
-   "location": "Hong Kong"
-  },
-  "93159fb3f31cd2717da696fda87b6612": {
-   "id": "93159fb3f31cd2717da696fda87b6612",
-   "company": "Sidefame Ltd",
-   "role": "【全職】marimekko (銅鑼灣sogo分店) Sales Operation Assistant 銷售營運助理【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd",
    "location": "Hong Kong"
   },
   "33b3030c91d064ad80c9f6185afcc959": {
