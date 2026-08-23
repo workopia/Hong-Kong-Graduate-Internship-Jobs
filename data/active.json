@@ -1,11 +1,23 @@
 {
- "asOf": "2026-08-22",
- "count": 126,
+ "asOf": "2026-08-23",
+ "count": 128,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "8dbb4f5ad03e0260061e834aebdb86ef": {
+   "id": "8dbb4f5ad03e0260061e834aebdb86ef",
+   "company": "aion-ia.in",
+   "role": "Agency, Intern",
+   "location": "Hong Kong"
+  },
+  "5b0c8f31dd2f0f74f4a114dbb97f2632": {
+   "id": "5b0c8f31dd2f0f74f4a114dbb97f2632",
+   "company": "aion-ia.in",
+   "role": "Intern, Group Function Audit",
    "location": "Hong Kong"
   },
   "4870c3f15396c4cb1a7159addb63f556": {
@@ -362,16 +374,10 @@
    "role": "Partnership Intern",
    "location": "Hong Kong"
   },
-  "d75ee2a3d876233a3eeca4939949ec79": {
-   "id": "d75ee2a3d876233a3eeca4939949ec79",
-   "company": "FWD",
-   "role": "Actuarial Internship (full-time For 2027 H1/h2)",
-   "location": "Hong Kong"
-  },
-  "9368d58f74e18f57e23a6f4bc4472307": {
-   "id": "9368d58f74e18f57e23a6f4bc4472307",
-   "company": "Edelman",
-   "role": "Communications Intern (jul - Dec 2026)",
+  "6530a69a9a0073e83c571a8f83b64583": {
+   "id": "6530a69a9a0073e83c571a8f83b64583",
+   "company": "Eclipse Trading",
+   "role": "Graduate Python Software Engineer / 2027 Intake (hong Kong) At Eclipse Trading",
    "location": "Hong Kong"
   },
   "784a59d2b4bf0a7e88ea6d43554ffc40": {
@@ -384,6 +390,12 @@
    "id": "HRC1592692",
    "company": "Infineon",
    "role": "Intern - Ai Engineer_2692",
+   "location": "Hong Kong"
+  },
+  "c684dd5ac8b9964c3d12e30a918fb40a": {
+   "id": "c684dd5ac8b9964c3d12e30a918fb40a",
+   "company": "Me2Works",
+   "role": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
    "location": "Hong Kong"
   },
   "6fec1d2996df19597e94088ae7174049": {
@@ -626,6 +638,12 @@
    "role": "Full Time Sales Advisor (queen's Road Central)",
    "location": "Hong Kong"
   },
+  "056cfe8a848b4df2cfd02b8401986506": {
+   "id": "056cfe8a848b4df2cfd02b8401986506",
+   "company": "Hong Kong Jockey Club -THE-",
+   "role": "Part-time Administrative Assistant",
+   "location": "Hong Kong"
+  },
   "33b3030c91d064ad80c9f6185afcc959": {
    "id": "33b3030c91d064ad80c9f6185afcc959",
    "company": "Me2Works",
@@ -655,12 +673,6 @@
    "company": "The Hong Kong Jockey Club",
    "role": "Part-time Administrative Assistant",
    "location": "Search By Location"
-  },
-  "056cfe8a848b4df2cfd02b8401986506": {
-   "id": "056cfe8a848b4df2cfd02b8401986506",
-   "company": "Hong Kong Jockey Club -THE-",
-   "role": "Part-time Administrative Assistant",
-   "location": "Hong Kong"
   },
   "7076eba0cca934ca24bd44cf05a354bf": {
    "id": "7076eba0cca934ca24bd44cf05a354bf",

@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-08-22",
+  "as_of": "2026-08-23",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1151,
-  "generated_at": "2026-08-22T01:07:30.450Z"
+  "country_live_total": 1167,
+  "generated_at": "2026-08-23T05:58:46.918Z"
  },
  "categories": [
   {
@@ -74,6 +74,40 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "8dbb4f5ad03e0260061e834aebdb86ef",
+   "source": "Workopia",
+   "company_name": "aion-ia.in",
+   "company_hi_slug": "aion-ia-in",
+   "title": "Agency, Intern",
+   "location": "Hong Kong",
+   "skills": "Administrative support, Data collection",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-21T14:14:36.837Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/8dbb4f5ad03e0260061e834aebdb86ef",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "5b0c8f31dd2f0f74f4a114dbb97f2632",
+   "source": "Workopia",
+   "company_name": "aion-ia.in",
+   "company_hi_slug": "aion-ia-in",
+   "title": "Intern, Group Function Audit",
+   "location": "Hong Kong",
+   "skills": "Data analysis, Audit methodology",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-21T14:14:36.836Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/5b0c8f31dd2f0f74f4a114dbb97f2632",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "4870c3f15396c4cb1a7159addb63f556",
@@ -1078,38 +1112,21 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "d75ee2a3d876233a3eeca4939949ec79",
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "6530a69a9a0073e83c571a8f83b64583",
    "source": "Workopia",
-   "company_name": "FWD",
-   "company_hi_slug": "fwd",
-   "title": "Actuarial Internship (full-time For 2027 H1/h2)",
+   "company_name": "Eclipse Trading",
+   "company_hi_slug": null,
+   "title": "Graduate Python Software Engineer / 2027 Intake (hong Kong) At Eclipse Trading",
    "location": "Hong Kong",
-   "skills": "MS Office, Analytical skills",
+   "skills": "Python development, algorithmic trading",
    "sponsorship": false,
    "hot": false,
-   "date_posted": "2026-06-24T01:52:01.549Z",
+   "date_posted": "2026-08-19T23:11:58.000Z",
    "active": true,
-   "url": "https://workopia.io/jobs/d75ee2a3d876233a3eeca4939949ec79",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "9368d58f74e18f57e23a6f4bc4472307",
-   "source": "Workopia",
-   "company_name": "Edelman",
-   "company_hi_slug": "edelman",
-   "title": "Communications Intern (jul - Dec 2026)",
-   "location": "Hong Kong",
-   "skills": "Communication skills, Content development",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-24T00:58:39.974Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/9368d58f74e18f57e23a6f4bc4472307",
-   "category": "grad",
-   "tier": "Intern"
+   "url": "https://workopia.io/jobs/6530a69a9a0073e83c571a8f83b64583",
+   "category": "tech",
+   "tier": "Graduate"
   },
   {
    "salary_display": "HK$20k–32k/mo*",
@@ -1144,6 +1161,23 @@
    "url": "https://workopia.io/jobs/HRC1592692",
    "category": "data",
    "tier": "Intern"
+  },
+  {
+   "salary_display": "HK$22k–38k/mo*",
+   "id": "c684dd5ac8b9964c3d12e30a918fb40a",
+   "source": "Workopia",
+   "company_name": "Me2Works",
+   "company_hi_slug": "me2works",
+   "title": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
+   "location": "Hong Kong",
+   "skills": "SmartDX platform, .NET for webservice AP",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-20T22:28:58.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/c684dd5ac8b9964c3d12e30a918fb40a",
+   "category": "data",
+   "tier": "Entry-level"
   },
   {
    "salary_display": "HK$22k–38k/mo*",
@@ -1843,6 +1877,23 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "056cfe8a848b4df2cfd02b8401986506",
+   "source": "Workopia",
+   "company_name": "Hong Kong Jockey Club -THE-",
+   "company_hi_slug": "hong-kong-jockey-club-the",
+   "title": "Part-time Administrative Assistant",
+   "location": "Hong Kong",
+   "skills": "cross-party coordinati, publicity and promotio",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-21T03:52:03.517Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/056cfe8a848b4df2cfd02b8401986506",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
    "salary_display": "HK$60,000",
    "id": "33b3030c91d064ad80c9f6185afcc959",
    "source": "Workopia",
@@ -1924,23 +1975,6 @@
    "date_posted": "2026-08-16T15:12:06.658Z",
    "active": true,
    "url": "https://workopia.io/jobs/79d28372143cfcd0b9ab450a6df7db5c",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "056cfe8a848b4df2cfd02b8401986506",
-   "source": "Workopia",
-   "company_name": "Hong Kong Jockey Club -THE-",
-   "company_hi_slug": "hong-kong-jockey-club-the",
-   "title": "Part-time Administrative Assistant",
-   "location": "Hong Kong",
-   "skills": "cross-party coordinati, promotional materials ",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-12T10:44:58.900Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/056cfe8a848b4df2cfd02b8401986506",
    "category": "admin",
    "tier": "Entry-level"
   },
