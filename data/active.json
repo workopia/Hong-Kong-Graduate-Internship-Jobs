@@ -1,6 +1,6 @@
 {
  "asOf": "2026-08-23",
- "count": 128,
+ "count": 129,
  "jobs": {
   "26980210": {
    "id": "26980210",
@@ -17,6 +17,12 @@
   "5b0c8f31dd2f0f74f4a114dbb97f2632": {
    "id": "5b0c8f31dd2f0f74f4a114dbb97f2632",
    "company": "aion-ia.in",
+   "role": "Intern, Group Function Audit",
+   "location": "Hong Kong"
+  },
+  "a5d71da3976fa4d049f16781d7abe350": {
+   "id": "a5d71da3976fa4d049f16781d7abe350",
+   "company": "AIA Australia Limited",
    "role": "Intern, Group Function Audit",
    "location": "Hong Kong"
   },

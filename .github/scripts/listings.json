@@ -13,7 +13,7 @@
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 1167,
-  "generated_at": "2026-08-23T05:58:46.918Z"
+  "generated_at": "2026-08-23T09:17:51.328Z"
  },
  "categories": [
   {
@@ -105,6 +105,23 @@
    "date_posted": "2026-08-21T14:14:36.836Z",
    "active": true,
    "url": "https://workopia.io/jobs/5b0c8f31dd2f0f74f4a114dbb97f2632",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "a5d71da3976fa4d049f16781d7abe350",
+   "source": "Workopia",
+   "company_name": "AIA Australia Limited",
+   "company_hi_slug": "aia-australia",
+   "title": "Intern, Group Function Audit",
+   "location": "Hong Kong",
+   "skills": "audit approach and met, documenting risks and ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-21T14:14:36.836Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a5d71da3976fa4d049f16781d7abe350",
    "category": "grad",
    "tier": "Intern"
   },
