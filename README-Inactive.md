@@ -169,4 +169,6 @@
 <tr><td>Sidefame Ltd</td><td>【全職】marimekko (銅鑼灣sogo分店) Sales Operation Assistant 銷售營運助理【永久保證佣金+新人獎金$3,000】 At Sidefame Ltd</td><td>Hong Kong</td><td>2026-08-22</td></tr>
 <tr><td>FWD</td><td>Actuarial Internship (full-time For 2027 H1/h2)</td><td>Hong Kong</td><td>2026-08-23</td></tr>
 <tr><td>Edelman</td><td>Communications Intern (jul - Dec 2026)</td><td>Hong Kong</td><td>2026-08-23</td></tr>
+<tr><td>Intact Financial</td><td>Data Scientist I, Hk</td><td>Hong Kong</td><td>2026-08-24</td></tr>
+<tr><td>Nanfunglsre</td><td>Company Secretarial Assistant</td><td>Hong Kong</td><td>2026-08-24</td></tr>
 </table>

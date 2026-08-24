@@ -1,11 +1,29 @@
 {
- "asOf": "2026-08-23",
+ "asOf": "2026-08-24",
  "count": 129,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "4b2cfe322a98c69dcf663e305e914ff7": {
+   "id": "4b2cfe322a98c69dcf663e305e914ff7",
+   "company": "Knorr-Bremse AG",
+   "role": "Internship - Accounting",
+   "location": "Hong Kong"
+  },
+  "07e8efed42003ee5b0da5be38ff621b8": {
+   "id": "07e8efed42003ee5b0da5be38ff621b8",
+   "company": "Knorr-Bremse AG",
+   "role": "Internship - Order Management & Operations Intern",
+   "location": "Hong Kong"
+  },
+  "147d7182ea328ca3831f78ef9b9a44e0": {
+   "id": "147d7182ea328ca3831f78ef9b9a44e0",
+   "company": "Zurich Insurance UK",
+   "role": "Intern (operational Excellence, Apac) (part-time)",
    "location": "Hong Kong"
   },
   "8dbb4f5ad03e0260061e834aebdb86ef": {
@@ -122,27 +140,9 @@
    "role": "Internship",
    "location": "Hong Kong"
   },
-  "07e8efed42003ee5b0da5be38ff621b8": {
-   "id": "07e8efed42003ee5b0da5be38ff621b8",
-   "company": "Knorr-Bremse AG",
-   "role": "Internship - Order Management & Operations Intern",
-   "location": "Hong Kong"
-  },
-  "4b2cfe322a98c69dcf663e305e914ff7": {
-   "id": "4b2cfe322a98c69dcf663e305e914ff7",
-   "company": "Knorr-Bremse AG",
-   "role": "Internship - Accounting",
-   "location": "Hong Kong"
-  },
   "52cd2ae8d1ce2b64e3de998db0358dde": {
    "id": "52cd2ae8d1ce2b64e3de998db0358dde",
    "company": "Zurich Insurance Company Ltd",
-   "role": "Intern (operational Excellence, Apac) (part-time)",
-   "location": "Hong Kong"
-  },
-  "147d7182ea328ca3831f78ef9b9a44e0": {
-   "id": "147d7182ea328ca3831f78ef9b9a44e0",
-   "company": "Zurich Insurance UK",
    "role": "Intern (operational Excellence, Apac) (part-time)",
    "location": "Hong Kong"
   },
@@ -380,10 +380,22 @@
    "role": "Partnership Intern",
    "location": "Hong Kong"
   },
+  "9b964a7f671b4e1b27730b6f98c22d34": {
+   "id": "9b964a7f671b4e1b27730b6f98c22d34",
+   "company": "Eclipse Trading",
+   "role": "Graduate Low Latency C++ Software Engineer (hong Kong) At Eclipse Trading",
+   "location": "Hong Kong"
+  },
   "6530a69a9a0073e83c571a8f83b64583": {
    "id": "6530a69a9a0073e83c571a8f83b64583",
    "company": "Eclipse Trading",
    "role": "Graduate Python Software Engineer / 2027 Intake (hong Kong) At Eclipse Trading",
+   "location": "Hong Kong"
+  },
+  "91718c7ecf297a06b753265071d48d74": {
+   "id": "91718c7ecf297a06b753265071d48d74",
+   "company": "Me2Works",
+   "role": "Software Engineer – Elite Quant Fund – Hong Kong- Up To $2,400,000+ Exceptional Benefits/bonus Package At Hunter Bond",
    "location": "Hong Kong"
   },
   "784a59d2b4bf0a7e88ea6d43554ffc40": {
@@ -408,12 +420,6 @@
    "id": "6fec1d2996df19597e94088ae7174049",
    "company": "nahc.io Recruitment Firm in Asia",
    "role": "Data Scientist",
-   "location": "Hong Kong"
-  },
-  "2edae40c05537f17990ca0e70fab52a2": {
-   "id": "2edae40c05537f17990ca0e70fab52a2",
-   "company": "Intact Financial",
-   "role": "Data Scientist I, Hk",
    "location": "Hong Kong"
   },
   "2229dc3141540a682c8c9407e6ad3174": {
@@ -644,6 +650,12 @@
    "role": "Full Time Sales Advisor (queen's Road Central)",
    "location": "Hong Kong"
   },
+  "14acbd22a80edb7a134b94633b16e90a": {
+   "id": "14acbd22a80edb7a134b94633b16e90a",
+   "company": "International SOS Assistance (HK) Ltd",
+   "role": "Executive Assistant",
+   "location": "Hong Kong"
+  },
   "056cfe8a848b4df2cfd02b8401986506": {
    "id": "056cfe8a848b4df2cfd02b8401986506",
    "company": "Hong Kong Jockey Club -THE-",
@@ -684,12 +696,6 @@
    "id": "7076eba0cca934ca24bd44cf05a354bf",
    "company": "Computershare",
    "role": "Admin Support",
-   "location": "Hong Kong"
-  },
-  "14acbd22a80edb7a134b94633b16e90a": {
-   "id": "14acbd22a80edb7a134b94633b16e90a",
-   "company": "International SOS Assistance (HK) Ltd",
-   "role": "Executive Assistant",
    "location": "Hong Kong"
   },
   "513b6046df605693b590876c762c7b3d": {
@@ -768,12 +774,6 @@
    "id": "8c1fc1ff0139dcdd1c64bedf074b2bcb",
    "company": "Me2Works",
    "role": "Fresh Grad Welcome - Insurance Admin (mid - Back Office) At Hays",
-   "location": "Hong Kong"
-  },
-  "bf34409c4e39690bc69260ccf66bf1f1": {
-   "id": "bf34409c4e39690bc69260ccf66bf1f1",
-   "company": "Nanfunglsre",
-   "role": "Company Secretarial Assistant",
    "location": "Hong Kong"
   }
  }
