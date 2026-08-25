@@ -171,4 +171,13 @@
 <tr><td>Edelman</td><td>Communications Intern (jul - Dec 2026)</td><td>Hong Kong</td><td>2026-08-23</td></tr>
 <tr><td>Intact Financial</td><td>Data Scientist I, Hk</td><td>Hong Kong</td><td>2026-08-24</td></tr>
 <tr><td>Nanfunglsre</td><td>Company Secretarial Assistant</td><td>Hong Kong</td><td>2026-08-24</td></tr>
+<tr><td>AIA</td><td>Aia Actuarial Internship Programme</td><td>Hong Kong</td><td>2026-08-25</td></tr>
+<tr><td>AIA</td><td>Intern, Transformation Automation</td><td>Hong Kong</td><td>2026-08-25</td></tr>
+<tr><td>AIA</td><td>Intern</td><td>Hong Kong</td><td>2026-08-25</td></tr>
+<tr><td>AIA</td><td>Intern - Inforce Management</td><td>Hong Kong</td><td>2026-08-25</td></tr>
+<tr><td>Sunriseatwolfchase</td><td>Actuarial Internship 2027</td><td>Hong Kong</td><td>2026-08-25</td></tr>
+<tr><td>Edelman Inc</td><td>Partnership Intern</td><td>Hong Kong</td><td>2026-08-25</td></tr>
+<tr><td>AIA</td><td>Actuarial Intern</td><td>Hong Kong</td><td>2026-08-25</td></tr>
+<tr><td>AIA</td><td>Actuarial Analyst / Specialist</td><td>Hong Kong</td><td>2026-08-25</td></tr>
+<tr><td>Me2Works</td><td>Fresh Grad Welcome - Insurance Admin (mid - Back Office) At Hays</td><td>Hong Kong</td><td>2026-08-25</td></tr>
 </table>

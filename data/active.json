@@ -1,11 +1,23 @@
 {
- "asOf": "2026-08-24",
- "count": 129,
+ "asOf": "2026-08-25",
+ "count": 122,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "2e49d82a60766df680933808310520e9": {
+   "id": "2e49d82a60766df680933808310520e9",
+   "company": "Manulife",
+   "role": "Analyst Intern (6-months), Private Equity Asia 2026 2h",
+   "location": "Hong Kong"
+  },
+  "cee5ae0655de3c75e0dc8d02960a191a": {
+   "id": "cee5ae0655de3c75e0dc8d02960a191a",
+   "company": "IMC Trading",
+   "role": "Imc Emerging Talent Table - Shanghai / Sjtu",
    "location": "Hong Kong"
   },
   "4b2cfe322a98c69dcf663e305e914ff7": {
@@ -344,42 +356,6 @@
    "role": "Student Internship - Interiors - Hong Kong",
    "location": "Hong Kong"
   },
-  "44254d546fabdefb72ee194bdba06023": {
-   "id": "44254d546fabdefb72ee194bdba06023",
-   "company": "AIA",
-   "role": "Aia Actuarial Internship Programme",
-   "location": "Hong Kong"
-  },
-  "1dccdeea40663445d5e78d284141f7fd": {
-   "id": "1dccdeea40663445d5e78d284141f7fd",
-   "company": "AIA",
-   "role": "Intern, Transformation Automation",
-   "location": "Hong Kong"
-  },
-  "54f4e73cabf2e5ea35e307533d6739ba": {
-   "id": "54f4e73cabf2e5ea35e307533d6739ba",
-   "company": "AIA",
-   "role": "Intern",
-   "location": "Hong Kong"
-  },
-  "3c504117768135a442c45d287792b435": {
-   "id": "3c504117768135a442c45d287792b435",
-   "company": "AIA",
-   "role": "Intern - Inforce Management",
-   "location": "Hong Kong"
-  },
-  "a479e182fd284332d2e772f583d6ccb8": {
-   "id": "a479e182fd284332d2e772f583d6ccb8",
-   "company": "Sunriseatwolfchase",
-   "role": "Actuarial Internship 2027",
-   "location": "Hong Kong"
-  },
-  "bb873c8357eb5bb7298b7af591fb144d": {
-   "id": "bb873c8357eb5bb7298b7af591fb144d",
-   "company": "Edelman Inc",
-   "role": "Partnership Intern",
-   "location": "Hong Kong"
-  },
   "9b964a7f671b4e1b27730b6f98c22d34": {
    "id": "9b964a7f671b4e1b27730b6f98c22d34",
    "company": "Eclipse Trading",
@@ -432,12 +408,6 @@
    "id": "de1d1d8ea9be667d969a14cb4326d44b",
    "company": "Mangroup",
    "role": "Quantitative Developer, Intern",
-   "location": "Hong Kong"
-  },
-  "c684a16e8e459214cdbc12077f9059a0": {
-   "id": "c684a16e8e459214cdbc12077f9059a0",
-   "company": "AIA",
-   "role": "Actuarial Intern",
    "location": "Hong Kong"
   },
   "f8b091eb9e8c7cc1a74d4c730d70eda6": {
@@ -588,12 +558,6 @@
    "id": "0613032caf29e97d5cc19beab5900b64",
    "company": "Mercer",
    "role": "Rewards & Talent Strategy Consulting Analyst",
-   "location": "Hong Kong"
-  },
-  "b00de562d1cf868ebdb374f68a54b580": {
-   "id": "b00de562d1cf868ebdb374f68a54b580",
-   "company": "AIA",
-   "role": "Actuarial Analyst / Specialist",
    "location": "Hong Kong"
   },
   "33caa4b881bd80977c187fa2e2c885d5": {
@@ -768,12 +732,6 @@
    "id": "ce5be5174f7c0223d452054e93c3d290",
    "company": "Ernst & Young",
    "role": "Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong",
-   "location": "Hong Kong"
-  },
-  "8c1fc1ff0139dcdd1c64bedf074b2bcb": {
-   "id": "8c1fc1ff0139dcdd1c64bedf074b2bcb",
-   "company": "Me2Works",
-   "role": "Fresh Grad Welcome - Insurance Admin (mid - Back Office) At Hays",
    "location": "Hong Kong"
   }
  }
