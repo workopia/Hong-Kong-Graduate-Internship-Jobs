@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-08-25",
+  "as_of": "2026-08-26",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1176,
-  "generated_at": "2026-08-25T00:40:21.353Z"
+  "country_live_total": 1178,
+  "generated_at": "2026-08-26T00:38:32.782Z"
  },
  "categories": [
   {
@@ -147,7 +147,7 @@
    "id": "147d7182ea328ca3831f78ef9b9a44e0",
    "source": "Workopia",
    "company_name": "Zurich Insurance UK",
-   "company_hi_slug": "zurich-insurance-uk",
+   "company_hi_slug": "zurich-insurance",
    "title": "Intern (operational Excellence, Apac) (part-time)",
    "location": "Hong Kong",
    "skills": "Microsoft Power Tools, process mapping and do",
@@ -487,7 +487,7 @@
    "id": "52cd2ae8d1ce2b64e3de998db0358dde",
    "source": "Workopia",
    "company_name": "Zurich Insurance Company Ltd",
-   "company_hi_slug": "zurich-insurance-uk",
+   "company_hi_slug": "zurich-insurance",
    "title": "Intern (operational Excellence, Apac) (part-time)",
    "location": "Hong Kong",
    "skills": "Microsoft Power Tools, Business Process Requi",
