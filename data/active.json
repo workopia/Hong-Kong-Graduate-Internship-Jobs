@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-26",
- "count": 122,
+ "asOf": "2026-08-27",
+ "count": 123,
  "jobs": {
   "26980210": {
    "id": "26980210",
@@ -408,6 +408,12 @@
    "id": "de1d1d8ea9be667d969a14cb4326d44b",
    "company": "Mangroup",
    "role": "Quantitative Developer, Intern",
+   "location": "Hong Kong"
+  },
+  "dd6609edf9c2198932b83dcd0f179b1b": {
+   "id": "dd6609edf9c2198932b83dcd0f179b1b",
+   "company": "Morgan Stanley",
+   "role": "Institutional Equity Division – Associate/vice President, Prime Brokerage Strats (hong Kong)",
    "location": "Hong Kong"
   },
   "f8b091eb9e8c7cc1a74d4c730d70eda6": {
