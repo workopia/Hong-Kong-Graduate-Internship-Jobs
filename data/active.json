@@ -1,6 +1,6 @@
 {
  "asOf": "2026-08-28",
- "count": 121,
+ "count": 122,
  "jobs": {
   "26980210": {
    "id": "26980210",
@@ -12,6 +12,12 @@
    "id": "0280474a7f283ec0df47e3fbd09dd930",
    "company": "TP ICAP",
    "role": "Credit Intern",
+   "location": "Hong Kong"
+  },
+  "07d25eabb9fa011f3470339ee3950725": {
+   "id": "07d25eabb9fa011f3470339ee3950725",
+   "company": "Willis Towers Watson",
+   "role": "2027 Actuarial Internship, Retirement, Hong Kong (part Time / Full Time)",
    "location": "Hong Kong"
   },
   "2e2c327482c30deddd4ba016c13f2b02": {

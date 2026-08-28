@@ -12,8 +12,8 @@
   "as_of": "2026-08-28",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1196,
-  "generated_at": "2026-08-28T01:01:27.309Z"
+  "country_live_total": 1197,
+  "generated_at": "2026-08-28T02:03:08.468Z"
  },
  "categories": [
   {
@@ -88,6 +88,23 @@
    "date_posted": "2026-08-27T17:00:34.891Z",
    "active": true,
    "url": "https://workopia.io/jobs/0280474a7f283ec0df47e3fbd09dd930",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "07d25eabb9fa011f3470339ee3950725",
+   "source": "Workopia",
+   "company_name": "Willis Towers Watson",
+   "company_hi_slug": "willis-towers-watson",
+   "title": "2027 Actuarial Internship, Retirement, Hong Kong (part Time / Full Time)",
+   "location": "Hong Kong",
+   "skills": "Actuarial valuations a, Retirement plan design",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-27T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/07d25eabb9fa011f3470339ee3950725",
    "category": "grad",
    "tier": "Intern"
   },
