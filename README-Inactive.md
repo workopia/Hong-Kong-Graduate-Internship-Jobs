@@ -180,4 +180,9 @@
 <tr><td>AIA</td><td>Actuarial Intern</td><td>Hong Kong</td><td>2026-08-25</td></tr>
 <tr><td>AIA</td><td>Actuarial Analyst / Specialist</td><td>Hong Kong</td><td>2026-08-25</td></tr>
 <tr><td>Me2Works</td><td>Fresh Grad Welcome - Insurance Admin (mid - Back Office) At Hays</td><td>Hong Kong</td><td>2026-08-25</td></tr>
+<tr><td>AtkinsRealis UK</td><td>Summer Internship 2026</td><td>Hong Kong</td><td>2026-08-28</td></tr>
+<tr><td>AIA</td><td>2026 Actuarial Intern</td><td>Hong Kong</td><td>2026-08-28</td></tr>
+<tr><td>AIA</td><td>Intern, Transformation Automation-2</td><td>Hong Kong</td><td>2026-08-28</td></tr>
+<tr><td>Gensler</td><td>Student Internship - Interiors - Hong Kong</td><td>Hong Kong</td><td>2026-08-28</td></tr>
+<tr><td>Mercer</td><td>Rewards & Talent Strategy Consulting Analyst</td><td>Hong Kong</td><td>2026-08-28</td></tr>
 </table>

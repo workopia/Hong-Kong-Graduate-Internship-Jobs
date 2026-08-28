@@ -1,11 +1,23 @@
 {
- "asOf": "2026-08-27",
- "count": 123,
+ "asOf": "2026-08-28",
+ "count": 121,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "0280474a7f283ec0df47e3fbd09dd930": {
+   "id": "0280474a7f283ec0df47e3fbd09dd930",
+   "company": "TP ICAP",
+   "role": "Credit Intern",
+   "location": "Hong Kong"
+  },
+  "2e2c327482c30deddd4ba016c13f2b02": {
+   "id": "2e2c327482c30deddd4ba016c13f2b02",
+   "company": "Manulife",
+   "role": "Manulife Co-op 6-month Internship Program – Distribution & Business Support",
    "location": "Hong Kong"
   },
   "2e49d82a60766df680933808310520e9": {
@@ -332,30 +344,6 @@
    "role": "Summer Internship Programme 2026",
    "location": "Lantau Island"
   },
-  "8ea5e2ee6d026143ceba9fe6319c6be4": {
-   "id": "8ea5e2ee6d026143ceba9fe6319c6be4",
-   "company": "AtkinsRealis UK",
-   "role": "Summer Internship 2026",
-   "location": "Hong Kong"
-  },
-  "0baac69c5b0b6d9e1b1e8bfe071d01eb": {
-   "id": "0baac69c5b0b6d9e1b1e8bfe071d01eb",
-   "company": "AIA",
-   "role": "2026 Actuarial Intern",
-   "location": "Hong Kong"
-  },
-  "39cb720cd704f9ce4ac215fde7c5db22": {
-   "id": "39cb720cd704f9ce4ac215fde7c5db22",
-   "company": "AIA",
-   "role": "Intern, Transformation Automation-2",
-   "location": "Hong Kong"
-  },
-  "8ec53d65b953d4eb6731e6398018bb17": {
-   "id": "8ec53d65b953d4eb6731e6398018bb17",
-   "company": "Gensler",
-   "role": "Student Internship - Interiors - Hong Kong",
-   "location": "Hong Kong"
-  },
   "9b964a7f671b4e1b27730b6f98c22d34": {
    "id": "9b964a7f671b4e1b27730b6f98c22d34",
    "company": "Eclipse Trading",
@@ -408,6 +396,12 @@
    "id": "de1d1d8ea9be667d969a14cb4326d44b",
    "company": "Mangroup",
    "role": "Quantitative Developer, Intern",
+   "location": "Hong Kong"
+  },
+  "0f7434c5f935f1b12d5cd69162d929c0": {
+   "id": "0f7434c5f935f1b12d5cd69162d929c0",
+   "company": "Huatai Securities (Singapore)",
+   "role": "Equity Derivatives - Warrant Trader",
    "location": "Hong Kong"
   },
   "dd6609edf9c2198932b83dcd0f179b1b": {
@@ -558,12 +552,6 @@
    "id": "2c88a1bcf3a567602ed2c0b4d6cd749f",
    "company": "AIA",
    "role": "Actuarial Associate, Actuarial Services",
-   "location": "Hong Kong"
-  },
-  "0613032caf29e97d5cc19beab5900b64": {
-   "id": "0613032caf29e97d5cc19beab5900b64",
-   "company": "Mercer",
-   "role": "Rewards & Talent Strategy Consulting Analyst",
    "location": "Hong Kong"
   },
   "33caa4b881bd80977c187fa2e2c885d5": {
