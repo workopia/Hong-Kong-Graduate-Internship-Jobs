@@ -1,11 +1,17 @@
 {
- "asOf": "2026-08-28",
- "count": 122,
+ "asOf": "2026-08-29",
+ "count": 123,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "0af958ed0ac3d968c6f5a24d01014296": {
+   "id": "0af958ed0ac3d968c6f5a24d01014296",
+   "company": "Hang Lung Properties Ltd",
+   "role": "Intern",
    "location": "Hong Kong"
   },
   "0280474a7f283ec0df47e3fbd09dd930": {
@@ -20,9 +26,21 @@
    "role": "2027 Actuarial Internship, Retirement, Hong Kong (part Time / Full Time)",
    "location": "Hong Kong"
   },
+  "2bdf16a1fc95e29ef3f260250b522318": {
+   "id": "2bdf16a1fc95e29ef3f260250b522318",
+   "company": "Manulife Financial Inc",
+   "role": "Analyst Intern (6-months), Private Equity Asia 2026 2h",
+   "location": "Hong Kong"
+  },
   "2e2c327482c30deddd4ba016c13f2b02": {
    "id": "2e2c327482c30deddd4ba016c13f2b02",
    "company": "Manulife",
+   "role": "Manulife Co-op 6-month Internship Program – Distribution & Business Support",
+   "location": "Hong Kong"
+  },
+  "01b43d5c73679c36732b9d5729131656": {
+   "id": "01b43d5c73679c36732b9d5729131656",
+   "company": "Manulife Financial Inc",
    "role": "Manulife Co-op 6-month Internship Program – Distribution & Business Support",
    "location": "Hong Kong"
   },
@@ -102,12 +120,6 @@
    "id": "a1b588107aadc2341183e2a0efa6da3e",
    "company": "IMC Trading",
    "role": "Imc Trading Sim - Hong Kong",
-   "location": "Hong Kong"
-  },
-  "0af958ed0ac3d968c6f5a24d01014296": {
-   "id": "0af958ed0ac3d968c6f5a24d01014296",
-   "company": "Hang Lung Properties Ltd",
-   "role": "Intern",
    "location": "Hong Kong"
   },
   "10c81518a0b31564a413bf9bd610146b": {
@@ -386,12 +398,6 @@
    "role": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
    "location": "Hong Kong"
   },
-  "6fec1d2996df19597e94088ae7174049": {
-   "id": "6fec1d2996df19597e94088ae7174049",
-   "company": "nahc.io Recruitment Firm in Asia",
-   "role": "Data Scientist",
-   "location": "Hong Kong"
-  },
   "2229dc3141540a682c8c9407e6ad3174": {
    "id": "2229dc3141540a682c8c9407e6ad3174",
    "company": "Barclays",
@@ -404,6 +410,12 @@
    "role": "Quantitative Developer, Intern",
    "location": "Hong Kong"
   },
+  "6545d143e6d7efea6ca0e41667762609": {
+   "id": "6545d143e6d7efea6ca0e41667762609",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Business Analyst, Member Engagement",
+   "location": "Hong Kong"
+  },
   "0f7434c5f935f1b12d5cd69162d929c0": {
    "id": "0f7434c5f935f1b12d5cd69162d929c0",
    "company": "Huatai Securities (Singapore)",
@@ -414,12 +426,6 @@
    "id": "dd6609edf9c2198932b83dcd0f179b1b",
    "company": "Morgan Stanley",
    "role": "Institutional Equity Division – Associate/vice President, Prime Brokerage Strats (hong Kong)",
-   "location": "Hong Kong"
-  },
-  "f8b091eb9e8c7cc1a74d4c730d70eda6": {
-   "id": "f8b091eb9e8c7cc1a74d4c730d70eda6",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Business Analyst, Member Engagement",
    "location": "Hong Kong"
   },
   "0b0d1b914f06cafe8f81f96fe64092d5": {
@@ -482,16 +488,16 @@
    "role": "Investment Banking Financial Crime Officer",
    "location": "Hong Kong"
   },
-  "f4934fb9a65c15dc972628ba51c51e19": {
-   "id": "f4934fb9a65c15dc972628ba51c51e19",
-   "company": "Nomura International PLC",
-   "role": "Associate, Quantitative Strategist",
-   "location": "Hong Kong"
-  },
   "5eb41b8e65042dba88510a063f4ddf10": {
    "id": "5eb41b8e65042dba88510a063f4ddf10",
    "company": "Specsavers Optical Group Ltd",
    "role": "Commercial Accountant",
+   "location": "Hong Kong"
+  },
+  "2766d7094c78f5b5bb8e90748b9ef5ae": {
+   "id": "2766d7094c78f5b5bb8e90748b9ef5ae",
+   "company": "Nomura International PLC",
+   "role": "Associate, Quantitative Strategist",
    "location": "Hong Kong"
   },
   "91eb01bf0b54015366ad1bca643336bd": {
@@ -560,8 +566,8 @@
    "role": "Actuarial Associate, Actuarial Services",
    "location": "Hong Kong"
   },
-  "33caa4b881bd80977c187fa2e2c885d5": {
-   "id": "33caa4b881bd80977c187fa2e2c885d5",
+  "0c7f9a1dcab217f88e68c5c0759d4e2d": {
+   "id": "0c7f9a1dcab217f88e68c5c0759d4e2d",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
    "location": "Hong Kong"
@@ -614,6 +620,12 @@
    "role": "Full Time Sales Advisor (queen's Road Central)",
    "location": "Hong Kong"
   },
+  "46f72d22a8d6f5df968815a613fa3c0b": {
+   "id": "46f72d22a8d6f5df968815a613fa3c0b",
+   "company": "Hang Lung Properties Ltd",
+   "role": "Officer (administration And Documentation Support)",
+   "location": "Hong Kong"
+  },
   "14acbd22a80edb7a134b94633b16e90a": {
    "id": "14acbd22a80edb7a134b94633b16e90a",
    "company": "International SOS Assistance (HK) Ltd",
@@ -630,12 +642,6 @@
    "id": "33b3030c91d064ad80c9f6185afcc959",
    "company": "Me2Works",
    "role": "Administrative/executive Assistant- Up To 60k / Hong Kong, Hk At Michael Page",
-   "location": "Hong Kong"
-  },
-  "46f72d22a8d6f5df968815a613fa3c0b": {
-   "id": "46f72d22a8d6f5df968815a613fa3c0b",
-   "company": "Hang Lung Properties Ltd",
-   "role": "Officer (administration And Documentation Support)",
    "location": "Hong Kong"
   },
   "3c5bffa4deafbf34ea8f833b1f0f2ef0": {

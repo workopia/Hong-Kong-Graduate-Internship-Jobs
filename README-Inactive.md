@@ -185,4 +185,8 @@
 <tr><td>AIA</td><td>Intern, Transformation Automation-2</td><td>Hong Kong</td><td>2026-08-28</td></tr>
 <tr><td>Gensler</td><td>Student Internship - Interiors - Hong Kong</td><td>Hong Kong</td><td>2026-08-28</td></tr>
 <tr><td>Mercer</td><td>Rewards & Talent Strategy Consulting Analyst</td><td>Hong Kong</td><td>2026-08-28</td></tr>
+<tr><td>nahc.io Recruitment Firm in Asia</td><td>Data Scientist</td><td>Hong Kong</td><td>2026-08-29</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Business Analyst, Member Engagement</td><td>Hong Kong</td><td>2026-08-29</td></tr>
+<tr><td>Nomura International PLC</td><td>Associate, Quantitative Strategist</td><td>Hong Kong</td><td>2026-08-29</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-08-29</td></tr>
 </table>
