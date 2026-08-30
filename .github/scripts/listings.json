@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-08-29",
+  "as_of": "2026-08-30",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1215,
-  "generated_at": "2026-08-29T00:44:15.858Z"
+  "country_live_total": 1228,
+  "generated_at": "2026-08-30T00:46:11.827Z"
  },
  "categories": [
   {
@@ -74,6 +74,40 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "216495ca6dffec04f50ddf0e84def1e9",
+   "source": "Workopia",
+   "company_name": "Ardian",
+   "company_hi_slug": "ardian",
+   "title": "Investment Analyst Intern",
+   "location": "Hong Kong",
+   "skills": "Enhance recruitment pr, Prepare for potential ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-29T15:19:08.365Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/216495ca6dffec04f50ddf0e84def1e9",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "317bf14c78418b8eaa8ba9927ae4ab3c",
+   "source": "Workopia",
+   "company_name": "WTW (Willis Towers Watson)",
+   "company_hi_slug": "wtw-willis-towers-watson",
+   "title": "2027 Actuarial Internship, Retirement, Hong Kong (part Time / Full Time)",
+   "location": "Hong Kong",
+   "skills": "Actuarial Valuations, Liability Modelling",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-28T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/317bf14c78418b8eaa8ba9927ae4ab3c",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "0af958ed0ac3d968c6f5a24d01014296",
@@ -1181,6 +1215,23 @@
   },
   {
    "salary_display": null,
+   "id": "6d96c597868e8252c226e6d900ee79a8",
+   "source": "Workopia",
+   "company_name": "Prudential Corporation Asia Ltd",
+   "company_hi_slug": "prudential-corporation-asia-ltd",
+   "title": "Actuarial Intern (july 2027 To Dec 2027)",
+   "location": "Hong Kong",
+   "skills": "Actuarial functions ex, Product implementation",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-28T04:34:24.724Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/6d96c597868e8252c226e6d900ee79a8",
+   "category": "finance",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
    "id": "2229dc3141540a682c8c9407e6ad3174",
    "source": "Workopia",
    "company_name": "Barclays",
@@ -1193,23 +1244,6 @@
    "date_posted": "2026-07-02T14:08:43.150Z",
    "active": true,
    "url": "https://workopia.io/jobs/2229dc3141540a682c8c9407e6ad3174",
-   "category": "finance",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "de1d1d8ea9be667d969a14cb4326d44b",
-   "source": "Workopia",
-   "company_name": "Mangroup",
-   "company_hi_slug": "mangroup",
-   "title": "Quantitative Developer, Intern",
-   "location": "Hong Kong",
-   "skills": "Financial statement an, Excel proficiency",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-06-30T14:00:36.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/de1d1d8ea9be667d969a14cb4326d44b",
    "category": "finance",
    "tier": "Intern"
   },

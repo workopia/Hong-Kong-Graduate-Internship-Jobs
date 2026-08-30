@@ -1,11 +1,23 @@
 {
- "asOf": "2026-08-29",
- "count": 123,
+ "asOf": "2026-08-30",
+ "count": 125,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "216495ca6dffec04f50ddf0e84def1e9": {
+   "id": "216495ca6dffec04f50ddf0e84def1e9",
+   "company": "Ardian",
+   "role": "Investment Analyst Intern",
+   "location": "Hong Kong"
+  },
+  "317bf14c78418b8eaa8ba9927ae4ab3c": {
+   "id": "317bf14c78418b8eaa8ba9927ae4ab3c",
+   "company": "WTW (Willis Towers Watson)",
+   "role": "2027 Actuarial Internship, Retirement, Hong Kong (part Time / Full Time)",
    "location": "Hong Kong"
   },
   "0af958ed0ac3d968c6f5a24d01014296": {
@@ -398,16 +410,16 @@
    "role": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
    "location": "Hong Kong"
   },
+  "6d96c597868e8252c226e6d900ee79a8": {
+   "id": "6d96c597868e8252c226e6d900ee79a8",
+   "company": "Prudential Corporation Asia Ltd",
+   "role": "Actuarial Intern (july 2027 To Dec 2027)",
+   "location": "Hong Kong"
+  },
   "2229dc3141540a682c8c9407e6ad3174": {
    "id": "2229dc3141540a682c8c9407e6ad3174",
    "company": "Barclays",
    "role": "Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong",
-   "location": "Hong Kong"
-  },
-  "de1d1d8ea9be667d969a14cb4326d44b": {
-   "id": "de1d1d8ea9be667d969a14cb4326d44b",
-   "company": "Mangroup",
-   "role": "Quantitative Developer, Intern",
    "location": "Hong Kong"
   },
   "6545d143e6d7efea6ca0e41667762609": {
