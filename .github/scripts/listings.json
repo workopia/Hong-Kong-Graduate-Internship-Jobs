@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-08-30",
+  "as_of": "2026-08-31",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1228,
-  "generated_at": "2026-08-30T00:46:11.827Z"
+  "country_live_total": 1233,
+  "generated_at": "2026-08-31T00:47:19.062Z"
  },
  "categories": [
   {
@@ -1232,6 +1232,23 @@
   },
   {
    "salary_display": null,
+   "id": "2e3439cbec23618f4f2bd1702cfa02ed",
+   "source": "Workopia",
+   "company_name": "Prudential Com Sg",
+   "company_hi_slug": "prudential-com-sg",
+   "title": "Actuarial Intern (july 2027 To Dec 2027)",
+   "location": "Hong Kong",
+   "skills": "Product implementation, Financial reporting an",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-28T04:34:24.724Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/2e3439cbec23618f4f2bd1702cfa02ed",
+   "category": "finance",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
    "id": "2229dc3141540a682c8c9407e6ad3174",
    "source": "Workopia",
    "company_name": "Barclays",
@@ -1839,6 +1856,23 @@
    "date_posted": "2026-08-16T05:55:39.248Z",
    "active": true,
    "url": "https://workopia.io/jobs/45f81547c7b8f6a994e54bf02187a407",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$17k–25k/mo*",
+   "id": "098cecb27911022d3d1ba1200c0c4177",
+   "source": "Workopia",
+   "company_name": "DFI Retail Group",
+   "company_hi_slug": "dfi-retail-group",
+   "title": "Ikea 宜家家居 九龍灣分店招聘日 (8月7日)",
+   "location": "Hong Kong",
+   "skills": "Customer service skill, Teamwork and collabora",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-07-25T04:54:16.683Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/098cecb27911022d3d1ba1200c0c4177",
    "category": "sales",
    "tier": "Entry-level"
   },

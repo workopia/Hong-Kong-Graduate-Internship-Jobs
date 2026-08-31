@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-30",
- "count": 125,
+ "asOf": "2026-08-31",
+ "count": 127,
  "jobs": {
   "26980210": {
    "id": "26980210",
@@ -416,6 +416,12 @@
    "role": "Actuarial Intern (july 2027 To Dec 2027)",
    "location": "Hong Kong"
   },
+  "2e3439cbec23618f4f2bd1702cfa02ed": {
+   "id": "2e3439cbec23618f4f2bd1702cfa02ed",
+   "company": "Prudential Com Sg",
+   "role": "Actuarial Intern (july 2027 To Dec 2027)",
+   "location": "Hong Kong"
+  },
   "2229dc3141540a682c8c9407e6ad3174": {
    "id": "2229dc3141540a682c8c9407e6ad3174",
    "company": "Barclays",
@@ -624,6 +630,12 @@
    "id": "45f81547c7b8f6a994e54bf02187a407",
    "company": "lululemon",
    "role": "Educator (full-time Sales Associate) / Pacific Place Store",
+   "location": "Hong Kong"
+  },
+  "098cecb27911022d3d1ba1200c0c4177": {
+   "id": "098cecb27911022d3d1ba1200c0c4177",
+   "company": "DFI Retail Group",
+   "role": "Ikea 宜家家居 九龍灣分店招聘日 (8月7日)",
    "location": "Hong Kong"
   },
   "035ff6032715c59661d549e1eedfba80": {
