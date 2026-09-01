@@ -1,11 +1,23 @@
 {
- "asOf": "2026-08-31",
- "count": 127,
+ "asOf": "2026-09-01",
+ "count": 132,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "8f6f149a107c03b9e36d81d7a2f23f63": {
+   "id": "8f6f149a107c03b9e36d81d7a2f23f63",
+   "company": "CTF Services Ltd",
+   "role": "Intern, Investment & Alm",
+   "location": "Hong Kong"
+  },
+  "3488dbfe363d73756844ca1f34fcaf02": {
+   "id": "3488dbfe363d73756844ca1f34fcaf02",
+   "company": "CTF Services Ltd",
+   "role": "Intern, Human Resources",
    "location": "Hong Kong"
   },
   "216495ca6dffec04f50ddf0e84def1e9": {
@@ -404,6 +416,18 @@
    "role": "Intern - Ai Engineer_2692",
    "location": "Hong Kong"
   },
+  "bf616b8ecf4e80977060a372ff0723c8": {
+   "id": "bf616b8ecf4e80977060a372ff0723c8",
+   "company": "Intact Financial",
+   "role": "Data Scientist",
+   "location": "Hong Kong"
+  },
+  "7e2e526390c4a20a98af17fbb22d9d00": {
+   "id": "7e2e526390c4a20a98af17fbb22d9d00",
+   "company": "Intact Financial",
+   "role": "Ai Developer",
+   "location": "Hong Kong"
+  },
   "c684dd5ac8b9964c3d12e30a918fb40a": {
    "id": "c684dd5ac8b9964c3d12e30a918fb40a",
    "company": "Me2Works",
@@ -422,10 +446,10 @@
    "role": "Actuarial Intern (july 2027 To Dec 2027)",
    "location": "Hong Kong"
   },
-  "2229dc3141540a682c8c9407e6ad3174": {
-   "id": "2229dc3141540a682c8c9407e6ad3174",
-   "company": "Barclays",
-   "role": "Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong",
+  "94fd3876840a8230f18c0fd231f02a3c": {
+   "id": "94fd3876840a8230f18c0fd231f02a3c",
+   "company": "Prudential",
+   "role": "Actuarial Intern (july 2027 To Dec 2027)",
    "location": "Hong Kong"
   },
   "6545d143e6d7efea6ca0e41667762609": {
@@ -643,6 +667,12 @@
    "company": "H & M Hennes & Mauritz AB",
    "role": "Full Time Sales Advisor (queen's Road Central)",
    "location": "Hong Kong"
+  },
+  "9a8f27e825349e7bce8425672e9543ea": {
+   "id": "9a8f27e825349e7bce8425672e9543ea",
+   "company": "Nan Fung Group",
+   "role": "Administrative Assistant",
+   "location": "Airside"
   },
   "46f72d22a8d6f5df968815a613fa3c0b": {
    "id": "46f72d22a8d6f5df968815a613fa3c0b",
