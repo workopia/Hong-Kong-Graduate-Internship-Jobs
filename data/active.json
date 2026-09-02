@@ -1,11 +1,35 @@
 {
- "asOf": "2026-09-01",
- "count": 132,
+ "asOf": "2026-09-02",
+ "count": 145,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "c04766b0a33c276a5a453afbbe75fa34": {
+   "id": "c04766b0a33c276a5a453afbbe75fa34",
+   "company": "Manulife",
+   "role": "Tech Placement Intern, 7029 Asia Delivery Services",
+   "location": "Hong Kong"
+  },
+  "b1fc406c7f0fa0a5d6307070a3c112c7": {
+   "id": "b1fc406c7f0fa0a5d6307070a3c112c7",
+   "company": "Aia Group Office",
+   "role": "2026 1h Actuarial Internship Programme, Aia Group Office",
+   "location": "Hong Kong"
+  },
+  "786096bfdfad7f4be444cc1eacd57f34": {
+   "id": "786096bfdfad7f4be444cc1eacd57f34",
+   "company": "Prudential",
+   "role": "Part Time Intern, Gi (sep 2026 To Dec 2026)",
+   "location": "Hong Kong"
+  },
+  "252ce6ddf5feca31e346c238838a4f29": {
+   "id": "252ce6ddf5feca31e346c238838a4f29",
+   "company": "DFI Retail Group",
+   "role": "Pharmacy Intern Programme 2026",
    "location": "Hong Kong"
   },
   "8f6f149a107c03b9e36d81d7a2f23f63": {
@@ -398,6 +422,18 @@
    "role": "Graduate Python Software Engineer / 2027 Intake (hong Kong) At Eclipse Trading",
    "location": "Hong Kong"
   },
+  "b9a82e639e006ba53f3960d7bb5a7feb": {
+   "id": "b9a82e639e006ba53f3960d7bb5a7feb",
+   "company": "Ampd Energy",
+   "role": "Full-stack Software Engineer",
+   "location": "Hong Kong"
+  },
+  "5a31bf7d9f26f50d318c81ad1d6ddf6f": {
+   "id": "5a31bf7d9f26f50d318c81ad1d6ddf6f",
+   "company": "Speechify",
+   "role": "Software Engineer, Platform - Hong Kong, Hong Kong",
+   "location": "Hong Kong"
+  },
   "91718c7ecf297a06b753265071d48d74": {
    "id": "91718c7ecf297a06b753265071d48d74",
    "company": "Me2Works",
@@ -432,6 +468,12 @@
    "id": "c684dd5ac8b9964c3d12e30a918fb40a",
    "company": "Me2Works",
    "role": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
+   "location": "Hong Kong"
+  },
+  "3933535f687f4cc3834c49f523bc019b": {
+   "id": "3933535f687f4cc3834c49f523bc019b",
+   "company": "Manulife",
+   "role": "Manulife: Actuarial Internship Program 2027 (6.5 Months)",
    "location": "Hong Kong"
   },
   "6d96c597868e8252c226e6d900ee79a8": {
@@ -566,6 +608,12 @@
    "role": "Prediction Markets Trader",
    "location": "Hong Kong"
   },
+  "e59b1e44a28d6df57fccc9ac9175fb10": {
+   "id": "e59b1e44a28d6df57fccc9ac9175fb10",
+   "company": "Wintermute",
+   "role": "Prediction Markets Trader",
+   "location": "Hong Kong"
+  },
   "aef0e01cb0bec3d1edb18e1fd321d304": {
    "id": "aef0e01cb0bec3d1edb18e1fd321d304",
    "company": "Me2Works",
@@ -612,6 +660,24 @@
    "id": "0c7f9a1dcab217f88e68c5c0759d4e2d",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
+   "location": "Hong Kong"
+  },
+  "563705892678232": {
+   "id": "563705892678232",
+   "company": "Bottega Veneta",
+   "role": "Bottega Veneta Part Time Sales",
+   "location": "Hong Kong"
+  },
+  "563705892678392": {
+   "id": "563705892678392",
+   "company": "Bottega Veneta Hong Kong",
+   "role": "Bottega Veneta Part Time Sales",
+   "location": "Hong Kong"
+  },
+  "8a384d5e22ef2540aedb535987da5ac0": {
+   "id": "8a384d5e22ef2540aedb535987da5ac0",
+   "company": "Burberry",
+   "role": "Client Advisor Opportunities - Hong Kong",
    "location": "Hong Kong"
   },
   "d611115783fab34a31d34d2888a6c73c": {
@@ -666,6 +732,12 @@
    "id": "035ff6032715c59661d549e1eedfba80",
    "company": "H & M Hennes & Mauritz AB",
    "role": "Full Time Sales Advisor (queen's Road Central)",
+   "location": "Hong Kong"
+  },
+  "ec012de7fdb3421142069a495ec0c388": {
+   "id": "ec012de7fdb3421142069a495ec0c388",
+   "company": "AIA",
+   "role": "Administrative Assistant",
    "location": "Hong Kong"
   },
   "9a8f27e825349e7bce8425672e9543ea": {
@@ -738,6 +810,12 @@
    "id": "112f85130b58249e3bcce59b7f93c76c",
    "company": "Me2Works",
    "role": "Project Administrative Assistant - $22-25k+ Bonus At Michael Page",
+   "location": "Hong Kong"
+  },
+  "c3a3a0f545344853eea196529a79d22d": {
+   "id": "c3a3a0f545344853eea196529a79d22d",
+   "company": "Arc'teryx Equipment",
+   "role": "Product Compliance Specialist 2 – Packaging & Labelling",
    "location": "Hong Kong"
   },
   "d4729da61833ed60d617eaacdb322378": {
