@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-02",
- "count": 145,
+ "asOf": "2026-09-03",
+ "count": 148,
  "jobs": {
   "26980210": {
    "id": "26980210",
@@ -14,15 +14,33 @@
    "role": "Tech Placement Intern, 7029 Asia Delivery Services",
    "location": "Hong Kong"
   },
+  "651475d555eb2388e601d7e0a79b5f39": {
+   "id": "651475d555eb2388e601d7e0a79b5f39",
+   "company": "Hyperion Group",
+   "role": "Intern",
+   "location": "Hong Kong"
+  },
   "b1fc406c7f0fa0a5d6307070a3c112c7": {
    "id": "b1fc406c7f0fa0a5d6307070a3c112c7",
    "company": "Aia Group Office",
    "role": "2026 1h Actuarial Internship Programme, Aia Group Office",
    "location": "Hong Kong"
   },
+  "696d50d154a133b1b275ec17623cadc5": {
+   "id": "696d50d154a133b1b275ec17623cadc5",
+   "company": "AIA",
+   "role": "2026 1h Actuarial Internship Programme, Aia Group Office",
+   "location": "Hong Kong"
+  },
   "786096bfdfad7f4be444cc1eacd57f34": {
    "id": "786096bfdfad7f4be444cc1eacd57f34",
    "company": "Prudential",
+   "role": "Part Time Intern, Gi (sep 2026 To Dec 2026)",
+   "location": "Hong Kong"
+  },
+  "8b21ceec5eefc4c909a73125765e04ad": {
+   "id": "8b21ceec5eefc4c909a73125765e04ad",
+   "company": "Prudential Assurance UK",
    "role": "Part Time Intern, Gi (sep 2026 To Dec 2026)",
    "location": "Hong Kong"
   },
@@ -186,12 +204,6 @@
    "id": "c52eeeb1fb805a564d8df784ecfceab6",
    "company": "Medtronic Diabetes",
    "role": "Cv Intern",
-   "location": "Hong Kong"
-  },
-  "651475d555eb2388e601d7e0a79b5f39": {
-   "id": "651475d555eb2388e601d7e0a79b5f39",
-   "company": "Hyperion Group",
-   "role": "Intern",
    "location": "Hong Kong"
   },
   "551689f6ba0193738c9ede43d38d1189": {
@@ -450,6 +462,12 @@
    "id": "HRC1592692",
    "company": "Infineon",
    "role": "Intern - Ai Engineer_2692",
+   "location": "Hong Kong"
+  },
+  "5cbd2673b4b83a86d143a65e5ca172c0": {
+   "id": "5cbd2673b4b83a86d143a65e5ca172c0",
+   "company": "Intact Lab",
+   "role": "Ai Developer At Intact Fc",
    "location": "Hong Kong"
   },
   "bf616b8ecf4e80977060a372ff0723c8": {
