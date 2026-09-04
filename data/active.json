@@ -1,11 +1,29 @@
 {
- "asOf": "2026-09-03",
- "count": 148,
+ "asOf": "2026-09-04",
+ "count": 164,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "66691a9e39fc1a21bcf0a5af2f269290": {
+   "id": "66691a9e39fc1a21bcf0a5af2f269290",
+   "company": "AIA",
+   "role": "Cs Experience Study & Pricing Strategy, Intern",
+   "location": "Hong Kong"
+  },
+  "91101f12b84dec32fe895c0af32f56a7": {
+   "id": "91101f12b84dec32fe895c0af32f56a7",
+   "company": "29",
+   "role": "Assoc. Spclst, Medical Affairs Onc Intern",
+   "location": "Hong Kong"
+  },
+  "0af958ed0ac3d968c6f5a24d01014296": {
+   "id": "0af958ed0ac3d968c6f5a24d01014296",
+   "company": "Hang Lung Properties Ltd",
+   "role": "Intern",
    "location": "Hong Kong"
   },
   "c04766b0a33c276a5a453afbbe75fa34": {
@@ -14,10 +32,34 @@
    "role": "Tech Placement Intern, 7029 Asia Delivery Services",
    "location": "Hong Kong"
   },
+  "619c4aaf42f6dcd1fa4c8a1dc5cfdca1": {
+   "id": "619c4aaf42f6dcd1fa4c8a1dc5cfdca1",
+   "company": "Manulife Financial Inc",
+   "role": "Tech Placement Intern, 7029 Asia Delivery Services",
+   "location": "Hong Kong"
+  },
+  "6bd7a55800b2dd9b1756fdb7fe5cec2a": {
+   "id": "6bd7a55800b2dd9b1756fdb7fe5cec2a",
+   "company": "Flow Traders",
+   "role": "Trading Intern",
+   "location": "Hong Kong"
+  },
   "651475d555eb2388e601d7e0a79b5f39": {
    "id": "651475d555eb2388e601d7e0a79b5f39",
    "company": "Hyperion Group",
    "role": "Intern",
+   "location": "Hong Kong"
+  },
+  "1d1ebcb9214fa2f8406ede2835258d12": {
+   "id": "1d1ebcb9214fa2f8406ede2835258d12",
+   "company": "Four Seasons Hotel Hong Kong",
+   "role": "Internship Program (rooms And F&b) At Four Seasons Hotel Hong Kong",
+   "location": "Hong Kong"
+  },
+  "1358236a3e87a8a6e135557aa725041d": {
+   "id": "1358236a3e87a8a6e135557aa725041d",
+   "company": "PIMCO",
+   "role": "2027 Summer Internship - Account Analyst, Apac / Hong Kong, Hk At Pimco",
    "location": "Hong Kong"
   },
   "b1fc406c7f0fa0a5d6307070a3c112c7": {
@@ -41,6 +83,12 @@
   "8b21ceec5eefc4c909a73125765e04ad": {
    "id": "8b21ceec5eefc4c909a73125765e04ad",
    "company": "Prudential Assurance UK",
+   "role": "Part Time Intern, Gi (sep 2026 To Dec 2026)",
+   "location": "Hong Kong"
+  },
+  "28c6be29cd1f7eced8a76c93a17e1fc3": {
+   "id": "28c6be29cd1f7eced8a76c93a17e1fc3",
+   "company": "Prudential Corporation Asia Ltd",
    "role": "Part Time Intern, Gi (sep 2026 To Dec 2026)",
    "location": "Hong Kong"
   },
@@ -74,12 +122,6 @@
    "role": "2027 Actuarial Internship, Retirement, Hong Kong (part Time / Full Time)",
    "location": "Hong Kong"
   },
-  "0af958ed0ac3d968c6f5a24d01014296": {
-   "id": "0af958ed0ac3d968c6f5a24d01014296",
-   "company": "Hang Lung Properties Ltd",
-   "role": "Intern",
-   "location": "Hong Kong"
-  },
   "0280474a7f283ec0df47e3fbd09dd930": {
    "id": "0280474a7f283ec0df47e3fbd09dd930",
    "company": "TP ICAP",
@@ -98,6 +140,24 @@
    "role": "Analyst Intern (6-months), Private Equity Asia 2026 2h",
    "location": "Hong Kong"
   },
+  "4b6315a622510ff1e65bd25057aa7dcf": {
+   "id": "4b6315a622510ff1e65bd25057aa7dcf",
+   "company": "IMC Trading",
+   "role": "Quantitative Trader Intern 2027",
+   "location": "Hong Kong"
+  },
+  "a1b588107aadc2341183e2a0efa6da3e": {
+   "id": "a1b588107aadc2341183e2a0efa6da3e",
+   "company": "IMC Trading",
+   "role": "Imc Trading Sim - Hong Kong",
+   "location": "Hong Kong"
+  },
+  "cee5ae0655de3c75e0dc8d02960a191a": {
+   "id": "cee5ae0655de3c75e0dc8d02960a191a",
+   "company": "IMC Trading",
+   "role": "Imc Emerging Talent Table - Shanghai / Sjtu",
+   "location": "Hong Kong"
+  },
   "2e2c327482c30deddd4ba016c13f2b02": {
    "id": "2e2c327482c30deddd4ba016c13f2b02",
    "company": "Manulife",
@@ -114,12 +174,6 @@
    "id": "2e49d82a60766df680933808310520e9",
    "company": "Manulife",
    "role": "Analyst Intern (6-months), Private Equity Asia 2026 2h",
-   "location": "Hong Kong"
-  },
-  "cee5ae0655de3c75e0dc8d02960a191a": {
-   "id": "cee5ae0655de3c75e0dc8d02960a191a",
-   "company": "IMC Trading",
-   "role": "Imc Emerging Talent Table - Shanghai / Sjtu",
    "location": "Hong Kong"
   },
   "4b2cfe322a98c69dcf663e305e914ff7": {
@@ -174,18 +228,6 @@
    "id": "824c20ed7cb4766c17a7ffa661501b63",
    "company": "AIA Australia Limited",
    "role": "Agency, Intern",
-   "location": "Hong Kong"
-  },
-  "4b6315a622510ff1e65bd25057aa7dcf": {
-   "id": "4b6315a622510ff1e65bd25057aa7dcf",
-   "company": "IMC Trading",
-   "role": "Quantitative Trader Intern 2027",
-   "location": "Hong Kong"
-  },
-  "a1b588107aadc2341183e2a0efa6da3e": {
-   "id": "a1b588107aadc2341183e2a0efa6da3e",
-   "company": "IMC Trading",
-   "role": "Imc Trading Sim - Hong Kong",
    "location": "Hong Kong"
   },
   "10c81518a0b31564a413bf9bd610146b": {
@@ -344,12 +386,6 @@
    "role": "Intern, Transaction Services Hong Kong",
    "location": "Hong Kong"
   },
-  "6bd7a55800b2dd9b1756fdb7fe5cec2a": {
-   "id": "6bd7a55800b2dd9b1756fdb7fe5cec2a",
-   "company": "Flowfusiondata",
-   "role": "Trading Intern",
-   "location": "Hong Kong"
-  },
   "7277cd2ef47499e2aa5bd74920a2b0a7": {
    "id": "7277cd2ef47499e2aa5bd74920a2b0a7",
    "company": "Me2Works",
@@ -434,6 +470,12 @@
    "role": "Graduate Python Software Engineer / 2027 Intake (hong Kong) At Eclipse Trading",
    "location": "Hong Kong"
   },
+  "5b2d20496c6a34f1052b4bc6f72540e2": {
+   "id": "5b2d20496c6a34f1052b4bc6f72540e2",
+   "company": "Nex",
+   "role": "Game Engineer",
+   "location": "Hong Kong"
+  },
   "b9a82e639e006ba53f3960d7bb5a7feb": {
    "id": "b9a82e639e006ba53f3960d7bb5a7feb",
    "company": "Ampd Energy",
@@ -446,16 +488,22 @@
    "role": "Software Engineer, Platform - Hong Kong, Hong Kong",
    "location": "Hong Kong"
   },
+  "784a59d2b4bf0a7e88ea6d43554ffc40": {
+   "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
+   "company": "IMC Trading",
+   "role": "Software Engineer - Tooling",
+   "location": "Hong Kong"
+  },
   "91718c7ecf297a06b753265071d48d74": {
    "id": "91718c7ecf297a06b753265071d48d74",
    "company": "Me2Works",
    "role": "Software Engineer – Elite Quant Fund – Hong Kong- Up To $2,400,000+ Exceptional Benefits/bonus Package At Hunter Bond",
    "location": "Hong Kong"
   },
-  "784a59d2b4bf0a7e88ea6d43554ffc40": {
-   "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
-   "company": "IMC Trading",
-   "role": "Software Engineer - Tooling",
+  "944311537d642de7616652d18bf5daf3": {
+   "id": "944311537d642de7616652d18bf5daf3",
+   "company": "DV Group Ltd",
+   "role": "C++ Software Developer (dv Equities)",
    "location": "Hong Kong"
   },
   "HRC1592692": {
@@ -488,9 +536,21 @@
    "role": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
    "location": "Hong Kong"
   },
+  "50d2ee31343c6818fdfefae76a984606": {
+   "id": "50d2ee31343c6818fdfefae76a984606",
+   "company": "RGA",
+   "role": "Actuarial Intern (pricing Jan-jun 2027)",
+   "location": "Hong Kong"
+  },
   "3933535f687f4cc3834c49f523bc019b": {
    "id": "3933535f687f4cc3834c49f523bc019b",
    "company": "Manulife",
+   "role": "Manulife: Actuarial Internship Program 2027 (6.5 Months)",
+   "location": "Hong Kong"
+  },
+  "08c23d94278aca0b69125bd0ee0df743": {
+   "id": "08c23d94278aca0b69125bd0ee0df743",
+   "company": "Manulife Financial Inc",
    "role": "Manulife: Actuarial Internship Program 2027 (6.5 Months)",
    "location": "Hong Kong"
   },
@@ -510,6 +570,12 @@
    "id": "94fd3876840a8230f18c0fd231f02a3c",
    "company": "Prudential",
    "role": "Actuarial Intern (july 2027 To Dec 2027)",
+   "location": "Hong Kong"
+  },
+  "6501202744a85a3a56f4678db950e78e": {
+   "id": "6501202744a85a3a56f4678db950e78e",
+   "company": "Manulife",
+   "role": "Actuarial Specialist",
    "location": "Hong Kong"
   },
   "6545d143e6d7efea6ca0e41667762609": {
@@ -572,6 +638,18 @@
    "role": "Quantitative Strategist",
    "location": "Hong Kong"
   },
+  "ef886fad00fe6ccff7d770f2cca8494f": {
+   "id": "ef886fad00fe6ccff7d770f2cca8494f",
+   "company": "Jump Trading",
+   "role": "Quantitative Developer",
+   "location": "Hong Kong"
+  },
+  "0ca97dde9650d773e1a678da635528d1": {
+   "id": "0ca97dde9650d773e1a678da635528d1",
+   "company": "Jump Trading",
+   "role": "Quantitative Researcher / Trading Team",
+   "location": "Hong Kong"
+  },
   "c7cdab971f382ddf88aeed1b182958de": {
    "id": "c7cdab971f382ddf88aeed1b182958de",
    "company": "Me2Works",
@@ -588,6 +666,18 @@
    "id": "3fca2462f839984b6bbd4dd7eb57a4ca",
    "company": "jobs.barclays",
    "role": "Investment Banking Financial Crime Officer",
+   "location": "Hong Kong"
+  },
+  "b9b6ed65c346d0f241c592e6f524c91f": {
+   "id": "b9b6ed65c346d0f241c592e6f524c91f",
+   "company": "OKX",
+   "role": "Quant Developer (rust), Liquidity Platform, Delta One",
+   "location": "Hong Kong"
+  },
+  "099f75489fec9728a97e22e393742c2a": {
+   "id": "099f75489fec9728a97e22e393742c2a",
+   "company": "OKX",
+   "role": "Quantitative Trader, Cash Otc",
    "location": "Hong Kong"
   },
   "5eb41b8e65042dba88510a063f4ddf10": {
@@ -752,6 +842,24 @@
    "role": "Full Time Sales Advisor (queen's Road Central)",
    "location": "Hong Kong"
   },
+  "0b6da9b67358908bb5ece51e1b9f1834": {
+   "id": "0b6da9b67358908bb5ece51e1b9f1834",
+   "company": "77",
+   "role": "Customer Services Assistant",
+   "location": "Hong Kong"
+  },
+  "46f72d22a8d6f5df968815a613fa3c0b": {
+   "id": "46f72d22a8d6f5df968815a613fa3c0b",
+   "company": "Hang Lung Properties Ltd",
+   "role": "Officer (administration And Documentation Support)",
+   "location": "Hong Kong"
+  },
+  "3c5bffa4deafbf34ea8f833b1f0f2ef0": {
+   "id": "3c5bffa4deafbf34ea8f833b1f0f2ef0",
+   "company": "Me2Works",
+   "role": "Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Open University Of Hong Kong",
+   "location": "Hong Kong"
+  },
   "ec012de7fdb3421142069a495ec0c388": {
    "id": "ec012de7fdb3421142069a495ec0c388",
    "company": "AIA",
@@ -763,12 +871,6 @@
    "company": "Nan Fung Group",
    "role": "Administrative Assistant",
    "location": "Airside"
-  },
-  "46f72d22a8d6f5df968815a613fa3c0b": {
-   "id": "46f72d22a8d6f5df968815a613fa3c0b",
-   "company": "Hang Lung Properties Ltd",
-   "role": "Officer (administration And Documentation Support)",
-   "location": "Hong Kong"
   },
   "14acbd22a80edb7a134b94633b16e90a": {
    "id": "14acbd22a80edb7a134b94633b16e90a",
@@ -786,12 +888,6 @@
    "id": "33b3030c91d064ad80c9f6185afcc959",
    "company": "Me2Works",
    "role": "Administrative/executive Assistant- Up To 60k / Hong Kong, Hk At Michael Page",
-   "location": "Hong Kong"
-  },
-  "3c5bffa4deafbf34ea8f833b1f0f2ef0": {
-   "id": "3c5bffa4deafbf34ea8f833b1f0f2ef0",
-   "company": "Me2Works",
-   "role": "Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Open University Of Hong Kong",
    "location": "Hong Kong"
   },
   "e074e5be26fab68d27b018c9e9187cb5": {
