@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-04",
- "count": 164,
+ "asOf": "2026-09-05",
+ "count": 165,
  "jobs": {
   "26980210": {
    "id": "26980210",
@@ -17,6 +17,12 @@
   "91101f12b84dec32fe895c0af32f56a7": {
    "id": "91101f12b84dec32fe895c0af32f56a7",
    "company": "29",
+   "role": "Assoc. Spclst, Medical Affairs Onc Intern",
+   "location": "Hong Kong"
+  },
+  "1b63d44da79d9ce303c2356d0eddacf2": {
+   "id": "1b63d44da79d9ce303c2356d0eddacf2",
+   "company": "Laboratory Animal Management Association",
    "role": "Assoc. Spclst, Medical Affairs Onc Intern",
    "location": "Hong Kong"
   },
@@ -764,8 +770,8 @@
    "role": "Actuarial Associate, Actuarial Services",
    "location": "Hong Kong"
   },
-  "0c7f9a1dcab217f88e68c5c0759d4e2d": {
-   "id": "0c7f9a1dcab217f88e68c5c0759d4e2d",
+  "33caa4b881bd80977c187fa2e2c885d5": {
+   "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
    "location": "Hong Kong"
