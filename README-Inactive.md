@@ -192,4 +192,5 @@
 <tr><td>Mangroup</td><td>Quantitative Developer, Intern</td><td>Hong Kong</td><td>2026-08-30</td></tr>
 <tr><td>Barclays</td><td>Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong</td><td>Hong Kong</td><td>2026-09-01</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-09-05</td></tr>
+<tr><td>Infineon</td><td>Intern - Ai Engineer_2692</td><td>Hong Kong</td><td>2026-09-06</td></tr>
 </table>

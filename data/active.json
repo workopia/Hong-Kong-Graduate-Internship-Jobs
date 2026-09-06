@@ -1,11 +1,29 @@
 {
- "asOf": "2026-09-05",
- "count": 165,
+ "asOf": "2026-09-06",
+ "count": 170,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "e23e3e155184f0f6d25194d1810e0bfc": {
+   "id": "e23e3e155184f0f6d25194d1810e0bfc",
+   "company": "Knorr-Bremse",
+   "role": "Internship - Order Management & Operations Intern",
+   "location": "Hong Kong"
+  },
+  "147d7182ea328ca3831f78ef9b9a44e0": {
+   "id": "147d7182ea328ca3831f78ef9b9a44e0",
+   "company": "Zurich Insurance UK",
+   "role": "Intern (transformation & Automation, Compliance Apac)",
+   "location": "Hong Kong"
+  },
+  "a15f471b38e81b63a0e84c446c19a8a5": {
+   "id": "a15f471b38e81b63a0e84c446c19a8a5",
+   "company": "DV Group Ltd",
+   "role": "Quantitative Trading Intern - Summer 2027 (dv Equities)",
    "location": "Hong Kong"
   },
   "66691a9e39fc1a21bcf0a5af2f269290": {
@@ -194,12 +212,6 @@
    "role": "Internship - Order Management & Operations Intern",
    "location": "Hong Kong"
   },
-  "147d7182ea328ca3831f78ef9b9a44e0": {
-   "id": "147d7182ea328ca3831f78ef9b9a44e0",
-   "company": "Zurich Insurance UK",
-   "role": "Intern (operational Excellence, Apac) (part-time)",
-   "location": "Hong Kong"
-  },
   "8dbb4f5ad03e0260061e834aebdb86ef": {
    "id": "8dbb4f5ad03e0260061e834aebdb86ef",
    "company": "aion-ia.in",
@@ -293,6 +305,12 @@
   "52cd2ae8d1ce2b64e3de998db0358dde": {
    "id": "52cd2ae8d1ce2b64e3de998db0358dde",
    "company": "Zurich Insurance Company Ltd",
+   "role": "Intern (operational Excellence, Apac) (part-time)",
+   "location": "Hong Kong"
+  },
+  "18f2c9401253bbfd0b8871832d0ea610": {
+   "id": "18f2c9401253bbfd0b8871832d0ea610",
+   "company": "Zurich Insurance UK",
    "role": "Intern (operational Excellence, Apac) (part-time)",
    "location": "Hong Kong"
   },
@@ -512,12 +530,6 @@
    "role": "C++ Software Developer (dv Equities)",
    "location": "Hong Kong"
   },
-  "HRC1592692": {
-   "id": "HRC1592692",
-   "company": "Infineon",
-   "role": "Intern - Ai Engineer_2692",
-   "location": "Hong Kong"
-  },
   "5cbd2673b4b83a86d143a65e5ca172c0": {
    "id": "5cbd2673b4b83a86d143a65e5ca172c0",
    "company": "Intact Lab",
@@ -578,9 +590,21 @@
    "role": "Actuarial Intern (july 2027 To Dec 2027)",
    "location": "Hong Kong"
   },
+  "10ebb65ffdfc4bb2da8f565aaa5486a1": {
+   "id": "10ebb65ffdfc4bb2da8f565aaa5486a1",
+   "company": "DV Group Ltd",
+   "role": "Quantitative Trader - 2027 Graduate (dv Equities)",
+   "location": "Hong Kong"
+  },
   "6501202744a85a3a56f4678db950e78e": {
    "id": "6501202744a85a3a56f4678db950e78e",
    "company": "Manulife",
+   "role": "Actuarial Specialist",
+   "location": "Hong Kong"
+  },
+  "65bb32545cb53cc8581bef2da851cf8d": {
+   "id": "65bb32545cb53cc8581bef2da851cf8d",
+   "company": "Manulife Financial Inc",
    "role": "Actuarial Specialist",
    "location": "Hong Kong"
   },
@@ -774,6 +798,12 @@
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
+   "location": "Hong Kong"
+  },
+  "356a3dd46392978b0da0d56589679912": {
+   "id": "356a3dd46392978b0da0d56589679912",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Sales Associate",
    "location": "Hong Kong"
   },
   "563705892678232": {
