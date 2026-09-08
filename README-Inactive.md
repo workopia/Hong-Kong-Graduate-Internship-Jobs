@@ -193,4 +193,6 @@
 <tr><td>Barclays</td><td>Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong</td><td>Hong Kong</td><td>2026-09-01</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-09-05</td></tr>
 <tr><td>Infineon</td><td>Intern - Ai Engineer_2692</td><td>Hong Kong</td><td>2026-09-06</td></tr>
+<tr><td>H & M Hennes & Mauritz AB</td><td>Full Time Sales Advisor (queen's Road Central)</td><td>Hong Kong</td><td>2026-09-08</td></tr>
+<tr><td>Nan Fung Group</td><td>Administrative Assistant</td><td>Airside</td><td>2026-09-08</td></tr>
 </table>

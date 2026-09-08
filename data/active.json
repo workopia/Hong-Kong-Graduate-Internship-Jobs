@@ -1,5 +1,5 @@
 {
- "asOf": "2026-09-07",
+ "asOf": "2026-09-08",
  "count": 170,
  "jobs": {
   "26980210": {
@@ -494,6 +494,12 @@
    "role": "Graduate Python Software Engineer / 2027 Intake (hong Kong) At Eclipse Trading",
    "location": "Hong Kong"
   },
+  "91718c7ecf297a06b753265071d48d74": {
+   "id": "91718c7ecf297a06b753265071d48d74",
+   "company": "Me2Works",
+   "role": "Software Engineer – Elite Quant Fund – Hong Kong- Up To $2,400,000+ Exceptional Benefits/bonus Package At Hunter Bond",
+   "location": "Hong Kong"
+  },
   "5b2d20496c6a34f1052b4bc6f72540e2": {
    "id": "5b2d20496c6a34f1052b4bc6f72540e2",
    "company": "Nex",
@@ -516,12 +522,6 @@
    "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
    "company": "IMC Trading",
    "role": "Software Engineer - Tooling",
-   "location": "Hong Kong"
-  },
-  "91718c7ecf297a06b753265071d48d74": {
-   "id": "91718c7ecf297a06b753265071d48d74",
-   "company": "Me2Works",
-   "role": "Software Engineer – Elite Quant Fund – Hong Kong- Up To $2,400,000+ Exceptional Benefits/bonus Package At Hunter Bond",
    "location": "Hong Kong"
   },
   "944311537d642de7616652d18bf5daf3": {
@@ -594,6 +594,12 @@
    "id": "10ebb65ffdfc4bb2da8f565aaa5486a1",
    "company": "DV Group Ltd",
    "role": "Quantitative Trader - 2027 Graduate (dv Equities)",
+   "location": "Hong Kong"
+  },
+  "5099723957cbaeb472d5f51fca254db3": {
+   "id": "5099723957cbaeb472d5f51fca254db3",
+   "company": "Prudential Com Sg",
+   "role": "Actuarial Associate",
    "location": "Hong Kong"
   },
   "6501202744a85a3a56f4678db950e78e": {
@@ -872,11 +878,11 @@
    "role": "Ikea 宜家家居 九龍灣分店招聘日 (8月7日)",
    "location": "Hong Kong"
   },
-  "035ff6032715c59661d549e1eedfba80": {
-   "id": "035ff6032715c59661d549e1eedfba80",
-   "company": "H & M Hennes & Mauritz AB",
-   "role": "Full Time Sales Advisor (queen's Road Central)",
-   "location": "Hong Kong"
+  "efb8316e8e478c5f69cf5249c7795580": {
+   "id": "efb8316e8e478c5f69cf5249c7795580",
+   "company": "Nan Fung Group",
+   "role": "Administrative Assistant",
+   "location": "Airside"
   },
   "0b6da9b67358908bb5ece51e1b9f1834": {
    "id": "0b6da9b67358908bb5ece51e1b9f1834",
@@ -901,12 +907,6 @@
    "company": "AIA",
    "role": "Administrative Assistant",
    "location": "Hong Kong"
-  },
-  "9a8f27e825349e7bce8425672e9543ea": {
-   "id": "9a8f27e825349e7bce8425672e9543ea",
-   "company": "Nan Fung Group",
-   "role": "Administrative Assistant",
-   "location": "Airside"
   },
   "14acbd22a80edb7a134b94633b16e90a": {
    "id": "14acbd22a80edb7a134b94633b16e90a",

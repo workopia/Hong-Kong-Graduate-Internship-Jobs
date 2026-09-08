@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-09-07",
+  "as_of": "2026-09-08",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1347,
-  "generated_at": "2026-09-07T00:50:21.123Z"
+  "country_live_total": 1354,
+  "generated_at": "2026-09-08T02:30:30.616Z"
  },
  "categories": [
   {
@@ -1452,6 +1452,23 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "$2,400,000",
+   "id": "91718c7ecf297a06b753265071d48d74",
+   "source": "Workopia",
+   "company_name": "Me2Works",
+   "company_hi_slug": "me2works",
+   "title": "Software Engineer – Elite Quant Fund – Hong Kong- Up To $2,400,000+ Exceptional Benefits/bonus Package At Hunter Bond",
+   "location": "Hong Kong",
+   "skills": "Scalable platform infr, CI/CD pipeline develop",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-05T00:36:04.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/91718c7ecf297a06b753265071d48d74",
+   "category": "tech",
+   "tier": "Entry-level"
+  },
+  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "5b2d20496c6a34f1052b4bc6f72540e2",
    "source": "Workopia",
@@ -1516,23 +1533,6 @@
    "date_posted": "2026-08-26T11:31:50.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/784a59d2b4bf0a7e88ea6d43554ffc40",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "$2,400,000",
-   "id": "91718c7ecf297a06b753265071d48d74",
-   "source": "Workopia",
-   "company_name": "Me2Works",
-   "company_hi_slug": "me2works",
-   "title": "Software Engineer – Elite Quant Fund – Hong Kong- Up To $2,400,000+ Exceptional Benefits/bonus Package At Hunter Bond",
-   "location": "Hong Kong",
-   "skills": "Platform Engineer, SRE",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-22T23:26:14.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/91718c7ecf297a06b753265071d48d74",
    "category": "tech",
    "tier": "Entry-level"
   },
@@ -1739,6 +1739,23 @@
    "url": "https://workopia.io/jobs/10ebb65ffdfc4bb2da8f565aaa5486a1",
    "category": "finance",
    "tier": "Graduate"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "5099723957cbaeb472d5f51fca254db3",
+   "source": "Workopia",
+   "company_name": "Prudential Com Sg",
+   "company_hi_slug": "prudential-com-sg",
+   "title": "Actuarial Associate",
+   "location": "Hong Kong",
+   "skills": "Actuarial pricing anal, Financial modeling sup",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-07T12:52:05.591Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/5099723957cbaeb472d5f51fca254db3",
+   "category": "finance",
+   "tier": "Entry-level"
   },
   {
    "salary_display": "HK$20k–32k/mo*",
@@ -2540,20 +2557,20 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$17k–25k/mo*",
-   "id": "035ff6032715c59661d549e1eedfba80",
+   "salary_display": "HK$18k–26k/mo*",
+   "id": "efb8316e8e478c5f69cf5249c7795580",
    "source": "Workopia",
-   "company_name": "H & M Hennes & Mauritz AB",
-   "company_hi_slug": "h-m-hennes-mauritz-ab",
-   "title": "Full Time Sales Advisor (queen's Road Central)",
-   "location": "Hong Kong",
-   "skills": "Customer service, Retail environment",
+   "company_name": "Nan Fung Group",
+   "company_hi_slug": "nan-fung-group",
+   "title": "Administrative Assistant",
+   "location": "Airside",
+   "skills": "Preparing annual retur, Renewing business regi",
    "sponsorship": false,
    "hot": false,
-   "date_posted": "2026-07-09T12:13:36.174Z",
+   "date_posted": "2026-09-07T13:40:17.534Z",
    "active": true,
-   "url": "https://workopia.io/jobs/035ff6032715c59661d549e1eedfba80",
-   "category": "sales",
+   "url": "https://workopia.io/jobs/efb8316e8e478c5f69cf5249c7795580",
+   "category": "admin",
    "tier": "Entry-level"
   },
   {
@@ -2621,23 +2638,6 @@
    "date_posted": "2026-08-31T14:33:06.470Z",
    "active": true,
    "url": "https://workopia.io/jobs/ec012de7fdb3421142069a495ec0c388",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$18k–26k/mo*",
-   "id": "9a8f27e825349e7bce8425672e9543ea",
-   "source": "Workopia",
-   "company_name": "Nan Fung Group",
-   "company_hi_slug": "nan-fung-group",
-   "title": "Administrative Assistant",
-   "location": "Airside",
-   "skills": "preparing annual retur, renewing business regi",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-29T20:54:14.291Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/9a8f27e825349e7bce8425672e9543ea",
    "category": "admin",
    "tier": "Entry-level"
   },
