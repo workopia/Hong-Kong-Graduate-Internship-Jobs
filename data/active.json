@@ -1,11 +1,17 @@
 {
- "asOf": "2026-09-08",
- "count": 170,
+ "asOf": "2026-09-09",
+ "count": 172,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "b749e4b20b21af7b14943c1bf68e1c88": {
+   "id": "b749e4b20b21af7b14943c1bf68e1c88",
+   "company": "DayOne",
+   "role": "Internship - It Infrastructure",
    "location": "Hong Kong"
   },
   "e23e3e155184f0f6d25194d1810e0bfc": {
@@ -476,12 +482,6 @@
    "role": "Internship (aug - Dec 2026)",
    "location": "Asia"
   },
-  "a5bf9290832c2ecfe1a3872864286ea7": {
-   "id": "a5bf9290832c2ecfe1a3872864286ea7",
-   "company": "Cathaysubsidiaryservices",
-   "role": "Summer Internship Programme 2026",
-   "location": "Lantau Island"
-  },
   "9b964a7f671b4e1b27730b6f98c22d34": {
    "id": "9b964a7f671b4e1b27730b6f98c22d34",
    "company": "Eclipse Trading",
@@ -590,6 +590,12 @@
    "role": "Actuarial Intern (july 2027 To Dec 2027)",
    "location": "Hong Kong"
   },
+  "0debf44b6e8e7e38f64be24f7a85641e": {
+   "id": "0debf44b6e8e7e38f64be24f7a85641e",
+   "company": "DV Trading",
+   "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
+   "location": "Hong Kong"
+  },
   "10ebb65ffdfc4bb2da8f565aaa5486a1": {
    "id": "10ebb65ffdfc4bb2da8f565aaa5486a1",
    "company": "DV Group Ltd",
@@ -600,6 +606,18 @@
    "id": "5099723957cbaeb472d5f51fca254db3",
    "company": "Prudential Com Sg",
    "role": "Actuarial Associate",
+   "location": "Hong Kong"
+  },
+  "ce3448cb45107f927721b0f0cb919bfb": {
+   "id": "ce3448cb45107f927721b0f0cb919bfb",
+   "company": "Westbury Partners",
+   "role": "Quantitative Researcher – Machine Learning & Systematic Trading / Hong Kong, Hk At Westbury Partners",
+   "location": "Hong Kong"
+  },
+  "fa2f75b9ffb3887b23a11b8aaf54e81d": {
+   "id": "fa2f75b9ffb3887b23a11b8aaf54e81d",
+   "company": "Me2Works",
+   "role": "Accountant (global Scope) At Lalamove",
    "location": "Hong Kong"
   },
   "6501202744a85a3a56f4678db950e78e": {
@@ -780,12 +798,6 @@
    "id": "bfd80f89ec854d4a936812e63f70e37b",
    "company": "Jane Street",
    "role": "Quantitative Researcher / Hong Kong, Hk At Jane Street",
-   "location": "Hong Kong"
-  },
-  "fa2f75b9ffb3887b23a11b8aaf54e81d": {
-   "id": "fa2f75b9ffb3887b23a11b8aaf54e81d",
-   "company": "Me2Works",
-   "role": "Accountant (global Scope) At Lalamove",
    "location": "Hong Kong"
   },
   "20c908fd47f46d43b84b1a05c7ef6167": {

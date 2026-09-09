@@ -195,4 +195,5 @@
 <tr><td>Infineon</td><td>Intern - Ai Engineer_2692</td><td>Hong Kong</td><td>2026-09-06</td></tr>
 <tr><td>H & M Hennes & Mauritz AB</td><td>Full Time Sales Advisor (queen's Road Central)</td><td>Hong Kong</td><td>2026-09-08</td></tr>
 <tr><td>Nan Fung Group</td><td>Administrative Assistant</td><td>Airside</td><td>2026-09-08</td></tr>
+<tr><td>Cathaysubsidiaryservices</td><td>Summer Internship Programme 2026</td><td>Lantau Island</td><td>2026-09-09</td></tr>
 </table>

@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-09-08",
+  "as_of": "2026-09-09",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1354,
-  "generated_at": "2026-09-08T02:30:30.616Z"
+  "country_live_total": 1361,
+  "generated_at": "2026-09-09T00:53:03.902Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "b749e4b20b21af7b14943c1bf68e1c88",
+   "source": "Workopia",
+   "company_name": "DayOne",
+   "company_hi_slug": "dayone",
+   "title": "Internship - It Infrastructure",
+   "location": "Hong Kong",
+   "skills": "IT support and helpdes, Microsoft 365, Teams, ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-07T09:00:59.132Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/b749e4b20b21af7b14943c1bf68e1c88",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "e23e3e155184f0f6d25194d1810e0bfc",
@@ -1401,23 +1418,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "a5bf9290832c2ecfe1a3872864286ea7",
-   "source": "Workopia",
-   "company_name": "Cathaysubsidiaryservices",
-   "company_hi_slug": "cathaysubsidiaryservices",
-   "title": "Summer Internship Programme 2026",
-   "location": "Lantau Island",
-   "skills": "—",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-10T03:42:13.673Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/a5bf9290832c2ecfe1a3872864286ea7",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "9b964a7f671b4e1b27730b6f98c22d34",
    "source": "Workopia",
@@ -1725,6 +1725,23 @@
   },
   {
    "salary_display": "HK$20k–32k/mo*",
+   "id": "0debf44b6e8e7e38f64be24f7a85641e",
+   "source": "Workopia",
+   "company_name": "DV Trading",
+   "company_hi_slug": "dv-trading",
+   "title": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
+   "location": "Hong Kong",
+   "skills": "proprietary methodolog, real-time risk managem",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-06T17:18:13.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/0debf44b6e8e7e38f64be24f7a85641e",
+   "category": "finance",
+   "tier": "Graduate"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "10ebb65ffdfc4bb2da8f565aaa5486a1",
    "source": "Workopia",
    "company_name": "DV Group Ltd",
@@ -1754,6 +1771,40 @@
    "date_posted": "2026-09-07T12:52:05.591Z",
    "active": true,
    "url": "https://workopia.io/jobs/5099723957cbaeb472d5f51fca254db3",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "ce3448cb45107f927721b0f0cb919bfb",
+   "source": "Workopia",
+   "company_name": "Westbury Partners",
+   "company_hi_slug": null,
+   "title": "Quantitative Researcher – Machine Learning & Systematic Trading / Hong Kong, Hk At Westbury Partners",
+   "location": "Hong Kong",
+   "skills": "Machine learning techn, Systematic trading str",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-06T16:56:29.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/ce3448cb45107f927721b0f0cb919bfb",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "fa2f75b9ffb3887b23a11b8aaf54e81d",
+   "source": "Workopia",
+   "company_name": "Lalamove",
+   "company_hi_slug": "lalamove",
+   "title": "Accountant (global Scope) At Lalamove",
+   "location": "Hong Kong",
+   "skills": "Financial report prepa, Liaison with local fin",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-06T00:40:41.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/fa2f75b9ffb3887b23a11b8aaf54e81d",
    "category": "finance",
    "tier": "Entry-level"
   },
