@@ -196,4 +196,11 @@
 <tr><td>H & M Hennes & Mauritz AB</td><td>Full Time Sales Advisor (queen's Road Central)</td><td>Hong Kong</td><td>2026-09-08</td></tr>
 <tr><td>Nan Fung Group</td><td>Administrative Assistant</td><td>Airside</td><td>2026-09-08</td></tr>
 <tr><td>Cathaysubsidiaryservices</td><td>Summer Internship Programme 2026</td><td>Lantau Island</td><td>2026-09-09</td></tr>
+<tr><td>Mercer</td><td>Intern - Retirement (pension) Consulting (6-months Internship)</td><td>Hong Kong</td><td>2026-09-10</td></tr>
+<tr><td>Knorr-Bremse</td><td>Hr Student Intern</td><td>Hong Kong</td><td>2026-09-10</td></tr>
+<tr><td>MEDTRONIC</td><td>Intern, Cardiovascular Team (12-month Contract; Part-time)</td><td>Hong Kong</td><td>2026-09-10</td></tr>
+<tr><td>Medtronic Diabetes</td><td>Intern, Cardiovascular Team (12-month Contract; Part-time)</td><td>Hong Kong</td><td>2026-09-10</td></tr>
+<tr><td>AIA</td><td>Agency, Intern</td><td>Hong Kong</td><td>2026-09-10</td></tr>
+<tr><td>Plateral</td><td>Off-cycle Intern - Financial Restructuring, Hong Kong</td><td>Hong Kong</td><td>2026-09-10</td></tr>
+<tr><td>Christie's</td><td>Internship (aug - Dec 2026)</td><td>Asia</td><td>2026-09-10</td></tr>
 </table>

@@ -1,11 +1,59 @@
 {
- "asOf": "2026-09-09",
- "count": 172,
+ "asOf": "2026-09-10",
+ "count": 176,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "b4e2e1d849b8da86b101c06cd036c0fb": {
+   "id": "b4e2e1d849b8da86b101c06cd036c0fb",
+   "company": "SunLife",
+   "role": "Hong Kong Actuarial Internship 2026",
+   "location": "Hong Kong"
+  },
+  "8e366cfc13b2ecd6830507e2169b76bd": {
+   "id": "8e366cfc13b2ecd6830507e2169b76bd",
+   "company": "Sun Life",
+   "role": "Actuarial Internship 2027",
+   "location": "Hong Kong"
+  },
+  "d49d0320a033534f57a529a427a08278": {
+   "id": "d49d0320a033534f57a529a427a08278",
+   "company": "BOUYGUES CONSTRUCTION IT SNC",
+   "role": "Winter Trainee (building / Civil)",
+   "location": "Kwun Tong District"
+  },
+  "81a31c8d0fa774c3d4e893235b59d122": {
+   "id": "81a31c8d0fa774c3d4e893235b59d122",
+   "company": "Aaifire",
+   "role": "People Sustainability, Intern",
+   "location": "Hong Kong"
+  },
+  "b87e4ff4858fccbd5b032d94a0acd399": {
+   "id": "b87e4ff4858fccbd5b032d94a0acd399",
+   "company": "Disney Streaming",
+   "role": "Marketing Intern, Disney Consumer Products",
+   "location": "Hong Kong"
+  },
+  "cdd4cbc87921649a4348ad54908652cf": {
+   "id": "cdd4cbc87921649a4348ad54908652cf",
+   "company": "Huatai Securities (Singapore)",
+   "role": "Debt Capital Markets - Intern",
+   "location": "Hong Kong"
+  },
+  "dc624bd4d66ade1a645d28be59418e74": {
+   "id": "dc624bd4d66ade1a645d28be59418e74",
+   "company": "Huatai Securities (Singapore)",
+   "role": "Institutional Equity - Account Management - Intern",
+   "location": "Hong Kong"
+  },
+  "dab5de17b7d32756412ae2b92e643572": {
+   "id": "dab5de17b7d32756412ae2b92e643572",
+   "company": "Manulife",
+   "role": "Co-op Program Intern 6-months – Investment Management",
    "location": "Hong Kong"
   },
   "b749e4b20b21af7b14943c1bf68e1c88": {
@@ -440,48 +488,6 @@
    "role": "Student Intern",
    "location": "Millennium City"
   },
-  "c979b9b04ae6740ae357f997e810c9ae": {
-   "id": "c979b9b04ae6740ae357f997e810c9ae",
-   "company": "Mercer",
-   "role": "Intern - Retirement (pension) Consulting (6-months Internship)",
-   "location": "Hong Kong"
-  },
-  "d8f116eadda8bf0a5e4c01abdc9083d9": {
-   "id": "d8f116eadda8bf0a5e4c01abdc9083d9",
-   "company": "Knorr-Bremse",
-   "role": "Hr Student Intern",
-   "location": "Hong Kong"
-  },
-  "892e4f6b7ecaa1e0bbffa4ad9308269b": {
-   "id": "892e4f6b7ecaa1e0bbffa4ad9308269b",
-   "company": "MEDTRONIC",
-   "role": "Intern, Cardiovascular Team (12-month Contract; Part-time)",
-   "location": "Hong Kong"
-  },
-  "31d20d71db450b6c9556d176ef4e7a94": {
-   "id": "31d20d71db450b6c9556d176ef4e7a94",
-   "company": "Medtronic Diabetes",
-   "role": "Intern, Cardiovascular Team (12-month Contract; Part-time)",
-   "location": "Hong Kong"
-  },
-  "56626602280668f1dd2c0f2f6a12f3af": {
-   "id": "56626602280668f1dd2c0f2f6a12f3af",
-   "company": "AIA",
-   "role": "Agency, Intern",
-   "location": "Hong Kong"
-  },
-  "1925287e966b4586eecea77fbb0a46ca": {
-   "id": "1925287e966b4586eecea77fbb0a46ca",
-   "company": "Plateral",
-   "role": "Off-cycle Intern - Financial Restructuring, Hong Kong",
-   "location": "Hong Kong"
-  },
-  "2ce90dfba1afb3636c06fd608d85eb69": {
-   "id": "2ce90dfba1afb3636c06fd608d85eb69",
-   "company": "Christie's",
-   "role": "Internship (aug - Dec 2026)",
-   "location": "Asia"
-  },
   "9b964a7f671b4e1b27730b6f98c22d34": {
    "id": "9b964a7f671b4e1b27730b6f98c22d34",
    "company": "Eclipse Trading",
@@ -602,6 +608,30 @@
    "role": "Quantitative Trader - 2027 Graduate (dv Equities)",
    "location": "Hong Kong"
   },
+  "5a8863ebd64e20e71458899d76bbc5e8": {
+   "id": "5a8863ebd64e20e71458899d76bbc5e8",
+   "company": "Aaifire",
+   "role": "Ai Solution, Analyst",
+   "location": "Hong Kong"
+  },
+  "0f7434c5f935f1b12d5cd69162d929c0": {
+   "id": "0f7434c5f935f1b12d5cd69162d929c0",
+   "company": "Huatai Securities (Singapore)",
+   "role": "Equity Derivatives - Warrant Trader",
+   "location": "Hong Kong"
+  },
+  "a39c38dda52209595e383c7e74209ed3": {
+   "id": "a39c38dda52209595e383c7e74209ed3",
+   "company": "Kyndryl",
+   "role": "Consult Partner - Application Modernization",
+   "location": "Hong Kong"
+  },
+  "c7cdab971f382ddf88aeed1b182958de": {
+   "id": "c7cdab971f382ddf88aeed1b182958de",
+   "company": "Shangri-la Group",
+   "role": "Income Auditor At Shangri-la Group",
+   "location": "Hong Kong"
+  },
   "5099723957cbaeb472d5f51fca254db3": {
    "id": "5099723957cbaeb472d5f51fca254db3",
    "company": "Prudential Com Sg",
@@ -636,12 +666,6 @@
    "id": "6545d143e6d7efea6ca0e41667762609",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Business Analyst, Member Engagement",
-   "location": "Hong Kong"
-  },
-  "0f7434c5f935f1b12d5cd69162d929c0": {
-   "id": "0f7434c5f935f1b12d5cd69162d929c0",
-   "company": "Huatai Securities (Singapore)",
-   "role": "Equity Derivatives - Warrant Trader",
    "location": "Hong Kong"
   },
   "dd6609edf9c2198932b83dcd0f179b1b": {
@@ -702,12 +726,6 @@
    "id": "0ca97dde9650d773e1a678da635528d1",
    "company": "Jump Trading",
    "role": "Quantitative Researcher / Trading Team",
-   "location": "Hong Kong"
-  },
-  "c7cdab971f382ddf88aeed1b182958de": {
-   "id": "c7cdab971f382ddf88aeed1b182958de",
-   "company": "Me2Works",
-   "role": "Income Auditor At Shangri-la Group",
    "location": "Hong Kong"
   },
   "72536700dc1ac934e9db6dd01e973833": {
@@ -816,6 +834,12 @@
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
+   "location": "Hong Kong"
+  },
+  "461c8b18902beaf308f41cbd1df276cf": {
+   "id": "461c8b18902beaf308f41cbd1df276cf",
+   "company": "TD Bank",
+   "role": "Associate, Fixed Income Sales",
    "location": "Hong Kong"
   },
   "356a3dd46392978b0da0d56589679912": {
