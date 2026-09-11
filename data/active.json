@@ -1,6 +1,6 @@
 {
- "asOf": "2026-09-10",
- "count": 176,
+ "asOf": "2026-09-11",
+ "count": 183,
  "jobs": {
   "26980210": {
    "id": "26980210",
@@ -830,16 +830,52 @@
    "role": "Actuarial Associate, Actuarial Services",
    "location": "Hong Kong"
   },
+  "4e21bf98cb0ed52420ab4764eb13b4a3": {
+   "id": "4e21bf98cb0ed52420ab4764eb13b4a3",
+   "company": "Otis Worldwide",
+   "role": "調試員 (更新工程 / 安裝部)",
+   "location": "Hong Kong"
+  },
   "33caa4b881bd80977c187fa2e2c885d5": {
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
    "location": "Hong Kong"
   },
+  "19a92bb046a541a8c92911f8f5a2f51d": {
+   "id": "19a92bb046a541a8c92911f8f5a2f51d",
+   "company": "Calvin Klein",
+   "role": "Part-time Sales Associate 兼職售貨員 - Calvin Klein Jeans / Underwear",
+   "location": "Hong Kong"
+  },
+  "7c80b275baa933943d0a8fd1e0f865a1": {
+   "id": "7c80b275baa933943d0a8fd1e0f865a1",
+   "company": "Tommy Hilfiger",
+   "role": "Part-time Sales Associate 兼職售貨員 - Tommy Hilfiger",
+   "location": "Hong Kong"
+  },
   "461c8b18902beaf308f41cbd1df276cf": {
    "id": "461c8b18902beaf308f41cbd1df276cf",
    "company": "TD Bank",
    "role": "Associate, Fixed Income Sales",
+   "location": "Hong Kong"
+  },
+  "c0e6432ef8db1fce96285747ac6d4024": {
+   "id": "c0e6432ef8db1fce96285747ac6d4024",
+   "company": "Calvin Klein Jeans / Underwear",
+   "role": "Sales Associate 售貨員 - Calvin Klein Jeans / Underwear",
+   "location": "Hong Kong"
+  },
+  "b468c9b49ecec7e921223ea87ea99813": {
+   "id": "b468c9b49ecec7e921223ea87ea99813",
+   "company": "PVH",
+   "role": "Sales Associate (calvin Klein)",
+   "location": "Hong Kong"
+  },
+  "2d2c0e2d2555d1e1f20b78a18b8f70bb": {
+   "id": "2d2c0e2d2555d1e1f20b78a18b8f70bb",
+   "company": "Tommy Hilfiger",
+   "role": "Sales Associate 售貨員 - Tommy Hilfiger",
    "location": "Hong Kong"
   },
   "356a3dd46392978b0da0d56589679912": {
@@ -912,6 +948,12 @@
    "id": "098cecb27911022d3d1ba1200c0c4177",
    "company": "DFI Retail Group",
    "role": "Ikea 宜家家居 九龍灣分店招聘日 (8月7日)",
+   "location": "Hong Kong"
+  },
+  "93a9602d9ec15333dc6251a196c47e7f": {
+   "id": "93a9602d9ec15333dc6251a196c47e7f",
+   "company": "Land Securities Group",
+   "role": "Sales Specialist, Analytics & Ai Solutions",
    "location": "Hong Kong"
   },
   "efb8316e8e478c5f69cf5249c7795580": {
