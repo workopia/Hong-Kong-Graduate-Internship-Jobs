@@ -1,11 +1,17 @@
 {
- "asOf": "2026-09-11",
- "count": 183,
+ "asOf": "2026-09-12",
+ "count": 189,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "878adb39438176abed2f1956fc2dbe57": {
+   "id": "878adb39438176abed2f1956fc2dbe57",
+   "company": "Intact Financial",
+   "role": "Ai Developer I, Hk - Winter 2027",
    "location": "Hong Kong"
   },
   "b4e2e1d849b8da86b101c06cd036c0fb": {
@@ -482,12 +488,6 @@
    "role": "Hong Kong Summer Internship Programme (2027)",
    "location": "Hong Kong"
   },
-  "22c54cce33ded734533deb707091f925": {
-   "id": "22c54cce33ded734533deb707091f925",
-   "company": "TD SYNNEX Accessboard",
-   "role": "Student Intern",
-   "location": "Millennium City"
-  },
   "9b964a7f671b4e1b27730b6f98c22d34": {
    "id": "9b964a7f671b4e1b27730b6f98c22d34",
    "company": "Eclipse Trading",
@@ -536,6 +536,12 @@
    "role": "C++ Software Developer (dv Equities)",
    "location": "Hong Kong"
   },
+  "476c2f516590b46c34fec88f1665296f": {
+   "id": "476c2f516590b46c34fec88f1665296f",
+   "company": "Intact Financial",
+   "role": "Data Scientist I, Hk - Winter 2027",
+   "location": "Hong Kong"
+  },
   "5cbd2673b4b83a86d143a65e5ca172c0": {
    "id": "5cbd2673b4b83a86d143a65e5ca172c0",
    "company": "Intact Lab",
@@ -558,6 +564,18 @@
    "id": "c684dd5ac8b9964c3d12e30a918fb40a",
    "company": "Me2Works",
    "role": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
+   "location": "Hong Kong"
+  },
+  "48bf50ec1ff3192f2d078840644454d2": {
+   "id": "48bf50ec1ff3192f2d078840644454d2",
+   "company": "Barclays",
+   "role": "Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong",
+   "location": "Hong Kong"
+  },
+  "072de7807c8585d83dd9eb3dbe0f2600": {
+   "id": "072de7807c8585d83dd9eb3dbe0f2600",
+   "company": "jobs.barclays",
+   "role": "Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong",
    "location": "Hong Kong"
   },
   "50d2ee31343c6818fdfefae76a984606": {
@@ -842,6 +860,12 @@
    "role": "Service Engineer",
    "location": "Hong Kong"
   },
+  "6d379682aa19f6580c105e762be17cb2": {
+   "id": "6d379682aa19f6580c105e762be17cb2",
+   "company": "Naturactive",
+   "role": "Beauty Advisor - Hong Kong",
+   "location": "Hong Kong"
+  },
   "19a92bb046a541a8c92911f8f5a2f51d": {
    "id": "19a92bb046a541a8c92911f8f5a2f51d",
    "company": "Calvin Klein",
@@ -902,6 +926,12 @@
    "role": "Client Advisor Opportunities - Hong Kong",
    "location": "Hong Kong"
   },
+  "ef0cafbc182ac4968fd904232247001d": {
+   "id": "ef0cafbc182ac4968fd904232247001d",
+   "company": "ALO",
+   "role": "Sales Associate (part-time) - Hong Kong",
+   "location": "Hong Kong"
+  },
   "d611115783fab34a31d34d2888a6c73c": {
    "id": "d611115783fab34a31d34d2888a6c73c",
    "company": "Lululemon",
@@ -949,6 +979,12 @@
    "company": "DFI Retail Group",
    "role": "Ikea 宜家家居 九龍灣分店招聘日 (8月7日)",
    "location": "Hong Kong"
+  },
+  "5f39f4a500942d5b7c4dff4d17408643": {
+   "id": "5f39f4a500942d5b7c4dff4d17408643",
+   "company": "Houseoftechcommunity",
+   "role": "Receptionist /admin. Assistant",
+   "location": "Millennium City"
   },
   "93a9602d9ec15333dc6251a196c47e7f": {
    "id": "93a9602d9ec15333dc6251a196c47e7f",

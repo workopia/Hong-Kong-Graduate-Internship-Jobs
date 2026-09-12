@@ -203,4 +203,5 @@
 <tr><td>AIA</td><td>Agency, Intern</td><td>Hong Kong</td><td>2026-09-10</td></tr>
 <tr><td>Plateral</td><td>Off-cycle Intern - Financial Restructuring, Hong Kong</td><td>Hong Kong</td><td>2026-09-10</td></tr>
 <tr><td>Christie's</td><td>Internship (aug - Dec 2026)</td><td>Asia</td><td>2026-09-10</td></tr>
+<tr><td>TD SYNNEX Accessboard</td><td>Student Intern</td><td>Millennium City</td><td>2026-09-12</td></tr>
 </table>

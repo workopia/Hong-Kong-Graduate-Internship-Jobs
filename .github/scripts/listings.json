@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-09-11",
+  "as_of": "2026-09-12",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1439,
-  "generated_at": "2026-09-11T00:51:51.291Z"
+  "country_live_total": 1442,
+  "generated_at": "2026-09-12T00:56:43.246Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "878adb39438176abed2f1956fc2dbe57",
+   "source": "Workopia",
+   "company_name": "Intact Financial",
+   "company_hi_slug": "intact-financial",
+   "title": "Ai Developer I, Hk - Winter 2027",
+   "location": "Hong Kong",
+   "skills": "Python, NLP/LLM",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-10T22:58:59.918Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/878adb39438176abed2f1956fc2dbe57",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "b4e2e1d849b8da86b101c06cd036c0fb",
@@ -1418,23 +1435,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "22c54cce33ded734533deb707091f925",
-   "source": "Workopia",
-   "company_name": "TD SYNNEX Accessboard",
-   "company_hi_slug": "td-synnex-accessboard",
-   "title": "Student Intern",
-   "location": "Millennium City",
-   "skills": "Research skills, Cross-functional coord",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-30T14:14:06.177Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/22c54cce33ded734533deb707091f925",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "9b964a7f671b4e1b27730b6f98c22d34",
    "source": "Workopia",
@@ -1572,6 +1572,23 @@
   },
   {
    "salary_display": "HK$22k–38k/mo*",
+   "id": "476c2f516590b46c34fec88f1665296f",
+   "source": "Workopia",
+   "company_name": "Intact Financial",
+   "company_hi_slug": "intact-financial",
+   "title": "Data Scientist I, Hk - Winter 2027",
+   "location": "Hong Kong",
+   "skills": "machine learning and a, transform complex data",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-10T22:58:59.918Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/476c2f516590b46c34fec88f1665296f",
+   "category": "data",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$22k–38k/mo*",
    "id": "5cbd2673b4b83a86d143a65e5ca172c0",
    "source": "Workopia",
    "company_name": "Intact Lab",
@@ -1637,6 +1654,40 @@
    "url": "https://workopia.io/jobs/c684dd5ac8b9964c3d12e30a918fb40a",
    "category": "data",
    "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "48bf50ec1ff3192f2d078840644454d2",
+   "source": "Workopia",
+   "company_name": "Barclays",
+   "company_hi_slug": "barclays",
+   "title": "Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong",
+   "location": "Hong Kong",
+   "skills": "quantitative models an, high-performance tradi",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-10T07:52:30.510Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/48bf50ec1ff3192f2d078840644454d2",
+   "category": "finance",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "072de7807c8585d83dd9eb3dbe0f2600",
+   "source": "Workopia",
+   "company_name": "jobs.barclays",
+   "company_hi_slug": "jobs-barclays",
+   "title": "Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong",
+   "location": "Hong Kong",
+   "skills": "quantitative analysis, mathematical modelling",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-10T07:52:30.510Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/072de7807c8585d83dd9eb3dbe0f2600",
+   "category": "finance",
+   "tier": "Intern"
   },
   {
    "salary_display": null,
@@ -2472,6 +2523,23 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "HK$17k–25k/mo*",
+   "id": "6d379682aa19f6580c105e762be17cb2",
+   "source": "Workopia",
+   "company_name": "Naturactive",
+   "company_hi_slug": "naturactive",
+   "title": "Beauty Advisor - Hong Kong",
+   "location": "Hong Kong",
+   "skills": "Promote brand products, Unique and personalize",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-11T03:35:56.721Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/6d379682aa19f6580c105e762be17cb2",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
    "salary_display": "$65–70/hr",
    "id": "19a92bb046a541a8c92911f8f5a2f51d",
    "source": "Workopia",
@@ -2643,6 +2711,23 @@
   },
   {
    "salary_display": "HK$17k–25k/mo*",
+   "id": "ef0cafbc182ac4968fd904232247001d",
+   "source": "Workopia",
+   "company_name": "ALO",
+   "company_hi_slug": "alo",
+   "title": "Sales Associate (part-time) - Hong Kong",
+   "location": "Hong Kong",
+   "skills": "customer service exper, product knowledge",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-20T22:16:29.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/ef0cafbc182ac4968fd904232247001d",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "d611115783fab34a31d34d2888a6c73c",
    "source": "Workopia",
    "company_name": "Lululemon",
@@ -2775,6 +2860,23 @@
    "active": true,
    "url": "https://workopia.io/jobs/098cecb27911022d3d1ba1200c0c4177",
    "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$18k–26k/mo*",
+   "id": "5f39f4a500942d5b7c4dff4d17408643",
+   "source": "Workopia",
+   "company_name": "Houseoftechcommunity",
+   "company_hi_slug": "houseoftechcommunity",
+   "title": "Receptionist /admin. Assistant",
+   "location": "Millennium City",
+   "skills": "General administration, Strong communication a",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-10T23:58:29.441Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/5f39f4a500942d5b7c4dff4d17408643",
+   "category": "admin",
    "tier": "Entry-level"
   },
   {
