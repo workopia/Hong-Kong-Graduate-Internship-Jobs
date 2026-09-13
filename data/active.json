@@ -1,11 +1,17 @@
 {
- "asOf": "2026-09-12",
- "count": 189,
+ "asOf": "2026-09-13",
+ "count": 192,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "e923008b3af6e9dc7152b514e72f307a": {
+   "id": "e923008b3af6e9dc7152b514e72f307a",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
    "location": "Hong Kong"
   },
   "878adb39438176abed2f1956fc2dbe57": {
@@ -83,6 +89,12 @@
   "a15f471b38e81b63a0e84c446c19a8a5": {
    "id": "a15f471b38e81b63a0e84c446c19a8a5",
    "company": "DV Group Ltd",
+   "role": "Quantitative Trading Intern - Summer 2027 (dv Equities)",
+   "location": "Hong Kong"
+  },
+  "247ec7d7243ca93f35ac31fe16cb9022": {
+   "id": "247ec7d7243ca93f35ac31fe16cb9022",
+   "company": "DV Trading",
    "role": "Quantitative Trading Intern - Summer 2027 (dv Equities)",
    "location": "Hong Kong"
   },
@@ -476,18 +488,6 @@
    "role": "Hong Kong Summer Internship Programme (2027) / Hong Kong, Hk At Freshfields Bruckhaus Deringer",
    "location": "Hong Kong"
   },
-  "bc4750c6f2f2da14eb4c249a4eb7d425": {
-   "id": "bc4750c6f2f2da14eb4c249a4eb7d425",
-   "company": "Chow Tai Fook",
-   "role": "Summer Intern, People & Culture",
-   "location": "Hong Kong"
-  },
-  "43ccc0529961755dc9860f67e8ed97bf": {
-   "id": "43ccc0529961755dc9860f67e8ed97bf",
-   "company": "Freshfields Bruckhaus Deringer",
-   "role": "Hong Kong Summer Internship Programme (2027)",
-   "location": "Hong Kong"
-  },
   "9b964a7f671b4e1b27730b6f98c22d34": {
    "id": "9b964a7f671b4e1b27730b6f98c22d34",
    "company": "Eclipse Trading",
@@ -498,6 +498,12 @@
    "id": "6530a69a9a0073e83c571a8f83b64583",
    "company": "Eclipse Trading",
    "role": "Graduate Python Software Engineer / 2027 Intake (hong Kong) At Eclipse Trading",
+   "location": "Hong Kong"
+  },
+  "700480b79e78a546b982b506b3d15e96": {
+   "id": "700480b79e78a546b982b506b3d15e96",
+   "company": "Bah Partners",
+   "role": "Software Engineer - Elite Quant Trading Firm - Hong Kong At Bah Partners",
    "location": "Hong Kong"
   },
   "91718c7ecf297a06b753265071d48d74": {
@@ -566,6 +572,12 @@
    "role": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
    "location": "Hong Kong"
   },
+  "2c7ece903de07ec6f56a3781c240ab8a": {
+   "id": "2c7ece903de07ec6f56a3781c240ab8a",
+   "company": "RGA",
+   "role": "Actuarial Intern",
+   "location": "Hong Kong"
+  },
   "48bf50ec1ff3192f2d078840644454d2": {
    "id": "48bf50ec1ff3192f2d078840644454d2",
    "company": "Barclays",
@@ -623,6 +635,12 @@
   "10ebb65ffdfc4bb2da8f565aaa5486a1": {
    "id": "10ebb65ffdfc4bb2da8f565aaa5486a1",
    "company": "DV Group Ltd",
+   "role": "Quantitative Trader - 2027 Graduate (dv Equities)",
+   "location": "Hong Kong"
+  },
+  "5f4808db30449c5bd36a9663dba19132": {
+   "id": "5f4808db30449c5bd36a9663dba19132",
+   "company": "DV Trading",
    "role": "Quantitative Trader - 2027 Graduate (dv Equities)",
    "location": "Hong Kong"
   },
