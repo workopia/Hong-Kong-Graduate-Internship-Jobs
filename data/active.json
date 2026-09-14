@@ -1,11 +1,23 @@
 {
- "asOf": "2026-09-13",
- "count": 192,
+ "asOf": "2026-09-14",
+ "count": 197,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "52cd2ae8d1ce2b64e3de998db0358dde": {
+   "id": "52cd2ae8d1ce2b64e3de998db0358dde",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Intern (operational Excellence, Apac) (part-time)",
+   "location": "Hong Kong"
+  },
+  "8f6f149a107c03b9e36d81d7a2f23f63": {
+   "id": "8f6f149a107c03b9e36d81d7a2f23f63",
+   "company": "CTF Services Ltd",
+   "role": "Intern, Investment & Alm",
    "location": "Hong Kong"
   },
   "e923008b3af6e9dc7152b514e72f307a": {
@@ -14,9 +26,21 @@
    "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
    "location": "Hong Kong"
   },
+  "503be9de3ef1f4df72437363bae37820": {
+   "id": "503be9de3ef1f4df72437363bae37820",
+   "company": "AIA Group",
+   "role": "Agency, Intern",
+   "location": "Hong Kong"
+  },
   "878adb39438176abed2f1956fc2dbe57": {
    "id": "878adb39438176abed2f1956fc2dbe57",
    "company": "Intact Financial",
+   "role": "Ai Developer I, Hk - Winter 2027",
+   "location": "Hong Kong"
+  },
+  "2da5cff950dc7c93f2abdb5781ecd6e9": {
+   "id": "2da5cff950dc7c93f2abdb5781ecd6e9",
+   "company": "Intact Financial Corporation",
    "role": "Ai Developer I, Hk - Winter 2027",
    "location": "Hong Kong"
   },
@@ -194,12 +218,6 @@
    "role": "Pharmacy Intern Programme 2026",
    "location": "Hong Kong"
   },
-  "8f6f149a107c03b9e36d81d7a2f23f63": {
-   "id": "8f6f149a107c03b9e36d81d7a2f23f63",
-   "company": "CTF Services Ltd",
-   "role": "Intern, Investment & Alm",
-   "location": "Hong Kong"
-  },
   "3488dbfe363d73756844ca1f34fcaf02": {
    "id": "3488dbfe363d73756844ca1f34fcaf02",
    "company": "CTF Services Ltd",
@@ -308,12 +326,6 @@
    "role": "Summer Internship Programme 2026 [stem] - Information Technology",
    "location": "Hong Kong"
   },
-  "503be9de3ef1f4df72437363bae37820": {
-   "id": "503be9de3ef1f4df72437363bae37820",
-   "company": "AIA Group",
-   "role": "Agency, Intern",
-   "location": "Hong Kong"
-  },
   "824c20ed7cb4766c17a7ffa661501b63": {
    "id": "824c20ed7cb4766c17a7ffa661501b63",
    "company": "AIA Australia Limited",
@@ -372,12 +384,6 @@
    "id": "507259e8f35d7ef8e74af928b3e12ee8",
    "company": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
    "role": "Internship",
-   "location": "Hong Kong"
-  },
-  "52cd2ae8d1ce2b64e3de998db0358dde": {
-   "id": "52cd2ae8d1ce2b64e3de998db0358dde",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Intern (operational Excellence, Apac) (part-time)",
    "location": "Hong Kong"
   },
   "18f2c9401253bbfd0b8871832d0ea610": {
@@ -482,10 +488,10 @@
    "role": "Intern, Transaction Services Hong Kong",
    "location": "Hong Kong"
   },
-  "7277cd2ef47499e2aa5bd74920a2b0a7": {
-   "id": "7277cd2ef47499e2aa5bd74920a2b0a7",
-   "company": "Me2Works",
-   "role": "Hong Kong Summer Internship Programme (2027) / Hong Kong, Hk At Freshfields Bruckhaus Deringer",
+  "Hq6SozpyQ7Bg": {
+   "id": "Hq6SozpyQ7Bg",
+   "company": "Yubo Trading",
+   "role": "Graduate C Software Engineer",
    "location": "Hong Kong"
   },
   "9b964a7f671b4e1b27730b6f98c22d34": {
@@ -498,6 +504,12 @@
    "id": "6530a69a9a0073e83c571a8f83b64583",
    "company": "Eclipse Trading",
    "role": "Graduate Python Software Engineer / 2027 Intake (hong Kong) At Eclipse Trading",
+   "location": "Hong Kong"
+  },
+  "iFI1n6CVRSfM": {
+   "id": "iFI1n6CVRSfM",
+   "company": "Yubo Trading",
+   "role": "C Software Engineer",
    "location": "Hong Kong"
   },
   "700480b79e78a546b982b506b3d15e96": {
@@ -545,6 +557,12 @@
   "476c2f516590b46c34fec88f1665296f": {
    "id": "476c2f516590b46c34fec88f1665296f",
    "company": "Intact Financial",
+   "role": "Data Scientist I, Hk - Winter 2027",
+   "location": "Hong Kong"
+  },
+  "0e9b8986f9673eb2202ae3ef5d64e010": {
+   "id": "0e9b8986f9673eb2202ae3ef5d64e010",
+   "company": "Intact Financial Corporation",
    "role": "Data Scientist I, Hk - Winter 2027",
    "location": "Hong Kong"
   },
@@ -624,6 +642,12 @@
    "id": "94fd3876840a8230f18c0fd231f02a3c",
    "company": "Prudential",
    "role": "Actuarial Intern (july 2027 To Dec 2027)",
+   "location": "Hong Kong"
+  },
+  "F12QCjOLv4-x": {
+   "id": "F12QCjOLv4-x",
+   "company": "Yubo Trading",
+   "role": "Graduate Quantitative Researcher",
    "location": "Hong Kong"
   },
   "0debf44b6e8e7e38f64be24f7a85641e": {
@@ -1001,6 +1025,12 @@
   "5f39f4a500942d5b7c4dff4d17408643": {
    "id": "5f39f4a500942d5b7c4dff4d17408643",
    "company": "Houseoftechcommunity",
+   "role": "Receptionist /admin. Assistant",
+   "location": "Millennium City"
+  },
+  "8ee53551e7d8a36382f047069c8d917b": {
+   "id": "8ee53551e7d8a36382f047069c8d917b",
+   "company": "TD SYNNEX Accessboard",
    "role": "Receptionist /admin. Assistant",
    "location": "Millennium City"
   },

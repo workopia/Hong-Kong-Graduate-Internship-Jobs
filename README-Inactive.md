@@ -206,4 +206,5 @@
 <tr><td>TD SYNNEX Accessboard</td><td>Student Intern</td><td>Millennium City</td><td>2026-09-12</td></tr>
 <tr><td>Chow Tai Fook</td><td>Summer Intern, People & Culture</td><td>Hong Kong</td><td>2026-09-13</td></tr>
 <tr><td>Freshfields Bruckhaus Deringer</td><td>Hong Kong Summer Internship Programme (2027)</td><td>Hong Kong</td><td>2026-09-13</td></tr>
+<tr><td>Me2Works</td><td>Hong Kong Summer Internship Programme (2027) / Hong Kong, Hk At Freshfields Bruckhaus Deringer</td><td>Hong Kong</td><td>2026-09-14</td></tr>
 </table>
