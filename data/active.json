@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-15",
- "count": 204,
+ "count": 205,
  "jobs": {
   "26980210": {
    "id": "26980210",
@@ -55,6 +55,12 @@
    "company": "SunLife",
    "role": "Hong Kong Actuarial Internship 2026",
    "location": "Hong Kong"
+  },
+  "1bcc5a2843615705ef6e8c1418f76af3": {
+   "id": "1bcc5a2843615705ef6e8c1418f76af3",
+   "company": "Hermès International",
+   "role": "Internal Communications Intern (hr)",
+   "location": "Hong Kong Sar"
   },
   "8e366cfc13b2ecd6830507e2169b76bd": {
    "id": "8e366cfc13b2ecd6830507e2169b76bd",
@@ -479,12 +485,6 @@
   "3fa815b146cab7d89408a740e83038d2": {
    "id": "3fa815b146cab7d89408a740e83038d2",
    "company": "itinfinance.nl",
-   "role": "Intern, Transaction Services Hong Kong",
-   "location": "Hong Kong"
-  },
-  "52e1c7dbf6669baf90941d1657b00290": {
-   "id": "52e1c7dbf6669baf90941d1657b00290",
-   "company": "ING",
    "role": "Intern, Transaction Services Hong Kong",
    "location": "Hong Kong"
   },
@@ -962,15 +962,15 @@
    "role": "Sales Associate",
    "location": "Hong Kong"
   },
-  "e3dedb3e9d9115c39afdd9083ac4253f": {
-   "id": "e3dedb3e9d9115c39afdd9083ac4253f",
-   "company": "Bank of America",
-   "role": "Associate, Treasury Sales Associate (fi Sales), Global Payments Solutions, Hong Kong",
-   "location": "Hong Kong"
-  },
   "461c8b18902beaf308f41cbd1df276cf": {
    "id": "461c8b18902beaf308f41cbd1df276cf",
    "company": "TD Bank",
+   "role": "Associate, Fixed Income Sales",
+   "location": "Hong Kong"
+  },
+  "f15675af3aed560f9f24d7524db69964": {
+   "id": "f15675af3aed560f9f24d7524db69964",
+   "company": "TD Ameritrade",
    "role": "Associate, Fixed Income Sales",
    "location": "Hong Kong"
   },
@@ -1079,6 +1079,12 @@
   "93a9602d9ec15333dc6251a196c47e7f": {
    "id": "93a9602d9ec15333dc6251a196c47e7f",
    "company": "Land Securities Group",
+   "role": "Sales Specialist, Analytics & Ai Solutions",
+   "location": "Hong Kong"
+  },
+  "21478e1419cbdafc47a97d96b473c23b": {
+   "id": "21478e1419cbdafc47a97d96b473c23b",
+   "company": "LSEG (London Stock Exchange Group)",
    "role": "Sales Specialist, Analytics & Ai Solutions",
    "location": "Hong Kong"
   },

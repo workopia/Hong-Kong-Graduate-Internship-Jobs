@@ -209,4 +209,6 @@
 <tr><td>Me2Works</td><td>Hong Kong Summer Internship Programme (2027) / Hong Kong, Hk At Freshfields Bruckhaus Deringer</td><td>Hong Kong</td><td>2026-09-14</td></tr>
 <tr><td>Valmont Industries, Inc</td><td>Intern, Transaction Services Hong Kong</td><td>Hong Kong</td><td>2026-09-15</td></tr>
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Hong Kong</td><td>2026-09-15</td></tr>
+<tr><td>ING</td><td>Intern, Transaction Services Hong Kong</td><td>Hong Kong</td><td>2026-09-15</td></tr>
+<tr><td>Bank of America</td><td>Associate, Treasury Sales Associate (fi Sales), Global Payments Solutions, Hong Kong</td><td>Hong Kong</td><td>2026-09-15</td></tr>
 </table>

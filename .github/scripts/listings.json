@@ -12,8 +12,8 @@
   "as_of": "2026-09-15",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1467,
-  "generated_at": "2026-09-15T00:53:38.719Z"
+  "country_live_total": 1476,
+  "generated_at": "2026-09-15T12:43:28.333Z"
  },
  "categories": [
   {
@@ -207,6 +207,23 @@
    "date_posted": "2026-09-09T16:56:58.152Z",
    "active": true,
    "url": "https://workopia.io/jobs/b4e2e1d849b8da86b101c06cd036c0fb",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "1bcc5a2843615705ef6e8c1418f76af3",
+   "source": "Workopia",
+   "company_name": "Hermès International",
+   "company_hi_slug": "hermes-international",
+   "title": "Internal Communications Intern (hr)",
+   "location": "Hong Kong Sar",
+   "skills": "prepare internal commu, assist HR & Training i",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-09T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/1bcc5a2843615705ef6e8c1418f76af3",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-08-04T08:06:35.381Z",
    "active": true,
    "url": "https://workopia.io/jobs/3fa815b146cab7d89408a740e83038d2",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "52e1c7dbf6669baf90941d1657b00290",
-   "source": "Workopia",
-   "company_name": "ING",
-   "company_hi_slug": "ing",
-   "title": "Intern, Transaction Services Hong Kong",
-   "location": "Hong Kong",
-   "skills": "Finance, Accounting",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-04T08:06:35.381Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/52e1c7dbf6669baf90941d1657b00290",
    "category": "grad",
    "tier": "Intern"
   },
@@ -2812,23 +2812,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$80k/mo*",
-   "id": "e3dedb3e9d9115c39afdd9083ac4253f",
-   "source": "Workopia",
-   "company_name": "Bank of America",
-   "company_hi_slug": "bank-of-america",
-   "title": "Associate, Treasury Sales Associate (fi Sales), Global Payments Solutions, Hong Kong",
-   "location": "Hong Kong",
-   "skills": "Client Management Proc, Treasury solutions dev",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-10T06:09:54.881Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/e3dedb3e9d9115c39afdd9083ac4253f",
-   "category": "sales",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": "HK$17k–25k/mo*",
    "id": "461c8b18902beaf308f41cbd1df276cf",
    "source": "Workopia",
@@ -2842,6 +2825,23 @@
    "date_posted": "2026-09-09T10:49:06.600Z",
    "active": true,
    "url": "https://workopia.io/jobs/461c8b18902beaf308f41cbd1df276cf",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$17k–25k/mo*",
+   "id": "f15675af3aed560f9f24d7524db69964",
+   "source": "Workopia",
+   "company_name": "TD Ameritrade",
+   "company_hi_slug": "td-ameritrade",
+   "title": "Associate, Fixed Income Sales",
+   "location": "Hong Kong",
+   "skills": "Fixed Income product k, institutional client r",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-09T10:49:06.600Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/f15675af3aed560f9f24d7524db69964",
    "category": "sales",
    "tier": "Entry-level"
   },
@@ -3148,6 +3148,23 @@
    "date_posted": "2026-09-09T06:45:33.096Z",
    "active": true,
    "url": "https://workopia.io/jobs/93a9602d9ec15333dc6251a196c47e7f",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$18k–26k/mo*",
+   "id": "21478e1419cbdafc47a97d96b473c23b",
+   "source": "Workopia",
+   "company_name": "LSEG (London Stock Exchange Group)",
+   "company_hi_slug": "lseg-london-stock-exchange-group",
+   "title": "Sales Specialist, Analytics & Ai Solutions",
+   "location": "Hong Kong",
+   "skills": "driving new sales, Funds Data & Multi-Ass",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-09T06:45:33.096Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/21478e1419cbdafc47a97d96b473c23b",
    "category": "admin",
    "tier": "Entry-level"
   },
