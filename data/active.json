@@ -1,11 +1,17 @@
 {
- "asOf": "2026-09-14",
- "count": 197,
+ "asOf": "2026-09-15",
+ "count": 204,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "937b81f26ae09ad4d96c2d72dc425112": {
+   "id": "937b81f26ae09ad4d96c2d72dc425112",
+   "company": "Mitsubishi UFJ Financial Group (MUFG)",
+   "role": "Summer Internship Programme 2027 – Global Corporate Banking",
    "location": "Hong Kong"
   },
   "52cd2ae8d1ce2b64e3de998db0358dde": {
@@ -482,12 +488,6 @@
    "role": "Intern, Transaction Services Hong Kong",
    "location": "Hong Kong"
   },
-  "6b11c1b59903e0c2f88397aaca62ecee": {
-   "id": "6b11c1b59903e0c2f88397aaca62ecee",
-   "company": "Valmont Industries, Inc",
-   "role": "Intern, Transaction Services Hong Kong",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -666,6 +666,36 @@
    "id": "5f4808db30449c5bd36a9663dba19132",
    "company": "DV Trading",
    "role": "Quantitative Trader - 2027 Graduate (dv Equities)",
+   "location": "Hong Kong"
+  },
+  "0801a1d857818cbd3dabd475266742a1": {
+   "id": "0801a1d857818cbd3dabd475266742a1",
+   "company": "Bank of America",
+   "role": "Associate / Vp – Equity Derivatives Strategist, Global Research, Hong Kong",
+   "location": "Hong Kong"
+  },
+  "708c26e6aeebf47a302ccaca7c944edc": {
+   "id": "708c26e6aeebf47a302ccaca7c944edc",
+   "company": "Bank of America",
+   "role": "Associate / Vp – Quantitative Analyst – Quant Strategy Research",
+   "location": "Hong Kong"
+  },
+  "d6dc7305f83f152b5f5699f7b583dcff": {
+   "id": "d6dc7305f83f152b5f5699f7b583dcff",
+   "company": "JD",
+   "role": "经营分析岗",
+   "location": "Hong Kong Sar"
+  },
+  "9e8c258a5cb683b43c54a0968e99a775": {
+   "id": "9e8c258a5cb683b43c54a0968e99a775",
+   "company": "Jll Com Au",
+   "role": "Business Support Analyst",
+   "location": "Hong Kong"
+  },
+  "c0def584c231e20ef6edb54a6806417e": {
+   "id": "c0def584c231e20ef6edb54a6806417e",
+   "company": "Morgan Stanley UK",
+   "role": "Institutional Equity Division – Associate/vice President, Prime Brokerage Strats (hong Kong)",
    "location": "Hong Kong"
   },
   "5a8863ebd64e20e71458899d76bbc5e8": {
@@ -896,6 +926,12 @@
    "role": "調試員 (更新工程 / 安裝部)",
    "location": "Hong Kong"
   },
+  "9ecc33dc4992c627a54b0826b9534567": {
+   "id": "9ecc33dc4992c627a54b0826b9534567",
+   "company": "DAT Deutsche Aufzugstechnik GmbH",
+   "role": "調試員 (更新工程 / 安裝部)",
+   "location": "Hong Kong"
+  },
   "33caa4b881bd80977c187fa2e2c885d5": {
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -920,6 +956,18 @@
    "role": "Part-time Sales Associate 兼職售貨員 - Tommy Hilfiger",
    "location": "Hong Kong"
   },
+  "a8f2ac3f0b16d317a3366632df9f2e7f": {
+   "id": "a8f2ac3f0b16d317a3366632df9f2e7f",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Sales Associate",
+   "location": "Hong Kong"
+  },
+  "e3dedb3e9d9115c39afdd9083ac4253f": {
+   "id": "e3dedb3e9d9115c39afdd9083ac4253f",
+   "company": "Bank of America",
+   "role": "Associate, Treasury Sales Associate (fi Sales), Global Payments Solutions, Hong Kong",
+   "location": "Hong Kong"
+  },
   "461c8b18902beaf308f41cbd1df276cf": {
    "id": "461c8b18902beaf308f41cbd1df276cf",
    "company": "TD Bank",
@@ -942,12 +990,6 @@
    "id": "2d2c0e2d2555d1e1f20b78a18b8f70bb",
    "company": "Tommy Hilfiger",
    "role": "Sales Associate 售貨員 - Tommy Hilfiger",
-   "location": "Hong Kong"
-  },
-  "356a3dd46392978b0da0d56589679912": {
-   "id": "356a3dd46392978b0da0d56589679912",
-   "company": "Coach (Tapestry, Inc.)",
-   "role": "Sales Associate",
    "location": "Hong Kong"
   },
   "563705892678232": {
