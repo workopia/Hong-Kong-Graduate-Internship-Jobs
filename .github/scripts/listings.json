@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-09-15",
+  "as_of": "2026-09-16",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1476,
-  "generated_at": "2026-09-15T12:43:28.333Z"
+  "country_live_total": 1481,
+  "generated_at": "2026-09-16T01:00:11.384Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "6033207f9c8390e4ec80ce15b0b74cf2",
+   "source": "Workopia",
+   "company_name": "Atkinsrealis",
+   "company_hi_slug": "atkinsrealis",
+   "title": "Winter Internship",
+   "location": "Hong Kong",
+   "skills": "Hands-on experience in, Assist engineers with ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-14T23:56:29.378Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/6033207f9c8390e4ec80ce15b0b74cf2",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "937b81f26ae09ad4d96c2d72dc425112",
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-08-04T12:32:35.161Z",
    "active": true,
    "url": "https://workopia.io/jobs/4e33ebb28179fd6ed465a37a81864f9b",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "3fa815b146cab7d89408a740e83038d2",
-   "source": "Workopia",
-   "company_name": "itinfinance.nl",
-   "company_hi_slug": "itinfinance-nl",
-   "title": "Intern, Transaction Services Hong Kong",
-   "location": "Hong Kong",
-   "skills": "Finance, Accounting",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-04T08:06:35.381Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/3fa815b146cab7d89408a740e83038d2",
    "category": "grad",
    "tier": "Intern"
   },
@@ -2876,6 +2876,40 @@
    "date_posted": "2026-09-09T00:37:12.330Z",
    "active": true,
    "url": "https://workopia.io/jobs/b468c9b49ecec7e921223ea87ea99813",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$17k–25k/mo*",
+   "id": "9abced9f72094aad85793c2c0db4d2de",
+   "source": "Workopia",
+   "company_name": "Calvin Klein",
+   "company_hi_slug": "calvin-klein",
+   "title": "Sales Associate (calvin Klein)",
+   "location": "Hong Kong",
+   "skills": "Brand ambassador for C, Professional styling a",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-09T00:37:12.330Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/9abced9f72094aad85793c2c0db4d2de",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$17k–25k/mo*",
+   "id": "42c367d10a97a1e21fd1ca8e41ce8152",
+   "source": "Workopia",
+   "company_name": "Calvin Klein",
+   "company_hi_slug": "calvin-klein",
+   "title": "Sales Associate 售貨員 - Calvin Klein Jeans / Underwear",
+   "location": "Hong Kong",
+   "skills": "Introduce company prod, Provide professional f",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-09T00:37:12.330Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/42c367d10a97a1e21fd1ca8e41ce8152",
    "category": "sales",
    "tier": "Entry-level"
   },

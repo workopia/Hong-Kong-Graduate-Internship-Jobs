@@ -211,4 +211,5 @@
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Hong Kong</td><td>2026-09-15</td></tr>
 <tr><td>ING</td><td>Intern, Transaction Services Hong Kong</td><td>Hong Kong</td><td>2026-09-15</td></tr>
 <tr><td>Bank of America</td><td>Associate, Treasury Sales Associate (fi Sales), Global Payments Solutions, Hong Kong</td><td>Hong Kong</td><td>2026-09-15</td></tr>
+<tr><td>itinfinance.nl</td><td>Intern, Transaction Services Hong Kong</td><td>Hong Kong</td><td>2026-09-16</td></tr>
 </table>

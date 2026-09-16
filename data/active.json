@@ -1,11 +1,17 @@
 {
- "asOf": "2026-09-15",
- "count": 205,
+ "asOf": "2026-09-16",
+ "count": 207,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "6033207f9c8390e4ec80ce15b0b74cf2": {
+   "id": "6033207f9c8390e4ec80ce15b0b74cf2",
+   "company": "Atkinsrealis",
+   "role": "Winter Internship",
    "location": "Hong Kong"
   },
   "937b81f26ae09ad4d96c2d72dc425112": {
@@ -481,12 +487,6 @@
    "company": "Marsh",
    "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
    "location": "Taikoo"
-  },
-  "3fa815b146cab7d89408a740e83038d2": {
-   "id": "3fa815b146cab7d89408a740e83038d2",
-   "company": "itinfinance.nl",
-   "role": "Intern, Transaction Services Hong Kong",
-   "location": "Hong Kong"
   },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
@@ -984,6 +984,18 @@
    "id": "b468c9b49ecec7e921223ea87ea99813",
    "company": "PVH",
    "role": "Sales Associate (calvin Klein)",
+   "location": "Hong Kong"
+  },
+  "9abced9f72094aad85793c2c0db4d2de": {
+   "id": "9abced9f72094aad85793c2c0db4d2de",
+   "company": "Calvin Klein",
+   "role": "Sales Associate (calvin Klein)",
+   "location": "Hong Kong"
+  },
+  "42c367d10a97a1e21fd1ca8e41ce8152": {
+   "id": "42c367d10a97a1e21fd1ca8e41ce8152",
+   "company": "Calvin Klein",
+   "role": "Sales Associate 售貨員 - Calvin Klein Jeans / Underwear",
    "location": "Hong Kong"
   },
   "2d2c0e2d2555d1e1f20b78a18b8f70bb": {
