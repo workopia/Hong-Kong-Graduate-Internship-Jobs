@@ -1,11 +1,29 @@
 {
- "asOf": "2026-09-17",
- "count": 211,
+ "asOf": "2026-09-18",
+ "count": 214,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "b97c7f821fcfc23efa08435c48568239": {
+   "id": "b97c7f821fcfc23efa08435c48568239",
+   "company": "Roche",
+   "role": "Pharmacy Intern - 6 Months",
+   "location": "Hong Kong"
+  },
+  "e23e3e155184f0f6d25194d1810e0bfc": {
+   "id": "e23e3e155184f0f6d25194d1810e0bfc",
+   "company": "Knorr-Bremse",
+   "role": "Internship - Order Management & Operations Intern",
+   "location": "Hong Kong"
+  },
+  "25a6eefa2a5abbf462a622b44c919398": {
+   "id": "25a6eefa2a5abbf462a622b44c919398",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Payroll Intern",
    "location": "Hong Kong"
   },
   "6033207f9c8390e4ec80ce15b0b74cf2": {
@@ -174,12 +192,6 @@
    "id": "b749e4b20b21af7b14943c1bf68e1c88",
    "company": "DayOne",
    "role": "Internship - It Infrastructure",
-   "location": "Hong Kong"
-  },
-  "e23e3e155184f0f6d25194d1810e0bfc": {
-   "id": "e23e3e155184f0f6d25194d1810e0bfc",
-   "company": "Knorr-Bremse",
-   "role": "Internship - Order Management & Operations Intern",
    "location": "Hong Kong"
   },
   "147d7182ea328ca3831f78ef9b9a44e0": {
@@ -476,18 +488,6 @@
    "role": "Hk - 2027 - Trader Intern",
    "location": "Hong Kong"
   },
-  "e3ae2bb78a0a60ffe05ac1b754394ccd": {
-   "id": "e3ae2bb78a0a60ffe05ac1b754394ccd",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Intern",
-   "location": "Hong Kong"
-  },
-  "2470a7353bdf46f6dc6a2eb027a19b23": {
-   "id": "2470a7353bdf46f6dc6a2eb027a19b23",
-   "company": "FWD Singapore",
-   "role": "Student Intern, Application Management, Information Technology (6-month Contract)",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -590,6 +590,12 @@
    "role": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
    "location": "Hong Kong"
   },
+  "4fe83a2de0f57527cc071a0dba71fb35": {
+   "id": "4fe83a2de0f57527cc071a0dba71fb35",
+   "company": "DV Group Ltd",
+   "role": "Quantitative Trading Intern (dv Equities)",
+   "location": "Hong Kong"
+  },
   "2c7ece903de07ec6f56a3781c240ab8a": {
    "id": "2c7ece903de07ec6f56a3781c240ab8a",
    "company": "RGA",
@@ -642,6 +648,12 @@
    "id": "94fd3876840a8230f18c0fd231f02a3c",
    "company": "Prudential",
    "role": "Actuarial Intern (july 2027 To Dec 2027)",
+   "location": "Hong Kong"
+  },
+  "645ea453634299f76b95ff015d3e5b05": {
+   "id": "645ea453634299f76b95ff015d3e5b05",
+   "company": "DV Group Ltd",
+   "role": "2027 Quantitative Trader Graduate (dv Equities)",
    "location": "Hong Kong"
   },
   "F12QCjOLv4-x": {
@@ -1028,6 +1040,12 @@
    "role": "Sales Associate",
    "location": "Hong Kong"
   },
+  "51fd83ad01f7b253125c5a8a375056ed": {
+   "id": "51fd83ad01f7b253125c5a8a375056ed",
+   "company": "Pierre Fabre",
+   "role": "Beauty Advisor - Hong Kong",
+   "location": "Hong Kong"
+  },
   "563705892678232": {
    "id": "563705892678232",
    "company": "Bottega Veneta",
@@ -1098,6 +1116,12 @@
    "id": "098cecb27911022d3d1ba1200c0c4177",
    "company": "DFI Retail Group",
    "role": "Ikea 宜家家居 九龍灣分店招聘日 (8月7日)",
+   "location": "Hong Kong"
+  },
+  "24e5f7dab3a18c619359886146336ae8": {
+   "id": "24e5f7dab3a18c619359886146336ae8",
+   "company": "Ernst & Young",
+   "role": "Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong",
    "location": "Hong Kong"
   },
   "5f39f4a500942d5b7c4dff4d17408643": {
@@ -1260,12 +1284,6 @@
    "id": "6e868e53639f59c5246c062dbe7dbe66",
    "company": "Ernst & Young",
    "role": "Tax - Business Tax Services - Admin Assistant - Hong Kong",
-   "location": "Hong Kong"
-  },
-  "ce5be5174f7c0223d452054e93c3d290": {
-   "id": "ce5be5174f7c0223d452054e93c3d290",
-   "company": "Ernst & Young",
-   "role": "Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong",
    "location": "Hong Kong"
   }
  }

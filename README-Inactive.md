@@ -220,4 +220,7 @@
 <tr><td>AIA Australia Limited</td><td>2027 1h Actuarial Internship Programme, Aia Group Office</td><td>Hong Kong</td><td>2026-09-17</td></tr>
 <tr><td>MARSH MCLENNAN</td><td>Oliver Wyman - Summer Intern (2027) - Hong Kong</td><td>Taikoo</td><td>2026-09-17</td></tr>
 <tr><td>Marsh</td><td>Oliver Wyman - Summer Intern (2027) - Hong Kong</td><td>Taikoo</td><td>2026-09-17</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Intern</td><td>Hong Kong</td><td>2026-09-18</td></tr>
+<tr><td>FWD Singapore</td><td>Student Intern, Application Management, Information Technology (6-month Contract)</td><td>Hong Kong</td><td>2026-09-18</td></tr>
+<tr><td>Ernst & Young</td><td>Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong</td><td>Hong Kong</td><td>2026-09-18</td></tr>
 </table>
