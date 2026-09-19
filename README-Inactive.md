@@ -223,4 +223,6 @@
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Intern</td><td>Hong Kong</td><td>2026-09-18</td></tr>
 <tr><td>FWD Singapore</td><td>Student Intern, Application Management, Information Technology (6-month Contract)</td><td>Hong Kong</td><td>2026-09-18</td></tr>
 <tr><td>Ernst & Young</td><td>Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong</td><td>Hong Kong</td><td>2026-09-18</td></tr>
+<tr><td>IMC Trading</td><td>Hk - 2027 - Trader Intern</td><td>Hong Kong</td><td>2026-09-19</td></tr>
+<tr><td>Prudential Corporation Asia Ltd</td><td>Actuarial Intern (july 2027 To Dec 2027)</td><td>Hong Kong</td><td>2026-09-19</td></tr>
 </table>

@@ -1,11 +1,23 @@
 {
- "asOf": "2026-09-18",
- "count": 214,
+ "asOf": "2026-09-19",
+ "count": 221,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "1afe63883c8492b480f1cd5c9a733e66": {
+   "id": "1afe63883c8492b480f1cd5c9a733e66",
+   "company": "DFI Retail Group",
+   "role": "Dfiq Insights Solutions Intern (part Time)",
+   "location": "Hong Kong"
+  },
+  "0af958ed0ac3d968c6f5a24d01014296": {
+   "id": "0af958ed0ac3d968c6f5a24d01014296",
+   "company": "Hang Lung Properties Ltd",
+   "role": "Intern",
    "location": "Hong Kong"
   },
   "b97c7f821fcfc23efa08435c48568239": {
@@ -228,12 +240,6 @@
    "id": "1b63d44da79d9ce303c2356d0eddacf2",
    "company": "Laboratory Animal Management Association",
    "role": "Assoc. Spclst, Medical Affairs Onc Intern",
-   "location": "Hong Kong"
-  },
-  "0af958ed0ac3d968c6f5a24d01014296": {
-   "id": "0af958ed0ac3d968c6f5a24d01014296",
-   "company": "Hang Lung Properties Ltd",
-   "role": "Intern",
    "location": "Hong Kong"
   },
   "c04766b0a33c276a5a453afbbe75fa34": {
@@ -482,12 +488,6 @@
    "role": "Student Intern, Business Training",
    "location": "Hong Kong"
   },
-  "4cb6e4eaf9b8a936568f0a0d2ed4bdc7": {
-   "id": "4cb6e4eaf9b8a936568f0a0d2ed4bdc7",
-   "company": "IMC Trading",
-   "role": "Hk - 2027 - Trader Intern",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -504,6 +504,12 @@
    "id": "6530a69a9a0073e83c571a8f83b64583",
    "company": "Eclipse Trading",
    "role": "Graduate Python Software Engineer / 2027 Intake (hong Kong) At Eclipse Trading",
+   "location": "Hong Kong"
+  },
+  "b3a8da6a1556db4a0c1539ecda86bba2": {
+   "id": "b3a8da6a1556db4a0c1539ecda86bba2",
+   "company": "Bah Partners",
+   "role": "Software Engineer At Bah Partners",
    "location": "Hong Kong"
   },
   "iFI1n6CVRSfM": {
@@ -552,6 +558,12 @@
    "id": "944311537d642de7616652d18bf5daf3",
    "company": "DV Group Ltd",
    "role": "C++ Software Developer (dv Equities)",
+   "location": "Hong Kong"
+  },
+  "79aeb1c20adc07ba7c56df04b0ab4f60": {
+   "id": "79aeb1c20adc07ba7c56df04b0ab4f60",
+   "company": "LRQA",
+   "role": "Junior Data Scientist",
    "location": "Hong Kong"
   },
   "476c2f516590b46c34fec88f1665296f": {
@@ -620,6 +632,30 @@
    "role": "Manulife: Actuarial Internship Program 2027 (6.5 Months)",
    "location": "Hong Kong"
   },
+  "30e8a890150c11999bd759884e8480ca": {
+   "id": "30e8a890150c11999bd759884e8480ca",
+   "company": "AIA Group",
+   "role": "Aia Actuarial Internship Programme",
+   "location": "Hong Kong"
+  },
+  "1c0deae6f1bf3c3b279de505b61c4beb": {
+   "id": "1c0deae6f1bf3c3b279de505b61c4beb",
+   "company": "Blue Cross",
+   "role": "2027 Actuarial Intern (general Insurance)",
+   "location": "Hong Kong"
+  },
+  "22a8d23111c59f1124642378927d7489": {
+   "id": "22a8d23111c59f1124642378927d7489",
+   "company": "AIA Group",
+   "role": "2027 Actuarial Intern",
+   "location": "Hong Kong"
+  },
+  "1b017b06f8a2d68ec8c7ceecf430d05a": {
+   "id": "1b017b06f8a2d68ec8c7ceecf430d05a",
+   "company": "Prudential Corporation Asia Ltd",
+   "role": "Actuarial Intern (july 2027 To Dec 2027)",
+   "location": "Hong Kong"
+  },
   "50d2ee31343c6818fdfefae76a984606": {
    "id": "50d2ee31343c6818fdfefae76a984606",
    "company": "RGA",
@@ -630,12 +666,6 @@
    "id": "3933535f687f4cc3834c49f523bc019b",
    "company": "Manulife",
    "role": "Manulife: Actuarial Internship Program 2027 (6.5 Months)",
-   "location": "Hong Kong"
-  },
-  "6d96c597868e8252c226e6d900ee79a8": {
-   "id": "6d96c597868e8252c226e6d900ee79a8",
-   "company": "Prudential Corporation Asia Ltd",
-   "role": "Actuarial Intern (july 2027 To Dec 2027)",
    "location": "Hong Kong"
   },
   "2e3439cbec23618f4f2bd1702cfa02ed": {
@@ -678,6 +708,12 @@
    "id": "5f4808db30449c5bd36a9663dba19132",
    "company": "DV Trading",
    "role": "Quantitative Trader - 2027 Graduate (dv Equities)",
+   "location": "Hong Kong"
+  },
+  "70203d307f4868a56b77b45da907ff4e": {
+   "id": "70203d307f4868a56b77b45da907ff4e",
+   "company": "UOB Group",
+   "role": "Officer, Anit-financial Crimes Operations (customer Due Diligence)",
    "location": "Hong Kong"
   },
   "0b0d1b914f06cafe8f81f96fe64092d5": {
@@ -767,6 +803,12 @@
   "5099723957cbaeb472d5f51fca254db3": {
    "id": "5099723957cbaeb472d5f51fca254db3",
    "company": "Prudential Com Sg",
+   "role": "Actuarial Associate",
+   "location": "Hong Kong"
+  },
+  "4880c317451d5faafe0f578a634db368": {
+   "id": "4880c317451d5faafe0f578a634db368",
+   "company": "Prudential Corporation Asia Ltd",
    "role": "Actuarial Associate",
    "location": "Hong Kong"
   },
@@ -1148,6 +1190,12 @@
    "role": "Sales Specialist, Analytics & Ai Solutions",
    "location": "Hong Kong"
   },
+  "ec012de7fdb3421142069a495ec0c388": {
+   "id": "ec012de7fdb3421142069a495ec0c388",
+   "company": "AIA",
+   "role": "Administrative Assistant",
+   "location": "Hong Kong"
+  },
   "efb8316e8e478c5f69cf5249c7795580": {
    "id": "efb8316e8e478c5f69cf5249c7795580",
    "company": "Nan Fung Group",
@@ -1170,12 +1218,6 @@
    "id": "3c5bffa4deafbf34ea8f833b1f0f2ef0",
    "company": "Me2Works",
    "role": "Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Open University Of Hong Kong",
-   "location": "Hong Kong"
-  },
-  "ec012de7fdb3421142069a495ec0c388": {
-   "id": "ec012de7fdb3421142069a495ec0c388",
-   "company": "AIA",
-   "role": "Administrative Assistant",
    "location": "Hong Kong"
   },
   "14acbd22a80edb7a134b94633b16e90a": {
