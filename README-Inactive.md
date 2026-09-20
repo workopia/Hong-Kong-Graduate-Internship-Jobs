@@ -225,4 +225,13 @@
 <tr><td>Ernst & Young</td><td>Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong</td><td>Hong Kong</td><td>2026-09-18</td></tr>
 <tr><td>IMC Trading</td><td>Hk - 2027 - Trader Intern</td><td>Hong Kong</td><td>2026-09-19</td></tr>
 <tr><td>Prudential Corporation Asia Ltd</td><td>Actuarial Intern (july 2027 To Dec 2027)</td><td>Hong Kong</td><td>2026-09-19</td></tr>
+<tr><td>Hang Seng Bank Limited</td><td>Student Internship Programme 1h2027 - Audit - Hang Seng Bank (hk) At Hsbc</td><td>Hong Kong</td><td>2026-09-20</td></tr>
+<tr><td>Hypebae</td><td>Creative Intern</td><td>Hong Kong</td><td>2026-09-20</td></tr>
+<tr><td>Hbx</td><td>Creative Intern</td><td>Hong Kong</td><td>2026-09-20</td></tr>
+<tr><td>FWD Singapore</td><td>Student Intern, Investment</td><td>Hong Kong</td><td>2026-09-20</td></tr>
+<tr><td>CHUN WO DEVELOPMENT HOLDINGS Ltd</td><td>Internship</td><td>Hong Kong</td><td>2026-09-20</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Intern (operational Excellence, Apac) (part-time)</td><td>Hong Kong</td><td>2026-09-20</td></tr>
+<tr><td>FWD Singapore</td><td>Student Intern, Business Training</td><td>Hong Kong</td><td>2026-09-20</td></tr>
+<tr><td>LSEG</td><td>Sales Specialist, Analytics & Ai Solutions</td><td>Hong Kong</td><td>2026-09-20</td></tr>
+<tr><td>Ernst & Young</td><td>Tax - Business Tax Services - Admin Assistant - Hong Kong</td><td>Hong Kong</td><td>2026-09-20</td></tr>
 </table>

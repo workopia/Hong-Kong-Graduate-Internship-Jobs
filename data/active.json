@@ -1,11 +1,53 @@
 {
- "asOf": "2026-09-19",
- "count": 221,
+ "asOf": "2026-09-20",
+ "count": 223,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "d012c621684f6b2f097d1d68bc0d3608": {
+   "id": "d012c621684f6b2f097d1d68bc0d3608",
+   "company": "Huatai Securities (HK)",
+   "role": "Equity Derivatives - Derivatives Structuring - Intern",
+   "location": "Hong Kong"
+  },
+  "b172f67c7ff0b58a96373e07e6fbff70": {
+   "id": "b172f67c7ff0b58a96373e07e6fbff70",
+   "company": "Standard Chartered Bank",
+   "role": "Coverage Banking Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "067fc2a336e2572a1fd88f44833f7e1a": {
+   "id": "067fc2a336e2572a1fd88f44833f7e1a",
+   "company": "Standard Chartered Bank",
+   "role": "Global Banking Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "3015094f6cc7b79ebb07c2ef6f1bd9fc": {
+   "id": "3015094f6cc7b79ebb07c2ef6f1bd9fc",
+   "company": "Standard Chartered Bank",
+   "role": "Transaction Services Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "fdf46c9adb44424c24f08c149ab3f9d6": {
+   "id": "fdf46c9adb44424c24f08c149ab3f9d6",
+   "company": "Standard Chartered Bank",
+   "role": "Markets Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "ee26c3b0a842442f3fb8ab27f6564676": {
+   "id": "ee26c3b0a842442f3fb8ab27f6564676",
+   "company": "Invesco UK",
+   "role": "Intern, Invesco Real Estate (3 Months)",
+   "location": "Hong Kong"
+  },
+  "bd86e047c572666e581c8af0c3bc7b27": {
+   "id": "bd86e047c572666e581c8af0c3bc7b27",
+   "company": "Hasbro",
+   "role": "2026 Hasbro Hong Kong Experience Day: Internship Discovery",
    "location": "Hong Kong"
   },
   "1afe63883c8492b480f1cd5c9a733e66": {
@@ -446,48 +488,6 @@
    "role": "Cv Intern",
    "location": "Hong Kong"
   },
-  "551689f6ba0193738c9ede43d38d1189": {
-   "id": "551689f6ba0193738c9ede43d38d1189",
-   "company": "Hang Seng Bank Limited",
-   "role": "Student Internship Programme 1h2027 - Audit - Hang Seng Bank (hk) At Hsbc",
-   "location": "Hong Kong"
-  },
-  "d9d225372da2d2bc598d30f53e5b08ff": {
-   "id": "d9d225372da2d2bc598d30f53e5b08ff",
-   "company": "Hypebae",
-   "role": "Creative Intern",
-   "location": "Hong Kong"
-  },
-  "97dd157253639e9320e44ae5d91df289": {
-   "id": "97dd157253639e9320e44ae5d91df289",
-   "company": "Hbx",
-   "role": "Creative Intern",
-   "location": "Hong Kong"
-  },
-  "c01ccb86eefd85f09b7e58fc5c521a7f": {
-   "id": "c01ccb86eefd85f09b7e58fc5c521a7f",
-   "company": "FWD Singapore",
-   "role": "Student Intern, Investment",
-   "location": "Hong Kong"
-  },
-  "507259e8f35d7ef8e74af928b3e12ee8": {
-   "id": "507259e8f35d7ef8e74af928b3e12ee8",
-   "company": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
-   "role": "Internship",
-   "location": "Hong Kong"
-  },
-  "18f2c9401253bbfd0b8871832d0ea610": {
-   "id": "18f2c9401253bbfd0b8871832d0ea610",
-   "company": "Zurich Insurance UK",
-   "role": "Intern (operational Excellence, Apac) (part-time)",
-   "location": "Hong Kong"
-  },
-  "8e1f47f42509f959efff4834389cb3af": {
-   "id": "8e1f47f42509f959efff4834389cb3af",
-   "company": "FWD Singapore",
-   "role": "Student Intern, Business Training",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -504,6 +504,12 @@
    "id": "6530a69a9a0073e83c571a8f83b64583",
    "company": "Eclipse Trading",
    "role": "Graduate Python Software Engineer / 2027 Intake (hong Kong) At Eclipse Trading",
+   "location": "Hong Kong"
+  },
+  "bfeb38ccd213fc489fb21be6c6d1aa7a": {
+   "id": "bfeb38ccd213fc489fb21be6c6d1aa7a",
+   "company": "IMC Trading",
+   "role": "Software Engineer - Research",
    "location": "Hong Kong"
   },
   "b3a8da6a1556db4a0c1539ecda86bba2": {
@@ -710,10 +716,28 @@
    "role": "Quantitative Trader - 2027 Graduate (dv Equities)",
    "location": "Hong Kong"
   },
+  "6e3b91c9f724b499ce1dfb49fccf1549": {
+   "id": "6e3b91c9f724b499ce1dfb49fccf1549",
+   "company": "Flow Traders",
+   "role": "Junior Quantitative Researcher",
+   "location": "Hong Kong"
+  },
+  "f3dfc1d18a3e6156a4da9c9d43fe4f9c": {
+   "id": "f3dfc1d18a3e6156a4da9c9d43fe4f9c",
+   "company": "Binance",
+   "role": "Binance Accelerator Program - Quantitative Trading Strategy Algorithm",
+   "location": "Hong Kong"
+  },
   "70203d307f4868a56b77b45da907ff4e": {
    "id": "70203d307f4868a56b77b45da907ff4e",
    "company": "UOB Group",
    "role": "Officer, Anit-financial Crimes Operations (customer Due Diligence)",
+   "location": "Hong Kong"
+  },
+  "d3346aa1dc85245cc24f2cd18d0a5230": {
+   "id": "d3346aa1dc85245cc24f2cd18d0a5230",
+   "company": "Binance",
+   "role": "Quantitative Trading Strategy Algorithm Engineer",
    "location": "Hong Kong"
   },
   "0b0d1b914f06cafe8f81f96fe64092d5": {
@@ -1315,18 +1339,6 @@
    "company": "BOUYGUES CONSTRUCTION IT SNC",
    "role": "Assistant Foreman",
    "location": "Kwun Tong District"
-  },
-  "bee7e5def4046379c440059dc74768be": {
-   "id": "bee7e5def4046379c440059dc74768be",
-   "company": "LSEG",
-   "role": "Sales Specialist, Analytics & Ai Solutions",
-   "location": "Hong Kong"
-  },
-  "6e868e53639f59c5246c062dbe7dbe66": {
-   "id": "6e868e53639f59c5246c062dbe7dbe66",
-   "company": "Ernst & Young",
-   "role": "Tax - Business Tax Services - Admin Assistant - Hong Kong",
-   "location": "Hong Kong"
   }
  }
 }
