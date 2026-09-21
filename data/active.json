@@ -1,11 +1,17 @@
 {
- "asOf": "2026-09-20",
- "count": 223,
+ "asOf": "2026-09-21",
+ "count": 221,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "147d7182ea328ca3831f78ef9b9a44e0": {
+   "id": "147d7182ea328ca3831f78ef9b9a44e0",
+   "company": "Zurich Insurance UK",
+   "role": "Intern (operational Excellence, Apac) (part-time)",
    "location": "Hong Kong"
   },
   "d012c621684f6b2f097d1d68bc0d3608": {
@@ -246,12 +252,6 @@
    "id": "b749e4b20b21af7b14943c1bf68e1c88",
    "company": "DayOne",
    "role": "Internship - It Infrastructure",
-   "location": "Hong Kong"
-  },
-  "147d7182ea328ca3831f78ef9b9a44e0": {
-   "id": "147d7182ea328ca3831f78ef9b9a44e0",
-   "company": "Zurich Insurance UK",
-   "role": "Intern (transformation & Automation, Compliance Apac)",
    "location": "Hong Kong"
   },
   "a15f471b38e81b63a0e84c446c19a8a5": {
@@ -1004,16 +1004,10 @@
    "role": "Quantitative Researcher / Hong Kong, Hk At Jane Street",
    "location": "Hong Kong"
   },
-  "20c908fd47f46d43b84b1a05c7ef6167": {
-   "id": "20c908fd47f46d43b84b1a05c7ef6167",
-   "company": "aion-ia.in",
-   "role": "Actuarial Associate, Actuarial Services",
-   "location": "Hong Kong"
-  },
-  "2c88a1bcf3a567602ed2c0b4d6cd749f": {
-   "id": "2c88a1bcf3a567602ed2c0b4d6cd749f",
-   "company": "AIA",
-   "role": "Actuarial Associate, Actuarial Services",
+  "33caa4b881bd80977c187fa2e2c885d5": {
+   "id": "33caa4b881bd80977c187fa2e2c885d5",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Service Engineer",
    "location": "Hong Kong"
   },
   "4e21bf98cb0ed52420ab4764eb13b4a3": {
@@ -1026,12 +1020,6 @@
    "id": "9ecc33dc4992c627a54b0826b9534567",
    "company": "DAT Deutsche Aufzugstechnik GmbH",
    "role": "調試員 (更新工程 / 安裝部)",
-   "location": "Hong Kong"
-  },
-  "33caa4b881bd80977c187fa2e2c885d5": {
-   "id": "33caa4b881bd80977c187fa2e2c885d5",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Service Engineer",
    "location": "Hong Kong"
   },
   "6d379682aa19f6580c105e762be17cb2": {

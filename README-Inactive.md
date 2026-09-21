@@ -234,4 +234,6 @@
 <tr><td>FWD Singapore</td><td>Student Intern, Business Training</td><td>Hong Kong</td><td>2026-09-20</td></tr>
 <tr><td>LSEG</td><td>Sales Specialist, Analytics & Ai Solutions</td><td>Hong Kong</td><td>2026-09-20</td></tr>
 <tr><td>Ernst & Young</td><td>Tax - Business Tax Services - Admin Assistant - Hong Kong</td><td>Hong Kong</td><td>2026-09-20</td></tr>
+<tr><td>aion-ia.in</td><td>Actuarial Associate, Actuarial Services</td><td>Hong Kong</td><td>2026-09-21</td></tr>
+<tr><td>AIA</td><td>Actuarial Associate, Actuarial Services</td><td>Hong Kong</td><td>2026-09-21</td></tr>
 </table>

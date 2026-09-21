@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-09-20",
+  "as_of": "2026-09-21",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1563,
-  "generated_at": "2026-09-20T00:57:40.428Z"
+  "country_live_total": 1570,
+  "generated_at": "2026-09-21T01:07:57.000Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "147d7182ea328ca3831f78ef9b9a44e0",
+   "source": "Workopia",
+   "company_name": "Zurich Insurance UK",
+   "company_hi_slug": "zurich-insurance",
+   "title": "Intern (operational Excellence, Apac) (part-time)",
+   "location": "Hong Kong",
+   "skills": "Microsoft Power Tools , Business process mappi",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-19T19:03:56.496Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/147d7182ea328ca3831f78ef9b9a44e0",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "d012c621684f6b2f097d1d68bc0d3608",
@@ -751,23 +768,6 @@
    "date_posted": "2026-09-07T09:00:59.132Z",
    "active": true,
    "url": "https://workopia.io/jobs/b749e4b20b21af7b14943c1bf68e1c88",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "147d7182ea328ca3831f78ef9b9a44e0",
-   "source": "Workopia",
-   "company_name": "Zurich Insurance UK",
-   "company_hi_slug": "zurich-insurance",
-   "title": "Intern (transformation & Automation, Compliance Apac)",
-   "location": "Hong Kong",
-   "skills": "Microsoft Power Tools , Business process mappi",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-04T04:06:57.204Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/147d7182ea328ca3831f78ef9b9a44e0",
    "category": "grad",
    "tier": "Intern"
   },
@@ -2931,37 +2931,20 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "20c908fd47f46d43b84b1a05c7ef6167",
+   "salary_display": "HK$17k–19k/mo*",
+   "id": "33caa4b881bd80977c187fa2e2c885d5",
    "source": "Workopia",
-   "company_name": "aion-ia.in",
-   "company_hi_slug": "aion-ia-in",
-   "title": "Actuarial Associate, Actuarial Services",
+   "company_name": "PCCW-HKT DataCom Services Ltd",
+   "company_hi_slug": "pccw-hkt-datacom-services-ltd",
+   "title": "Service Engineer",
    "location": "Hong Kong",
-   "skills": "actuarial services, statutory reporting",
+   "skills": "Structured cabling sys, Site surveys",
    "sponsorship": false,
    "hot": false,
-   "date_posted": "2026-07-22T13:56:07.413Z",
+   "date_posted": "2026-09-19T22:10:03.681Z",
    "active": true,
-   "url": "https://workopia.io/jobs/20c908fd47f46d43b84b1a05c7ef6167",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "2c88a1bcf3a567602ed2c0b4d6cd749f",
-   "source": "Workopia",
-   "company_name": "AIA",
-   "company_hi_slug": "aia",
-   "title": "Actuarial Associate, Actuarial Services",
-   "location": "Hong Kong",
-   "skills": "Actuarial calculations, Statutory reporting",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-22T13:56:07.413Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/2c88a1bcf3a567602ed2c0b4d6cd749f",
-   "category": "finance",
+   "url": "https://workopia.io/jobs/33caa4b881bd80977c187fa2e2c885d5",
+   "category": "trades",
    "tier": "Entry-level"
   },
   {
@@ -2995,23 +2978,6 @@
    "date_posted": "2026-09-10T11:58:02.989Z",
    "active": true,
    "url": "https://workopia.io/jobs/9ecc33dc4992c627a54b0826b9534567",
-   "category": "trades",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$17k–19k/mo*",
-   "id": "33caa4b881bd80977c187fa2e2c885d5",
-   "source": "Workopia",
-   "company_name": "PCCW-HKT DataCom Services Ltd",
-   "company_hi_slug": "pccw-hkt-datacom-services-ltd",
-   "title": "Service Engineer",
-   "location": "Hong Kong",
-   "skills": "Structured cabling sys, Site surveys",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-03T23:36:12.142Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/33caa4b881bd80977c187fa2e2c885d5",
    "category": "trades",
    "tier": "Entry-level"
   },
