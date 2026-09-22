@@ -236,4 +236,8 @@
 <tr><td>Ernst & Young</td><td>Tax - Business Tax Services - Admin Assistant - Hong Kong</td><td>Hong Kong</td><td>2026-09-20</td></tr>
 <tr><td>aion-ia.in</td><td>Actuarial Associate, Actuarial Services</td><td>Hong Kong</td><td>2026-09-21</td></tr>
 <tr><td>AIA</td><td>Actuarial Associate, Actuarial Services</td><td>Hong Kong</td><td>2026-09-21</td></tr>
+<tr><td>Entrust</td><td>Ai & Automation Intern</td><td>Hong Kong</td><td>2026-09-22</td></tr>
+<tr><td>Medtronic Diabetes</td><td>Cv Intern</td><td>Hong Kong</td><td>2026-09-22</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Business Analyst, Member Engagement</td><td>Hong Kong</td><td>2026-09-22</td></tr>
+<tr><td>Jane Street</td><td>Quantitative Researcher / Hong Kong, Hk At Jane Street</td><td>Hong Kong</td><td>2026-09-22</td></tr>
 </table>

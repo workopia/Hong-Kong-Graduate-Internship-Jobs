@@ -1,11 +1,29 @@
 {
- "asOf": "2026-09-21",
- "count": 221,
+ "asOf": "2026-09-22",
+ "count": 222,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "252ce6ddf5feca31e346c238838a4f29": {
+   "id": "252ce6ddf5feca31e346c238838a4f29",
+   "company": "DFI Retail Group",
+   "role": "Pharmacy Intern Programme 2026",
+   "location": "Hong Kong"
+  },
+  "3eaee825ba34ae1d92563e767438b637": {
+   "id": "3eaee825ba34ae1d92563e767438b637",
+   "company": "DJE Holdings",
+   "role": "Digital Intern",
+   "location": "Hong Kong"
+  },
+  "a1f7d68373ed84a97bffcf405481c9b3": {
+   "id": "a1f7d68373ed84a97bffcf405481c9b3",
+   "company": "DJE Holdings",
+   "role": "Design Intern",
    "location": "Hong Kong"
   },
   "147d7182ea328ca3831f78ef9b9a44e0": {
@@ -350,12 +368,6 @@
    "role": "Part Time Intern, Gi (sep 2026 To Dec 2026)",
    "location": "Hong Kong"
   },
-  "252ce6ddf5feca31e346c238838a4f29": {
-   "id": "252ce6ddf5feca31e346c238838a4f29",
-   "company": "DFI Retail Group",
-   "role": "Pharmacy Intern Programme 2026",
-   "location": "Hong Kong"
-  },
   "3488dbfe363d73756844ca1f34fcaf02": {
    "id": "3488dbfe363d73756844ca1f34fcaf02",
    "company": "CTF Services Ltd",
@@ -473,18 +485,6 @@
   "10c81518a0b31564a413bf9bd610146b": {
    "id": "10c81518a0b31564a413bf9bd610146b",
    "company": "MEDTRONIC",
-   "role": "Cv Intern",
-   "location": "Hong Kong"
-  },
-  "ad1e33e979332fb9b131cdcfffe8325b": {
-   "id": "ad1e33e979332fb9b131cdcfffe8325b",
-   "company": "Entrust",
-   "role": "Ai & Automation Intern",
-   "location": "Hong Kong"
-  },
-  "c52eeeb1fb805a564d8df784ecfceab6": {
-   "id": "c52eeeb1fb805a564d8df784ecfceab6",
-   "company": "Medtronic Diabetes",
    "role": "Cv Intern",
    "location": "Hong Kong"
   },
@@ -686,6 +686,12 @@
    "role": "Actuarial Intern (july 2027 To Dec 2027)",
    "location": "Hong Kong"
   },
+  "76fdd66f8e766018e7021e133177c00e": {
+   "id": "76fdd66f8e766018e7021e133177c00e",
+   "company": "Flow Traders",
+   "role": "Phd Graduate Quantitative Researcher",
+   "location": "Hong Kong"
+  },
   "645ea453634299f76b95ff015d3e5b05": {
    "id": "645ea453634299f76b95ff015d3e5b05",
    "company": "DV Group Ltd",
@@ -714,6 +720,12 @@
    "id": "5f4808db30449c5bd36a9663dba19132",
    "company": "DV Trading",
    "role": "Quantitative Trader - 2027 Graduate (dv Equities)",
+   "location": "Hong Kong"
+  },
+  "f8b091eb9e8c7cc1a74d4c730d70eda6": {
+   "id": "f8b091eb9e8c7cc1a74d4c730d70eda6",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Business Analyst, Member Engagement",
    "location": "Hong Kong"
   },
   "6e3b91c9f724b499ce1dfb49fccf1549": {
@@ -844,7 +856,7 @@
   },
   "fa2f75b9ffb3887b23a11b8aaf54e81d": {
    "id": "fa2f75b9ffb3887b23a11b8aaf54e81d",
-   "company": "Me2Works",
+   "company": "Lalamove",
    "role": "Accountant (global Scope) At Lalamove",
    "location": "Hong Kong"
   },
@@ -852,12 +864,6 @@
    "id": "6501202744a85a3a56f4678db950e78e",
    "company": "Manulife",
    "role": "Actuarial Specialist",
-   "location": "Hong Kong"
-  },
-  "6545d143e6d7efea6ca0e41667762609": {
-   "id": "6545d143e6d7efea6ca0e41667762609",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Business Analyst, Member Engagement",
    "location": "Hong Kong"
   },
   "dd6609edf9c2198932b83dcd0f179b1b": {
@@ -996,12 +1002,6 @@
    "id": "75d9acabaa99e430cb43b216fa49b367",
    "company": "Me2Works",
    "role": "Finance Business Analyst / Hong Kong, Hk / In-office At Robert Walters Hong Kong",
-   "location": "Hong Kong"
-  },
-  "bfd80f89ec854d4a936812e63f70e37b": {
-   "id": "bfd80f89ec854d4a936812e63f70e37b",
-   "company": "Jane Street",
-   "role": "Quantitative Researcher / Hong Kong, Hk At Jane Street",
    "location": "Hong Kong"
   },
   "33caa4b881bd80977c187fa2e2c885d5": {
@@ -1170,6 +1170,12 @@
    "id": "098cecb27911022d3d1ba1200c0c4177",
    "company": "DFI Retail Group",
    "role": "Ikea 宜家家居 九龍灣分店招聘日 (8月7日)",
+   "location": "Hong Kong"
+  },
+  "c6aaace57f1bdc851a6c92b22a1445f2": {
+   "id": "c6aaace57f1bdc851a6c92b22a1445f2",
+   "company": "122",
+   "role": "Administrative Assistant",
    "location": "Hong Kong"
   },
   "24e5f7dab3a18c619359886146336ae8": {
