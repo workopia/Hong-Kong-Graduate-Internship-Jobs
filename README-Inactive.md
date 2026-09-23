@@ -240,4 +240,5 @@
 <tr><td>Medtronic Diabetes</td><td>Cv Intern</td><td>Hong Kong</td><td>2026-09-22</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Business Analyst, Member Engagement</td><td>Hong Kong</td><td>2026-09-22</td></tr>
 <tr><td>Jane Street</td><td>Quantitative Researcher / Hong Kong, Hk At Jane Street</td><td>Hong Kong</td><td>2026-09-22</td></tr>
+<tr><td>MEDTRONIC</td><td>Cv Intern</td><td>Hong Kong</td><td>2026-09-23</td></tr>
 </table>

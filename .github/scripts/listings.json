@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-09-22",
+  "as_of": "2026-09-23",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1564,
-  "generated_at": "2026-09-22T13:15:06.679Z"
+  "country_live_total": 1563,
+  "generated_at": "2026-09-23T01:05:05.360Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "d15d3578b0ccb8e706eb65de156d02c9",
+   "source": "Workopia",
+   "company_name": "DJE Holdings",
+   "company_hi_slug": "dje-holdings",
+   "title": "Corporate Intern",
+   "location": "Hong Kong",
+   "skills": "implement and monitor , support client servici",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-22T11:27:47.311Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/d15d3578b0ccb8e706eb65de156d02c9",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "252ce6ddf5feca31e346c238838a4f29",
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-08-19T14:03:36.073Z",
    "active": true,
    "url": "https://workopia.io/jobs/824c20ed7cb4766c17a7ffa661501b63",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "10c81518a0b31564a413bf9bd610146b",
-   "source": "Workopia",
-   "company_name": "MEDTRONIC",
-   "company_hi_slug": "medtronic",
-   "title": "Cv Intern",
-   "location": "Hong Kong",
-   "skills": "Research support, Project coordination",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-18T14:17:03.930Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/10c81518a0b31564a413bf9bd610146b",
    "category": "grad",
    "tier": "Intern"
   },

@@ -1,11 +1,17 @@
 {
- "asOf": "2026-09-22",
+ "asOf": "2026-09-23",
  "count": 222,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "d15d3578b0ccb8e706eb65de156d02c9": {
+   "id": "d15d3578b0ccb8e706eb65de156d02c9",
+   "company": "DJE Holdings",
+   "role": "Corporate Intern",
    "location": "Hong Kong"
   },
   "252ce6ddf5feca31e346c238838a4f29": {
@@ -480,12 +486,6 @@
    "id": "824c20ed7cb4766c17a7ffa661501b63",
    "company": "AIA Australia Limited",
    "role": "Agency, Intern",
-   "location": "Hong Kong"
-  },
-  "10c81518a0b31564a413bf9bd610146b": {
-   "id": "10c81518a0b31564a413bf9bd610146b",
-   "company": "MEDTRONIC",
-   "role": "Cv Intern",
    "location": "Hong Kong"
   },
   "Hq6SozpyQ7Bg": {
