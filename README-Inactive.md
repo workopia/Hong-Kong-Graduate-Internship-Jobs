@@ -242,4 +242,5 @@
 <tr><td>Jane Street</td><td>Quantitative Researcher / Hong Kong, Hk At Jane Street</td><td>Hong Kong</td><td>2026-09-22</td></tr>
 <tr><td>MEDTRONIC</td><td>Cv Intern</td><td>Hong Kong</td><td>2026-09-23</td></tr>
 <tr><td>DFI Retail Group</td><td>Ikea 宜家家居 九龍灣分店招聘日 (8月7日)</td><td>Hong Kong</td><td>2026-09-23</td></tr>
+<tr><td>BOUYGUES CONSTRUCTION IT SNC</td><td>Assistant Foreman</td><td>Kwun Tong District</td><td>2026-09-23</td></tr>
 </table>

@@ -13,7 +13,7 @@
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 1563,
-  "generated_at": "2026-09-23T06:58:27.085Z"
+  "generated_at": "2026-09-23T10:29:43.753Z"
  },
  "categories": [
   {
@@ -3391,6 +3391,23 @@
   },
   {
    "salary_display": "HK$18k–26k/mo*",
+   "id": "46f72d22a8d6f5df968815a613fa3c0b",
+   "source": "Workopia",
+   "company_name": "Hang Lung Properties Ltd",
+   "company_hi_slug": "hang-lung-properties-ltd",
+   "title": "Officer (administration And Documentation Support)",
+   "location": "Hong Kong",
+   "skills": "secretarial support, administrative tasks",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-21T18:08:20.329Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/46f72d22a8d6f5df968815a613fa3c0b",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "c6aaace57f1bdc851a6c92b22a1445f2",
    "source": "Workopia",
    "company_name": "122",
@@ -3539,23 +3556,6 @@
    "date_posted": "2026-09-01T18:34:54.632Z",
    "active": true,
    "url": "https://workopia.io/jobs/0b6da9b67358908bb5ece51e1b9f1834",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$18k–26k/mo*",
-   "id": "46f72d22a8d6f5df968815a613fa3c0b",
-   "source": "Workopia",
-   "company_name": "Hang Lung Properties Ltd",
-   "company_hi_slug": "hang-lung-properties-ltd",
-   "title": "Officer (administration And Documentation Support)",
-   "location": "Hong Kong",
-   "skills": "secretarial support, administrative tasks",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-01T18:21:32.723Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/46f72d22a8d6f5df968815a613fa3c0b",
    "category": "admin",
    "tier": "Entry-level"
   },
@@ -3828,23 +3828,6 @@
    "date_posted": "2026-07-29T03:23:10.545Z",
    "active": true,
    "url": "https://workopia.io/jobs/c8dd37b5717054c763611a6979c78444",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$18k–26k/mo*",
-   "id": "dd31174fa166c2945bcf32fc0b14a194",
-   "source": "Workopia",
-   "company_name": "BOUYGUES CONSTRUCTION IT SNC",
-   "company_hi_slug": "bouygues-construction-it-snc",
-   "title": "Assistant Foreman",
-   "location": "Kwun Tong District",
-   "skills": "Construction managemen, Project coordination",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-25T10:15:09.565Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/dd31174fa166c2945bcf32fc0b14a194",
    "category": "admin",
    "tier": "Entry-level"
   }

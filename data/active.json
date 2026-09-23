@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-23",
- "count": 222,
+ "count": 221,
  "jobs": {
   "26980210": {
    "id": "26980210",
@@ -1172,6 +1172,12 @@
    "role": "Educator (full-time Sales Associate) / Pacific Place Store",
    "location": "Hong Kong"
   },
+  "46f72d22a8d6f5df968815a613fa3c0b": {
+   "id": "46f72d22a8d6f5df968815a613fa3c0b",
+   "company": "Hang Lung Properties Ltd",
+   "role": "Officer (administration And Documentation Support)",
+   "location": "Hong Kong"
+  },
   "c6aaace57f1bdc851a6c92b22a1445f2": {
    "id": "c6aaace57f1bdc851a6c92b22a1445f2",
    "company": "122",
@@ -1224,12 +1230,6 @@
    "id": "0b6da9b67358908bb5ece51e1b9f1834",
    "company": "77",
    "role": "Customer Services Assistant",
-   "location": "Hong Kong"
-  },
-  "46f72d22a8d6f5df968815a613fa3c0b": {
-   "id": "46f72d22a8d6f5df968815a613fa3c0b",
-   "company": "Hang Lung Properties Ltd",
-   "role": "Officer (administration And Documentation Support)",
    "location": "Hong Kong"
   },
   "3c5bffa4deafbf34ea8f833b1f0f2ef0": {
@@ -1327,12 +1327,6 @@
    "company": "JLL UK",
    "role": "Customer Service Assistant",
    "location": "Hong Kong"
-  },
-  "dd31174fa166c2945bcf32fc0b14a194": {
-   "id": "dd31174fa166c2945bcf32fc0b14a194",
-   "company": "BOUYGUES CONSTRUCTION IT SNC",
-   "role": "Assistant Foreman",
-   "location": "Kwun Tong District"
   }
  }
 }
