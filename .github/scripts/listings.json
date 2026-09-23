@@ -13,7 +13,7 @@
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 1563,
-  "generated_at": "2026-09-23T01:05:05.360Z"
+  "generated_at": "2026-09-23T06:58:27.085Z"
  },
  "categories": [
   {
@@ -2116,6 +2116,23 @@
   },
   {
    "salary_display": "HK$20k–32k/mo*",
+   "id": "33e7615714614f0610ef44f42de81f8b",
+   "source": "Workopia",
+   "company_name": "DBS Bank (Hong Kong) Limited",
+   "company_hi_slug": "dbs-bank-hong-kong-limited",
+   "title": "Specialist, Business Analyst, Institutional Banking Group / Hong Kong, Hk At Dbs Bank (hong Kong) Limited",
+   "location": "Hong Kong",
+   "skills": "Drive regulatory and d, Manage DBS GPT Agent A",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-21T02:03:43.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/33e7615714614f0610ef44f42de81f8b",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "6e3b91c9f724b499ce1dfb49fccf1549",
    "source": "Workopia",
    "company_name": "Flow Traders",
@@ -3369,23 +3386,6 @@
    "date_posted": "2026-08-16T05:55:39.248Z",
    "active": true,
    "url": "https://workopia.io/jobs/45f81547c7b8f6a994e54bf02187a407",
-   "category": "sales",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$17k–25k/mo*",
-   "id": "098cecb27911022d3d1ba1200c0c4177",
-   "source": "Workopia",
-   "company_name": "DFI Retail Group",
-   "company_hi_slug": "dfi-retail-group",
-   "title": "Ikea 宜家家居 九龍灣分店招聘日 (8月7日)",
-   "location": "Hong Kong",
-   "skills": "Customer service skill, Teamwork and collabora",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-07-25T04:54:16.683Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/098cecb27911022d3d1ba1200c0c4177",
    "category": "sales",
    "tier": "Entry-level"
   },
