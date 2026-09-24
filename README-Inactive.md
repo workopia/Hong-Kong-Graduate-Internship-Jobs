@@ -243,4 +243,6 @@
 <tr><td>MEDTRONIC</td><td>Cv Intern</td><td>Hong Kong</td><td>2026-09-23</td></tr>
 <tr><td>DFI Retail Group</td><td>Ikea 宜家家居 九龍灣分店招聘日 (8月7日)</td><td>Hong Kong</td><td>2026-09-23</td></tr>
 <tr><td>BOUYGUES CONSTRUCTION IT SNC</td><td>Assistant Foreman</td><td>Kwun Tong District</td><td>2026-09-23</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Summer Internship Programme 2026 [stem] - Information Technology</td><td>Hong Kong</td><td>2026-09-24</td></tr>
+<tr><td>AIA Australia Limited</td><td>Agency, Intern</td><td>Hong Kong</td><td>2026-09-24</td></tr>
 </table>

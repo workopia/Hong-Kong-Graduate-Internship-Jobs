@@ -1,11 +1,29 @@
 {
- "asOf": "2026-09-23",
+ "asOf": "2026-09-24",
  "count": 221,
  "jobs": {
   "26980210": {
    "id": "26980210",
    "company": "Citi",
    "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+   "location": "Hong Kong"
+  },
+  "52cd2ae8d1ce2b64e3de998db0358dde": {
+   "id": "52cd2ae8d1ce2b64e3de998db0358dde",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Intern (operational Excellence, Apac) (part-time)",
+   "location": "Hong Kong"
+  },
+  "b1c5240f00cc940487808bae4cb66705": {
+   "id": "b1c5240f00cc940487808bae4cb66705",
+   "company": "Manulife Financial Inc",
+   "role": "Manulife Co-op Program – Investment Management, General Account Investments - January 2027 Intake",
+   "location": "Hong Kong"
+  },
+  "511ed080100600047b8d9a1bcf304289": {
+   "id": "511ed080100600047b8d9a1bcf304289",
+   "company": "Polymer Capital Hong Kong",
+   "role": "Hong Kong 2027 Summer Intern, Compliance At Polymer Capital Hong Kong",
    "location": "Hong Kong"
   },
   "d15d3578b0ccb8e706eb65de156d02c9": {
@@ -120,12 +138,6 @@
    "id": "937b81f26ae09ad4d96c2d72dc425112",
    "company": "Mitsubishi UFJ Financial Group (MUFG)",
    "role": "Summer Internship Programme 2027 – Global Corporate Banking",
-   "location": "Hong Kong"
-  },
-  "52cd2ae8d1ce2b64e3de998db0358dde": {
-   "id": "52cd2ae8d1ce2b64e3de998db0358dde",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Intern (operational Excellence, Apac) (part-time)",
    "location": "Hong Kong"
   },
   "8f6f149a107c03b9e36d81d7a2f23f63": {
@@ -474,18 +486,6 @@
    "id": "a5d71da3976fa4d049f16781d7abe350",
    "company": "AIA Australia Limited",
    "role": "Intern, Group Function Audit",
-   "location": "Hong Kong"
-  },
-  "4870c3f15396c4cb1a7159addb63f556": {
-   "id": "4870c3f15396c4cb1a7159addb63f556",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Summer Internship Programme 2026 [stem] - Information Technology",
-   "location": "Hong Kong"
-  },
-  "824c20ed7cb4766c17a7ffa661501b63": {
-   "id": "824c20ed7cb4766c17a7ffa661501b63",
-   "company": "AIA Australia Limited",
-   "role": "Agency, Intern",
    "location": "Hong Kong"
   },
   "Hq6SozpyQ7Bg": {
