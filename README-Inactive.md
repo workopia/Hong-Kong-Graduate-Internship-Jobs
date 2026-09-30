@@ -245,4 +245,95 @@
 <tr><td>BOUYGUES CONSTRUCTION IT SNC</td><td>Assistant Foreman</td><td>Kwun Tong District</td><td>2026-09-23</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Summer Internship Programme 2026 [stem] - Information Technology</td><td>Hong Kong</td><td>2026-09-24</td></tr>
 <tr><td>AIA Australia Limited</td><td>Agency, Intern</td><td>Hong Kong</td><td>2026-09-24</td></tr>
+<tr><td>Citi</td><td>Securities Lending Technology Business Analyst (equity Finance) Vice President</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Intern (operational Excellence, Apac) (part-time)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Summer Intern (2027) - Hong Kong</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Sun Life</td><td>Actuarial Internship 2027</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Disney Streaming</td><td>Marketing Intern, Disney Consumer Products</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Huatai Securities (Singapore)</td><td>Institutional Equity - Account Management - Intern</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Manulife</td><td>Co-op Program Intern 6-months – Investment Management</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>DV Group Ltd</td><td>Quantitative Trading Intern - Summer 2027 (dv Equities)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>DV Trading</td><td>Quantitative Trading Intern - Summer 2027 (dv Equities)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>29</td><td>Assoc. Spclst, Medical Affairs Onc Intern</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Laboratory Animal Management Association</td><td>Assoc. Spclst, Medical Affairs Onc Intern</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Manulife</td><td>Tech Placement Intern, 7029 Asia Delivery Services</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Tech Placement Intern, 7029 Asia Delivery Services</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Flow Traders</td><td>Trading Intern</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Hyperion Group</td><td>Intern</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Four Seasons Hotel Hong Kong</td><td>Internship Program (rooms And F&b) At Four Seasons Hotel Hong Kong</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>PIMCO</td><td>2027 Summer Internship - Account Analyst, Apac / Hong Kong, Hk At Pimco</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Aia Group Office</td><td>2026 1h Actuarial Internship Programme, Aia Group Office</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>AIA</td><td>2026 1h Actuarial Internship Programme, Aia Group Office</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Prudential</td><td>Part Time Intern, Gi (sep 2026 To Dec 2026)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Prudential Assurance UK</td><td>Part Time Intern, Gi (sep 2026 To Dec 2026)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Prudential Corporation Asia Ltd</td><td>Part Time Intern, Gi (sep 2026 To Dec 2026)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>CTF Services Ltd</td><td>Intern, Human Resources</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Ardian</td><td>Investment Analyst Intern</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>WTW (Willis Towers Watson)</td><td>2027 Actuarial Internship, Retirement, Hong Kong (part Time / Full Time)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>TP ICAP</td><td>Credit Intern</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Willis Towers Watson</td><td>2027 Actuarial Internship, Retirement, Hong Kong (part Time / Full Time)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Analyst Intern (6-months), Private Equity Asia 2026 2h</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>IMC Trading</td><td>Quantitative Trader Intern 2027</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>IMC Trading</td><td>Imc Trading Sim - Hong Kong</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>IMC Trading</td><td>Imc Emerging Talent Table - Shanghai / Sjtu</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Manulife</td><td>Analyst Intern (6-months), Private Equity Asia 2026 2h</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Internship - Accounting</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Knorr-Bremse AG</td><td>Internship - Order Management & Operations Intern</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>aion-ia.in</td><td>Agency, Intern</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>aion-ia.in</td><td>Intern, Group Function Audit</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>AIA Australia Limited</td><td>Intern, Group Function Audit</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Eclipse Trading</td><td>Graduate Python Software Engineer / 2027 Intake (hong Kong) At Eclipse Trading</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Speechify</td><td>Software Engineer, Platform - Hong Kong, Hong Kong</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>IMC Trading</td><td>Software Engineer - Tooling</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>DV Group Ltd</td><td>C++ Software Developer (dv Equities)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>RGA</td><td>Actuarial Intern</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>RGA</td><td>Actuarial Intern (pricing Jan-jun 2027)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Prudential Com Sg</td><td>Actuarial Intern (july 2027 To Dec 2027)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Prudential</td><td>Actuarial Intern (july 2027 To Dec 2027)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>DV Group Ltd</td><td>Quantitative Trader - 2027 Graduate (dv Equities)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>DV Trading</td><td>Quantitative Trader - 2027 Graduate (dv Equities)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Kyndryl</td><td>Consult Partner - Application Modernization</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Morgan Stanley</td><td>Institutional Equity Division – Associate/vice President, Prime Brokerage Strats (hong Kong)</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Work From Home With CiCi</td><td>Securities Lending Technology Business Analyst (equity Finance) Vice President</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Morgan Stanley</td><td>Fixed Income Compliance - Vice President</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Officer, Financial Crime Operations, Financial Services</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Civica</td><td>Securities Lending Tech Business Analyst, Equity Finance Technology,vice President</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Workforcity</td><td>Securities Lending Tech Business Analyst, Equity Finance Technology,vice President</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Nomura International PLC</td><td>Quantitative Strategist</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Jump Trading</td><td>Quantitative Developer</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Jump Trading</td><td>Quantitative Researcher / Trading Team</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Barclays</td><td>Investment Banking Financial Crime Officer</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>jobs.barclays</td><td>Investment Banking Financial Crime Officer</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>OKX</td><td>Quant Developer (rust), Liquidity Platform, Delta One</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>OKX</td><td>Quantitative Trader, Cash Otc</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Specsavers Optical Group Ltd</td><td>Commercial Accountant</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Nomura International PLC</td><td>Associate, Quantitative Strategist</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>wintermute-agent.site</td><td>Prediction Markets Trader</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Wmotc</td><td>Prediction Markets Trader</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Winmutetrading</td><td>Prediction Markets Trader</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Wintermute Corporation</td><td>Prediction Markets Trader</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Wintermute</td><td>Prediction Markets Trader</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Me2Works</td><td>Marketing Actuary, Life & Health - Hong Kong At Scor</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Goldman Sachs</td><td>Financial Crime Controls, Kyc & Edd, Associate, Hong Kong At Goldman Sachs</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Me2Works</td><td>Finance Business Analyst / Hong Kong, Hk / In-office At Robert Walters Hong Kong</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Bottega Veneta</td><td>Bottega Veneta Part Time Sales</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Bottega Veneta Hong Kong</td><td>Bottega Veneta Part Time Sales</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>ALO</td><td>Sales Associate (part-time) - Hong Kong</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Lululemon</td><td>Part Time Educator (sales Associate) / Hong Kong Cityplaza, Taikoo</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Lululemon</td><td>Full-time Educator (sales Associate) / Queen&#039;s Road Central</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Lululemon</td><td>Full-time Educator (sales Associate) / K11 Musea</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Lululemon</td><td>Full Time Educator (sales Associate) / Ifc Store</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>lululemon</td><td>Part Time Educator (sales Associate) / Ifc Store</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Lululemon</td><td>Part-time Educator (sales Associate) / K11 Musea</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>lululemon</td><td>Educator (full-time Sales Associate) / Pacific Place Store</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Hong Kong Jockey Club -THE-</td><td>Part-time Administrative Assistant</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Me2Works</td><td>Administrative/executive Assistant- Up To 60k / Hong Kong, Hk At Michael Page</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Computershare</td><td>Admin Support</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Me2Works</td><td>Project Administrative Assistant - $22-25k+ Bonus At Michael Page</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Arc'teryx Equipment</td><td>Product Compliance Specialist 2 – Packaging & Labelling</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>JLL</td><td>Customer Services Assistant</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Jll Com Sg</td><td>Customer Services Assistant</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Jll Com Sg</td><td>Customer Service Assistant</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>Building Engines</td><td>Customer Service Assistant</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>JLL UK</td><td>Customer Service Assistant</td><td>Hong Kong</td><td>2026-09-30</td></tr>
 </table>

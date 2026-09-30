@@ -1,11 +1,101 @@
 {
- "asOf": "2026-09-24",
- "count": 221,
+ "asOf": "2026-09-30",
+ "count": 158,
  "jobs": {
-  "26980210": {
-   "id": "26980210",
-   "company": "Citi",
-   "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
+  "3ee33d734198a9f095367941421b77cf": {
+   "id": "3ee33d734198a9f095367941421b77cf",
+   "company": "China CITIC Bank International Ltd",
+   "role": "Intern, Wholesale Banking Group",
+   "location": "Hong Kong"
+  },
+  "25a6eefa2a5abbf462a622b44c919398": {
+   "id": "25a6eefa2a5abbf462a622b44c919398",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Payroll Intern",
+   "location": "Hong Kong"
+  },
+  "1afe63883c8492b480f1cd5c9a733e66": {
+   "id": "1afe63883c8492b480f1cd5c9a733e66",
+   "company": "DFI Retail Group",
+   "role": "Dfiq Insights Solutions Intern (part Time)",
+   "location": "Hong Kong"
+  },
+  "7cd08a75aaaf8845d64dcbf45c5c80fc": {
+   "id": "7cd08a75aaaf8845d64dcbf45c5c80fc",
+   "company": "Oliver Wyman",
+   "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
+   "location": "Hong Kong"
+  },
+  "0c3f459b30c08d5f90a50e346dfc8f8f": {
+   "id": "0c3f459b30c08d5f90a50e346dfc8f8f",
+   "company": "MSD",
+   "role": "Regulatory Affairs Intern",
+   "location": "Hong Kong"
+  },
+  "563705892850668": {
+   "id": "563705892850668",
+   "company": "Saint Laurent",
+   "role": "Saint Laurent Financial Control & Business Analysis Intern (6-month Contract)",
+   "location": "Hong Kong"
+  },
+  "b8ca66e1d15c11088af5381a46aee344": {
+   "id": "b8ca66e1d15c11088af5381a46aee344",
+   "company": "Manulife Financial Inc",
+   "role": "Manulife Co-op Program – Business & Investment Advisory, General Accounts Investment - January 2027 Intake",
+   "location": "Hong Kong"
+  },
+  "3c68c05a84c20af29467c19aaa41d33d": {
+   "id": "3c68c05a84c20af29467c19aaa41d33d",
+   "company": "Manulife Financial Inc",
+   "role": "Manulife Co-op Program – Fixed Income Investment - January 2027 Intake",
+   "location": "Hong Kong"
+  },
+  "757ed5e3bb5fc391e94c96658e6a6d68": {
+   "id": "757ed5e3bb5fc391e94c96658e6a6d68",
+   "company": "Sun Life Financial, Inc.",
+   "role": "Finance Intern (jan - Jun 2027) / Hong Kong, Hk At Sun Life Financial, Inc.",
+   "location": "Hong Kong"
+  },
+  "19d3efcc3180ec05dd9148f534711d57": {
+   "id": "19d3efcc3180ec05dd9148f534711d57",
+   "company": "Manulife Investment Management",
+   "role": "Manulife - Analyst Intern (6-months), Private Equity Asia, January 2027 Intake At Manulife",
+   "location": "Hong Kong"
+  },
+  "007516b8afa410dfd1936f7a228f67d8": {
+   "id": "007516b8afa410dfd1936f7a228f67d8",
+   "company": "Manulife Financial Inc",
+   "role": "Manulife - Analyst Intern (6-months), Private Equity Asia, January 2027 Intake",
+   "location": "Hong Kong"
+  },
+  "f5b93c380ba5ced57aa4f889dee7c95a": {
+   "id": "f5b93c380ba5ced57aa4f889dee7c95a",
+   "company": "Sun Life",
+   "role": "Finance Intern (jan - Jun 2027) At Sun Life",
+   "location": "Hong Kong"
+  },
+  "b172f67c7ff0b58a96373e07e6fbff70": {
+   "id": "b172f67c7ff0b58a96373e07e6fbff70",
+   "company": "Standard Chartered Bank",
+   "role": "Coverage Banking Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "3015094f6cc7b79ebb07c2ef6f1bd9fc": {
+   "id": "3015094f6cc7b79ebb07c2ef6f1bd9fc",
+   "company": "Standard Chartered Bank",
+   "role": "Transaction Services Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "fdf46c9adb44424c24f08c149ab3f9d6": {
+   "id": "fdf46c9adb44424c24f08c149ab3f9d6",
+   "company": "Standard Chartered Bank",
+   "role": "Markets Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "067fc2a336e2572a1fd88f44833f7e1a": {
+   "id": "067fc2a336e2572a1fd88f44833f7e1a",
+   "company": "Standard Chartered Bank",
+   "role": "Global Banking Intern Hong Kong 2027",
    "location": "Hong Kong"
   },
   "52cd2ae8d1ce2b64e3de998db0358dde": {
@@ -18,6 +108,18 @@
    "id": "b1c5240f00cc940487808bae4cb66705",
    "company": "Manulife Financial Inc",
    "role": "Manulife Co-op Program – Investment Management, General Account Investments - January 2027 Intake",
+   "location": "Hong Kong"
+  },
+  "18f2c9401253bbfd0b8871832d0ea610": {
+   "id": "18f2c9401253bbfd0b8871832d0ea610",
+   "company": "Zurich Insurance UK",
+   "role": "Intern (operational Excellence, Apac) (part-time)",
+   "location": "Hong Kong"
+  },
+  "8f6f149a107c03b9e36d81d7a2f23f63": {
+   "id": "8f6f149a107c03b9e36d81d7a2f23f63",
+   "company": "CTF Services Ltd",
+   "role": "Intern, Investment & Alm",
    "location": "Hong Kong"
   },
   "511ed080100600047b8d9a1bcf304289": {
@@ -50,40 +152,10 @@
    "role": "Design Intern",
    "location": "Hong Kong"
   },
-  "147d7182ea328ca3831f78ef9b9a44e0": {
-   "id": "147d7182ea328ca3831f78ef9b9a44e0",
-   "company": "Zurich Insurance UK",
-   "role": "Intern (operational Excellence, Apac) (part-time)",
-   "location": "Hong Kong"
-  },
   "d012c621684f6b2f097d1d68bc0d3608": {
    "id": "d012c621684f6b2f097d1d68bc0d3608",
    "company": "Huatai Securities (HK)",
    "role": "Equity Derivatives - Derivatives Structuring - Intern",
-   "location": "Hong Kong"
-  },
-  "b172f67c7ff0b58a96373e07e6fbff70": {
-   "id": "b172f67c7ff0b58a96373e07e6fbff70",
-   "company": "Standard Chartered Bank",
-   "role": "Coverage Banking Intern Hong Kong 2027",
-   "location": "Hong Kong"
-  },
-  "067fc2a336e2572a1fd88f44833f7e1a": {
-   "id": "067fc2a336e2572a1fd88f44833f7e1a",
-   "company": "Standard Chartered Bank",
-   "role": "Global Banking Intern Hong Kong 2027",
-   "location": "Hong Kong"
-  },
-  "3015094f6cc7b79ebb07c2ef6f1bd9fc": {
-   "id": "3015094f6cc7b79ebb07c2ef6f1bd9fc",
-   "company": "Standard Chartered Bank",
-   "role": "Transaction Services Intern Hong Kong 2027",
-   "location": "Hong Kong"
-  },
-  "fdf46c9adb44424c24f08c149ab3f9d6": {
-   "id": "fdf46c9adb44424c24f08c149ab3f9d6",
-   "company": "Standard Chartered Bank",
-   "role": "Markets Intern Hong Kong 2027",
    "location": "Hong Kong"
   },
   "ee26c3b0a842442f3fb8ab27f6564676": {
@@ -96,12 +168,6 @@
    "id": "bd86e047c572666e581c8af0c3bc7b27",
    "company": "Hasbro",
    "role": "2026 Hasbro Hong Kong Experience Day: Internship Discovery",
-   "location": "Hong Kong"
-  },
-  "1afe63883c8492b480f1cd5c9a733e66": {
-   "id": "1afe63883c8492b480f1cd5c9a733e66",
-   "company": "DFI Retail Group",
-   "role": "Dfiq Insights Solutions Intern (part Time)",
    "location": "Hong Kong"
   },
   "0af958ed0ac3d968c6f5a24d01014296": {
@@ -122,12 +188,6 @@
    "role": "Internship - Order Management & Operations Intern",
    "location": "Hong Kong"
   },
-  "25a6eefa2a5abbf462a622b44c919398": {
-   "id": "25a6eefa2a5abbf462a622b44c919398",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Payroll Intern",
-   "location": "Hong Kong"
-  },
   "6033207f9c8390e4ec80ce15b0b74cf2": {
    "id": "6033207f9c8390e4ec80ce15b0b74cf2",
    "company": "Atkinsrealis",
@@ -138,18 +198,6 @@
    "id": "937b81f26ae09ad4d96c2d72dc425112",
    "company": "Mitsubishi UFJ Financial Group (MUFG)",
    "role": "Summer Internship Programme 2027 – Global Corporate Banking",
-   "location": "Hong Kong"
-  },
-  "8f6f149a107c03b9e36d81d7a2f23f63": {
-   "id": "8f6f149a107c03b9e36d81d7a2f23f63",
-   "company": "CTF Services Ltd",
-   "role": "Intern, Investment & Alm",
-   "location": "Hong Kong"
-  },
-  "e923008b3af6e9dc7152b514e72f307a": {
-   "id": "e923008b3af6e9dc7152b514e72f307a",
-   "company": "Oliver Wyman",
-   "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
    "location": "Hong Kong"
   },
   "503be9de3ef1f4df72437363bae37820": {
@@ -182,9 +230,9 @@
    "role": "Internal Communications Intern (hr)",
    "location": "Hong Kong Sar"
   },
-  "8e366cfc13b2ecd6830507e2169b76bd": {
-   "id": "8e366cfc13b2ecd6830507e2169b76bd",
-   "company": "Sun Life",
+  "cb46ca121f31f589254a12282a3667ef": {
+   "id": "cb46ca121f31f589254a12282a3667ef",
+   "company": "SunLife",
    "role": "Actuarial Internship 2027",
    "location": "Hong Kong"
   },
@@ -206,12 +254,6 @@
    "role": "People Sustainability, Intern",
    "location": "Hong Kong"
   },
-  "b87e4ff4858fccbd5b032d94a0acd399": {
-   "id": "b87e4ff4858fccbd5b032d94a0acd399",
-   "company": "Disney Streaming",
-   "role": "Marketing Intern, Disney Consumer Products",
-   "location": "Hong Kong"
-  },
   "db55d8f626da0649d26648720f82e745": {
    "id": "db55d8f626da0649d26648720f82e745",
    "company": "Disney",
@@ -224,12 +266,6 @@
    "role": "Debt Capital Markets - Intern",
    "location": "Hong Kong"
   },
-  "dc624bd4d66ade1a645d28be59418e74": {
-   "id": "dc624bd4d66ade1a645d28be59418e74",
-   "company": "Huatai Securities (Singapore)",
-   "role": "Institutional Equity - Account Management - Intern",
-   "location": "Hong Kong"
-  },
   "1b951e8188c6831cda196e24c29d37d3": {
    "id": "1b951e8188c6831cda196e24c29d37d3",
    "company": "Huatai Securities (HK)",
@@ -240,12 +276,6 @@
    "id": "a5aac96ed51755497a1df6d5a75fd4e0",
    "company": "Huatai Securities (HK)",
    "role": "Institutional Equity - Account Management - Intern",
-   "location": "Hong Kong"
-  },
-  "dab5de17b7d32756412ae2b92e643572": {
-   "id": "dab5de17b7d32756412ae2b92e643572",
-   "company": "Manulife",
-   "role": "Co-op Program Intern 6-months – Investment Management",
    "location": "Hong Kong"
   },
   "6b6aadbc3f3b08b1b7e64fbd092b08ec": {
@@ -290,154 +320,10 @@
    "role": "Internship - It Infrastructure",
    "location": "Hong Kong"
   },
-  "a15f471b38e81b63a0e84c446c19a8a5": {
-   "id": "a15f471b38e81b63a0e84c446c19a8a5",
-   "company": "DV Group Ltd",
-   "role": "Quantitative Trading Intern - Summer 2027 (dv Equities)",
-   "location": "Hong Kong"
-  },
-  "247ec7d7243ca93f35ac31fe16cb9022": {
-   "id": "247ec7d7243ca93f35ac31fe16cb9022",
-   "company": "DV Trading",
-   "role": "Quantitative Trading Intern - Summer 2027 (dv Equities)",
-   "location": "Hong Kong"
-  },
   "66691a9e39fc1a21bcf0a5af2f269290": {
    "id": "66691a9e39fc1a21bcf0a5af2f269290",
    "company": "AIA",
    "role": "Cs Experience Study & Pricing Strategy, Intern",
-   "location": "Hong Kong"
-  },
-  "91101f12b84dec32fe895c0af32f56a7": {
-   "id": "91101f12b84dec32fe895c0af32f56a7",
-   "company": "29",
-   "role": "Assoc. Spclst, Medical Affairs Onc Intern",
-   "location": "Hong Kong"
-  },
-  "1b63d44da79d9ce303c2356d0eddacf2": {
-   "id": "1b63d44da79d9ce303c2356d0eddacf2",
-   "company": "Laboratory Animal Management Association",
-   "role": "Assoc. Spclst, Medical Affairs Onc Intern",
-   "location": "Hong Kong"
-  },
-  "c04766b0a33c276a5a453afbbe75fa34": {
-   "id": "c04766b0a33c276a5a453afbbe75fa34",
-   "company": "Manulife",
-   "role": "Tech Placement Intern, 7029 Asia Delivery Services",
-   "location": "Hong Kong"
-  },
-  "619c4aaf42f6dcd1fa4c8a1dc5cfdca1": {
-   "id": "619c4aaf42f6dcd1fa4c8a1dc5cfdca1",
-   "company": "Manulife Financial Inc",
-   "role": "Tech Placement Intern, 7029 Asia Delivery Services",
-   "location": "Hong Kong"
-  },
-  "6bd7a55800b2dd9b1756fdb7fe5cec2a": {
-   "id": "6bd7a55800b2dd9b1756fdb7fe5cec2a",
-   "company": "Flow Traders",
-   "role": "Trading Intern",
-   "location": "Hong Kong"
-  },
-  "651475d555eb2388e601d7e0a79b5f39": {
-   "id": "651475d555eb2388e601d7e0a79b5f39",
-   "company": "Hyperion Group",
-   "role": "Intern",
-   "location": "Hong Kong"
-  },
-  "1d1ebcb9214fa2f8406ede2835258d12": {
-   "id": "1d1ebcb9214fa2f8406ede2835258d12",
-   "company": "Four Seasons Hotel Hong Kong",
-   "role": "Internship Program (rooms And F&b) At Four Seasons Hotel Hong Kong",
-   "location": "Hong Kong"
-  },
-  "1358236a3e87a8a6e135557aa725041d": {
-   "id": "1358236a3e87a8a6e135557aa725041d",
-   "company": "PIMCO",
-   "role": "2027 Summer Internship - Account Analyst, Apac / Hong Kong, Hk At Pimco",
-   "location": "Hong Kong"
-  },
-  "b1fc406c7f0fa0a5d6307070a3c112c7": {
-   "id": "b1fc406c7f0fa0a5d6307070a3c112c7",
-   "company": "Aia Group Office",
-   "role": "2026 1h Actuarial Internship Programme, Aia Group Office",
-   "location": "Hong Kong"
-  },
-  "696d50d154a133b1b275ec17623cadc5": {
-   "id": "696d50d154a133b1b275ec17623cadc5",
-   "company": "AIA",
-   "role": "2026 1h Actuarial Internship Programme, Aia Group Office",
-   "location": "Hong Kong"
-  },
-  "786096bfdfad7f4be444cc1eacd57f34": {
-   "id": "786096bfdfad7f4be444cc1eacd57f34",
-   "company": "Prudential",
-   "role": "Part Time Intern, Gi (sep 2026 To Dec 2026)",
-   "location": "Hong Kong"
-  },
-  "8b21ceec5eefc4c909a73125765e04ad": {
-   "id": "8b21ceec5eefc4c909a73125765e04ad",
-   "company": "Prudential Assurance UK",
-   "role": "Part Time Intern, Gi (sep 2026 To Dec 2026)",
-   "location": "Hong Kong"
-  },
-  "28c6be29cd1f7eced8a76c93a17e1fc3": {
-   "id": "28c6be29cd1f7eced8a76c93a17e1fc3",
-   "company": "Prudential Corporation Asia Ltd",
-   "role": "Part Time Intern, Gi (sep 2026 To Dec 2026)",
-   "location": "Hong Kong"
-  },
-  "3488dbfe363d73756844ca1f34fcaf02": {
-   "id": "3488dbfe363d73756844ca1f34fcaf02",
-   "company": "CTF Services Ltd",
-   "role": "Intern, Human Resources",
-   "location": "Hong Kong"
-  },
-  "216495ca6dffec04f50ddf0e84def1e9": {
-   "id": "216495ca6dffec04f50ddf0e84def1e9",
-   "company": "Ardian",
-   "role": "Investment Analyst Intern",
-   "location": "Hong Kong"
-  },
-  "317bf14c78418b8eaa8ba9927ae4ab3c": {
-   "id": "317bf14c78418b8eaa8ba9927ae4ab3c",
-   "company": "WTW (Willis Towers Watson)",
-   "role": "2027 Actuarial Internship, Retirement, Hong Kong (part Time / Full Time)",
-   "location": "Hong Kong"
-  },
-  "0280474a7f283ec0df47e3fbd09dd930": {
-   "id": "0280474a7f283ec0df47e3fbd09dd930",
-   "company": "TP ICAP",
-   "role": "Credit Intern",
-   "location": "Hong Kong"
-  },
-  "07d25eabb9fa011f3470339ee3950725": {
-   "id": "07d25eabb9fa011f3470339ee3950725",
-   "company": "Willis Towers Watson",
-   "role": "2027 Actuarial Internship, Retirement, Hong Kong (part Time / Full Time)",
-   "location": "Hong Kong"
-  },
-  "2bdf16a1fc95e29ef3f260250b522318": {
-   "id": "2bdf16a1fc95e29ef3f260250b522318",
-   "company": "Manulife Financial Inc",
-   "role": "Analyst Intern (6-months), Private Equity Asia 2026 2h",
-   "location": "Hong Kong"
-  },
-  "4b6315a622510ff1e65bd25057aa7dcf": {
-   "id": "4b6315a622510ff1e65bd25057aa7dcf",
-   "company": "IMC Trading",
-   "role": "Quantitative Trader Intern 2027",
-   "location": "Hong Kong"
-  },
-  "a1b588107aadc2341183e2a0efa6da3e": {
-   "id": "a1b588107aadc2341183e2a0efa6da3e",
-   "company": "IMC Trading",
-   "role": "Imc Trading Sim - Hong Kong",
-   "location": "Hong Kong"
-  },
-  "cee5ae0655de3c75e0dc8d02960a191a": {
-   "id": "cee5ae0655de3c75e0dc8d02960a191a",
-   "company": "IMC Trading",
-   "role": "Imc Emerging Talent Table - Shanghai / Sjtu",
    "location": "Hong Kong"
   },
   "2e2c327482c30deddd4ba016c13f2b02": {
@@ -452,41 +338,23 @@
    "role": "Manulife Co-op 6-month Internship Program – Distribution & Business Support",
    "location": "Hong Kong"
   },
-  "2e49d82a60766df680933808310520e9": {
-   "id": "2e49d82a60766df680933808310520e9",
-   "company": "Manulife",
-   "role": "Analyst Intern (6-months), Private Equity Asia 2026 2h",
+  "3e309209c21ebde2cca5a6fa52c6679d": {
+   "id": "3e309209c21ebde2cca5a6fa52c6679d",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Summer Internship Programme 2026 [stem] - Pccw Global",
    "location": "Hong Kong"
   },
-  "4b2cfe322a98c69dcf663e305e914ff7": {
-   "id": "4b2cfe322a98c69dcf663e305e914ff7",
-   "company": "Knorr-Bremse AG",
-   "role": "Internship - Accounting",
-   "location": "Hong Kong"
+  "bcf5482d59a505da4d065883eb1ada17": {
+   "id": "bcf5482d59a505da4d065883eb1ada17",
+   "company": "MARSH MCLENNAN",
+   "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
+   "location": "Taikoo"
   },
-  "07e8efed42003ee5b0da5be38ff621b8": {
-   "id": "07e8efed42003ee5b0da5be38ff621b8",
-   "company": "Knorr-Bremse AG",
-   "role": "Internship - Order Management & Operations Intern",
-   "location": "Hong Kong"
-  },
-  "8dbb4f5ad03e0260061e834aebdb86ef": {
-   "id": "8dbb4f5ad03e0260061e834aebdb86ef",
-   "company": "aion-ia.in",
-   "role": "Agency, Intern",
-   "location": "Hong Kong"
-  },
-  "5b0c8f31dd2f0f74f4a114dbb97f2632": {
-   "id": "5b0c8f31dd2f0f74f4a114dbb97f2632",
-   "company": "aion-ia.in",
-   "role": "Intern, Group Function Audit",
-   "location": "Hong Kong"
-  },
-  "a5d71da3976fa4d049f16781d7abe350": {
-   "id": "a5d71da3976fa4d049f16781d7abe350",
-   "company": "AIA Australia Limited",
-   "role": "Intern, Group Function Audit",
-   "location": "Hong Kong"
+  "4e33ebb28179fd6ed465a37a81864f9b": {
+   "id": "4e33ebb28179fd6ed465a37a81864f9b",
+   "company": "Marsh",
+   "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
+   "location": "Taikoo"
   },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
@@ -500,10 +368,10 @@
    "role": "Graduate Low Latency C++ Software Engineer (hong Kong) At Eclipse Trading",
    "location": "Hong Kong"
   },
-  "6530a69a9a0073e83c571a8f83b64583": {
-   "id": "6530a69a9a0073e83c571a8f83b64583",
-   "company": "Eclipse Trading",
-   "role": "Graduate Python Software Engineer / 2027 Intake (hong Kong) At Eclipse Trading",
+  "0e71ac0cd95b890b3d00516a30e4d09f": {
+   "id": "0e71ac0cd95b890b3d00516a30e4d09f",
+   "company": "OKX",
+   "role": "Software Engineer, Mobile At Okx",
    "location": "Hong Kong"
   },
   "bfeb38ccd213fc489fb21be6c6d1aa7a": {
@@ -546,24 +414,6 @@
    "id": "b9a82e639e006ba53f3960d7bb5a7feb",
    "company": "Ampd Energy",
    "role": "Full-stack Software Engineer",
-   "location": "Hong Kong"
-  },
-  "5a31bf7d9f26f50d318c81ad1d6ddf6f": {
-   "id": "5a31bf7d9f26f50d318c81ad1d6ddf6f",
-   "company": "Speechify",
-   "role": "Software Engineer, Platform - Hong Kong, Hong Kong",
-   "location": "Hong Kong"
-  },
-  "784a59d2b4bf0a7e88ea6d43554ffc40": {
-   "id": "784a59d2b4bf0a7e88ea6d43554ffc40",
-   "company": "IMC Trading",
-   "role": "Software Engineer - Tooling",
-   "location": "Hong Kong"
-  },
-  "944311537d642de7616652d18bf5daf3": {
-   "id": "944311537d642de7616652d18bf5daf3",
-   "company": "DV Group Ltd",
-   "role": "C++ Software Developer (dv Equities)",
    "location": "Hong Kong"
   },
   "79aeb1c20adc07ba7c56df04b0ab4f60": {
@@ -614,12 +464,6 @@
    "role": "Quantitative Trading Intern (dv Equities)",
    "location": "Hong Kong"
   },
-  "2c7ece903de07ec6f56a3781c240ab8a": {
-   "id": "2c7ece903de07ec6f56a3781c240ab8a",
-   "company": "RGA",
-   "role": "Actuarial Intern",
-   "location": "Hong Kong"
-  },
   "48bf50ec1ff3192f2d078840644454d2": {
    "id": "48bf50ec1ff3192f2d078840644454d2",
    "company": "Barclays",
@@ -662,28 +506,16 @@
    "role": "Actuarial Intern (july 2027 To Dec 2027)",
    "location": "Hong Kong"
   },
-  "50d2ee31343c6818fdfefae76a984606": {
-   "id": "50d2ee31343c6818fdfefae76a984606",
-   "company": "RGA",
-   "role": "Actuarial Intern (pricing Jan-jun 2027)",
-   "location": "Hong Kong"
-  },
   "3933535f687f4cc3834c49f523bc019b": {
    "id": "3933535f687f4cc3834c49f523bc019b",
    "company": "Manulife",
    "role": "Manulife: Actuarial Internship Program 2027 (6.5 Months)",
    "location": "Hong Kong"
   },
-  "2e3439cbec23618f4f2bd1702cfa02ed": {
-   "id": "2e3439cbec23618f4f2bd1702cfa02ed",
-   "company": "Prudential Com Sg",
-   "role": "Actuarial Intern (july 2027 To Dec 2027)",
-   "location": "Hong Kong"
-  },
-  "94fd3876840a8230f18c0fd231f02a3c": {
-   "id": "94fd3876840a8230f18c0fd231f02a3c",
-   "company": "Prudential",
-   "role": "Actuarial Intern (july 2027 To Dec 2027)",
+  "d4645be7cc6f19624fa348fb6855ccc7": {
+   "id": "d4645be7cc6f19624fa348fb6855ccc7",
+   "company": "DV Group Ltd",
+   "role": "2027 Quantitative Researcher Graduate (dv Equities)",
    "location": "Hong Kong"
   },
   "76fdd66f8e766018e7021e133177c00e": {
@@ -710,16 +542,52 @@
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
    "location": "Hong Kong"
   },
-  "10ebb65ffdfc4bb2da8f565aaa5486a1": {
-   "id": "10ebb65ffdfc4bb2da8f565aaa5486a1",
-   "company": "DV Group Ltd",
-   "role": "Quantitative Trader - 2027 Graduate (dv Equities)",
+  "4385e96a080f87ad50fa724e33298387": {
+   "id": "4385e96a080f87ad50fa724e33298387",
+   "company": "Morgan Stanley UK",
+   "role": "Institutional Equity Division - Asia Quantitative & Derivative Strategies, Associate (hong Kong)",
    "location": "Hong Kong"
   },
-  "5f4808db30449c5bd36a9663dba19132": {
-   "id": "5f4808db30449c5bd36a9663dba19132",
-   "company": "DV Trading",
-   "role": "Quantitative Trader - 2027 Graduate (dv Equities)",
+  "50ece19cebc5b552333db566b113ffae": {
+   "id": "50ece19cebc5b552333db566b113ffae",
+   "company": "SunLife",
+   "role": "Analyst, Business Continuity Management, Asia",
+   "location": "Hong Kong"
+  },
+  "563705892568797": {
+   "id": "563705892568797",
+   "company": "KERING EYEWEAR APAC LTD",
+   "role": "Kering Eyewear Business Analysis Specialist",
+   "location": "Hong Kong"
+  },
+  "d5478bb53d24fa86279109737e78a1cf": {
+   "id": "d5478bb53d24fa86279109737e78a1cf",
+   "company": "Me2Works",
+   "role": "Fund Accountant At 2wa.io",
+   "location": "Hong Kong"
+  },
+  "755954333809": {
+   "id": "755954333809",
+   "company": "Millennium Management",
+   "role": "Quantitative Trader",
+   "location": "Hong Kong"
+  },
+  "755956478721": {
+   "id": "755956478721",
+   "company": "Millennium Management",
+   "role": "Quantitative Researcher",
+   "location": "Hong Kong"
+  },
+  "755958065522": {
+   "id": "755958065522",
+   "company": "Millennium Management",
+   "role": "Quantitative Developer - Equity Volatility Execution",
+   "location": "Hong Kong"
+  },
+  "eb903d355b39a68d27060819c1bb92c7": {
+   "id": "eb903d355b39a68d27060819c1bb92c7",
+   "company": "Gravitas Recruitment Group",
+   "role": "Vp - Gm Liquid Financing Quantitative Analyst / Hong Kong, Hk At Gravitas Recruitment Group",
    "location": "Hong Kong"
   },
   "f8b091eb9e8c7cc1a74d4c730d70eda6": {
@@ -830,12 +698,6 @@
    "role": "Actuarial Specialist",
    "location": "Hong Kong"
   },
-  "a39c38dda52209595e383c7e74209ed3": {
-   "id": "a39c38dda52209595e383c7e74209ed3",
-   "company": "Kyndryl",
-   "role": "Consult Partner - Application Modernization",
-   "location": "Hong Kong"
-  },
   "c7cdab971f382ddf88aeed1b182958de": {
    "id": "c7cdab971f382ddf88aeed1b182958de",
    "company": "Shangri-la Group",
@@ -872,144 +734,6 @@
    "role": "Actuarial Specialist",
    "location": "Hong Kong"
   },
-  "dd6609edf9c2198932b83dcd0f179b1b": {
-   "id": "dd6609edf9c2198932b83dcd0f179b1b",
-   "company": "Morgan Stanley",
-   "role": "Institutional Equity Division – Associate/vice President, Prime Brokerage Strats (hong Kong)",
-   "location": "Hong Kong"
-  },
-  "fff3aba9b77a59ee61fb7c4120b15da4": {
-   "id": "fff3aba9b77a59ee61fb7c4120b15da4",
-   "company": "Work From Home With CiCi",
-   "role": "Securities Lending Technology Business Analyst (equity Finance) Vice President",
-   "location": "Hong Kong"
-  },
-  "78e72c6b454458c048d53d26d18e82f5": {
-   "id": "78e72c6b454458c048d53d26d18e82f5",
-   "company": "Morgan Stanley",
-   "role": "Fixed Income Compliance - Vice President",
-   "location": "Hong Kong"
-  },
-  "743d8e5602646571fee25b5120ec90cc": {
-   "id": "743d8e5602646571fee25b5120ec90cc",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Officer, Financial Crime Operations, Financial Services",
-   "location": "Hong Kong"
-  },
-  "94ee457fd97c6c5cfc7cfc2a57525b84": {
-   "id": "94ee457fd97c6c5cfc7cfc2a57525b84",
-   "company": "Civica",
-   "role": "Securities Lending Tech Business Analyst, Equity Finance Technology,vice President",
-   "location": "Hong Kong"
-  },
-  "5885cba957d15a74a0de734ad90c8f65": {
-   "id": "5885cba957d15a74a0de734ad90c8f65",
-   "company": "Workforcity",
-   "role": "Securities Lending Tech Business Analyst, Equity Finance Technology,vice President",
-   "location": "Hong Kong"
-  },
-  "5cc0263723303697cef3471ac7a5bb1e": {
-   "id": "5cc0263723303697cef3471ac7a5bb1e",
-   "company": "Nomura International PLC",
-   "role": "Quantitative Strategist",
-   "location": "Hong Kong"
-  },
-  "ef886fad00fe6ccff7d770f2cca8494f": {
-   "id": "ef886fad00fe6ccff7d770f2cca8494f",
-   "company": "Jump Trading",
-   "role": "Quantitative Developer",
-   "location": "Hong Kong"
-  },
-  "0ca97dde9650d773e1a678da635528d1": {
-   "id": "0ca97dde9650d773e1a678da635528d1",
-   "company": "Jump Trading",
-   "role": "Quantitative Researcher / Trading Team",
-   "location": "Hong Kong"
-  },
-  "72536700dc1ac934e9db6dd01e973833": {
-   "id": "72536700dc1ac934e9db6dd01e973833",
-   "company": "Barclays",
-   "role": "Investment Banking Financial Crime Officer",
-   "location": "Hong Kong"
-  },
-  "3fca2462f839984b6bbd4dd7eb57a4ca": {
-   "id": "3fca2462f839984b6bbd4dd7eb57a4ca",
-   "company": "jobs.barclays",
-   "role": "Investment Banking Financial Crime Officer",
-   "location": "Hong Kong"
-  },
-  "b9b6ed65c346d0f241c592e6f524c91f": {
-   "id": "b9b6ed65c346d0f241c592e6f524c91f",
-   "company": "OKX",
-   "role": "Quant Developer (rust), Liquidity Platform, Delta One",
-   "location": "Hong Kong"
-  },
-  "099f75489fec9728a97e22e393742c2a": {
-   "id": "099f75489fec9728a97e22e393742c2a",
-   "company": "OKX",
-   "role": "Quantitative Trader, Cash Otc",
-   "location": "Hong Kong"
-  },
-  "5eb41b8e65042dba88510a063f4ddf10": {
-   "id": "5eb41b8e65042dba88510a063f4ddf10",
-   "company": "Specsavers Optical Group Ltd",
-   "role": "Commercial Accountant",
-   "location": "Hong Kong"
-  },
-  "2766d7094c78f5b5bb8e90748b9ef5ae": {
-   "id": "2766d7094c78f5b5bb8e90748b9ef5ae",
-   "company": "Nomura International PLC",
-   "role": "Associate, Quantitative Strategist",
-   "location": "Hong Kong"
-  },
-  "91eb01bf0b54015366ad1bca643336bd": {
-   "id": "91eb01bf0b54015366ad1bca643336bd",
-   "company": "wintermute-agent.site",
-   "role": "Prediction Markets Trader",
-   "location": "Hong Kong"
-  },
-  "bfa132907ab9354a23cfcce7fd625782": {
-   "id": "bfa132907ab9354a23cfcce7fd625782",
-   "company": "Wmotc",
-   "role": "Prediction Markets Trader",
-   "location": "Hong Kong"
-  },
-  "a038d14a9011386be3f44fe2e221efc4": {
-   "id": "a038d14a9011386be3f44fe2e221efc4",
-   "company": "Winmutetrading",
-   "role": "Prediction Markets Trader",
-   "location": "Hong Kong"
-  },
-  "7347881a53bc4977a2402f67f1c24e9b": {
-   "id": "7347881a53bc4977a2402f67f1c24e9b",
-   "company": "Wintermute Corporation",
-   "role": "Prediction Markets Trader",
-   "location": "Hong Kong"
-  },
-  "e59b1e44a28d6df57fccc9ac9175fb10": {
-   "id": "e59b1e44a28d6df57fccc9ac9175fb10",
-   "company": "Wintermute",
-   "role": "Prediction Markets Trader",
-   "location": "Hong Kong"
-  },
-  "aef0e01cb0bec3d1edb18e1fd321d304": {
-   "id": "aef0e01cb0bec3d1edb18e1fd321d304",
-   "company": "Me2Works",
-   "role": "Marketing Actuary, Life & Health - Hong Kong At Scor",
-   "location": "Hong Kong"
-  },
-  "75e6015225a01cce33e8d06e08774c62": {
-   "id": "75e6015225a01cce33e8d06e08774c62",
-   "company": "Goldman Sachs",
-   "role": "Financial Crime Controls, Kyc & Edd, Associate, Hong Kong At Goldman Sachs",
-   "location": "Hong Kong"
-  },
-  "75d9acabaa99e430cb43b216fa49b367": {
-   "id": "75d9acabaa99e430cb43b216fa49b367",
-   "company": "Me2Works",
-   "role": "Finance Business Analyst / Hong Kong, Hk / In-office At Robert Walters Hong Kong",
-   "location": "Hong Kong"
-  },
   "33caa4b881bd80977c187fa2e2c885d5": {
    "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -1026,6 +750,18 @@
    "id": "9ecc33dc4992c627a54b0826b9534567",
    "company": "DAT Deutsche Aufzugstechnik GmbH",
    "role": "調試員 (更新工程 / 安裝部)",
+   "location": "Hong Kong"
+  },
+  "563705892650244": {
+   "id": "563705892650244",
+   "company": "Bottega Veneta",
+   "role": "Bottega Veneta Part Time Sales",
+   "location": "Hong Kong"
+  },
+  "563705892740771": {
+   "id": "563705892740771",
+   "company": "Bottega Veneta Hong Kong",
+   "role": "Bottega Veneta Part Time Sales",
    "location": "Hong Kong"
   },
   "6d379682aa19f6580c105e762be17cb2": {
@@ -1106,70 +842,16 @@
    "role": "Beauty Advisor - Hong Kong",
    "location": "Hong Kong"
   },
-  "563705892678232": {
-   "id": "563705892678232",
-   "company": "Bottega Veneta",
-   "role": "Bottega Veneta Part Time Sales",
-   "location": "Hong Kong"
-  },
-  "563705892678392": {
-   "id": "563705892678392",
-   "company": "Bottega Veneta Hong Kong",
-   "role": "Bottega Veneta Part Time Sales",
-   "location": "Hong Kong"
-  },
   "8a384d5e22ef2540aedb535987da5ac0": {
    "id": "8a384d5e22ef2540aedb535987da5ac0",
    "company": "Burberry",
    "role": "Client Advisor Opportunities - Hong Kong",
    "location": "Hong Kong"
   },
-  "ef0cafbc182ac4968fd904232247001d": {
-   "id": "ef0cafbc182ac4968fd904232247001d",
-   "company": "ALO",
-   "role": "Sales Associate (part-time) - Hong Kong",
-   "location": "Hong Kong"
-  },
-  "d611115783fab34a31d34d2888a6c73c": {
-   "id": "d611115783fab34a31d34d2888a6c73c",
-   "company": "Lululemon",
-   "role": "Part Time Educator (sales Associate) / Hong Kong Cityplaza, Taikoo",
-   "location": "Hong Kong"
-  },
-  "661279bc808d4d4750227aea7c9e93f8": {
-   "id": "661279bc808d4d4750227aea7c9e93f8",
-   "company": "Lululemon",
-   "role": "Full-time Educator (sales Associate) / Queen&#039;s Road Central",
-   "location": "Hong Kong"
-  },
-  "06958a33e3d8d04410e8b84d9d440a42": {
-   "id": "06958a33e3d8d04410e8b84d9d440a42",
-   "company": "Lululemon",
-   "role": "Full-time Educator (sales Associate) / K11 Musea",
-   "location": "Hong Kong"
-  },
-  "17343f047fd5b74e219cb0b9a387801a": {
-   "id": "17343f047fd5b74e219cb0b9a387801a",
-   "company": "Lululemon",
-   "role": "Full Time Educator (sales Associate) / Ifc Store",
-   "location": "Hong Kong"
-  },
-  "de0b652255031d2bc0ed9a6aeb515318": {
-   "id": "de0b652255031d2bc0ed9a6aeb515318",
-   "company": "lululemon",
-   "role": "Part Time Educator (sales Associate) / Ifc Store",
-   "location": "Hong Kong"
-  },
-  "25e9b9fd3687f6b8027d3ce5e2bda6c4": {
-   "id": "25e9b9fd3687f6b8027d3ce5e2bda6c4",
-   "company": "Lululemon",
-   "role": "Part-time Educator (sales Associate) / K11 Musea",
-   "location": "Hong Kong"
-  },
-  "45f81547c7b8f6a994e54bf02187a407": {
-   "id": "45f81547c7b8f6a994e54bf02187a407",
-   "company": "lululemon",
-   "role": "Educator (full-time Sales Associate) / Pacific Place Store",
+  "7672eda9dafe614d6b286c8d12d6b7eb": {
+   "id": "7672eda9dafe614d6b286c8d12d6b7eb",
+   "company": "jll.co.in",
+   "role": "Administrative Assistant",
    "location": "Hong Kong"
   },
   "46f72d22a8d6f5df968815a613fa3c0b": {
@@ -1244,18 +926,6 @@
    "role": "Executive Assistant",
    "location": "Hong Kong"
   },
-  "056cfe8a848b4df2cfd02b8401986506": {
-   "id": "056cfe8a848b4df2cfd02b8401986506",
-   "company": "Hong Kong Jockey Club -THE-",
-   "role": "Part-time Administrative Assistant",
-   "location": "Hong Kong"
-  },
-  "33b3030c91d064ad80c9f6185afcc959": {
-   "id": "33b3030c91d064ad80c9f6185afcc959",
-   "company": "Me2Works",
-   "role": "Administrative/executive Assistant- Up To 60k / Hong Kong, Hk At Michael Page",
-   "location": "Hong Kong"
-  },
   "e074e5be26fab68d27b018c9e9187cb5": {
    "id": "e074e5be26fab68d27b018c9e9187cb5",
    "company": "Hong Kong Metropolitan University",
@@ -1268,12 +938,6 @@
    "role": "Part-time Administrative Assistant",
    "location": "Search By Location"
   },
-  "7076eba0cca934ca24bd44cf05a354bf": {
-   "id": "7076eba0cca934ca24bd44cf05a354bf",
-   "company": "Computershare",
-   "role": "Admin Support",
-   "location": "Hong Kong"
-  },
   "513b6046df605693b590876c762c7b3d": {
    "id": "513b6046df605693b590876c762c7b3d",
    "company": "jobgamezone best work from home in 2025",
@@ -1284,48 +948,6 @@
    "id": "1e55fc2ee024a34472e3f0f0b8727d25",
    "company": "m32.ai",
    "role": "Executive Assistant To The Ceo - Strategic & Operational Partner",
-   "location": "Hong Kong"
-  },
-  "112f85130b58249e3bcce59b7f93c76c": {
-   "id": "112f85130b58249e3bcce59b7f93c76c",
-   "company": "Me2Works",
-   "role": "Project Administrative Assistant - $22-25k+ Bonus At Michael Page",
-   "location": "Hong Kong"
-  },
-  "c3a3a0f545344853eea196529a79d22d": {
-   "id": "c3a3a0f545344853eea196529a79d22d",
-   "company": "Arc'teryx Equipment",
-   "role": "Product Compliance Specialist 2 – Packaging & Labelling",
-   "location": "Hong Kong"
-  },
-  "d4729da61833ed60d617eaacdb322378": {
-   "id": "d4729da61833ed60d617eaacdb322378",
-   "company": "JLL",
-   "role": "Customer Services Assistant",
-   "location": "Hong Kong"
-  },
-  "96df0fae551a2683baee3f3ecebf345a": {
-   "id": "96df0fae551a2683baee3f3ecebf345a",
-   "company": "Jll Com Sg",
-   "role": "Customer Services Assistant",
-   "location": "Hong Kong"
-  },
-  "0e60e50fa270a207bb41df04c87dcc19": {
-   "id": "0e60e50fa270a207bb41df04c87dcc19",
-   "company": "Jll Com Sg",
-   "role": "Customer Service Assistant",
-   "location": "Hong Kong"
-  },
-  "c4e8545118498ec0edce42da951a2b7f": {
-   "id": "c4e8545118498ec0edce42da951a2b7f",
-   "company": "Building Engines",
-   "role": "Customer Service Assistant",
-   "location": "Hong Kong"
-  },
-  "c8dd37b5717054c763611a6979c78444": {
-   "id": "c8dd37b5717054c763611a6979c78444",
-   "company": "JLL UK",
-   "role": "Customer Service Assistant",
    "location": "Hong Kong"
   }
  }
