@@ -12,8 +12,8 @@
   "as_of": "2026-09-30",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1588,
-  "generated_at": "2026-09-30T06:57:48.198Z"
+  "country_live_total": 1587,
+  "generated_at": "2026-09-30T10:25:58.526Z"
  },
  "categories": [
   {
@@ -74,23 +74,6 @@
   }
  ],
  "listings": [
-  {
-   "salary_display": null,
-   "id": "3ee33d734198a9f095367941421b77cf",
-   "source": "Workopia",
-   "company_name": "China CITIC Bank International Ltd",
-   "company_hi_slug": "china-citic-bank-international-ltd",
-   "title": "Intern, Wholesale Banking Group",
-   "location": "Hong Kong",
-   "skills": "Perform daily operatio, Support KYC and AML wo",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-29T08:29:34.724Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/3ee33d734198a9f095367941421b77cf",
-   "category": "grad",
-   "tier": "Intern"
-  },
   {
    "salary_display": null,
    "id": "25a6eefa2a5abbf462a622b44c919398",

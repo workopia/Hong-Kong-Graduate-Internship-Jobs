@@ -1,13 +1,7 @@
 {
  "asOf": "2026-09-30",
- "count": 158,
+ "count": 157,
  "jobs": {
-  "3ee33d734198a9f095367941421b77cf": {
-   "id": "3ee33d734198a9f095367941421b77cf",
-   "company": "China CITIC Bank International Ltd",
-   "role": "Intern, Wholesale Banking Group",
-   "location": "Hong Kong"
-  },
   "25a6eefa2a5abbf462a622b44c919398": {
    "id": "25a6eefa2a5abbf462a622b44c919398",
    "company": "PCCW-HKT DataCom Services Ltd",
