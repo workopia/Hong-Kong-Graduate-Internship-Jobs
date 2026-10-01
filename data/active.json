@@ -1,7 +1,37 @@
 {
- "asOf": "2026-09-30",
- "count": 157,
+ "asOf": "2026-10-01",
+ "count": 165,
  "jobs": {
+  "b1b8d58b6953acb37fe087d06172d3f6": {
+   "id": "b1b8d58b6953acb37fe087d06172d3f6",
+   "company": "FWD Life Insurance Group",
+   "role": "Co-op Intern, Business Development, Tied Agency",
+   "location": "Hong Kong"
+  },
+  "0dde81cbb1f406d9bc8c353f6284a685": {
+   "id": "0dde81cbb1f406d9bc8c353f6284a685",
+   "company": "FWD Life Insurance Group",
+   "role": "Co-op Intern, Health Proposition And Healthcare Strategy",
+   "location": "Hong Kong"
+  },
+  "c1d2e29063635ce38c7bad7008784869": {
+   "id": "c1d2e29063635ce38c7bad7008784869",
+   "company": "FWD Life Insurance Group",
+   "role": "Co-op Intern, Investment",
+   "location": "Hong Kong"
+  },
+  "c468c5239f3a3bfc85c8bf38c410ab05": {
+   "id": "c468c5239f3a3bfc85c8bf38c410ab05",
+   "company": "FWD Life Insurance Group",
+   "role": "Co-op Intern, It Application Management",
+   "location": "Hong Kong"
+  },
+  "be2d58ee1567b075f9725984565b4260": {
+   "id": "be2d58ee1567b075f9725984565b4260",
+   "company": "FWD Life Insurance Group",
+   "role": "Co-op Intern, Business Training, Tied Agency",
+   "location": "Hong Kong"
+  },
   "25a6eefa2a5abbf462a622b44c919398": {
    "id": "25a6eefa2a5abbf462a622b44c919398",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -536,6 +566,24 @@
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
    "location": "Hong Kong"
   },
+  "3fca2462f839984b6bbd4dd7eb57a4ca": {
+   "id": "3fca2462f839984b6bbd4dd7eb57a4ca",
+   "company": "jobs.barclays",
+   "role": "Investment Banking Financial Crime Officer",
+   "location": "Hong Kong"
+  },
+  "d1b98aae40579436b4bcb4b2d5bfdd0e": {
+   "id": "d1b98aae40579436b4bcb4b2d5bfdd0e",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Assistant Business Analyst",
+   "location": "Hong Kong"
+  },
+  "6545d143e6d7efea6ca0e41667762609": {
+   "id": "6545d143e6d7efea6ca0e41667762609",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Business Analyst, Member Engagement",
+   "location": "Hong Kong"
+  },
   "4385e96a080f87ad50fa724e33298387": {
    "id": "4385e96a080f87ad50fa724e33298387",
    "company": "Morgan Stanley UK",
@@ -582,12 +630,6 @@
    "id": "eb903d355b39a68d27060819c1bb92c7",
    "company": "Gravitas Recruitment Group",
    "role": "Vp - Gm Liquid Financing Quantitative Analyst / Hong Kong, Hk At Gravitas Recruitment Group",
-   "location": "Hong Kong"
-  },
-  "f8b091eb9e8c7cc1a74d4c730d70eda6": {
-   "id": "f8b091eb9e8c7cc1a74d4c730d70eda6",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Business Analyst, Member Engagement",
    "location": "Hong Kong"
   },
   "33e7615714614f0610ef44f42de81f8b": {
@@ -728,8 +770,8 @@
    "role": "Actuarial Specialist",
    "location": "Hong Kong"
   },
-  "33caa4b881bd80977c187fa2e2c885d5": {
-   "id": "33caa4b881bd80977c187fa2e2c885d5",
+  "0c7f9a1dcab217f88e68c5c0759d4e2d": {
+   "id": "0c7f9a1dcab217f88e68c5c0759d4e2d",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
    "location": "Hong Kong"
@@ -744,6 +786,12 @@
    "id": "9ecc33dc4992c627a54b0826b9534567",
    "company": "DAT Deutsche Aufzugstechnik GmbH",
    "role": "調試員 (更新工程 / 安裝部)",
+   "location": "Hong Kong"
+  },
+  "6ad475d022824389b870871c793de4b6": {
+   "id": "6ad475d022824389b870871c793de4b6",
+   "company": "Lululemon",
+   "role": "Educator Part Time Sales / Citygate Outlet",
    "location": "Hong Kong"
   },
   "563705892650244": {

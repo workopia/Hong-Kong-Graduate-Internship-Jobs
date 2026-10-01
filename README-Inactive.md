@@ -337,4 +337,6 @@
 <tr><td>Building Engines</td><td>Customer Service Assistant</td><td>Hong Kong</td><td>2026-09-30</td></tr>
 <tr><td>JLL UK</td><td>Customer Service Assistant</td><td>Hong Kong</td><td>2026-09-30</td></tr>
 <tr><td>China CITIC Bank International Ltd</td><td>Intern, Wholesale Banking Group</td><td>Hong Kong</td><td>2026-09-30</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Business Analyst, Member Engagement</td><td>Hong Kong</td><td>2026-10-01</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-10-01</td></tr>
 </table>
