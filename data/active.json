@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-01",
- "count": 165,
+ "asOf": "2026-10-02",
+ "count": 166,
  "jobs": {
   "b1b8d58b6953acb37fe087d06172d3f6": {
    "id": "b1b8d58b6953acb37fe087d06172d3f6",
@@ -30,6 +30,18 @@
    "id": "be2d58ee1567b075f9725984565b4260",
    "company": "FWD Life Insurance Group",
    "role": "Co-op Intern, Business Training, Tied Agency",
+   "location": "Hong Kong"
+  },
+  "52cd2ae8d1ce2b64e3de998db0358dde": {
+   "id": "52cd2ae8d1ce2b64e3de998db0358dde",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Intern (operational Excellence, Apac) (part-time)",
+   "location": "Hong Kong"
+  },
+  "c198e2e60460be08efea48f3e1630e30": {
+   "id": "c198e2e60460be08efea48f3e1630e30",
+   "company": "Schonfeld",
+   "role": "2027 Quantitative C++ Developer Intern",
    "location": "Hong Kong"
   },
   "25a6eefa2a5abbf462a622b44c919398": {
@@ -120,12 +132,6 @@
    "id": "067fc2a336e2572a1fd88f44833f7e1a",
    "company": "Standard Chartered Bank",
    "role": "Global Banking Intern Hong Kong 2027",
-   "location": "Hong Kong"
-  },
-  "52cd2ae8d1ce2b64e3de998db0358dde": {
-   "id": "52cd2ae8d1ce2b64e3de998db0358dde",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Intern (operational Excellence, Apac) (part-time)",
    "location": "Hong Kong"
   },
   "b1c5240f00cc940487808bae4cb66705": {
