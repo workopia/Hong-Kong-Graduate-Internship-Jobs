@@ -340,4 +340,7 @@
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Business Analyst, Member Engagement</td><td>Hong Kong</td><td>2026-10-01</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-10-01</td></tr>
 <tr><td>Zurich Insurance UK</td><td>Intern (operational Excellence, Apac) (part-time)</td><td>Hong Kong</td><td>2026-10-03</td></tr>
+<tr><td>MARSH MCLENNAN</td><td>Oliver Wyman - Summer Intern (2027) - Hong Kong</td><td>Taikoo</td><td>2026-10-04</td></tr>
+<tr><td>Marsh</td><td>Oliver Wyman - Summer Intern (2027) - Hong Kong</td><td>Taikoo</td><td>2026-10-04</td></tr>
+<tr><td>Millennium Management</td><td>Quantitative Researcher</td><td>Hong Kong</td><td>2026-10-04</td></tr>
 </table>

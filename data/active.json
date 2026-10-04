@@ -1,12 +1,42 @@
 {
- "asOf": "2026-10-03",
- "count": 172,
+ "asOf": "2026-10-04",
+ "count": 177,
  "jobs": {
+  "acb66fc1807c8fefd16659314a75c53b": {
+   "id": "acb66fc1807c8fefd16659314a75c53b",
+   "company": "The Church of Jesus Christ of Latter-day Saints",
+   "role": "Facilities Management Internship",
+   "location": "Hong Kong"
+  },
+  "b3420bc773e9973b2da0569780ea5cbf": {
+   "id": "b3420bc773e9973b2da0569780ea5cbf",
+   "company": "The Church of Jesus Christ of Latter-day Saints",
+   "role": "Temple Construction And Facilities Management Internship",
+   "location": "Hong Kong"
+  },
+  "1b2da956fe93ae95b799546ef8039ad2": {
+   "id": "1b2da956fe93ae95b799546ef8039ad2",
+   "company": "Manulife",
+   "role": "Co-op Internship 2027 – Global Information Risk Management (6 Months)",
+   "location": "Hong Kong"
+  },
+  "a202ebed0d76b5724dcd027c4f4fd5fd": {
+   "id": "a202ebed0d76b5724dcd027c4f4fd5fd",
+   "company": "Banklife",
+   "role": "Co-op Internship 2027 – Global Information Risk Management (6 Months)",
+   "location": "Hong Kong"
+  },
   "8e446e19fd175eec4a44f8b88fcc7d29": {
    "id": "8e446e19fd175eec4a44f8b88fcc7d29",
    "company": "Alphafmcroles",
    "role": "Graduate Internship",
    "location": "Hong Kong"
+  },
+  "51697b772fa0b69fc64482d30a4508e5": {
+   "id": "51697b772fa0b69fc64482d30a4508e5",
+   "company": "Hermès International",
+   "role": "Communications Intern",
+   "location": "Hong Kong Sar"
   },
   "147d7182ea328ca3831f78ef9b9a44e0": {
    "id": "147d7182ea328ca3831f78ef9b9a44e0",
@@ -386,18 +416,6 @@
    "role": "Summer Internship Programme 2026 [stem] - Pccw Global",
    "location": "Hong Kong"
   },
-  "bcf5482d59a505da4d065883eb1ada17": {
-   "id": "bcf5482d59a505da4d065883eb1ada17",
-   "company": "MARSH MCLENNAN",
-   "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
-   "location": "Taikoo"
-  },
-  "4e33ebb28179fd6ed465a37a81864f9b": {
-   "id": "4e33ebb28179fd6ed465a37a81864f9b",
-   "company": "Marsh",
-   "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
-   "location": "Taikoo"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -500,6 +518,12 @@
    "role": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
    "location": "Hong Kong"
   },
+  "236451a09a96c9aa262ba5eaf9069013": {
+   "id": "236451a09a96c9aa262ba5eaf9069013",
+   "company": "Manulife",
+   "role": "Co-op Internship 2027: Business Intelligence (6 Months)",
+   "location": "Hong Kong"
+  },
   "4fe83a2de0f57527cc071a0dba71fb35": {
    "id": "4fe83a2de0f57527cc071a0dba71fb35",
    "company": "DV Group Ltd",
@@ -584,6 +608,18 @@
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
    "location": "Hong Kong"
   },
+  "96b33f4db425aac8aeeefffde0945499": {
+   "id": "96b33f4db425aac8aeeefffde0945499",
+   "company": "Barclays Bank PLC",
+   "role": "Business Oversight Compliance Specialist (macro And Credit) - Avp",
+   "location": "Hong Kong"
+  },
+  "a90cfd011c47229fccc996d71ba7e697": {
+   "id": "a90cfd011c47229fccc996d71ba7e697",
+   "company": "Millennium Management",
+   "role": "Quantitative Researcher",
+   "location": "Hong Kong"
+  },
   "112623a9202ff5f5a48847966d5ce6cb": {
    "id": "112623a9202ff5f5a48847966d5ce6cb",
    "company": "CITIC CLSA",
@@ -636,12 +672,6 @@
    "id": "755954333809",
    "company": "Millennium Management",
    "role": "Quantitative Trader",
-   "location": "Hong Kong"
-  },
-  "755956478721": {
-   "id": "755956478721",
-   "company": "Millennium Management",
-   "role": "Quantitative Researcher",
    "location": "Hong Kong"
   },
   "755958065522": {
