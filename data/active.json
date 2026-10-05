@@ -1,7 +1,13 @@
 {
- "asOf": "2026-10-04",
+ "asOf": "2026-10-05",
  "count": 177,
  "jobs": {
+  "9081cab5f78a54040304853b47b48733": {
+   "id": "9081cab5f78a54040304853b47b48733",
+   "company": "Hang Lung Properties Ltd",
+   "role": "Intern",
+   "location": "Hong Kong"
+  },
   "acb66fc1807c8fefd16659314a75c53b": {
    "id": "acb66fc1807c8fefd16659314a75c53b",
    "company": "The Church of Jesus Christ of Latter-day Saints",
@@ -26,6 +32,30 @@
    "role": "Co-op Internship 2027 – Global Information Risk Management (6 Months)",
    "location": "Hong Kong"
   },
+  "b172f67c7ff0b58a96373e07e6fbff70": {
+   "id": "b172f67c7ff0b58a96373e07e6fbff70",
+   "company": "Standard Chartered Bank",
+   "role": "Coverage Banking Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "067fc2a336e2572a1fd88f44833f7e1a": {
+   "id": "067fc2a336e2572a1fd88f44833f7e1a",
+   "company": "Standard Chartered Bank",
+   "role": "Global Banking Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "3015094f6cc7b79ebb07c2ef6f1bd9fc": {
+   "id": "3015094f6cc7b79ebb07c2ef6f1bd9fc",
+   "company": "Standard Chartered Bank",
+   "role": "Transaction Services Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "fdf46c9adb44424c24f08c149ab3f9d6": {
+   "id": "fdf46c9adb44424c24f08c149ab3f9d6",
+   "company": "Standard Chartered Bank",
+   "role": "Markets Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
   "8e446e19fd175eec4a44f8b88fcc7d29": {
    "id": "8e446e19fd175eec4a44f8b88fcc7d29",
    "company": "Alphafmcroles",
@@ -42,6 +72,12 @@
    "id": "147d7182ea328ca3831f78ef9b9a44e0",
    "company": "Zurich Insurance UK",
    "role": "Intern (operational Excellence, Apac) (part-time)",
+   "location": "Hong Kong"
+  },
+  "1afe63883c8492b480f1cd5c9a733e66": {
+   "id": "1afe63883c8492b480f1cd5c9a733e66",
+   "company": "DFI Retail Group",
+   "role": "Dfiq Insights Solutions Intern (part Time)",
    "location": "Hong Kong"
   },
   "43ccc0529961755dc9860f67e8ed97bf": {
@@ -98,12 +134,6 @@
    "role": "Payroll Intern",
    "location": "Hong Kong"
   },
-  "1afe63883c8492b480f1cd5c9a733e66": {
-   "id": "1afe63883c8492b480f1cd5c9a733e66",
-   "company": "DFI Retail Group",
-   "role": "Dfiq Insights Solutions Intern (part Time)",
-   "location": "Hong Kong"
-  },
   "7cd08a75aaaf8845d64dcbf45c5c80fc": {
    "id": "7cd08a75aaaf8845d64dcbf45c5c80fc",
    "company": "Oliver Wyman",
@@ -156,30 +186,6 @@
    "id": "f5b93c380ba5ced57aa4f889dee7c95a",
    "company": "Sun Life",
    "role": "Finance Intern (jan - Jun 2027) At Sun Life",
-   "location": "Hong Kong"
-  },
-  "b172f67c7ff0b58a96373e07e6fbff70": {
-   "id": "b172f67c7ff0b58a96373e07e6fbff70",
-   "company": "Standard Chartered Bank",
-   "role": "Coverage Banking Intern Hong Kong 2027",
-   "location": "Hong Kong"
-  },
-  "3015094f6cc7b79ebb07c2ef6f1bd9fc": {
-   "id": "3015094f6cc7b79ebb07c2ef6f1bd9fc",
-   "company": "Standard Chartered Bank",
-   "role": "Transaction Services Intern Hong Kong 2027",
-   "location": "Hong Kong"
-  },
-  "fdf46c9adb44424c24f08c149ab3f9d6": {
-   "id": "fdf46c9adb44424c24f08c149ab3f9d6",
-   "company": "Standard Chartered Bank",
-   "role": "Markets Intern Hong Kong 2027",
-   "location": "Hong Kong"
-  },
-  "067fc2a336e2572a1fd88f44833f7e1a": {
-   "id": "067fc2a336e2572a1fd88f44833f7e1a",
-   "company": "Standard Chartered Bank",
-   "role": "Global Banking Intern Hong Kong 2027",
    "location": "Hong Kong"
   },
   "b1c5240f00cc940487808bae4cb66705": {
@@ -240,12 +246,6 @@
    "id": "bd86e047c572666e581c8af0c3bc7b27",
    "company": "Hasbro",
    "role": "2026 Hasbro Hong Kong Experience Day: Internship Discovery",
-   "location": "Hong Kong"
-  },
-  "0af958ed0ac3d968c6f5a24d01014296": {
-   "id": "0af958ed0ac3d968c6f5a24d01014296",
-   "company": "Hang Lung Properties Ltd",
-   "role": "Intern",
    "location": "Hong Kong"
   },
   "b97c7f821fcfc23efa08435c48568239": {
