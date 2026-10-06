@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-10-05",
+  "as_of": "2026-10-06",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1637,
-  "generated_at": "2026-10-05T00:03:03.599Z"
+  "country_live_total": 1641,
+  "generated_at": "2026-10-06T00:01:25.097Z"
  },
  "categories": [
   {
@@ -74,6 +74,57 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "ecfa08c33701422eec2e95e8ab201abb",
+   "source": "Workopia",
+   "company_name": "AIA",
+   "company_hi_slug": "aia",
+   "title": "Policy Owner Service, Intern",
+   "location": "Hong Kong",
+   "skills": "AI adoption, Excel automation",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-05T15:31:05.957Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/ecfa08c33701422eec2e95e8ab201abb",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "e8fffdb7476004344f0a5f00a35f6987",
+   "source": "Workopia",
+   "company_name": "Manulife Financial Inc",
+   "company_hi_slug": "manulife-financial",
+   "title": "Manulife Co-op 6-month Internship Program – Asia Regional Distribution Strategy, Insights And Transformation",
+   "location": "Hong Kong",
+   "skills": "Business Analysis, Strategic Planning",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-05T11:04:51.200Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/e8fffdb7476004344f0a5f00a35f6987",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "63e5b5aadfa610ee07bb14446c8c85b6",
+   "source": "Workopia",
+   "company_name": "Manulife Financial Inc",
+   "company_hi_slug": "manulife-financial",
+   "title": "Co-op Internship 2027: Tech Placement Program (6 Months)",
+   "location": "Hong Kong",
+   "skills": "Full-time availability, Analytical problem-sol",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-05T11:04:51.200Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/63e5b5aadfa610ee07bb14446c8c85b6",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "9081cab5f78a54040304853b47b48733",
@@ -1793,6 +1844,23 @@
   },
   {
    "salary_display": "HK$20k–32k/mo*",
+   "id": "e2d78fc75e42c007bf300af0081f553b",
+   "source": "Workopia",
+   "company_name": "Crypto",
+   "company_hi_slug": "crypto",
+   "title": "Systematic Trader",
+   "location": "Hong Kong",
+   "skills": "systematic trading str, quantitative analysis",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-05T05:52:00.122Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/e2d78fc75e42c007bf300af0081f553b",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "96b33f4db425aac8aeeefffde0945499",
    "source": "Workopia",
    "company_name": "Barclays Bank PLC",
@@ -2452,6 +2520,23 @@
    "active": true,
    "url": "https://workopia.io/jobs/9ecc33dc4992c627a54b0826b9534567",
    "category": "trades",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$17k–25k/mo*",
+   "id": "2082cb30a6ccef0edcdde62f8a052f3e",
+   "source": "Workopia",
+   "company_name": "fi360 Inc",
+   "company_hi_slug": "fi360-inc",
+   "title": "Sales Associate",
+   "location": "Hong Kong",
+   "skills": "Financial market data , Futures and commodity ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-05T06:04:53.976Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/2082cb30a6ccef0edcdde62f8a052f3e",
+   "category": "sales",
    "tier": "Entry-level"
   },
   {

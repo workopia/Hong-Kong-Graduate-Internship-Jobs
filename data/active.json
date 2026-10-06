@@ -1,7 +1,25 @@
 {
- "asOf": "2026-10-05",
- "count": 177,
+ "asOf": "2026-10-06",
+ "count": 182,
  "jobs": {
+  "ecfa08c33701422eec2e95e8ab201abb": {
+   "id": "ecfa08c33701422eec2e95e8ab201abb",
+   "company": "AIA",
+   "role": "Policy Owner Service, Intern",
+   "location": "Hong Kong"
+  },
+  "e8fffdb7476004344f0a5f00a35f6987": {
+   "id": "e8fffdb7476004344f0a5f00a35f6987",
+   "company": "Manulife Financial Inc",
+   "role": "Manulife Co-op 6-month Internship Program – Asia Regional Distribution Strategy, Insights And Transformation",
+   "location": "Hong Kong"
+  },
+  "63e5b5aadfa610ee07bb14446c8c85b6": {
+   "id": "63e5b5aadfa610ee07bb14446c8c85b6",
+   "company": "Manulife Financial Inc",
+   "role": "Co-op Internship 2027: Tech Placement Program (6 Months)",
+   "location": "Hong Kong"
+  },
   "9081cab5f78a54040304853b47b48733": {
    "id": "9081cab5f78a54040304853b47b48733",
    "company": "Hang Lung Properties Ltd",
@@ -608,6 +626,12 @@
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
    "location": "Hong Kong"
   },
+  "e2d78fc75e42c007bf300af0081f553b": {
+   "id": "e2d78fc75e42c007bf300af0081f553b",
+   "company": "Crypto",
+   "role": "Systematic Trader",
+   "location": "Hong Kong"
+  },
   "96b33f4db425aac8aeeefffde0945499": {
    "id": "96b33f4db425aac8aeeefffde0945499",
    "company": "Barclays Bank PLC",
@@ -840,6 +864,12 @@
    "id": "9ecc33dc4992c627a54b0826b9534567",
    "company": "DAT Deutsche Aufzugstechnik GmbH",
    "role": "調試員 (更新工程 / 安裝部)",
+   "location": "Hong Kong"
+  },
+  "2082cb30a6ccef0edcdde62f8a052f3e": {
+   "id": "2082cb30a6ccef0edcdde62f8a052f3e",
+   "company": "fi360 Inc",
+   "role": "Sales Associate",
    "location": "Hong Kong"
   },
   "755688be9c53834eedc8fac0b0010fba": {
