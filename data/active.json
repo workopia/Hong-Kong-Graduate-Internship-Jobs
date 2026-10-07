@@ -1,7 +1,19 @@
 {
- "asOf": "2026-10-06",
- "count": 182,
+ "asOf": "2026-10-07",
+ "count": 187,
  "jobs": {
+  "7b427b6903a17bbc62508055df946e56": {
+   "id": "7b427b6903a17bbc62508055df946e56",
+   "company": "HSH Management Services Ltd",
+   "role": "Internship - Events (s&m)",
+   "location": "Hong Kong"
+  },
+  "73555388f14cafc13ebe25db4d4c147a": {
+   "id": "73555388f14cafc13ebe25db4d4c147a",
+   "company": "HSH Management Services Ltd",
+   "role": "Internship - F&b Attendant",
+   "location": "Hong Kong"
+  },
   "ecfa08c33701422eec2e95e8ab201abb": {
    "id": "ecfa08c33701422eec2e95e8ab201abb",
    "company": "AIA",
@@ -18,6 +30,12 @@
    "id": "63e5b5aadfa610ee07bb14446c8c85b6",
    "company": "Manulife Financial Inc",
    "role": "Co-op Internship 2027: Tech Placement Program (6 Months)",
+   "location": "Hong Kong"
+  },
+  "2585157bbe3e6fed9bfcb22290439bff": {
+   "id": "2585157bbe3e6fed9bfcb22290439bff",
+   "company": "S&P Global Inc.",
+   "role": "Market Intelligence Revenue Associate Internship",
    "location": "Hong Kong"
   },
   "9081cab5f78a54040304853b47b48733": {
@@ -428,12 +446,6 @@
    "role": "Manulife Co-op 6-month Internship Program – Distribution & Business Support",
    "location": "Hong Kong"
   },
-  "3e309209c21ebde2cca5a6fa52c6679d": {
-   "id": "3e309209c21ebde2cca5a6fa52c6679d",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Summer Internship Programme 2026 [stem] - Pccw Global",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -631,6 +643,12 @@
    "company": "Crypto",
    "role": "Systematic Trader",
    "location": "Hong Kong"
+  },
+  "e8ddf62f5a67df361a6124d2c9b46d3c": {
+   "id": "e8ddf62f5a67df361a6124d2c9b46d3c",
+   "company": "Me2Works",
+   "role": "Fund Accountant At Turoid",
+   "location": "Central & Western District"
   },
   "96b33f4db425aac8aeeefffde0945499": {
    "id": "96b33f4db425aac8aeeefffde0945499",
@@ -864,6 +882,18 @@
    "id": "9ecc33dc4992c627a54b0826b9534567",
    "company": "DAT Deutsche Aufzugstechnik GmbH",
    "role": "調試員 (更新工程 / 安裝部)",
+   "location": "Hong Kong"
+  },
+  "f9366ab52f4445375a8ebc4497e84e97": {
+   "id": "f9366ab52f4445375a8ebc4497e84e97",
+   "company": "QEELIN LTD",
+   "role": "Qeelin Sales Associate",
+   "location": "Hong Kong"
+  },
+  "f1807b30c99fa95ad5d8c0f797f17f48": {
+   "id": "f1807b30c99fa95ad5d8c0f797f17f48",
+   "company": "Kering",
+   "role": "Bottega Veneta Part Time Sales",
    "location": "Hong Kong"
   },
   "2082cb30a6ccef0edcdde62f8a052f3e": {

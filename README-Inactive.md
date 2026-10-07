@@ -344,4 +344,5 @@
 <tr><td>Marsh</td><td>Oliver Wyman - Summer Intern (2027) - Hong Kong</td><td>Taikoo</td><td>2026-10-04</td></tr>
 <tr><td>Millennium Management</td><td>Quantitative Researcher</td><td>Hong Kong</td><td>2026-10-04</td></tr>
 <tr><td>Hang Lung Properties Ltd</td><td>Intern</td><td>Hong Kong</td><td>2026-10-05</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Summer Internship Programme 2026 [stem] - Pccw Global</td><td>Hong Kong</td><td>2026-10-07</td></tr>
 </table>
