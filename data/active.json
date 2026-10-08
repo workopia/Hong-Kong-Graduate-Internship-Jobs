@@ -1,7 +1,25 @@
 {
- "asOf": "2026-10-07",
- "count": 187,
+ "asOf": "2026-10-08",
+ "count": 193,
  "jobs": {
+  "54618dc8295b0eaf4201abb1b0e7301c": {
+   "id": "54618dc8295b0eaf4201abb1b0e7301c",
+   "company": "John Hancock",
+   "role": "Co-op Internship 2027 - Distribution Strategy Office (6 Months)",
+   "location": "Hong Kong"
+  },
+  "4f34da82f835e935d93f93f4c6f28662": {
+   "id": "4f34da82f835e935d93f93f4c6f28662",
+   "company": "John Hancock",
+   "role": "Co-op Internship 2027 - Distribution & Business Support (6 Months)",
+   "location": "Hong Kong"
+  },
+  "c5b417b35d1718a306826460d602cdbd": {
+   "id": "c5b417b35d1718a306826460d602cdbd",
+   "company": "John Hancock",
+   "role": "Co-op Internship 2027 – Asia Regional Distribution Strategy, Insights And Transformation (6 Months)",
+   "location": "Hong Kong"
+  },
   "7b427b6903a17bbc62508055df946e56": {
    "id": "7b427b6903a17bbc62508055df946e56",
    "company": "HSH Management Services Ltd",
@@ -638,6 +656,12 @@
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
    "location": "Hong Kong"
   },
+  "c7cdab971f382ddf88aeed1b182958de": {
+   "id": "c7cdab971f382ddf88aeed1b182958de",
+   "company": "Shangri-la Group",
+   "role": "Income Auditor At Shangri-la Group",
+   "location": "Hong Kong"
+  },
   "e2d78fc75e42c007bf300af0081f553b": {
    "id": "e2d78fc75e42c007bf300af0081f553b",
    "company": "Crypto",
@@ -830,12 +854,6 @@
    "role": "Actuarial Specialist",
    "location": "Hong Kong"
   },
-  "c7cdab971f382ddf88aeed1b182958de": {
-   "id": "c7cdab971f382ddf88aeed1b182958de",
-   "company": "Shangri-la Group",
-   "role": "Income Auditor At Shangri-la Group",
-   "location": "Hong Kong"
-  },
   "5099723957cbaeb472d5f51fca254db3": {
    "id": "5099723957cbaeb472d5f51fca254db3",
    "company": "Prudential Com Sg",
@@ -882,6 +900,24 @@
    "id": "9ecc33dc4992c627a54b0826b9534567",
    "company": "DAT Deutsche Aufzugstechnik GmbH",
    "role": "調試員 (更新工程 / 安裝部)",
+   "location": "Hong Kong"
+  },
+  "4a3ba66d94eebcc6957859b1d827d629": {
+   "id": "4a3ba66d94eebcc6957859b1d827d629",
+   "company": "Lululemon",
+   "role": "Educator (sales Associate) / Festival Walk",
+   "location": "Hong Kong"
+  },
+  "d248d4acff4d5631c300728324aa230f": {
+   "id": "d248d4acff4d5631c300728324aa230f",
+   "company": "Lululemon",
+   "role": "Citygate Outlet / Ft Educator (sales)",
+   "location": "Hong Kong"
+  },
+  "90673c5487f2663f873f171b6067af00": {
+   "id": "90673c5487f2663f873f171b6067af00",
+   "company": "Lululemon",
+   "role": "Citygate Outlet / Pt Educator (sales)",
    "location": "Hong Kong"
   },
   "f9366ab52f4445375a8ebc4497e84e97": {
