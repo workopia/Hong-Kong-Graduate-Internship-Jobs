@@ -1,7 +1,19 @@
 {
- "asOf": "2026-10-08",
- "count": 193,
+ "asOf": "2026-10-09",
+ "count": 196,
  "jobs": {
+  "35e1df5fbc822c6ca41e03758db2c147": {
+   "id": "35e1df5fbc822c6ca41e03758db2c147",
+   "company": "Wellington Management",
+   "role": "2027 Apac Legal Off Cycle Internship - 6 Months",
+   "location": "Central Hong Kong"
+  },
+  "7baa6b2a499a75cf11a6d9a540f082bd": {
+   "id": "7baa6b2a499a75cf11a6d9a540f082bd",
+   "company": "adidas AG",
+   "role": "Intern Performance Management Global Logistics, Digital Process Management & Solutions",
+   "location": "Hong Kong"
+  },
   "54618dc8295b0eaf4201abb1b0e7301c": {
    "id": "54618dc8295b0eaf4201abb1b0e7301c",
    "company": "John Hancock",
@@ -19,6 +31,12 @@
    "company": "John Hancock",
    "role": "Co-op Internship 2027 – Asia Regional Distribution Strategy, Insights And Transformation (6 Months)",
    "location": "Hong Kong"
+  },
+  "ecc0bbf744c7fdc0": {
+   "id": "ecc0bbf744c7fdc0",
+   "company": "Cheng Hong Welfare Service Society",
+   "role": "Corporate Communications Intern",
+   "location": "Islandwide"
   },
   "7b427b6903a17bbc62508055df946e56": {
    "id": "7b427b6903a17bbc62508055df946e56",
@@ -884,8 +902,8 @@
    "role": "Actuarial Specialist",
    "location": "Hong Kong"
   },
-  "0c7f9a1dcab217f88e68c5c0759d4e2d": {
-   "id": "0c7f9a1dcab217f88e68c5c0759d4e2d",
+  "33caa4b881bd80977c187fa2e2c885d5": {
+   "id": "33caa4b881bd80977c187fa2e2c885d5",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
    "location": "Hong Kong"
