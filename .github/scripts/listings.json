@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-10-09",
+  "as_of": "2026-10-10",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1662,
-  "generated_at": "2026-10-09T00:04:43.232Z"
+  "country_live_total": 1663,
+  "generated_at": "2026-10-10T00:16:09.114Z"
  },
  "categories": [
   {
@@ -1612,10 +1612,10 @@
    "company_hi_slug": "lrqa",
    "title": "Junior Data Scientist",
    "location": "Hong Kong",
-   "skills": "machine learning, generative AI",
+   "skills": "Machine Learning, Generative AI",
    "sponsorship": false,
    "hot": false,
-   "date_posted": "2026-09-17T20:17:26.252Z",
+   "date_posted": "2026-10-08T17:45:38.801Z",
    "active": true,
    "url": "https://workopia.io/jobs/79aeb1c20adc07ba7c56df04b0ab4f60",
    "category": "data",
@@ -1977,6 +1977,23 @@
    "url": "https://workopia.io/jobs/0debf44b6e8e7e38f64be24f7a85641e",
    "category": "finance",
    "tier": "Graduate"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "f05cab39981fa18960294abb5dc401f9",
+   "source": "Workopia",
+   "company_name": "Bank Of China (hong Kong) Limited",
+   "company_hi_slug": "bank-of-china-hong-kong-limited",
+   "title": "Operation Officer (customer Due Diligence Division) At Bank Of China (hong Kong) Limited",
+   "location": "Hong Kong",
+   "skills": "Customer Due Diligence, KYC Document Verificat",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-08T08:28:53.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/f05cab39981fa18960294abb5dc401f9",
+   "category": "finance",
+   "tier": "Entry-level"
   },
   {
    "salary_display": "HK$20k–32k/mo*",

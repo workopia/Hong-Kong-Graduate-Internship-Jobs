@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-09",
- "count": 196,
+ "asOf": "2026-10-10",
+ "count": 197,
  "jobs": {
   "35e1df5fbc822c6ca41e03758db2c147": {
    "id": "35e1df5fbc822c6ca41e03758db2c147",
@@ -672,6 +672,12 @@
    "id": "0debf44b6e8e7e38f64be24f7a85641e",
    "company": "DV Trading",
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
+   "location": "Hong Kong"
+  },
+  "f05cab39981fa18960294abb5dc401f9": {
+   "id": "f05cab39981fa18960294abb5dc401f9",
+   "company": "Bank Of China (hong Kong) Limited",
+   "role": "Operation Officer (customer Due Diligence Division) At Bank Of China (hong Kong) Limited",
    "location": "Hong Kong"
   },
   "c7cdab971f382ddf88aeed1b182958de": {
