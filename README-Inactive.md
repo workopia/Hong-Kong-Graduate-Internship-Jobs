@@ -346,4 +346,11 @@
 <tr><td>Hang Lung Properties Ltd</td><td>Intern</td><td>Hong Kong</td><td>2026-10-05</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Summer Internship Programme 2026 [stem] - Pccw Global</td><td>Hong Kong</td><td>2026-10-07</td></tr>
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-10-09</td></tr>
+<tr><td>AIA</td><td>Cs Experience Study & Pricing Strategy, Intern</td><td>Hong Kong</td><td>2026-10-11</td></tr>
+<tr><td>Manulife</td><td>Manulife Co-op 6-month Internship Program – Distribution & Business Support</td><td>Hong Kong</td><td>2026-10-11</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Manulife Co-op 6-month Internship Program – Distribution & Business Support</td><td>Hong Kong</td><td>2026-10-11</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Service Engineer</td><td>Hong Kong</td><td>2026-10-11</td></tr>
+<tr><td>Kering</td><td>Bottega Veneta Part Time Sales</td><td>Hong Kong</td><td>2026-10-11</td></tr>
+<tr><td>jobgamezone best work from home in 2025</td><td>Executive Assistant To The Ceo - Strategic & Operational Partner</td><td>Hong Kong</td><td>2026-10-11</td></tr>
+<tr><td>m32.ai</td><td>Executive Assistant To The Ceo - Strategic & Operational Partner</td><td>Hong Kong</td><td>2026-10-11</td></tr>
 </table>

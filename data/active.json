@@ -1,7 +1,25 @@
 {
- "asOf": "2026-10-10",
- "count": 197,
+ "asOf": "2026-10-11",
+ "count": 198,
  "jobs": {
+  "c9c6c4f0929a501a9d1aa5653b88e2d0": {
+   "id": "c9c6c4f0929a501a9d1aa5653b88e2d0",
+   "company": "Standard Chartered Bank",
+   "role": "Syndicate & Portfolio Management Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "7e1665a6cdbc68d0349e9b0fbe25049f": {
+   "id": "7e1665a6cdbc68d0349e9b0fbe25049f",
+   "company": "Nexxt Inc",
+   "role": "Summer 2027 / Content Operations Intern",
+   "location": "Hong Kong"
+  },
+  "dad0026efef6573e1451665ca7d76cd8": {
+   "id": "dad0026efef6573e1451665ca7d76cd8",
+   "company": "Nexxt Inc",
+   "role": "Summer 2027 / Game Researcher Intern",
+   "location": "Hong Kong"
+  },
   "35e1df5fbc822c6ca41e03758db2c147": {
    "id": "35e1df5fbc822c6ca41e03758db2c147",
    "company": "Wellington Management",
@@ -464,24 +482,6 @@
    "role": "Internship - It Infrastructure",
    "location": "Hong Kong"
   },
-  "66691a9e39fc1a21bcf0a5af2f269290": {
-   "id": "66691a9e39fc1a21bcf0a5af2f269290",
-   "company": "AIA",
-   "role": "Cs Experience Study & Pricing Strategy, Intern",
-   "location": "Hong Kong"
-  },
-  "2e2c327482c30deddd4ba016c13f2b02": {
-   "id": "2e2c327482c30deddd4ba016c13f2b02",
-   "company": "Manulife",
-   "role": "Manulife Co-op 6-month Internship Program – Distribution & Business Support",
-   "location": "Hong Kong"
-  },
-  "01b43d5c73679c36732b9d5729131656": {
-   "id": "01b43d5c73679c36732b9d5729131656",
-   "company": "Manulife Financial Inc",
-   "role": "Manulife Co-op 6-month Internship Program – Distribution & Business Support",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -540,6 +540,12 @@
    "id": "b9a82e639e006ba53f3960d7bb5a7feb",
    "company": "Ampd Energy",
    "role": "Full-stack Software Engineer",
+   "location": "Hong Kong"
+  },
+  "0200922e9700ca5cca202466df49c015": {
+   "id": "0200922e9700ca5cca202466df49c015",
+   "company": "Me2Works",
+   "role": "Ai Acceleration Algorithm Engineer At Huawei Hong Kong Research Center(hkrc)",
    "location": "Hong Kong"
   },
   "79aeb1c20adc07ba7c56df04b0ab4f60": {
@@ -614,6 +620,12 @@
    "role": "Manulife: Actuarial Internship Program 2027 (6.5 Months)",
    "location": "Hong Kong"
   },
+  "a67cc67a5fe4d7c098464a1c3903e013": {
+   "id": "a67cc67a5fe4d7c098464a1c3903e013",
+   "company": "AXA",
+   "role": "Actuarial Intern",
+   "location": "Hong Kong"
+  },
   "30e8a890150c11999bd759884e8480ca": {
    "id": "30e8a890150c11999bd759884e8480ca",
    "company": "AIA Group",
@@ -674,10 +686,22 @@
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
    "location": "Hong Kong"
   },
+  "6545d143e6d7efea6ca0e41667762609": {
+   "id": "6545d143e6d7efea6ca0e41667762609",
+   "company": "PCCW-HKT DataCom Services Ltd",
+   "role": "Business Analyst, Member Engagement",
+   "location": "Hong Kong"
+  },
   "f05cab39981fa18960294abb5dc401f9": {
    "id": "f05cab39981fa18960294abb5dc401f9",
    "company": "Bank Of China (hong Kong) Limited",
    "role": "Operation Officer (customer Due Diligence Division) At Bank Of China (hong Kong) Limited",
+   "location": "Hong Kong"
+  },
+  "22949b71668f54b7b18ff9c01de6e190": {
+   "id": "22949b71668f54b7b18ff9c01de6e190",
+   "company": "AXA",
+   "role": "Assistant Business Analyst (1-year Contract)",
    "location": "Hong Kong"
   },
   "c7cdab971f382ddf88aeed1b182958de": {
@@ -726,12 +750,6 @@
    "id": "d1b98aae40579436b4bcb4b2d5bfdd0e",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Assistant Business Analyst",
-   "location": "Hong Kong"
-  },
-  "6545d143e6d7efea6ca0e41667762609": {
-   "id": "6545d143e6d7efea6ca0e41667762609",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Business Analyst, Member Engagement",
    "location": "Hong Kong"
   },
   "4385e96a080f87ad50fa724e33298387": {
@@ -908,8 +926,8 @@
    "role": "Actuarial Specialist",
    "location": "Hong Kong"
   },
-  "33caa4b881bd80977c187fa2e2c885d5": {
-   "id": "33caa4b881bd80977c187fa2e2c885d5",
+  "90788dd293327bb56edd87c72f909946": {
+   "id": "90788dd293327bb56edd87c72f909946",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
    "location": "Hong Kong"
@@ -924,6 +942,12 @@
    "id": "9ecc33dc4992c627a54b0826b9534567",
    "company": "DAT Deutsche Aufzugstechnik GmbH",
    "role": "調試員 (更新工程 / 安裝部)",
+   "location": "Hong Kong"
+  },
+  "8b878141c1a4bc697b1d4b5c21cea869": {
+   "id": "8b878141c1a4bc697b1d4b5c21cea869",
+   "company": "Kering",
+   "role": "Bottega Veneta Part Time Sales",
    "location": "Hong Kong"
   },
   "4a3ba66d94eebcc6957859b1d827d629": {
@@ -948,12 +972,6 @@
    "id": "f9366ab52f4445375a8ebc4497e84e97",
    "company": "QEELIN LTD",
    "role": "Qeelin Sales Associate",
-   "location": "Hong Kong"
-  },
-  "f1807b30c99fa95ad5d8c0f797f17f48": {
-   "id": "f1807b30c99fa95ad5d8c0f797f17f48",
-   "company": "Kering",
-   "role": "Bottega Veneta Part Time Sales",
    "location": "Hong Kong"
   },
   "2082cb30a6ccef0edcdde62f8a052f3e": {
@@ -1171,18 +1189,6 @@
    "company": "The Hong Kong Jockey Club",
    "role": "Part-time Administrative Assistant",
    "location": "Search By Location"
-  },
-  "513b6046df605693b590876c762c7b3d": {
-   "id": "513b6046df605693b590876c762c7b3d",
-   "company": "jobgamezone best work from home in 2025",
-   "role": "Executive Assistant To The Ceo - Strategic & Operational Partner",
-   "location": "Hong Kong"
-  },
-  "1e55fc2ee024a34472e3f0f0b8727d25": {
-   "id": "1e55fc2ee024a34472e3f0f0b8727d25",
-   "company": "m32.ai",
-   "role": "Executive Assistant To The Ceo - Strategic & Operational Partner",
-   "location": "Hong Kong"
   }
  }
 }
