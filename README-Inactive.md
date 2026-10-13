@@ -353,4 +353,5 @@
 <tr><td>Kering</td><td>Bottega Veneta Part Time Sales</td><td>Hong Kong</td><td>2026-10-11</td></tr>
 <tr><td>jobgamezone best work from home in 2025</td><td>Executive Assistant To The Ceo - Strategic & Operational Partner</td><td>Hong Kong</td><td>2026-10-11</td></tr>
 <tr><td>m32.ai</td><td>Executive Assistant To The Ceo - Strategic & Operational Partner</td><td>Hong Kong</td><td>2026-10-11</td></tr>
+<tr><td>DayOne</td><td>Internship - It Infrastructure</td><td>Hong Kong</td><td>2026-10-13</td></tr>
 </table>

@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-10-12",
+  "as_of": "2026-10-13",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1689,
-  "generated_at": "2026-10-12T00:04:06.785Z"
+  "country_live_total": 1690,
+  "generated_at": "2026-10-13T00:08:19.120Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "2aa93440af836d5f00fc208b84752004",
+   "source": "Workopia",
+   "company_name": "Prudential Singapore",
+   "company_hi_slug": "prudential",
+   "title": "Intern, General Insurance (jan 2027 To Jun 2027)",
+   "location": "Hong Kong",
+   "skills": "Actuarial analysis, Product pricing",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-12T04:01:46.598Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/2aa93440af836d5f00fc208b84752004",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "c9c6c4f0929a501a9d1aa5653b88e2d0",
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-09-07T21:57:45.454Z",
    "active": true,
    "url": "https://workopia.io/jobs/fefe08ba0b4e43fe6d705f3e1ff39139",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "b749e4b20b21af7b14943c1bf68e1c88",
-   "source": "Workopia",
-   "company_name": "DayOne",
-   "company_hi_slug": "dayone",
-   "title": "Internship - It Infrastructure",
-   "location": "Hong Kong",
-   "skills": "IT support and helpdes, Microsoft 365, Teams, ",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-07T09:00:59.132Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/b749e4b20b21af7b14943c1bf68e1c88",
    "category": "grad",
    "tier": "Intern"
   },

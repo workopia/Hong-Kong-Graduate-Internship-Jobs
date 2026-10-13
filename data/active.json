@@ -1,7 +1,13 @@
 {
- "asOf": "2026-10-12",
+ "asOf": "2026-10-13",
  "count": 198,
  "jobs": {
+  "2aa93440af836d5f00fc208b84752004": {
+   "id": "2aa93440af836d5f00fc208b84752004",
+   "company": "Prudential Singapore",
+   "role": "Intern, General Insurance (jan 2027 To Jun 2027)",
+   "location": "Hong Kong"
+  },
   "c9c6c4f0929a501a9d1aa5653b88e2d0": {
    "id": "c9c6c4f0929a501a9d1aa5653b88e2d0",
    "company": "Standard Chartered Bank",
@@ -474,12 +480,6 @@
    "id": "fefe08ba0b4e43fe6d705f3e1ff39139",
    "company": "FWD",
    "role": "Fwd Group Office Actuarial Internship - (h1) January To June 2027 (full Time / Part Time Available)",
-   "location": "Hong Kong"
-  },
-  "b749e4b20b21af7b14943c1bf68e1c88": {
-   "id": "b749e4b20b21af7b14943c1bf68e1c88",
-   "company": "DayOne",
-   "role": "Internship - It Infrastructure",
    "location": "Hong Kong"
   },
   "Hq6SozpyQ7Bg": {
