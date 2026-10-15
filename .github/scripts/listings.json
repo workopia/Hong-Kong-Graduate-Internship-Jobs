@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-10-14",
+  "as_of": "2026-10-15",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1532,
-  "generated_at": "2026-10-14T11:58:24.553Z"
+  "country_live_total": 1534,
+  "generated_at": "2026-10-15T00:10:03.231Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "ecdb972e101f7306dde58549f2f6ef38",
+   "source": "Workopia",
+   "company_name": "Sun Life Hong Kong Limited",
+   "company_hi_slug": null,
+   "title": "2026 Q4 大學生實習計劃 At Sun Life Hong Kong Limited",
+   "location": "Hong Kong",
+   "skills": "In-person training, Client portfolio manag",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-13T11:46:32.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/ecdb972e101f7306dde58549f2f6ef38",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "2aa93440af836d5f00fc208b84752004",
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-09-07T21:57:45.465Z",
    "active": true,
    "url": "https://workopia.io/jobs/588abe3297b783abbb8b8b33c4926107",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "fefe08ba0b4e43fe6d705f3e1ff39139",
-   "source": "Workopia",
-   "company_name": "FWD",
-   "company_hi_slug": "fwd",
-   "title": "Fwd Group Office Actuarial Internship - (h1) January To June 2027 (full Time / Part Time Available)",
-   "location": "Hong Kong",
-   "skills": "Prophet / Alteryx / Py, Microsoft Excel VBA fo",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-07T21:57:45.454Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/fefe08ba0b4e43fe6d705f3e1ff39139",
    "category": "grad",
    "tier": "Intern"
   },

@@ -1,7 +1,13 @@
 {
- "asOf": "2026-10-14",
+ "asOf": "2026-10-15",
  "count": 198,
  "jobs": {
+  "ecdb972e101f7306dde58549f2f6ef38": {
+   "id": "ecdb972e101f7306dde58549f2f6ef38",
+   "company": "Sun Life Hong Kong Limited",
+   "role": "2026 Q4 大學生實習計劃 At Sun Life Hong Kong Limited",
+   "location": "Hong Kong"
+  },
   "2aa93440af836d5f00fc208b84752004": {
    "id": "2aa93440af836d5f00fc208b84752004",
    "company": "Prudential Singapore",
@@ -474,12 +480,6 @@
    "id": "588abe3297b783abbb8b8b33c4926107",
    "company": "FWD",
    "role": "Actuarial Internship (full-time For 2027 H1/h2)",
-   "location": "Hong Kong"
-  },
-  "fefe08ba0b4e43fe6d705f3e1ff39139": {
-   "id": "fefe08ba0b4e43fe6d705f3e1ff39139",
-   "company": "FWD",
-   "role": "Fwd Group Office Actuarial Internship - (h1) January To June 2027 (full Time / Part Time Available)",
    "location": "Hong Kong"
   },
   "Hq6SozpyQ7Bg": {
