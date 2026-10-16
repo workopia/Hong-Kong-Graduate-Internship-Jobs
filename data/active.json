@@ -1,7 +1,25 @@
 {
- "asOf": "2026-10-15",
- "count": 198,
+ "asOf": "2026-10-16",
+ "count": 204,
  "jobs": {
+  "e9f7986a24898009f23b35eb7b9fb835": {
+   "id": "e9f7986a24898009f23b35eb7b9fb835",
+   "company": "Google",
+   "role": "Mba Intern, 2027",
+   "location": "Hong Kong"
+  },
+  "e82c0aa5e03ae5a7f1141dcd838b8f33": {
+   "id": "e82c0aa5e03ae5a7f1141dcd838b8f33",
+   "company": "Zurich Insurance Company Ltd",
+   "role": "Intern (operational Excellence, Apac) (part-time)",
+   "location": "Hong Kong"
+  },
+  "cfdb7a44de1dae72f1c45cc361f85cfb": {
+   "id": "cfdb7a44de1dae72f1c45cc361f85cfb",
+   "company": "gssi.world",
+   "role": "Pharmacy Intern",
+   "location": "Hong Kong"
+  },
   "ecdb972e101f7306dde58549f2f6ef38": {
    "id": "ecdb972e101f7306dde58549f2f6ef38",
    "company": "Sun Life Hong Kong Limited",
@@ -60,6 +78,18 @@
    "id": "c5b417b35d1718a306826460d602cdbd",
    "company": "John Hancock",
    "role": "Co-op Internship 2027 – Asia Regional Distribution Strategy, Insights And Transformation (6 Months)",
+   "location": "Hong Kong"
+  },
+  "f7f017eea6d0d1d75e961360ecf82bac": {
+   "id": "f7f017eea6d0d1d75e961360ecf82bac",
+   "company": "Siemens",
+   "role": "Assistant Digital Solutions Engineer (6-months internship)",
+   "location": "Hong Kong"
+  },
+  "f877a9c3263ee232b900f31a9c303ba2": {
+   "id": "f877a9c3263ee232b900f31a9c303ba2",
+   "company": "Siemens",
+   "role": "Assistant Service Engineer (Full-time Internship)",
    "location": "Hong Kong"
   },
   "ecc0bbf744c7fdc0": {
@@ -216,12 +246,6 @@
    "id": "be2d58ee1567b075f9725984565b4260",
    "company": "FWD Life Insurance Group",
    "role": "Co-op Intern, Business Training, Tied Agency",
-   "location": "Hong Kong"
-  },
-  "52cd2ae8d1ce2b64e3de998db0358dde": {
-   "id": "52cd2ae8d1ce2b64e3de998db0358dde",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Intern (operational Excellence, Apac) (part-time)",
    "location": "Hong Kong"
   },
   "c198e2e60460be08efea48f3e1630e30": {
@@ -458,30 +482,6 @@
    "role": "Regulatory Affairs Intern",
    "location": "Hong Kong"
   },
-  "55904781b8782eb79b3ff8098f5c6bcf": {
-   "id": "55904781b8782eb79b3ff8098f5c6bcf",
-   "company": "LGT Crestone Wealth Management Limited",
-   "role": "Intern - 2027 Intake",
-   "location": "Hong Kong"
-  },
-  "564b74ec25c1b912aca0a712dd156268": {
-   "id": "564b74ec25c1b912aca0a712dd156268",
-   "company": "FWD",
-   "role": "Student Intern, Business Training",
-   "location": "Hong Kong"
-  },
-  "9c752fb74c4a5f548473a40657f4c6ec": {
-   "id": "9c752fb74c4a5f548473a40657f4c6ec",
-   "company": "FWD",
-   "role": "Student Intern, Investment",
-   "location": "Hong Kong"
-  },
-  "588abe3297b783abbb8b8b33c4926107": {
-   "id": "588abe3297b783abbb8b8b33c4926107",
-   "company": "FWD",
-   "role": "Actuarial Internship (full-time For 2027 H1/h2)",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -492,6 +492,12 @@
    "id": "9b964a7f671b4e1b27730b6f98c22d34",
    "company": "Eclipse Trading",
    "role": "Graduate Low Latency C++ Software Engineer (hong Kong) At Eclipse Trading",
+   "location": "Hong Kong"
+  },
+  "ac8f332f313d7d7fb49701905bcd4971": {
+   "id": "ac8f332f313d7d7fb49701905bcd4971",
+   "company": "Me2Works",
+   "role": "Software Engineer At Huawei Hong Kong Research Center(hkrc)",
    "location": "Hong Kong"
   },
   "0e71ac0cd95b890b3d00516a30e4d09f": {
@@ -686,6 +692,24 @@
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
    "location": "Hong Kong"
   },
+  "5a2cbf63781f6ad4cf974a7870031d77": {
+   "id": "5a2cbf63781f6ad4cf974a7870031d77",
+   "company": "JD",
+   "role": "Financial Accounting - Hk",
+   "location": "Hong Kong"
+  },
+  "bc60838b465c86de0c35f1fd34e103d0": {
+   "id": "bc60838b465c86de0c35f1fd34e103d0",
+   "company": "Work From Home With CiCi",
+   "role": "Vp, Equities Compliance Officer",
+   "location": "Hong Kong"
+  },
+  "9e8c258a5cb683b43c54a0968e99a775": {
+   "id": "9e8c258a5cb683b43c54a0968e99a775",
+   "company": "Jll Com Au",
+   "role": "Business Support Analyst",
+   "location": "Hong Kong"
+  },
   "6545d143e6d7efea6ca0e41667762609": {
    "id": "6545d143e6d7efea6ca0e41667762609",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -854,12 +878,6 @@
    "role": "经营分析岗",
    "location": "Hong Kong Sar"
   },
-  "9e8c258a5cb683b43c54a0968e99a775": {
-   "id": "9e8c258a5cb683b43c54a0968e99a775",
-   "company": "Jll Com Au",
-   "role": "Business Support Analyst",
-   "location": "Hong Kong"
-  },
   "c0def584c231e20ef6edb54a6806417e": {
    "id": "c0def584c231e20ef6edb54a6806417e",
    "company": "Morgan Stanley UK",
@@ -942,6 +960,12 @@
    "id": "9ecc33dc4992c627a54b0826b9534567",
    "company": "DAT Deutsche Aufzugstechnik GmbH",
    "role": "調試員 (更新工程 / 安裝部)",
+   "location": "Hong Kong"
+  },
+  "9a689bcb0bebe18a1dc51ff88f61d56c": {
+   "id": "9a689bcb0bebe18a1dc51ff88f61d56c",
+   "company": "Coach",
+   "role": "Sales Associate",
    "location": "Hong Kong"
   },
   "8b878141c1a4bc697b1d4b5c21cea869": {
@@ -1100,6 +1124,24 @@
    "role": "Client Advisor Opportunities - Hong Kong",
    "location": "Hong Kong"
   },
+  "ebd0cef601dc7bc3780681b961ccb324": {
+   "id": "ebd0cef601dc7bc3780681b961ccb324",
+   "company": "Work From Home With CiCi",
+   "role": "Executive Assistant",
+   "location": "Hong Kong"
+  },
+  "c66165c4c843d7d25ffe3b4fa562d3ea": {
+   "id": "c66165c4c843d7d25ffe3b4fa562d3ea",
+   "company": "UBS",
+   "role": "Ib Team Assistant",
+   "location": "Hong Kong"
+  },
+  "031ac4cba9d07f61e9b595ff8896ff60": {
+   "id": "031ac4cba9d07f61e9b595ff8896ff60",
+   "company": "Amazon",
+   "role": "AI Innovation Specialist, Business Development Team",
+   "location": "Hong Kong"
+  },
   "7672eda9dafe614d6b286c8d12d6b7eb": {
    "id": "7672eda9dafe614d6b286c8d12d6b7eb",
    "company": "jll.co.in",
@@ -1183,12 +1225,6 @@
    "company": "Hong Kong Metropolitan University",
    "role": "Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Hong Kong Metropolitan University",
    "location": "Hong Kong"
-  },
-  "79d28372143cfcd0b9ab450a6df7db5c": {
-   "id": "79d28372143cfcd0b9ab450a6df7db5c",
-   "company": "The Hong Kong Jockey Club",
-   "role": "Part-time Administrative Assistant",
-   "location": "Search By Location"
   }
  }
 }

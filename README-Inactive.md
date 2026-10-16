@@ -355,4 +355,10 @@
 <tr><td>m32.ai</td><td>Executive Assistant To The Ceo - Strategic & Operational Partner</td><td>Hong Kong</td><td>2026-10-11</td></tr>
 <tr><td>DayOne</td><td>Internship - It Infrastructure</td><td>Hong Kong</td><td>2026-10-13</td></tr>
 <tr><td>FWD</td><td>Fwd Group Office Actuarial Internship - (h1) January To June 2027 (full Time / Part Time Available)</td><td>Hong Kong</td><td>2026-10-15</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Intern (operational Excellence, Apac) (part-time)</td><td>Hong Kong</td><td>2026-10-16</td></tr>
+<tr><td>LGT Crestone Wealth Management Limited</td><td>Intern - 2027 Intake</td><td>Hong Kong</td><td>2026-10-16</td></tr>
+<tr><td>FWD</td><td>Student Intern, Business Training</td><td>Hong Kong</td><td>2026-10-16</td></tr>
+<tr><td>FWD</td><td>Student Intern, Investment</td><td>Hong Kong</td><td>2026-10-16</td></tr>
+<tr><td>FWD</td><td>Actuarial Internship (full-time For 2027 H1/h2)</td><td>Hong Kong</td><td>2026-10-16</td></tr>
+<tr><td>The Hong Kong Jockey Club</td><td>Part-time Administrative Assistant</td><td>Search By Location</td><td>2026-10-16</td></tr>
 </table>
