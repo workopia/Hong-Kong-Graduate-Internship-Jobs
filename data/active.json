@@ -1,7 +1,13 @@
 {
- "asOf": "2026-10-16",
+ "asOf": "2026-10-17",
  "count": 204,
  "jobs": {
+  "59975ed50460d57c7a841cce0cbae9af": {
+   "id": "59975ed50460d57c7a841cce0cbae9af",
+   "company": "224",
+   "role": "Intern, Financial Markets Hong Kong",
+   "location": "Hong Kong"
+  },
   "e9f7986a24898009f23b35eb7b9fb835": {
    "id": "e9f7986a24898009f23b35eb7b9fb835",
    "company": "Google",
@@ -476,12 +482,6 @@
    "role": "Institutional Equity - Account Management - Intern",
    "location": "Hong Kong"
   },
-  "6b6aadbc3f3b08b1b7e64fbd092b08ec": {
-   "id": "6b6aadbc3f3b08b1b7e64fbd092b08ec",
-   "company": "vetshired.us",
-   "role": "Regulatory Affairs Intern",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -498,6 +498,12 @@
    "id": "ac8f332f313d7d7fb49701905bcd4971",
    "company": "Me2Works",
    "role": "Software Engineer At Huawei Hong Kong Research Center(hkrc)",
+   "location": "Hong Kong"
+  },
+  "5b2d20496c6a34f1052b4bc6f72540e2": {
+   "id": "5b2d20496c6a34f1052b4bc6f72540e2",
+   "company": "Nex",
+   "role": "Game Engineer",
    "location": "Hong Kong"
   },
   "0e71ac0cd95b890b3d00516a30e4d09f": {
@@ -534,12 +540,6 @@
    "id": "91718c7ecf297a06b753265071d48d74",
    "company": "Me2Works",
    "role": "Software Engineer – Elite Quant Fund – Hong Kong- Up To $2,400,000+ Exceptional Benefits/bonus Package At Hunter Bond",
-   "location": "Hong Kong"
-  },
-  "5b2d20496c6a34f1052b4bc6f72540e2": {
-   "id": "5b2d20496c6a34f1052b4bc6f72540e2",
-   "company": "Nex",
-   "role": "Game Engineer",
    "location": "Hong Kong"
   },
   "b9a82e639e006ba53f3960d7bb5a7feb": {
@@ -1124,6 +1124,12 @@
    "role": "Client Advisor Opportunities - Hong Kong",
    "location": "Hong Kong"
   },
+  "24e5f7dab3a18c619359886146336ae8": {
+   "id": "24e5f7dab3a18c619359886146336ae8",
+   "company": "Ernst & Young",
+   "role": "Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong",
+   "location": "Hong Kong"
+  },
   "ebd0cef601dc7bc3780681b961ccb324": {
    "id": "ebd0cef601dc7bc3780681b961ccb324",
    "company": "Work From Home With CiCi",
@@ -1142,6 +1148,12 @@
    "role": "AI Innovation Specialist, Business Development Team",
    "location": "Hong Kong"
   },
+  "a0a3f25801a0c3ae9908177fdb8127b5": {
+   "id": "a0a3f25801a0c3ae9908177fdb8127b5",
+   "company": "TD SYNNEX",
+   "role": "Receptionist /admin. Assistant",
+   "location": "Hong Kong"
+  },
   "7672eda9dafe614d6b286c8d12d6b7eb": {
    "id": "7672eda9dafe614d6b286c8d12d6b7eb",
    "company": "jll.co.in",
@@ -1158,12 +1170,6 @@
    "id": "c6aaace57f1bdc851a6c92b22a1445f2",
    "company": "122",
    "role": "Administrative Assistant",
-   "location": "Hong Kong"
-  },
-  "24e5f7dab3a18c619359886146336ae8": {
-   "id": "24e5f7dab3a18c619359886146336ae8",
-   "company": "Ernst & Young",
-   "role": "Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong",
    "location": "Hong Kong"
   },
   "5f39f4a500942d5b7c4dff4d17408643": {
@@ -1218,12 +1224,6 @@
    "id": "14acbd22a80edb7a134b94633b16e90a",
    "company": "International SOS Assistance (HK) Ltd",
    "role": "Executive Assistant",
-   "location": "Hong Kong"
-  },
-  "e074e5be26fab68d27b018c9e9187cb5": {
-   "id": "e074e5be26fab68d27b018c9e9187cb5",
-   "company": "Hong Kong Metropolitan University",
-   "role": "Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Hong Kong Metropolitan University",
    "location": "Hong Kong"
   }
  }

@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-17",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1544,
-  "generated_at": "2026-10-16T00:10:27.418Z"
+  "country_live_total": 1539,
+  "generated_at": "2026-10-17T00:26:05.405Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "59975ed50460d57c7a841cce0cbae9af",
+   "source": "Workopia",
+   "company_name": "224",
+   "company_hi_slug": null,
+   "title": "Intern, Financial Markets Hong Kong",
+   "location": "Hong Kong",
+   "skills": "Financial Markets, FX and Rates",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-16T00:42:21.600Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/59975ed50460d57c7a841cce0cbae9af",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "e9f7986a24898009f23b35eb7b9fb835",
@@ -1418,23 +1435,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "6b6aadbc3f3b08b1b7e64fbd092b08ec",
-   "source": "Workopia",
-   "company_name": "vetshired.us",
-   "company_hi_slug": null,
-   "title": "Regulatory Affairs Intern",
-   "location": "Hong Kong",
-   "skills": "New Product Registrati, Product Registration L",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-08T00:23:28.573Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/6b6aadbc3f3b08b1b7e64fbd092b08ec",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "Hq6SozpyQ7Bg",
    "source": "Workopia",
@@ -1482,6 +1482,23 @@
    "date_posted": "2026-10-14T02:51:55.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/ac8f332f313d7d7fb49701905bcd4971",
+   "category": "tech",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "5b2d20496c6a34f1052b4bc6f72540e2",
+   "source": "Workopia",
+   "company_name": "Nex",
+   "company_hi_slug": "nex",
+   "title": "Game Engineer",
+   "location": "Hong Kong",
+   "skills": "Unity expertise, motion control algorit",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-08T17:36:23.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/5b2d20496c6a34f1052b4bc6f72540e2",
    "category": "tech",
    "tier": "Entry-level"
   },
@@ -1584,23 +1601,6 @@
    "date_posted": "2026-09-05T00:36:04.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/91718c7ecf297a06b753265071d48d74",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "5b2d20496c6a34f1052b4bc6f72540e2",
-   "source": "Workopia",
-   "company_name": "Nex",
-   "company_hi_slug": "nex",
-   "title": "Game Engineer",
-   "location": "Hong Kong",
-   "skills": "Build game architectur, Gameplay logic",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-02T02:34:42.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/5b2d20496c6a34f1052b4bc6f72540e2",
    "category": "tech",
    "tier": "Entry-level"
   },
@@ -3255,6 +3255,23 @@
   },
   {
    "salary_display": "HK$18k–26k/mo*",
+   "id": "24e5f7dab3a18c619359886146336ae8",
+   "source": "Workopia",
+   "company_name": "Ernst & Young",
+   "company_hi_slug": "ernst-young",
+   "title": "Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong",
+   "location": "Hong Kong",
+   "skills": "Technical administrati, Accounting Compliance ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-15T18:00:49.490Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/24e5f7dab3a18c619359886146336ae8",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "ebd0cef601dc7bc3780681b961ccb324",
    "source": "Workopia",
    "company_name": "Work From Home With CiCi",
@@ -3306,6 +3323,23 @@
   },
   {
    "salary_display": "HK$18k–26k/mo*",
+   "id": "a0a3f25801a0c3ae9908177fdb8127b5",
+   "source": "Workopia",
+   "company_name": "TD SYNNEX",
+   "company_hi_slug": "td-synnex",
+   "title": "Receptionist /admin. Assistant",
+   "location": "Hong Kong",
+   "skills": "English communication , office administration",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-07T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a0a3f25801a0c3ae9908177fdb8127b5",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$18k–26k/mo*",
    "id": "7672eda9dafe614d6b286c8d12d6b7eb",
    "source": "Workopia",
    "company_name": "jll.co.in",
@@ -3352,23 +3386,6 @@
    "date_posted": "2026-09-21T09:59:57.566Z",
    "active": true,
    "url": "https://workopia.io/jobs/c6aaace57f1bdc851a6c92b22a1445f2",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$18k–26k/mo*",
-   "id": "24e5f7dab3a18c619359886146336ae8",
-   "source": "Workopia",
-   "company_name": "Ernst & Young",
-   "company_hi_slug": "ernst-young",
-   "title": "Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong",
-   "location": "Hong Kong",
-   "skills": "Technical administrati, Accounting Compliance ",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-16T04:41:34.541Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/24e5f7dab3a18c619359886146336ae8",
    "category": "admin",
    "tier": "Entry-level"
   },
@@ -3522,23 +3539,6 @@
    "date_posted": "2026-08-22T18:16:26.734Z",
    "active": true,
    "url": "https://workopia.io/jobs/14acbd22a80edb7a134b94633b16e90a",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$18k–26k/mo*",
-   "id": "e074e5be26fab68d27b018c9e9187cb5",
-   "source": "Workopia",
-   "company_name": "Hong Kong Metropolitan University",
-   "company_hi_slug": "hong-kong-metropolitan-university",
-   "title": "Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Hong Kong Metropolitan University",
-   "location": "Hong Kong",
-   "skills": "administrative support, secretarial support",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-17T16:24:28.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/e074e5be26fab68d27b018c9e9187cb5",
    "category": "admin",
    "tier": "Entry-level"
   }

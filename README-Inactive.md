@@ -361,4 +361,6 @@
 <tr><td>FWD</td><td>Student Intern, Investment</td><td>Hong Kong</td><td>2026-10-16</td></tr>
 <tr><td>FWD</td><td>Actuarial Internship (full-time For 2027 H1/h2)</td><td>Hong Kong</td><td>2026-10-16</td></tr>
 <tr><td>The Hong Kong Jockey Club</td><td>Part-time Administrative Assistant</td><td>Search By Location</td><td>2026-10-16</td></tr>
+<tr><td>vetshired.us</td><td>Regulatory Affairs Intern</td><td>Hong Kong</td><td>2026-10-17</td></tr>
+<tr><td>Hong Kong Metropolitan University</td><td>Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Hong Kong Metropolitan University</td><td>Hong Kong</td><td>2026-10-17</td></tr>
 </table>
