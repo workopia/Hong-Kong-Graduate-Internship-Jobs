@@ -363,4 +363,8 @@
 <tr><td>The Hong Kong Jockey Club</td><td>Part-time Administrative Assistant</td><td>Search By Location</td><td>2026-10-16</td></tr>
 <tr><td>vetshired.us</td><td>Regulatory Affairs Intern</td><td>Hong Kong</td><td>2026-10-17</td></tr>
 <tr><td>Hong Kong Metropolitan University</td><td>Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Hong Kong Metropolitan University</td><td>Hong Kong</td><td>2026-10-17</td></tr>
+<tr><td>Disney</td><td>Marketing Intern, Disney Consumer Products</td><td>Hong Kong</td><td>2026-10-18</td></tr>
+<tr><td>Huatai Securities (Singapore)</td><td>Debt Capital Markets - Intern</td><td>Hong Kong</td><td>2026-10-18</td></tr>
+<tr><td>Huatai Securities (HK)</td><td>Debt Capital Markets - Intern</td><td>Hong Kong</td><td>2026-10-18</td></tr>
+<tr><td>Huatai Securities (HK)</td><td>Institutional Equity - Account Management - Intern</td><td>Hong Kong</td><td>2026-10-18</td></tr>
 </table>

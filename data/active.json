@@ -1,7 +1,31 @@
 {
- "asOf": "2026-10-17",
- "count": 204,
+ "asOf": "2026-10-18",
+ "count": 205,
  "jobs": {
+  "de6b40746046a35c5d01705b3a693359": {
+   "id": "de6b40746046a35c5d01705b3a693359",
+   "company": "Lidl & Kaufland Asia",
+   "role": "Intern (trend &amp; Design) - Hk (oct 26 - Jan 27)",
+   "location": "Hong Kong"
+  },
+  "2ba627ccd14d68ef07cd3fce7fe6dab3": {
+   "id": "2ba627ccd14d68ef07cd3fce7fe6dab3",
+   "company": "Lactalis Group",
+   "role": "Stagiaire Supply Chain - Customer Service (h/f) - 6 Mois - Hong Kong",
+   "location": "Hong Kong"
+  },
+  "8b7c3f4577e85613116b57f72d45e02b": {
+   "id": "8b7c3f4577e85613116b57f72d45e02b",
+   "company": "lactalisexperience",
+   "role": "Stagiaire Supply Chain - Customer Service (h/f) - 6 Mois - Hong Kong",
+   "location": "Hong Kong"
+  },
+  "73f6b77be95f03d1d95abc2e3978b649": {
+   "id": "73f6b77be95f03d1d95abc2e3978b649",
+   "company": "Estée Lauder",
+   "role": "Marketing Intern, Regional Brands (jan-jun 2027, 6 Months Internship)",
+   "location": "Hong Kong"
+  },
   "59975ed50460d57c7a841cce0cbae9af": {
    "id": "59975ed50460d57c7a841cce0cbae9af",
    "company": "224",
@@ -456,30 +480,6 @@
    "id": "ba64732cfe1dc9bc16bf4ffb67eda805",
    "company": "AIA",
    "role": "People Sustainability, Intern",
-   "location": "Hong Kong"
-  },
-  "db55d8f626da0649d26648720f82e745": {
-   "id": "db55d8f626da0649d26648720f82e745",
-   "company": "Disney",
-   "role": "Marketing Intern, Disney Consumer Products",
-   "location": "Hong Kong"
-  },
-  "cdd4cbc87921649a4348ad54908652cf": {
-   "id": "cdd4cbc87921649a4348ad54908652cf",
-   "company": "Huatai Securities (Singapore)",
-   "role": "Debt Capital Markets - Intern",
-   "location": "Hong Kong"
-  },
-  "1b951e8188c6831cda196e24c29d37d3": {
-   "id": "1b951e8188c6831cda196e24c29d37d3",
-   "company": "Huatai Securities (HK)",
-   "role": "Debt Capital Markets - Intern",
-   "location": "Hong Kong"
-  },
-  "a5aac96ed51755497a1df6d5a75fd4e0": {
-   "id": "a5aac96ed51755497a1df6d5a75fd4e0",
-   "company": "Huatai Securities (HK)",
-   "role": "Institutional Equity - Account Management - Intern",
    "location": "Hong Kong"
   },
   "Hq6SozpyQ7Bg": {
@@ -1129,6 +1129,12 @@
    "company": "Ernst & Young",
    "role": "Tax - Global Compl & Reporting - Accounting Compl & Reporting - Tax Admin Assistant -hong Kong",
    "location": "Hong Kong"
+  },
+  "27e745fdd67319b9ec67b5fad2580a34": {
+   "id": "27e745fdd67319b9ec67b5fad2580a34",
+   "company": "Me2Works",
+   "role": "行政助理 Administration Assistant (職位編號：aaii-agns) At 基督教香港信義會社會服務部",
+   "location": "Western District"
   },
   "ebd0cef601dc7bc3780681b961ccb324": {
    "id": "ebd0cef601dc7bc3780681b961ccb324",
