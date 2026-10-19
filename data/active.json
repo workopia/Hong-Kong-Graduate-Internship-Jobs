@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-18",
- "count": 205,
+ "asOf": "2026-10-19",
+ "count": 207,
  "jobs": {
   "de6b40746046a35c5d01705b3a693359": {
    "id": "de6b40746046a35c5d01705b3a693359",
@@ -30,6 +30,12 @@
    "id": "59975ed50460d57c7a841cce0cbae9af",
    "company": "224",
    "role": "Intern, Financial Markets Hong Kong",
+   "location": "Hong Kong"
+  },
+  "5f05d4178e513e6a460026d492647f8a": {
+   "id": "5f05d4178e513e6a460026d492647f8a",
+   "company": "The Estée Lauder Companies Inc.",
+   "role": "Marketing Intern, Regional Brands (Jan-Jun 2027, 6 months internship)",
    "location": "Hong Kong"
   },
   "e9f7986a24898009f23b35eb7b9fb835": {
@@ -476,12 +482,6 @@
    "role": "People Sustainability, Intern",
    "location": "Hong Kong"
   },
-  "ba64732cfe1dc9bc16bf4ffb67eda805": {
-   "id": "ba64732cfe1dc9bc16bf4ffb67eda805",
-   "company": "AIA",
-   "role": "People Sustainability, Intern",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -596,6 +596,12 @@
    "role": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
    "location": "Hong Kong"
   },
+  "05a9ae950ae43a2b5f9638111d522f03": {
+   "id": "05a9ae950ae43a2b5f9638111d522f03",
+   "company": "John Hancock (Manulife)",
+   "role": "Actuarial Internship Program 2027 (6.5 Months)",
+   "location": "Hong Kong"
+  },
   "236451a09a96c9aa262ba5eaf9069013": {
    "id": "236451a09a96c9aa262ba5eaf9069013",
    "company": "Manulife",
@@ -690,6 +696,18 @@
    "id": "0debf44b6e8e7e38f64be24f7a85641e",
    "company": "DV Trading",
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
+   "location": "Hong Kong"
+  },
+  "87a0a2226eaa780530ee59abc1cd1c46": {
+   "id": "87a0a2226eaa780530ee59abc1cd1c46",
+   "company": "Interactive Brokers Group, Inc.",
+   "role": "Compliance-apac - Analyst - Trade Surveillance",
+   "location": "Hong Kong"
+  },
+  "65bb32545cb53cc8581bef2da851cf8d": {
+   "id": "65bb32545cb53cc8581bef2da851cf8d",
+   "company": "Manulife Financial Inc",
+   "role": "Actuarial Specialist",
    "location": "Hong Kong"
   },
   "5a2cbf63781f6ad4cf974a7870031d77": {
@@ -908,12 +926,6 @@
    "role": "Equity Derivatives - Warrant Trader",
    "location": "Hong Kong"
   },
-  "65bb32545cb53cc8581bef2da851cf8d": {
-   "id": "65bb32545cb53cc8581bef2da851cf8d",
-   "company": "Manulife Financial Inc",
-   "role": "Actuarial Specialist",
-   "location": "Hong Kong"
-  },
   "5099723957cbaeb472d5f51fca254db3": {
    "id": "5099723957cbaeb472d5f51fca254db3",
    "company": "Prudential Com Sg",
@@ -960,6 +972,36 @@
    "id": "9ecc33dc4992c627a54b0826b9534567",
    "company": "DAT Deutsche Aufzugstechnik GmbH",
    "role": "調試員 (更新工程 / 安裝部)",
+   "location": "Hong Kong"
+  },
+  "19a92bb046a541a8c92911f8f5a2f51d": {
+   "id": "19a92bb046a541a8c92911f8f5a2f51d",
+   "company": "Calvin Klein",
+   "role": "Part-time Sales Associate 兼職售貨員 - Calvin Klein Jeans / Underwear",
+   "location": "Hong Kong"
+  },
+  "7c80b275baa933943d0a8fd1e0f865a1": {
+   "id": "7c80b275baa933943d0a8fd1e0f865a1",
+   "company": "Tommy Hilfiger",
+   "role": "Part-time Sales Associate 兼職售貨員 - Tommy Hilfiger",
+   "location": "Hong Kong"
+  },
+  "42c367d10a97a1e21fd1ca8e41ce8152": {
+   "id": "42c367d10a97a1e21fd1ca8e41ce8152",
+   "company": "Calvin Klein",
+   "role": "Sales Associate 售貨員 - Calvin Klein Jeans / Underwear",
+   "location": "Hong Kong"
+  },
+  "1f8d65999416f820764340e990ca7945": {
+   "id": "1f8d65999416f820764340e990ca7945",
+   "company": "Tommy Hilfiger",
+   "role": "Sales Associate 售貨員 - Tommy Hilfiger",
+   "location": "Hong Kong"
+  },
+  "9abced9f72094aad85793c2c0db4d2de": {
+   "id": "9abced9f72094aad85793c2c0db4d2de",
+   "company": "Calvin Klein",
+   "role": "Sales Associate (calvin Klein)",
    "location": "Hong Kong"
   },
   "9a689bcb0bebe18a1dc51ff88f61d56c": {
@@ -1046,18 +1088,6 @@
    "role": "Beauty Advisor - Hong Kong",
    "location": "Hong Kong"
   },
-  "19a92bb046a541a8c92911f8f5a2f51d": {
-   "id": "19a92bb046a541a8c92911f8f5a2f51d",
-   "company": "Calvin Klein",
-   "role": "Part-time Sales Associate 兼職售貨員 - Calvin Klein Jeans / Underwear",
-   "location": "Hong Kong"
-  },
-  "7c80b275baa933943d0a8fd1e0f865a1": {
-   "id": "7c80b275baa933943d0a8fd1e0f865a1",
-   "company": "Tommy Hilfiger",
-   "role": "Part-time Sales Associate 兼職售貨員 - Tommy Hilfiger",
-   "location": "Hong Kong"
-  },
   "a8f2ac3f0b16d317a3366632df9f2e7f": {
    "id": "a8f2ac3f0b16d317a3366632df9f2e7f",
    "company": "Coach (Tapestry, Inc.)",
@@ -1086,24 +1116,6 @@
    "id": "b468c9b49ecec7e921223ea87ea99813",
    "company": "PVH",
    "role": "Sales Associate (calvin Klein)",
-   "location": "Hong Kong"
-  },
-  "9abced9f72094aad85793c2c0db4d2de": {
-   "id": "9abced9f72094aad85793c2c0db4d2de",
-   "company": "Calvin Klein",
-   "role": "Sales Associate (calvin Klein)",
-   "location": "Hong Kong"
-  },
-  "42c367d10a97a1e21fd1ca8e41ce8152": {
-   "id": "42c367d10a97a1e21fd1ca8e41ce8152",
-   "company": "Calvin Klein",
-   "role": "Sales Associate 售貨員 - Calvin Klein Jeans / Underwear",
-   "location": "Hong Kong"
-  },
-  "2d2c0e2d2555d1e1f20b78a18b8f70bb": {
-   "id": "2d2c0e2d2555d1e1f20b78a18b8f70bb",
-   "company": "Tommy Hilfiger",
-   "role": "Sales Associate 售貨員 - Tommy Hilfiger",
    "location": "Hong Kong"
   },
   "f70f5fe8813455a13d2bd376fe2b7ad2": {

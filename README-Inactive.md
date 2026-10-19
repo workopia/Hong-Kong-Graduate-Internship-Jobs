@@ -367,4 +367,6 @@
 <tr><td>Huatai Securities (Singapore)</td><td>Debt Capital Markets - Intern</td><td>Hong Kong</td><td>2026-10-18</td></tr>
 <tr><td>Huatai Securities (HK)</td><td>Debt Capital Markets - Intern</td><td>Hong Kong</td><td>2026-10-18</td></tr>
 <tr><td>Huatai Securities (HK)</td><td>Institutional Equity - Account Management - Intern</td><td>Hong Kong</td><td>2026-10-18</td></tr>
+<tr><td>AIA</td><td>People Sustainability, Intern</td><td>Hong Kong</td><td>2026-10-19</td></tr>
+<tr><td>Tommy Hilfiger</td><td>Sales Associate 售貨員 - Tommy Hilfiger</td><td>Hong Kong</td><td>2026-10-19</td></tr>
 </table>
