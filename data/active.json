@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-19",
- "count": 207,
+ "asOf": "2026-10-20",
+ "count": 206,
  "jobs": {
   "de6b40746046a35c5d01705b3a693359": {
    "id": "de6b40746046a35c5d01705b3a693359",
@@ -588,12 +588,6 @@
    "id": "7e2e526390c4a20a98af17fbb22d9d00",
    "company": "Intact Financial",
    "role": "Ai Developer",
-   "location": "Hong Kong"
-  },
-  "c684dd5ac8b9964c3d12e30a918fb40a": {
-   "id": "c684dd5ac8b9964c3d12e30a918fb40a",
-   "company": "Me2Works",
-   "role": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
    "location": "Hong Kong"
   },
   "05a9ae950ae43a2b5f9638111d522f03": {

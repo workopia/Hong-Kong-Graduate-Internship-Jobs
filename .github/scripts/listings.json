@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-10-19",
+  "as_of": "2026-10-20",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1566,
-  "generated_at": "2026-10-19T00:17:09.126Z"
+  "country_live_total": 1564,
+  "generated_at": "2026-10-20T00:15:51.412Z"
  },
  "categories": [
   {
@@ -1737,23 +1737,6 @@
    "date_posted": "2026-08-29T20:52:11.589Z",
    "active": true,
    "url": "https://workopia.io/jobs/7e2e526390c4a20a98af17fbb22d9d00",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$22k–38k/mo*",
-   "id": "c684dd5ac8b9964c3d12e30a918fb40a",
-   "source": "Workopia",
-   "company_name": "Me2Works",
-   "company_hi_slug": "me2works",
-   "title": "Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group",
-   "location": "Hong Kong",
-   "skills": "SmartDX platform, .NET for webservice AP",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-20T22:28:58.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/c684dd5ac8b9964c3d12e30a918fb40a",
    "category": "data",
    "tier": "Entry-level"
   },
