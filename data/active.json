@@ -1,7 +1,13 @@
 {
  "asOf": "2026-10-21",
- "count": 206,
+ "count": 207,
  "jobs": {
+  "1f268c12a39db517ddc91050ea2294fc": {
+   "id": "1f268c12a39db517ddc91050ea2294fc",
+   "company": "蚂蚁集团",
+   "role": "业务发展支持实习生-antbank",
+   "location": "中国香港"
+  },
   "de6b40746046a35c5d01705b3a693359": {
    "id": "de6b40746046a35c5d01705b3a693359",
    "company": "Lidl & Kaufland Asia",
@@ -476,12 +482,6 @@
    "role": "Winter Trainee (building / Civil)",
    "location": "Kwun Tong District"
   },
-  "81a31c8d0fa774c3d4e893235b59d122": {
-   "id": "81a31c8d0fa774c3d4e893235b59d122",
-   "company": "Aaifire",
-   "role": "People Sustainability, Intern",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -690,6 +690,12 @@
    "id": "0debf44b6e8e7e38f64be24f7a85641e",
    "company": "DV Trading",
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
+   "location": "Hong Kong"
+  },
+  "08b10271102c19fd9599e6d37b75ad26": {
+   "id": "08b10271102c19fd9599e6d37b75ad26",
+   "company": "AXA UK",
+   "role": "Assistant Business Analyst (1-year Contract)",
    "location": "Hong Kong"
   },
   "87a0a2226eaa780530ee59abc1cd1c46": {

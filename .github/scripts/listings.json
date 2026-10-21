@@ -12,8 +12,8 @@
   "as_of": "2026-10-21",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1564,
-  "generated_at": "2026-10-21T01:40:13.768Z"
+  "country_live_total": 1549,
+  "generated_at": "2026-10-21T12:32:49.140Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "1f268c12a39db517ddc91050ea2294fc",
+   "source": "Workopia",
+   "company_name": "蚂蚁集团",
+   "company_hi_slug": null,
+   "title": "业务发展支持实习生-antbank",
+   "location": "中国香港",
+   "skills": "Business development s, Client communication m",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-20T09:15:34.640Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/1f268c12a39db517ddc91050ea2294fc",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "de6b40746046a35c5d01705b3a693359",
@@ -1418,23 +1435,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "81a31c8d0fa774c3d4e893235b59d122",
-   "source": "Workopia",
-   "company_name": "Aaifire",
-   "company_hi_slug": "aaifire",
-   "title": "People Sustainability, Intern",
-   "location": "Hong Kong",
-   "skills": "employee engagement ap, internal communication",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-08T06:04:01.496Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/81a31c8d0fa774c3d4e893235b59d122",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "Hq6SozpyQ7Bg",
    "source": "Workopia",
@@ -2028,6 +2028,23 @@
    "url": "https://workopia.io/jobs/0debf44b6e8e7e38f64be24f7a85641e",
    "category": "finance",
    "tier": "Graduate"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "08b10271102c19fd9599e6d37b75ad26",
+   "source": "Workopia",
+   "company_name": "AXA UK",
+   "company_hi_slug": "axa-uk",
+   "title": "Assistant Business Analyst (1-year Contract)",
+   "location": "Hong Kong",
+   "skills": "System testing, User Acceptance Testin",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-21T02:25:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/08b10271102c19fd9599e6d37b75ad26",
+   "category": "finance",
+   "tier": "Entry-level"
   },
   {
    "salary_display": "HK$20k–32k/mo*",

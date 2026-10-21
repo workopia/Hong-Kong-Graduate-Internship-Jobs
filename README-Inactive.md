@@ -370,4 +370,5 @@
 <tr><td>AIA</td><td>People Sustainability, Intern</td><td>Hong Kong</td><td>2026-10-19</td></tr>
 <tr><td>Tommy Hilfiger</td><td>Sales Associate 售貨員 - Tommy Hilfiger</td><td>Hong Kong</td><td>2026-10-19</td></tr>
 <tr><td>Me2Works</td><td>Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group</td><td>Hong Kong</td><td>2026-10-20</td></tr>
+<tr><td>Aaifire</td><td>People Sustainability, Intern</td><td>Hong Kong</td><td>2026-10-21</td></tr>
 </table>
