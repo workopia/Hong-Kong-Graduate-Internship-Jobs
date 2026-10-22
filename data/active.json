@@ -2,6 +2,12 @@
  "asOf": "2026-10-22",
  "count": 212,
  "jobs": {
+  "52b5bf6efd1b2456183ba4726d43bf94": {
+   "id": "52b5bf6efd1b2456183ba4726d43bf94",
+   "company": "Marsh",
+   "role": "Health & Benefits Consulting Intern (6-months Internship)",
+   "location": "Hong Kong"
+  },
   "1f268c12a39db517ddc91050ea2294fc": {
    "id": "1f268c12a39db517ddc91050ea2294fc",
    "company": "蚂蚁集团",
@@ -473,12 +479,6 @@
   "878adb39438176abed2f1956fc2dbe57": {
    "id": "878adb39438176abed2f1956fc2dbe57",
    "company": "Intact Financial",
-   "role": "Ai Developer I, Hk - Winter 2027",
-   "location": "Hong Kong"
-  },
-  "2da5cff950dc7c93f2abdb5781ecd6e9": {
-   "id": "2da5cff950dc7c93f2abdb5781ecd6e9",
-   "company": "Intact Financial Corporation",
    "role": "Ai Developer I, Hk - Winter 2027",
    "location": "Hong Kong"
   },

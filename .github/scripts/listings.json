@@ -12,8 +12,8 @@
   "as_of": "2026-10-22",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1580,
-  "generated_at": "2026-10-22T00:44:01.616Z"
+  "country_live_total": 1582,
+  "generated_at": "2026-10-22T12:33:49.908Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "52b5bf6efd1b2456183ba4726d43bf94",
+   "source": "Workopia",
+   "company_name": "Marsh",
+   "company_hi_slug": "marsh",
+   "title": "Health & Benefits Consulting Intern (6-months Internship)",
+   "location": "Hong Kong",
+   "skills": "English language profi, Cantonese language pro",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-21T17:23:52.917Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/52b5bf6efd1b2456183ba4726d43bf94",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "1f268c12a39db517ddc91050ea2294fc",
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-09-10T22:58:59.918Z",
    "active": true,
    "url": "https://workopia.io/jobs/878adb39438176abed2f1956fc2dbe57",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "2da5cff950dc7c93f2abdb5781ecd6e9",
-   "source": "Workopia",
-   "company_name": "Intact Financial Corporation",
-   "company_hi_slug": "intact-financial",
-   "title": "Ai Developer I, Hk - Winter 2027",
-   "location": "Hong Kong",
-   "skills": "Python, NLP/LLM",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-10T22:58:59.918Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/2da5cff950dc7c93f2abdb5781ecd6e9",
    "category": "grad",
    "tier": "Intern"
   },

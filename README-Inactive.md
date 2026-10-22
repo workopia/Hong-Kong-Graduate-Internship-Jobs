@@ -377,4 +377,5 @@
 <tr><td>BOUYGUES CONSTRUCTION IT SNC</td><td>Winter Trainee (building / Civil)</td><td>Kwun Tong District</td><td>2026-10-22</td></tr>
 <tr><td>Eclipse Trading</td><td>Graduate Low Latency C++ Software Engineer (hong Kong) At Eclipse Trading</td><td>Hong Kong</td><td>2026-10-22</td></tr>
 <tr><td>International SOS Assistance (HK) Ltd</td><td>Executive Assistant</td><td>Hong Kong</td><td>2026-10-22</td></tr>
+<tr><td>Intact Financial Corporation</td><td>Ai Developer I, Hk - Winter 2027</td><td>Hong Kong</td><td>2026-10-22</td></tr>
 </table>
