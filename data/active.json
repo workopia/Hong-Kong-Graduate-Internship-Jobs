@@ -1,12 +1,36 @@
 {
- "asOf": "2026-10-21",
- "count": 207,
+ "asOf": "2026-10-22",
+ "count": 212,
  "jobs": {
   "1f268c12a39db517ddc91050ea2294fc": {
    "id": "1f268c12a39db517ddc91050ea2294fc",
    "company": "蚂蚁集团",
    "role": "业务发展支持实习生-antbank",
    "location": "中国香港"
+  },
+  "707157b43cb4da2a45f35d799de09c57": {
+   "id": "707157b43cb4da2a45f35d799de09c57",
+   "company": "Hong Kong Productivity Council",
+   "role": "Intern (generative Ai Project Support), Government Efficacy & Ai Solution",
+   "location": "Hong Kong"
+  },
+  "5aae4df6586355f711fb6612dc6e078e": {
+   "id": "5aae4df6586355f711fb6612dc6e078e",
+   "company": "Hong Kong Productivity Council",
+   "role": "Intern (aiot And Data Analytics Project Support), Smart Infrastructure & Aiot",
+   "location": "Hong Kong"
+  },
+  "4a62ca8d093f23bcd3bce50c11058adf": {
+   "id": "4a62ca8d093f23bcd3bce50c11058adf",
+   "company": "Hong Kong Productivity Council",
+   "role": "Intern, Enterprise Resource Planning (erp)",
+   "location": "Hong Kong"
+  },
+  "329ced1d25245bd6654f1b4a560ad192": {
+   "id": "329ced1d25245bd6654f1b4a560ad192",
+   "company": "Hong Kong Productivity Council",
+   "role": "Intern, Ai & Innovation Lab",
+   "location": "Hong Kong"
   },
   "de6b40746046a35c5d01705b3a693359": {
    "id": "de6b40746046a35c5d01705b3a693359",
@@ -458,40 +482,10 @@
    "role": "Ai Developer I, Hk - Winter 2027",
    "location": "Hong Kong"
   },
-  "b4e2e1d849b8da86b101c06cd036c0fb": {
-   "id": "b4e2e1d849b8da86b101c06cd036c0fb",
-   "company": "SunLife",
-   "role": "Hong Kong Actuarial Internship 2026",
-   "location": "Hong Kong"
-  },
-  "1bcc5a2843615705ef6e8c1418f76af3": {
-   "id": "1bcc5a2843615705ef6e8c1418f76af3",
-   "company": "Hermès International",
-   "role": "Internal Communications Intern (hr)",
-   "location": "Hong Kong Sar"
-  },
-  "cb46ca121f31f589254a12282a3667ef": {
-   "id": "cb46ca121f31f589254a12282a3667ef",
-   "company": "SunLife",
-   "role": "Actuarial Internship 2027",
-   "location": "Hong Kong"
-  },
-  "d49d0320a033534f57a529a427a08278": {
-   "id": "d49d0320a033534f57a529a427a08278",
-   "company": "BOUYGUES CONSTRUCTION IT SNC",
-   "role": "Winter Trainee (building / Civil)",
-   "location": "Kwun Tong District"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
    "role": "Graduate C Software Engineer",
-   "location": "Hong Kong"
-  },
-  "9b964a7f671b4e1b27730b6f98c22d34": {
-   "id": "9b964a7f671b4e1b27730b6f98c22d34",
-   "company": "Eclipse Trading",
-   "role": "Graduate Low Latency C++ Software Engineer (hong Kong) At Eclipse Trading",
    "location": "Hong Kong"
   },
   "ac8f332f313d7d7fb49701905bcd4971": {
@@ -548,6 +542,24 @@
    "role": "Full-stack Software Engineer",
    "location": "Hong Kong"
   },
+  "dd191fa709443d14886f52b48ac4baa2": {
+   "id": "dd191fa709443d14886f52b48ac4baa2",
+   "company": "Hong Kong Productivity Council",
+   "role": "Analyst (intern), Ai Development",
+   "location": "Hong Kong"
+  },
+  "897b1f9df4aa79c0e970d319b8ddd12c": {
+   "id": "897b1f9df4aa79c0e970d319b8ddd12c",
+   "company": "Infineon",
+   "role": "Internship - Ai Engineer",
+   "location": "Hong Kong"
+  },
+  "99268a0bcfa92babbc42c56f5cf1d90a": {
+   "id": "99268a0bcfa92babbc42c56f5cf1d90a",
+   "company": "Hong Kong Productivity Council",
+   "role": "Technical Officer, Ai Agents & Data Analytics For Ai City Brain",
+   "location": "Hong Kong"
+  },
   "0200922e9700ca5cca202466df49c015": {
    "id": "0200922e9700ca5cca202466df49c015",
    "company": "Me2Works",
@@ -588,6 +600,12 @@
    "id": "7e2e526390c4a20a98af17fbb22d9d00",
    "company": "Intact Financial",
    "role": "Ai Developer",
+   "location": "Hong Kong"
+  },
+  "8d63bc75c798ffc779b9e56d5d2e9e5b": {
+   "id": "8d63bc75c798ffc779b9e56d5d2e9e5b",
+   "company": "DV Group Ltd",
+   "role": "Quantitative Trading Intern (dv Qes)",
    "location": "Hong Kong"
   },
   "05a9ae950ae43a2b5f9638111d522f03": {
@@ -662,6 +680,18 @@
    "role": "Manulife: Actuarial Internship Program 2027 (6.5 Months)",
    "location": "Hong Kong"
   },
+  "69436ef2d7aa926f08ca8cb208352148": {
+   "id": "69436ef2d7aa926f08ca8cb208352148",
+   "company": "DV Group Ltd",
+   "role": "2027 Quantitative Trader Graduate (dv Qes)",
+   "location": "Hong Kong"
+  },
+  "ae391c56b66f6249feebff03a77c9e39": {
+   "id": "ae391c56b66f6249feebff03a77c9e39",
+   "company": "DV Group Ltd",
+   "role": "2027 Quantitative Researcher Graduate (dv Qes)",
+   "location": "Hong Kong"
+  },
   "d4645be7cc6f19624fa348fb6855ccc7": {
    "id": "d4645be7cc6f19624fa348fb6855ccc7",
    "company": "DV Group Ltd",
@@ -726,6 +756,12 @@
    "id": "9e8c258a5cb683b43c54a0968e99a775",
    "company": "Jll Com Au",
    "role": "Business Support Analyst",
+   "location": "Hong Kong"
+  },
+  "9b4b51c83001fc1408197cc7c2f74f9b": {
+   "id": "9b4b51c83001fc1408197cc7c2f74f9b",
+   "company": "Qube Research And Technology",
+   "role": "Quantitative Strategist",
    "location": "Hong Kong"
   },
   "6545d143e6d7efea6ca0e41667762609": {
@@ -1236,12 +1272,6 @@
    "id": "3c5bffa4deafbf34ea8f833b1f0f2ef0",
    "company": "Me2Works",
    "role": "Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Open University Of Hong Kong",
-   "location": "Hong Kong"
-  },
-  "14acbd22a80edb7a134b94633b16e90a": {
-   "id": "14acbd22a80edb7a134b94633b16e90a",
-   "company": "International SOS Assistance (HK) Ltd",
-   "role": "Executive Assistant",
    "location": "Hong Kong"
   }
  }

@@ -371,4 +371,10 @@
 <tr><td>Tommy Hilfiger</td><td>Sales Associate 售貨員 - Tommy Hilfiger</td><td>Hong Kong</td><td>2026-10-19</td></tr>
 <tr><td>Me2Works</td><td>Document Automation Engineer - Eqd Structured Products Technology / Hong Kong, Hk At Gravitas Recruitment Group</td><td>Hong Kong</td><td>2026-10-20</td></tr>
 <tr><td>Aaifire</td><td>People Sustainability, Intern</td><td>Hong Kong</td><td>2026-10-21</td></tr>
+<tr><td>SunLife</td><td>Hong Kong Actuarial Internship 2026</td><td>Hong Kong</td><td>2026-10-22</td></tr>
+<tr><td>Hermès International</td><td>Internal Communications Intern (hr)</td><td>Hong Kong Sar</td><td>2026-10-22</td></tr>
+<tr><td>SunLife</td><td>Actuarial Internship 2027</td><td>Hong Kong</td><td>2026-10-22</td></tr>
+<tr><td>BOUYGUES CONSTRUCTION IT SNC</td><td>Winter Trainee (building / Civil)</td><td>Kwun Tong District</td><td>2026-10-22</td></tr>
+<tr><td>Eclipse Trading</td><td>Graduate Low Latency C++ Software Engineer (hong Kong) At Eclipse Trading</td><td>Hong Kong</td><td>2026-10-22</td></tr>
+<tr><td>International SOS Assistance (HK) Ltd</td><td>Executive Assistant</td><td>Hong Kong</td><td>2026-10-22</td></tr>
 </table>
