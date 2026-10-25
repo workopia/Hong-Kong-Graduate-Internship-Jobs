@@ -379,4 +379,5 @@
 <tr><td>International SOS Assistance (HK) Ltd</td><td>Executive Assistant</td><td>Hong Kong</td><td>2026-10-22</td></tr>
 <tr><td>Intact Financial Corporation</td><td>Ai Developer I, Hk - Winter 2027</td><td>Hong Kong</td><td>2026-10-22</td></tr>
 <tr><td>Intact Financial</td><td>Ai Developer I, Hk - Winter 2027</td><td>Hong Kong</td><td>2026-10-24</td></tr>
+<tr><td>AIA Group</td><td>Agency, Intern</td><td>Hong Kong</td><td>2026-10-25</td></tr>
 </table>

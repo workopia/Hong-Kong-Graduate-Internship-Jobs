@@ -1,7 +1,13 @@
 {
- "asOf": "2026-10-24",
- "count": 215,
+ "asOf": "2026-10-25",
+ "count": 216,
  "jobs": {
+  "02a27429ef66d0fcd9cd480fd8fac91b": {
+   "id": "02a27429ef66d0fcd9cd480fd8fac91b",
+   "company": "Computershare",
+   "role": "Internship, Financial Services (competitive Paid)",
+   "location": "Hong Kong"
+  },
   "267f9d39cc167c5d4fa81ddf16394fe1": {
    "id": "267f9d39cc167c5d4fa81ddf16394fe1",
    "company": "Huatai Securities (HK)",
@@ -474,12 +480,6 @@
    "id": "937b81f26ae09ad4d96c2d72dc425112",
    "company": "Mitsubishi UFJ Financial Group (MUFG)",
    "role": "Summer Internship Programme 2027 – Global Corporate Banking",
-   "location": "Hong Kong"
-  },
-  "503be9de3ef1f4df72437363bae37820": {
-   "id": "503be9de3ef1f4df72437363bae37820",
-   "company": "AIA Group",
-   "role": "Agency, Intern",
    "location": "Hong Kong"
   },
   "Hq6SozpyQ7Bg": {
@@ -1014,6 +1014,12 @@
    "id": "9ecc33dc4992c627a54b0826b9534567",
    "company": "DAT Deutsche Aufzugstechnik GmbH",
    "role": "調試員 (更新工程 / 安裝部)",
+   "location": "Hong Kong"
+  },
+  "4f8bd90cc83308996963a83664519595": {
+   "id": "4f8bd90cc83308996963a83664519595",
+   "company": "H&M",
+   "role": "Part Time Sales Advisor (harbour City)",
    "location": "Hong Kong"
   },
   "8909d6f2af19a1424380de5124ad440d": {

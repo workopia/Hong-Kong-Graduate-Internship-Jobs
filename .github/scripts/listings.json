@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1582,
-  "generated_at": "2026-10-24T00:44:01.536Z"
+  "country_live_total": 1587,
+  "generated_at": "2026-10-25T00:41:40.180Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "02a27429ef66d0fcd9cd480fd8fac91b",
+   "source": "Workopia",
+   "company_name": "Computershare",
+   "company_hi_slug": "computershare",
+   "title": "Internship, Financial Services (competitive Paid)",
+   "location": "Hong Kong",
+   "skills": "Full-time commitment, English communication",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-23T22:54:16.234Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/02a27429ef66d0fcd9cd480fd8fac91b",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "267f9d39cc167c5d4fa81ddf16394fe1",
@@ -1414,23 +1431,6 @@
    "date_posted": "2026-09-14T14:53:28.027Z",
    "active": true,
    "url": "https://workopia.io/jobs/937b81f26ae09ad4d96c2d72dc425112",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "503be9de3ef1f4df72437363bae37820",
-   "source": "Workopia",
-   "company_name": "AIA Group",
-   "company_hi_slug": "aia-group",
-   "title": "Agency, Intern",
-   "location": "Hong Kong",
-   "skills": "Marketing campaigns, Communication campaign",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-11T04:39:01.973Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/503be9de3ef1f4df72437363bae37820",
    "category": "grad",
    "tier": "Intern"
   },
@@ -2945,6 +2945,23 @@
    "active": true,
    "url": "https://workopia.io/jobs/9ecc33dc4992c627a54b0826b9534567",
    "category": "trades",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$17k–25k/mo*",
+   "id": "4f8bd90cc83308996963a83664519595",
+   "source": "Workopia",
+   "company_name": "H&M",
+   "company_hi_slug": "h-m",
+   "title": "Part Time Sales Advisor (harbour City)",
+   "location": "Hong Kong",
+   "skills": "Customer service, Sales assistance",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-23T09:23:52.039Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/4f8bd90cc83308996963a83664519595",
+   "category": "sales",
    "tier": "Entry-level"
   },
   {
