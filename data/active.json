@@ -1,7 +1,19 @@
 {
- "asOf": "2026-10-25",
- "count": 216,
+ "asOf": "2026-10-26",
+ "count": 223,
  "jobs": {
+  "43f8758d319b0db1788411c718991b14": {
+   "id": "43f8758d319b0db1788411c718991b14",
+   "company": "DBS Bank",
+   "role": "2026 Pbtpc Winter Intern",
+   "location": "Hong Kong"
+  },
+  "6b7d428633830732b485aad4d5f02c5d": {
+   "id": "6b7d428633830732b485aad4d5f02c5d",
+   "company": "FINN Partners",
+   "role": "Internship Program (hong Kong) (at Least Three Working Days)",
+   "location": "Hong Kong"
+  },
   "02a27429ef66d0fcd9cd480fd8fac91b": {
    "id": "02a27429ef66d0fcd9cd480fd8fac91b",
    "company": "Computershare",
@@ -470,18 +482,6 @@
    "role": "Internship - Order Management & Operations Intern",
    "location": "Hong Kong"
   },
-  "6033207f9c8390e4ec80ce15b0b74cf2": {
-   "id": "6033207f9c8390e4ec80ce15b0b74cf2",
-   "company": "Atkinsrealis",
-   "role": "Winter Internship",
-   "location": "Hong Kong"
-  },
-  "937b81f26ae09ad4d96c2d72dc425112": {
-   "id": "937b81f26ae09ad4d96c2d72dc425112",
-   "company": "Mitsubishi UFJ Financial Group (MUFG)",
-   "role": "Summer Internship Programme 2027 – Global Corporate Banking",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -554,6 +554,12 @@
    "role": "Internship - Ai Engineer",
    "location": "Hong Kong"
   },
+  "ae4fd8c4209a594bd206c70f6c48f6da": {
+   "id": "ae4fd8c4209a594bd206c70f6c48f6da",
+   "company": "The University of Hong Kong",
+   "role": "Ai Engineer",
+   "location": "Hong Kong"
+  },
   "99268a0bcfa92babbc42c56f5cf1d90a": {
    "id": "99268a0bcfa92babbc42c56f5cf1d90a",
    "company": "Hong Kong Productivity Council",
@@ -570,6 +576,18 @@
    "id": "79aeb1c20adc07ba7c56df04b0ab4f60",
    "company": "LRQA",
    "role": "Junior Data Scientist",
+   "location": "Hong Kong"
+  },
+  "7208074a80486a139fd6afe4097cca68": {
+   "id": "7208074a80486a139fd6afe4097cca68",
+   "company": "BJAK",
+   "role": "Applied Ai Engineer - Ai Finance Agent",
+   "location": "Hong Kong"
+  },
+  "c8e9865474adeb6e948f8e9402ab2f21": {
+   "id": "c8e9865474adeb6e948f8e9402ab2f21",
+   "company": "BJAK",
+   "role": "Applied Ai Engineer",
    "location": "Hong Kong"
   },
   "476c2f516590b46c34fec88f1665296f": {
@@ -726,6 +744,12 @@
    "id": "0debf44b6e8e7e38f64be24f7a85641e",
    "company": "DV Trading",
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
+   "location": "Hong Kong"
+  },
+  "149dd324deecac6292db257063f66e0a": {
+   "id": "149dd324deecac6292db257063f66e0a",
+   "company": "DBS Bank",
+   "role": "Cdd Specialist, Know Your Customer, Sme Banking",
    "location": "Hong Kong"
   },
   "08b10271102c19fd9599e6d37b75ad26": {
@@ -1196,6 +1220,18 @@
    "role": "Administrative Associate",
    "location": "Hong Kong"
   },
+  "3cd799e9ca506f380a7641492ea1ce25": {
+   "id": "3cd799e9ca506f380a7641492ea1ce25",
+   "company": "The University of Hong Kong",
+   "role": "Fractional Clerk Ii (holding The Functional Title Of Executive Assistant) In The Joint Universities Computer Centre (jucc)",
+   "location": "Hong Kong"
+  },
+  "d496c521f4a9378747799429fa347954": {
+   "id": "d496c521f4a9378747799429fa347954",
+   "company": "The University of Hong Kong",
+   "role": "Clerical Assistant",
+   "location": "Hong Kong Au"
+  },
   "24e5f7dab3a18c619359886146336ae8": {
    "id": "24e5f7dab3a18c619359886146336ae8",
    "company": "Ernst & Young",
@@ -1273,6 +1309,12 @@
    "company": "LSEG (London Stock Exchange Group)",
    "role": "Sales Specialist, Analytics & Ai Solutions",
    "location": "Hong Kong"
+  },
+  "f9dd8f9bb3ac25dfbda800f2d155ee7d": {
+   "id": "f9dd8f9bb3ac25dfbda800f2d155ee7d",
+   "company": "The University of Hong Kong",
+   "role": "Part-time Student Affairs Assistant I",
+   "location": "Hong Kong Au"
   },
   "ec012de7fdb3421142069a495ec0c388": {
    "id": "ec012de7fdb3421142069a495ec0c388",

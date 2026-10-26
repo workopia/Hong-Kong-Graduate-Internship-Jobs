@@ -380,4 +380,6 @@
 <tr><td>Intact Financial Corporation</td><td>Ai Developer I, Hk - Winter 2027</td><td>Hong Kong</td><td>2026-10-22</td></tr>
 <tr><td>Intact Financial</td><td>Ai Developer I, Hk - Winter 2027</td><td>Hong Kong</td><td>2026-10-24</td></tr>
 <tr><td>AIA Group</td><td>Agency, Intern</td><td>Hong Kong</td><td>2026-10-25</td></tr>
+<tr><td>Atkinsrealis</td><td>Winter Internship</td><td>Hong Kong</td><td>2026-10-26</td></tr>
+<tr><td>Mitsubishi UFJ Financial Group (MUFG)</td><td>Summer Internship Programme 2027 – Global Corporate Banking</td><td>Hong Kong</td><td>2026-10-26</td></tr>
 </table>
