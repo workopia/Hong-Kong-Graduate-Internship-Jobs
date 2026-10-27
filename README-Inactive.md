@@ -382,4 +382,5 @@
 <tr><td>AIA Group</td><td>Agency, Intern</td><td>Hong Kong</td><td>2026-10-25</td></tr>
 <tr><td>Atkinsrealis</td><td>Winter Internship</td><td>Hong Kong</td><td>2026-10-26</td></tr>
 <tr><td>Mitsubishi UFJ Financial Group (MUFG)</td><td>Summer Internship Programme 2027 – Global Corporate Banking</td><td>Hong Kong</td><td>2026-10-26</td></tr>
+<tr><td>Knorr-Bremse</td><td>Internship - Order Management & Operations Intern</td><td>Hong Kong</td><td>2026-10-27</td></tr>
 </table>

@@ -1,7 +1,13 @@
 {
- "asOf": "2026-10-26",
- "count": 223,
+ "asOf": "2026-10-27",
+ "count": 224,
  "jobs": {
+  "a11b72065bbc1c7a927d3da43c7f8ff2": {
+   "id": "a11b72065bbc1c7a927d3da43c7f8ff2",
+   "company": "MARSH MCLENNAN",
+   "role": "Health & Benefits Consulting Intern (6-months Internship)",
+   "location": "Hong Kong"
+  },
   "43f8758d319b0db1788411c718991b14": {
    "id": "43f8758d319b0db1788411c718991b14",
    "company": "DBS Bank",
@@ -476,12 +482,6 @@
    "role": "Pharmacy Intern - 6 Months",
    "location": "Hong Kong"
   },
-  "e23e3e155184f0f6d25194d1810e0bfc": {
-   "id": "e23e3e155184f0f6d25194d1810e0bfc",
-   "company": "Knorr-Bremse",
-   "role": "Internship - Order Management & Operations Intern",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -701,6 +701,12 @@
   "2e3439cbec23618f4f2bd1702cfa02ed": {
    "id": "2e3439cbec23618f4f2bd1702cfa02ed",
    "company": "Prudential Com Sg",
+   "role": "Actuarial Intern (july 2027 To Dec 2027)",
+   "location": "Hong Kong"
+  },
+  "94fd3876840a8230f18c0fd231f02a3c": {
+   "id": "94fd3876840a8230f18c0fd231f02a3c",
+   "company": "Prudential",
    "role": "Actuarial Intern (july 2027 To Dec 2027)",
    "location": "Hong Kong"
   },
