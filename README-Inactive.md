@@ -383,4 +383,11 @@
 <tr><td>Atkinsrealis</td><td>Winter Internship</td><td>Hong Kong</td><td>2026-10-26</td></tr>
 <tr><td>Mitsubishi UFJ Financial Group (MUFG)</td><td>Summer Internship Programme 2027 – Global Corporate Banking</td><td>Hong Kong</td><td>2026-10-26</td></tr>
 <tr><td>Knorr-Bremse</td><td>Internship - Order Management & Operations Intern</td><td>Hong Kong</td><td>2026-10-27</td></tr>
+<tr><td>Invesco UK</td><td>Intern, Invesco Real Estate (3 Months)</td><td>Hong Kong</td><td>2026-10-28</td></tr>
+<tr><td>Hasbro</td><td>2026 Hasbro Hong Kong Experience Day: Internship Discovery</td><td>Hong Kong</td><td>2026-10-28</td></tr>
+<tr><td>Roche</td><td>Pharmacy Intern - 6 Months</td><td>Hong Kong</td><td>2026-10-28</td></tr>
+<tr><td>Prudential Com Sg</td><td>Actuarial Intern (july 2027 To Dec 2027)</td><td>Hong Kong</td><td>2026-10-28</td></tr>
+<tr><td>Prudential</td><td>Actuarial Intern (july 2027 To Dec 2027)</td><td>Hong Kong</td><td>2026-10-28</td></tr>
+<tr><td>H&M</td><td>Part Time Sales Advisor (harbour City)</td><td>Hong Kong</td><td>2026-10-28</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Hong Kong</td><td>2026-10-28</td></tr>
 </table>

@@ -1,7 +1,25 @@
 {
- "asOf": "2026-10-27",
- "count": 224,
+ "asOf": "2026-10-28",
+ "count": 222,
  "jobs": {
+  "4bb0ddea282423c6639004bbffe94178": {
+   "id": "4bb0ddea282423c6639004bbffe94178",
+   "company": "sunriseatwolfchase.com",
+   "role": "Hsu Internship",
+   "location": "Hong Kong"
+  },
+  "eaba445700df2a02a0f286d5dbe12650": {
+   "id": "eaba445700df2a02a0f286d5dbe12650",
+   "company": "LGT Crestone Wealth Management Limited",
+   "role": "Intern, Investment Solutions",
+   "location": "Hong Kong"
+  },
+  "779ba6aad6b74827576cf1707f6067dc": {
+   "id": "779ba6aad6b74827576cf1707f6067dc",
+   "company": "AIA Australia",
+   "role": "2027 2h Actuarial Internship Programme, Aia Group Office",
+   "location": "Hong Kong"
+  },
   "a11b72065bbc1c7a927d3da43c7f8ff2": {
    "id": "a11b72065bbc1c7a927d3da43c7f8ff2",
    "company": "MARSH MCLENNAN",
@@ -464,24 +482,6 @@
    "role": "Equity Derivatives - Derivatives Structuring - Intern",
    "location": "Hong Kong"
   },
-  "ee26c3b0a842442f3fb8ab27f6564676": {
-   "id": "ee26c3b0a842442f3fb8ab27f6564676",
-   "company": "Invesco UK",
-   "role": "Intern, Invesco Real Estate (3 Months)",
-   "location": "Hong Kong"
-  },
-  "bd86e047c572666e581c8af0c3bc7b27": {
-   "id": "bd86e047c572666e581c8af0c3bc7b27",
-   "company": "Hasbro",
-   "role": "2026 Hasbro Hong Kong Experience Day: Internship Discovery",
-   "location": "Hong Kong"
-  },
-  "b97c7f821fcfc23efa08435c48568239": {
-   "id": "b97c7f821fcfc23efa08435c48568239",
-   "company": "Roche",
-   "role": "Pharmacy Intern - 6 Months",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -696,18 +696,6 @@
    "id": "3933535f687f4cc3834c49f523bc019b",
    "company": "Manulife",
    "role": "Manulife: Actuarial Internship Program 2027 (6.5 Months)",
-   "location": "Hong Kong"
-  },
-  "2e3439cbec23618f4f2bd1702cfa02ed": {
-   "id": "2e3439cbec23618f4f2bd1702cfa02ed",
-   "company": "Prudential Com Sg",
-   "role": "Actuarial Intern (july 2027 To Dec 2027)",
-   "location": "Hong Kong"
-  },
-  "94fd3876840a8230f18c0fd231f02a3c": {
-   "id": "94fd3876840a8230f18c0fd231f02a3c",
-   "company": "Prudential",
-   "role": "Actuarial Intern (july 2027 To Dec 2027)",
    "location": "Hong Kong"
   },
   "69436ef2d7aa926f08ca8cb208352148": {
@@ -1046,8 +1034,14 @@
    "role": "調試員 (更新工程 / 安裝部)",
    "location": "Hong Kong"
   },
-  "4f8bd90cc83308996963a83664519595": {
-   "id": "4f8bd90cc83308996963a83664519595",
+  "b71e41e34489c2ebc49ddd6617df61a3": {
+   "id": "b71e41e34489c2ebc49ddd6617df61a3",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Sales Associate",
+   "location": "Hong Kong"
+  },
+  "999f3167e37256babe0c79648bb2b02f": {
+   "id": "999f3167e37256babe0c79648bb2b02f",
    "company": "H&M",
    "role": "Part Time Sales Advisor (harbour City)",
    "location": "Hong Kong"
@@ -1170,12 +1164,6 @@
    "id": "6d379682aa19f6580c105e762be17cb2",
    "company": "Naturactive",
    "role": "Beauty Advisor - Hong Kong",
-   "location": "Hong Kong"
-  },
-  "a8f2ac3f0b16d317a3366632df9f2e7f": {
-   "id": "a8f2ac3f0b16d317a3366632df9f2e7f",
-   "company": "Coach (Tapestry, Inc.)",
-   "role": "Sales Associate",
    "location": "Hong Kong"
   },
   "461c8b18902beaf308f41cbd1df276cf": {
