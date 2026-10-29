@@ -390,4 +390,6 @@
 <tr><td>Prudential</td><td>Actuarial Intern (july 2027 To Dec 2027)</td><td>Hong Kong</td><td>2026-10-28</td></tr>
 <tr><td>H&M</td><td>Part Time Sales Advisor (harbour City)</td><td>Hong Kong</td><td>2026-10-28</td></tr>
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Hong Kong</td><td>2026-10-28</td></tr>
+<tr><td>Intact Financial</td><td>Data Scientist</td><td>Hong Kong</td><td>2026-10-29</td></tr>
+<tr><td>Intact Financial</td><td>Ai Developer</td><td>Hong Kong</td><td>2026-10-29</td></tr>
 </table>

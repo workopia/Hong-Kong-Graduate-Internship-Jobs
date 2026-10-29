@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-28",
- "count": 222,
+ "asOf": "2026-10-29",
+ "count": 220,
  "jobs": {
   "4bb0ddea282423c6639004bbffe94178": {
    "id": "4bb0ddea282423c6639004bbffe94178",
@@ -606,18 +606,6 @@
    "id": "5cbd2673b4b83a86d143a65e5ca172c0",
    "company": "Intact Lab",
    "role": "Ai Developer At Intact Fc",
-   "location": "Hong Kong"
-  },
-  "bf616b8ecf4e80977060a372ff0723c8": {
-   "id": "bf616b8ecf4e80977060a372ff0723c8",
-   "company": "Intact Financial",
-   "role": "Data Scientist",
-   "location": "Hong Kong"
-  },
-  "7e2e526390c4a20a98af17fbb22d9d00": {
-   "id": "7e2e526390c4a20a98af17fbb22d9d00",
-   "company": "Intact Financial",
-   "role": "Ai Developer",
    "location": "Hong Kong"
   },
   "8d63bc75c798ffc779b9e56d5d2e9e5b": {

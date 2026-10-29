@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1326,
-  "generated_at": "2026-10-28T00:50:35.489Z"
+  "country_live_total": 1320,
+  "generated_at": "2026-10-29T00:52:29.564Z"
  },
  "categories": [
   {
@@ -1788,40 +1788,6 @@
    "date_posted": "2026-08-30T19:32:56.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/5cbd2673b4b83a86d143a65e5ca172c0",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$22k–38k/mo*",
-   "id": "bf616b8ecf4e80977060a372ff0723c8",
-   "source": "Workopia",
-   "company_name": "Intact Financial",
-   "company_hi_slug": "intact-financial",
-   "title": "Data Scientist",
-   "location": "Hong Kong",
-   "skills": "Develop innovative sol, Machine learning and a",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-29T20:52:11.589Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/bf616b8ecf4e80977060a372ff0723c8",
-   "category": "data",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$22k–38k/mo*",
-   "id": "7e2e526390c4a20a98af17fbb22d9d00",
-   "source": "Workopia",
-   "company_name": "Intact Financial",
-   "company_hi_slug": "intact-financial",
-   "title": "Ai Developer",
-   "location": "Hong Kong",
-   "skills": "machine learning into , build and advocate des",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-29T20:52:11.589Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/7e2e526390c4a20a98af17fbb22d9d00",
    "category": "data",
    "tier": "Entry-level"
   },
