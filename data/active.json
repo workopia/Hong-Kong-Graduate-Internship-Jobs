@@ -1,7 +1,31 @@
 {
- "asOf": "2026-10-29",
- "count": 220,
+ "asOf": "2026-10-30",
+ "count": 222,
  "jobs": {
+  "79f2987c5b43bf84cd8934d973ae37eb": {
+   "id": "79f2987c5b43bf84cd8934d973ae37eb",
+   "company": "adidas AG",
+   "role": "Intern Product Development & Sourcing (digital Transformation)",
+   "location": "Hong Kong"
+  },
+  "1dde7f496d7e1544c75e65523d591a08": {
+   "id": "1dde7f496d7e1544c75e65523d591a08",
+   "company": "Estée Lauder",
+   "role": "Retail & Education Intern, Edpfm & Kilian Paris, Apac",
+   "location": "Hong Kong"
+  },
+  "5b51ad811f903aa06c4312f9283f699e": {
+   "id": "5b51ad811f903aa06c4312f9283f699e",
+   "company": "China CITIC Bank International Ltd",
+   "role": "Intern, Wholesale Banking Group",
+   "location": "Hong Kong"
+  },
+  "410e3191aebb5fb8c1bcbeb30f0bd5e8": {
+   "id": "410e3191aebb5fb8c1bcbeb30f0bd5e8",
+   "company": "The Estée Lauder Companies Inc.",
+   "role": "Retail & Education Intern, EDPFM & Kilian Paris, APAC",
+   "location": "Hong Kong"
+  },
   "4bb0ddea282423c6639004bbffe94178": {
    "id": "4bb0ddea282423c6639004bbffe94178",
    "company": "sunriseatwolfchase.com",
@@ -458,35 +482,17 @@
    "role": "Corporate Intern",
    "location": "Hong Kong"
   },
-  "252ce6ddf5feca31e346c238838a4f29": {
-   "id": "252ce6ddf5feca31e346c238838a4f29",
-   "company": "DFI Retail Group",
-   "role": "Pharmacy Intern Programme 2026",
-   "location": "Hong Kong"
-  },
-  "3eaee825ba34ae1d92563e767438b637": {
-   "id": "3eaee825ba34ae1d92563e767438b637",
-   "company": "DJE Holdings",
-   "role": "Digital Intern",
-   "location": "Hong Kong"
-  },
-  "a1f7d68373ed84a97bffcf405481c9b3": {
-   "id": "a1f7d68373ed84a97bffcf405481c9b3",
-   "company": "DJE Holdings",
-   "role": "Design Intern",
-   "location": "Hong Kong"
-  },
-  "d012c621684f6b2f097d1d68bc0d3608": {
-   "id": "d012c621684f6b2f097d1d68bc0d3608",
-   "company": "Huatai Securities (HK)",
-   "role": "Equity Derivatives - Derivatives Structuring - Intern",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
    "role": "Graduate C Software Engineer",
    "location": "Hong Kong"
+  },
+  "361391b934d4c910": {
+   "id": "361391b934d4c910",
+   "company": "STANDARD CHARTERED BANK (SINGAPORE) LIMITED",
+   "role": "Quantitative Developer (Singapore, Hong Kong)",
+   "location": "Singapore +1"
   },
   "ac8f332f313d7d7fb49701905bcd4971": {
    "id": "ac8f332f313d7d7fb49701905bcd4971",
@@ -554,6 +560,12 @@
    "role": "Internship - Ai Engineer",
    "location": "Hong Kong"
   },
+  "cf3ecca7238cebae9ed6ae46293cacce": {
+   "id": "cf3ecca7238cebae9ed6ae46293cacce",
+   "company": "Hong Kong Productivity Council",
+   "role": "Assistant Engineer, Embodied Ai",
+   "location": "Hong Kong"
+  },
   "ae4fd8c4209a594bd206c70f6c48f6da": {
    "id": "ae4fd8c4209a594bd206c70f6c48f6da",
    "company": "The University of Hong Kong",
@@ -600,12 +612,6 @@
    "id": "0e9b8986f9673eb2202ae3ef5d64e010",
    "company": "Intact Financial Corporation",
    "role": "Data Scientist I, Hk - Winter 2027",
-   "location": "Hong Kong"
-  },
-  "5cbd2673b4b83a86d143a65e5ca172c0": {
-   "id": "5cbd2673b4b83a86d143a65e5ca172c0",
-   "company": "Intact Lab",
-   "role": "Ai Developer At Intact Fc",
    "location": "Hong Kong"
   },
   "8d63bc75c798ffc779b9e56d5d2e9e5b": {
@@ -1022,6 +1028,12 @@
    "role": "調試員 (更新工程 / 安裝部)",
    "location": "Hong Kong"
   },
+  "34ad04127adba372f511d4edafe2e5df": {
+   "id": "34ad04127adba372f511d4edafe2e5df",
+   "company": "Kering",
+   "role": "Bottega Veneta Part Time Sales",
+   "location": "Hong Kong"
+  },
   "b71e41e34489c2ebc49ddd6617df61a3": {
    "id": "b71e41e34489c2ebc49ddd6617df61a3",
    "company": "Coach (Tapestry, Inc.)",
@@ -1074,12 +1086,6 @@
    "id": "9a689bcb0bebe18a1dc51ff88f61d56c",
    "company": "Coach",
    "role": "Sales Associate",
-   "location": "Hong Kong"
-  },
-  "8b878141c1a4bc697b1d4b5c21cea869": {
-   "id": "8b878141c1a4bc697b1d4b5c21cea869",
-   "company": "Kering",
-   "role": "Bottega Veneta Part Time Sales",
    "location": "Hong Kong"
   },
   "4a3ba66d94eebcc6957859b1d827d629": {
@@ -1194,6 +1200,12 @@
    "id": "8a384d5e22ef2540aedb535987da5ac0",
    "company": "Burberry",
    "role": "Client Advisor Opportunities - Hong Kong",
+   "location": "Hong Kong"
+  },
+  "8b738f26668f9486a6e036272c0e731e": {
+   "id": "8b738f26668f9486a6e036272c0e731e",
+   "company": "Airbus SE",
+   "role": "Executive Assistant",
    "location": "Hong Kong"
   },
   "51a7d8489addd57b71c559c02644e809": {

@@ -392,4 +392,10 @@
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Hong Kong</td><td>2026-10-28</td></tr>
 <tr><td>Intact Financial</td><td>Data Scientist</td><td>Hong Kong</td><td>2026-10-29</td></tr>
 <tr><td>Intact Financial</td><td>Ai Developer</td><td>Hong Kong</td><td>2026-10-29</td></tr>
+<tr><td>DFI Retail Group</td><td>Pharmacy Intern Programme 2026</td><td>Hong Kong</td><td>2026-10-30</td></tr>
+<tr><td>DJE Holdings</td><td>Digital Intern</td><td>Hong Kong</td><td>2026-10-30</td></tr>
+<tr><td>DJE Holdings</td><td>Design Intern</td><td>Hong Kong</td><td>2026-10-30</td></tr>
+<tr><td>Huatai Securities (HK)</td><td>Equity Derivatives - Derivatives Structuring - Intern</td><td>Hong Kong</td><td>2026-10-30</td></tr>
+<tr><td>Intact Lab</td><td>Ai Developer At Intact Fc</td><td>Hong Kong</td><td>2026-10-30</td></tr>
+<tr><td>Kering</td><td>Bottega Veneta Part Time Sales</td><td>Hong Kong</td><td>2026-10-30</td></tr>
 </table>
