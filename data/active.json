@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-30",
- "count": 222,
+ "asOf": "2026-10-31",
+ "count": 219,
  "jobs": {
   "79f2987c5b43bf84cd8934d973ae37eb": {
    "id": "79f2987c5b43bf84cd8934d973ae37eb",
@@ -540,12 +540,6 @@
    "id": "91718c7ecf297a06b753265071d48d74",
    "company": "Me2Works",
    "role": "Software Engineer – Elite Quant Fund – Hong Kong- Up To $2,400,000+ Exceptional Benefits/bonus Package At Hunter Bond",
-   "location": "Hong Kong"
-  },
-  "b9a82e639e006ba53f3960d7bb5a7feb": {
-   "id": "b9a82e639e006ba53f3960d7bb5a7feb",
-   "company": "Ampd Energy",
-   "role": "Full-stack Software Engineer",
    "location": "Hong Kong"
   },
   "dd191fa709443d14886f52b48ac4baa2": {
@@ -1196,12 +1190,6 @@
    "role": "Beauty Advisor - Hong Kong",
    "location": "Hong Kong"
   },
-  "8a384d5e22ef2540aedb535987da5ac0": {
-   "id": "8a384d5e22ef2540aedb535987da5ac0",
-   "company": "Burberry",
-   "role": "Client Advisor Opportunities - Hong Kong",
-   "location": "Hong Kong"
-  },
   "8b738f26668f9486a6e036272c0e731e": {
    "id": "8b738f26668f9486a6e036272c0e731e",
    "company": "Airbus SE",
@@ -1326,12 +1314,6 @@
    "id": "0b6da9b67358908bb5ece51e1b9f1834",
    "company": "77",
    "role": "Customer Services Assistant",
-   "location": "Hong Kong"
-  },
-  "3c5bffa4deafbf34ea8f833b1f0f2ef0": {
-   "id": "3c5bffa4deafbf34ea8f833b1f0f2ef0",
-   "company": "Me2Works",
-   "role": "Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Open University Of Hong Kong",
    "location": "Hong Kong"
   }
  }

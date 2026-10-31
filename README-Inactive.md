@@ -398,4 +398,7 @@
 <tr><td>Huatai Securities (HK)</td><td>Equity Derivatives - Derivatives Structuring - Intern</td><td>Hong Kong</td><td>2026-10-30</td></tr>
 <tr><td>Intact Lab</td><td>Ai Developer At Intact Fc</td><td>Hong Kong</td><td>2026-10-30</td></tr>
 <tr><td>Kering</td><td>Bottega Veneta Part Time Sales</td><td>Hong Kong</td><td>2026-10-30</td></tr>
+<tr><td>Ampd Energy</td><td>Full-stack Software Engineer</td><td>Hong Kong</td><td>2026-10-31</td></tr>
+<tr><td>Burberry</td><td>Client Advisor Opportunities - Hong Kong</td><td>Hong Kong</td><td>2026-10-31</td></tr>
+<tr><td>Me2Works</td><td>Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Open University Of Hong Kong</td><td>Hong Kong</td><td>2026-10-31</td></tr>
 </table>
