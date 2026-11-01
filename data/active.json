@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-31",
- "count": 219,
+ "asOf": "2026-11-01",
+ "count": 218,
  "jobs": {
   "79f2987c5b43bf84cd8934d973ae37eb": {
    "id": "79f2987c5b43bf84cd8934d973ae37eb",
@@ -680,12 +680,6 @@
    "role": "Actuarial Intern (july 2027 To Dec 2027)",
    "location": "Hong Kong"
   },
-  "3933535f687f4cc3834c49f523bc019b": {
-   "id": "3933535f687f4cc3834c49f523bc019b",
-   "company": "Manulife",
-   "role": "Manulife: Actuarial Internship Program 2027 (6.5 Months)",
-   "location": "Hong Kong"
-  },
   "69436ef2d7aa926f08ca8cb208352148": {
    "id": "69436ef2d7aa926f08ca8cb208352148",
    "company": "DV Group Ltd",
@@ -726,6 +720,12 @@
    "id": "0debf44b6e8e7e38f64be24f7a85641e",
    "company": "DV Trading",
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
+   "location": "Hong Kong"
+  },
+  "fbe25b14c3f4f19098505133b3120710": {
+   "id": "fbe25b14c3f4f19098505133b3120710",
+   "company": "Qube Research And Technology",
+   "role": "Quantitative Developer - Production",
    "location": "Hong Kong"
   },
   "149dd324deecac6292db257063f66e0a": {
@@ -1309,12 +1309,6 @@
    "company": "Nan Fung Group",
    "role": "Administrative Assistant",
    "location": "Airside"
-  },
-  "0b6da9b67358908bb5ece51e1b9f1834": {
-   "id": "0b6da9b67358908bb5ece51e1b9f1834",
-   "company": "77",
-   "role": "Customer Services Assistant",
-   "location": "Hong Kong"
   }
  }
 }

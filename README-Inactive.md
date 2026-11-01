@@ -401,4 +401,6 @@
 <tr><td>Ampd Energy</td><td>Full-stack Software Engineer</td><td>Hong Kong</td><td>2026-10-31</td></tr>
 <tr><td>Burberry</td><td>Client Advisor Opportunities - Hong Kong</td><td>Hong Kong</td><td>2026-10-31</td></tr>
 <tr><td>Me2Works</td><td>Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Open University Of Hong Kong</td><td>Hong Kong</td><td>2026-10-31</td></tr>
+<tr><td>Manulife</td><td>Manulife: Actuarial Internship Program 2027 (6.5 Months)</td><td>Hong Kong</td><td>2026-11-01</td></tr>
+<tr><td>77</td><td>Customer Services Assistant</td><td>Hong Kong</td><td>2026-11-01</td></tr>
 </table>
