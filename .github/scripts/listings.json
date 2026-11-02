@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-11-01",
+  "as_of": "2026-11-02",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1302,
-  "generated_at": "2026-11-01T01:01:39.245Z"
+  "country_live_total": 1282,
+  "generated_at": "2026-11-02T01:53:53.786Z"
  },
  "categories": [
   {
@@ -2935,7 +2935,7 @@
    "id": "4e21bf98cb0ed52420ab4764eb13b4a3",
    "source": "Workopia",
    "company_name": "Otis Worldwide",
-   "company_hi_slug": "otis-worldwide",
+   "company_hi_slug": null,
    "title": "調試員 (更新工程 / 安裝部)",
    "location": "Hong Kong",
    "skills": "升降機 / 自動梯調教, 升降機 / 自動梯測試工作",
@@ -2952,7 +2952,7 @@
    "id": "9ecc33dc4992c627a54b0826b9534567",
    "source": "Workopia",
    "company_name": "DAT Deutsche Aufzugstechnik GmbH",
-   "company_hi_slug": "dat-deutsche-aufzugstechnik-gmbh",
+   "company_hi_slug": null,
    "title": "調試員 (更新工程 / 安裝部)",
    "location": "Hong Kong",
    "skills": "升降機 / 自動梯調教和測試工作, 協助註冊工程師",
