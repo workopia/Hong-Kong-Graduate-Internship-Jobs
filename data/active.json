@@ -1,7 +1,25 @@
 {
- "asOf": "2026-11-02",
+ "asOf": "2026-11-03",
  "count": 218,
  "jobs": {
+  "d586b7a34bcc7e7c9a254ea8a405425b": {
+   "id": "d586b7a34bcc7e7c9a254ea8a405425b",
+   "company": "SCOR",
+   "role": "Pricing Intern",
+   "location": "Hong Kong"
+  },
+  "44863a84b441a4df64902b54111f9f73": {
+   "id": "44863a84b441a4df64902b54111f9f73",
+   "company": "SCOR",
+   "role": "Catastrophe Risk Intern",
+   "location": "Hong Kong"
+  },
+  "94737a09bc4fa5deea57b35438e3f668": {
+   "id": "94737a09bc4fa5deea57b35438e3f668",
+   "company": "SCOR",
+   "role": "Underwriting Intern",
+   "location": "Hong Kong"
+  },
   "79f2987c5b43bf84cd8934d973ae37eb": {
    "id": "79f2987c5b43bf84cd8934d973ae37eb",
    "company": "adidas AG",
@@ -464,24 +482,6 @@
    "role": "Manulife Co-op Program – Investment Management, General Account Investments - January 2027 Intake",
    "location": "Hong Kong"
   },
-  "8f6f149a107c03b9e36d81d7a2f23f63": {
-   "id": "8f6f149a107c03b9e36d81d7a2f23f63",
-   "company": "CTF Services Ltd",
-   "role": "Intern, Investment & Alm",
-   "location": "Hong Kong"
-  },
-  "511ed080100600047b8d9a1bcf304289": {
-   "id": "511ed080100600047b8d9a1bcf304289",
-   "company": "Polymer Capital Hong Kong",
-   "role": "Hong Kong 2027 Summer Intern, Compliance At Polymer Capital Hong Kong",
-   "location": "Hong Kong"
-  },
-  "d15d3578b0ccb8e706eb65de156d02c9": {
-   "id": "d15d3578b0ccb8e706eb65de156d02c9",
-   "company": "DJE Holdings",
-   "role": "Corporate Intern",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -656,6 +656,12 @@
    "role": "Actuarial Intern",
    "location": "Hong Kong"
   },
+  "ed6a9c8c137a5454a9cc390211de8460": {
+   "id": "ed6a9c8c137a5454a9cc390211de8460",
+   "company": "AXA UK",
+   "role": "Actuarial Intern",
+   "location": "Hong Kong"
+  },
   "30e8a890150c11999bd759884e8480ca": {
    "id": "30e8a890150c11999bd759884e8480ca",
    "company": "AIA Group",
@@ -722,6 +728,12 @@
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
    "location": "Hong Kong"
   },
+  "1a37a825701ee9c7a13260f096725dba": {
+   "id": "1a37a825701ee9c7a13260f096725dba",
+   "company": "AXA UK",
+   "role": "Assistant Business Analyst (1-year Contract)",
+   "location": "Hong Kong"
+  },
   "fbe25b14c3f4f19098505133b3120710": {
    "id": "fbe25b14c3f4f19098505133b3120710",
    "company": "Qube Research And Technology",
@@ -732,12 +744,6 @@
    "id": "149dd324deecac6292db257063f66e0a",
    "company": "DBS Bank",
    "role": "Cdd Specialist, Know Your Customer, Sme Banking",
-   "location": "Hong Kong"
-  },
-  "08b10271102c19fd9599e6d37b75ad26": {
-   "id": "08b10271102c19fd9599e6d37b75ad26",
-   "company": "AXA UK",
-   "role": "Assistant Business Analyst (1-year Contract)",
    "location": "Hong Kong"
   },
   "87a0a2226eaa780530ee59abc1cd1c46": {
@@ -996,12 +1002,6 @@
    "id": "fa2f75b9ffb3887b23a11b8aaf54e81d",
    "company": "Lalamove",
    "role": "Accountant (global Scope) At Lalamove",
-   "location": "Hong Kong"
-  },
-  "6501202744a85a3a56f4678db950e78e": {
-   "id": "6501202744a85a3a56f4678db950e78e",
-   "company": "Manulife",
-   "role": "Actuarial Specialist",
    "location": "Hong Kong"
   },
   "90788dd293327bb56edd87c72f909946": {

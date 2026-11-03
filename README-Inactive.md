@@ -403,4 +403,9 @@
 <tr><td>Me2Works</td><td>Temporary Executive Assistant (diagnostic Sciences) (n&hs) At Open University Of Hong Kong</td><td>Hong Kong</td><td>2026-10-31</td></tr>
 <tr><td>Manulife</td><td>Manulife: Actuarial Internship Program 2027 (6.5 Months)</td><td>Hong Kong</td><td>2026-11-01</td></tr>
 <tr><td>77</td><td>Customer Services Assistant</td><td>Hong Kong</td><td>2026-11-01</td></tr>
+<tr><td>CTF Services Ltd</td><td>Intern, Investment & Alm</td><td>Hong Kong</td><td>2026-11-03</td></tr>
+<tr><td>Polymer Capital Hong Kong</td><td>Hong Kong 2027 Summer Intern, Compliance At Polymer Capital Hong Kong</td><td>Hong Kong</td><td>2026-11-03</td></tr>
+<tr><td>DJE Holdings</td><td>Corporate Intern</td><td>Hong Kong</td><td>2026-11-03</td></tr>
+<tr><td>AXA UK</td><td>Assistant Business Analyst (1-year Contract)</td><td>Hong Kong</td><td>2026-11-03</td></tr>
+<tr><td>Manulife</td><td>Actuarial Specialist</td><td>Hong Kong</td><td>2026-11-03</td></tr>
 </table>
