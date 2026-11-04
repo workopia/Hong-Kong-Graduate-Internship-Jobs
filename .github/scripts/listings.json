@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1294,
-  "generated_at": "2026-11-03T00:54:03.382Z"
+  "country_live_total": 1302,
+  "generated_at": "2026-11-04T01:03:11.821Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "54131856fd805a222758d08a630fdd73",
+   "source": "Workopia",
+   "company_name": "Marsh",
+   "company_hi_slug": "marsh",
+   "title": "Placement Intern (6-month Full Time Internship)",
+   "location": "Hong Kong",
+   "skills": "Microsoft Office profi, Excel expertise",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-03T18:30:22.697Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/54131856fd805a222758d08a630fdd73",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "d586b7a34bcc7e7c9a254ea8a405425b",
@@ -1418,23 +1435,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "b1c5240f00cc940487808bae4cb66705",
-   "source": "Workopia",
-   "company_name": "Manulife Financial Inc",
-   "company_hi_slug": "manulife-financial",
-   "title": "Manulife Co-op Program – Investment Management, General Account Investments - January 2027 Intake",
-   "location": "Hong Kong",
-   "skills": "market research and da, investment portfolio m",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-23T06:16:36.075Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/b1c5240f00cc940487808bae4cb66705",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "Hq6SozpyQ7Bg",
    "source": "Workopia",
@@ -1584,23 +1584,6 @@
    "date_posted": "2026-09-11T01:05:51.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/700480b79e78a546b982b506b3d15e96",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "$2,400,000",
-   "id": "91718c7ecf297a06b753265071d48d74",
-   "source": "Workopia",
-   "company_name": "Me2Works",
-   "company_hi_slug": "me2works",
-   "title": "Software Engineer – Elite Quant Fund – Hong Kong- Up To $2,400,000+ Exceptional Benefits/bonus Package At Hunter Bond",
-   "location": "Hong Kong",
-   "skills": "Scalable platform infr, CI/CD pipeline develop",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-05T00:36:04.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/91718c7ecf297a06b753265071d48d74",
    "category": "tech",
    "tier": "Entry-level"
   },
@@ -2966,6 +2949,23 @@
   },
   {
    "salary_display": "HK$17k–25k/mo*",
+   "id": "d8d09645d8c7a7066b5712cfe1d67f7f",
+   "source": "Workopia",
+   "company_name": "Shangri-La Sydney",
+   "company_hi_slug": "shangri-la-sydney",
+   "title": "Seasonal Goodies - Temporary Counter Assistant (臨時銷售助理)",
+   "location": "Hong Kong",
+   "skills": "Customer service skill, Chinese word processin",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-03T02:03:41.436Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/d8d09645d8c7a7066b5712cfe1d67f7f",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$17k–25k/mo*",
    "id": "34ad04127adba372f511d4edafe2e5df",
    "source": "Workopia",
    "company_name": "Kering",
@@ -3438,6 +3438,40 @@
    "active": true,
    "url": "https://workopia.io/jobs/51fd83ad01f7b253125c5a8a375056ed",
    "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$18k–26k/mo*",
+   "id": "d266e160badc69ec0dd0bcf735f8c046",
+   "source": "Workopia",
+   "company_name": "Citi",
+   "company_hi_slug": "citi",
+   "title": "Executive Assistant",
+   "location": "Hong Kong",
+   "skills": "Support for senior man, Calendar and travel ma",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-03T06:40:49.259Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/d266e160badc69ec0dd0bcf735f8c046",
+   "category": "admin",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$18k–26k/mo*",
+   "id": "0f07a7d4155b5457680d6b20fa6593f5",
+   "source": "Workopia",
+   "company_name": "The University of Hong Kong",
+   "company_hi_slug": "the-university-of-hong-kong",
+   "title": "Clerk Ii, Masters Programmes (holding The Functional Title Of Executive Assistant)",
+   "location": "Hong Kong",
+   "skills": "English proficiency, Chinese proficiency",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-02T01:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/0f07a7d4155b5457680d6b20fa6593f5",
+   "category": "admin",
    "tier": "Entry-level"
   },
   {

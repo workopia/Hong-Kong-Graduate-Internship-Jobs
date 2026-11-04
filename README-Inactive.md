@@ -408,4 +408,6 @@
 <tr><td>DJE Holdings</td><td>Corporate Intern</td><td>Hong Kong</td><td>2026-11-03</td></tr>
 <tr><td>AXA UK</td><td>Assistant Business Analyst (1-year Contract)</td><td>Hong Kong</td><td>2026-11-03</td></tr>
 <tr><td>Manulife</td><td>Actuarial Specialist</td><td>Hong Kong</td><td>2026-11-03</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Manulife Co-op Program – Investment Management, General Account Investments - January 2027 Intake</td><td>Hong Kong</td><td>2026-11-04</td></tr>
+<tr><td>Me2Works</td><td>Software Engineer – Elite Quant Fund – Hong Kong- Up To $2,400,000+ Exceptional Benefits/bonus Package At Hunter Bond</td><td>Hong Kong</td><td>2026-11-04</td></tr>
 </table>
