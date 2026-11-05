@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-11-04",
+  "as_of": "2026-11-05",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 1302,
-  "generated_at": "2026-11-04T01:03:11.821Z"
+  "generated_at": "2026-11-05T01:05:35.295Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "2a79daf9692b657c2127a34dfd7e2efe",
+   "source": "Workopia",
+   "company_name": "Schonfeld",
+   "company_hi_slug": "schonfeld",
+   "title": "2027 Emerging Markets And Delta One Quantitative Researcher/strat Intern",
+   "location": "Hong Kong",
+   "skills": "Python programming, C++ development",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-03T20:02:10.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/2a79daf9692b657c2127a34dfd7e2efe",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "54131856fd805a222758d08a630fdd73",
@@ -1418,23 +1435,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "f5b93c380ba5ced57aa4f889dee7c95a",
-   "source": "Workopia",
-   "company_name": "Sun Life",
-   "company_hi_slug": "sunlife",
-   "title": "Finance Intern (jan - Jun 2027) At Sun Life",
-   "location": "Hong Kong",
-   "skills": "Conduct research on ma, Support strategic proj",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-23T18:12:25.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/f5b93c380ba5ced57aa4f889dee7c95a",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "Hq6SozpyQ7Bg",
    "source": "Workopia",
@@ -2113,6 +2113,40 @@
    "url": "https://workopia.io/jobs/0debf44b6e8e7e38f64be24f7a85641e",
    "category": "finance",
    "tier": "Graduate"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "00d0cf10eb7194c74bba86eb1f646ae9",
+   "source": "Workopia",
+   "company_name": "AIA Australia",
+   "company_hi_slug": "aia-australia",
+   "title": "Actuarial, Analyst",
+   "location": "Hong Kong",
+   "skills": "EV and VONB reporting, financial KPIs analysi",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-04T12:20:26.411Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/00d0cf10eb7194c74bba86eb1f646ae9",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "7681333d534ad707f39ae35f1f81662d",
+   "source": "Workopia",
+   "company_name": "AXA UK",
+   "company_hi_slug": "axa-uk",
+   "title": "Actuarial Analyst",
+   "location": "Hong Kong",
+   "skills": "Life Reinsurance, Prophet model",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-04T01:35:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/7681333d534ad707f39ae35f1f81662d",
+   "category": "finance",
+   "tier": "Entry-level"
   },
   {
    "salary_display": "HK$20k–32k/mo*",
@@ -2876,23 +2910,6 @@
    "date_posted": "2026-09-06T16:56:29.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/ce3448cb45107f927721b0f0cb919bfb",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "fa2f75b9ffb3887b23a11b8aaf54e81d",
-   "source": "Workopia",
-   "company_name": "Lalamove",
-   "company_hi_slug": "lalamove",
-   "title": "Accountant (global Scope) At Lalamove",
-   "location": "Hong Kong",
-   "skills": "Financial report prepa, Liaison with local fin",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-06T00:40:41.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/fa2f75b9ffb3887b23a11b8aaf54e81d",
    "category": "finance",
    "tier": "Entry-level"
   },

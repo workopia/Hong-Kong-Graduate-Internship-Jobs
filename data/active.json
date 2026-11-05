@@ -1,7 +1,13 @@
 {
- "asOf": "2026-11-04",
- "count": 220,
+ "asOf": "2026-11-05",
+ "count": 221,
  "jobs": {
+  "2a79daf9692b657c2127a34dfd7e2efe": {
+   "id": "2a79daf9692b657c2127a34dfd7e2efe",
+   "company": "Schonfeld",
+   "role": "2027 Emerging Markets And Delta One Quantitative Researcher/strat Intern",
+   "location": "Hong Kong"
+  },
   "54131856fd805a222758d08a630fdd73": {
    "id": "54131856fd805a222758d08a630fdd73",
    "company": "Marsh",
@@ -476,12 +482,6 @@
    "role": "Manulife - Analyst Intern (6-months), Private Equity Asia, January 2027 Intake",
    "location": "Hong Kong"
   },
-  "f5b93c380ba5ced57aa4f889dee7c95a": {
-   "id": "f5b93c380ba5ced57aa4f889dee7c95a",
-   "company": "Sun Life",
-   "role": "Finance Intern (jan - Jun 2027) At Sun Life",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -720,6 +720,18 @@
    "id": "0debf44b6e8e7e38f64be24f7a85641e",
    "company": "DV Trading",
    "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
+   "location": "Hong Kong"
+  },
+  "00d0cf10eb7194c74bba86eb1f646ae9": {
+   "id": "00d0cf10eb7194c74bba86eb1f646ae9",
+   "company": "AIA Australia",
+   "role": "Actuarial, Analyst",
+   "location": "Hong Kong"
+  },
+  "7681333d534ad707f39ae35f1f81662d": {
+   "id": "7681333d534ad707f39ae35f1f81662d",
+   "company": "AXA UK",
+   "role": "Actuarial Analyst",
    "location": "Hong Kong"
   },
   "1a37a825701ee9c7a13260f096725dba": {
@@ -990,12 +1002,6 @@
    "id": "ce3448cb45107f927721b0f0cb919bfb",
    "company": "Westbury Partners",
    "role": "Quantitative Researcher – Machine Learning & Systematic Trading / Hong Kong, Hk At Westbury Partners",
-   "location": "Hong Kong"
-  },
-  "fa2f75b9ffb3887b23a11b8aaf54e81d": {
-   "id": "fa2f75b9ffb3887b23a11b8aaf54e81d",
-   "company": "Lalamove",
-   "role": "Accountant (global Scope) At Lalamove",
    "location": "Hong Kong"
   },
   "90788dd293327bb56edd87c72f909946": {

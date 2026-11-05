@@ -410,4 +410,6 @@
 <tr><td>Manulife</td><td>Actuarial Specialist</td><td>Hong Kong</td><td>2026-11-03</td></tr>
 <tr><td>Manulife Financial Inc</td><td>Manulife Co-op Program – Investment Management, General Account Investments - January 2027 Intake</td><td>Hong Kong</td><td>2026-11-04</td></tr>
 <tr><td>Me2Works</td><td>Software Engineer – Elite Quant Fund – Hong Kong- Up To $2,400,000+ Exceptional Benefits/bonus Package At Hunter Bond</td><td>Hong Kong</td><td>2026-11-04</td></tr>
+<tr><td>Sun Life</td><td>Finance Intern (jan - Jun 2027) At Sun Life</td><td>Hong Kong</td><td>2026-11-05</td></tr>
+<tr><td>Lalamove</td><td>Accountant (global Scope) At Lalamove</td><td>Hong Kong</td><td>2026-11-05</td></tr>
 </table>
