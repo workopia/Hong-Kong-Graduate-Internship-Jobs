@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-05",
- "count": 221,
+ "asOf": "2026-11-06",
+ "count": 220,
  "jobs": {
   "2a79daf9692b657c2127a34dfd7e2efe": {
    "id": "2a79daf9692b657c2127a34dfd7e2efe",
@@ -716,12 +716,6 @@
    "role": "Graduate Quantitative Researcher",
    "location": "Hong Kong"
   },
-  "0debf44b6e8e7e38f64be24f7a85641e": {
-   "id": "0debf44b6e8e7e38f64be24f7a85641e",
-   "company": "DV Trading",
-   "role": "Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading",
-   "location": "Hong Kong"
-  },
   "00d0cf10eb7194c74bba86eb1f646ae9": {
    "id": "00d0cf10eb7194c74bba86eb1f646ae9",
    "company": "AIA Australia",
@@ -998,12 +992,6 @@
    "role": "Actuarial Associate",
    "location": "Hong Kong"
   },
-  "ce3448cb45107f927721b0f0cb919bfb": {
-   "id": "ce3448cb45107f927721b0f0cb919bfb",
-   "company": "Westbury Partners",
-   "role": "Quantitative Researcher – Machine Learning & Systematic Trading / Hong Kong, Hk At Westbury Partners",
-   "location": "Hong Kong"
-  },
   "90788dd293327bb56edd87c72f909946": {
    "id": "90788dd293327bb56edd87c72f909946",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -1020,6 +1008,12 @@
    "id": "9ecc33dc4992c627a54b0826b9534567",
    "company": "DAT Deutsche Aufzugstechnik GmbH",
    "role": "調試員 (更新工程 / 安裝部)",
+   "location": "Hong Kong"
+  },
+  "ec6ef76a9418a035a1cfe483f51d26be": {
+   "id": "ec6ef76a9418a035a1cfe483f51d26be",
+   "company": "Moncler",
+   "role": "Client Advisor / Sales Associate (HKIA)",
    "location": "Hong Kong"
   },
   "d8d09645d8c7a7066b5712cfe1d67f7f": {

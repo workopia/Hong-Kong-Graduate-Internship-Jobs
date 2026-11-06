@@ -412,4 +412,6 @@
 <tr><td>Me2Works</td><td>Software Engineer – Elite Quant Fund – Hong Kong- Up To $2,400,000+ Exceptional Benefits/bonus Package At Hunter Bond</td><td>Hong Kong</td><td>2026-11-04</td></tr>
 <tr><td>Sun Life</td><td>Finance Intern (jan - Jun 2027) At Sun Life</td><td>Hong Kong</td><td>2026-11-05</td></tr>
 <tr><td>Lalamove</td><td>Accountant (global Scope) At Lalamove</td><td>Hong Kong</td><td>2026-11-05</td></tr>
+<tr><td>DV Trading</td><td>Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading</td><td>Hong Kong</td><td>2026-11-06</td></tr>
+<tr><td>Westbury Partners</td><td>Quantitative Researcher – Machine Learning & Systematic Trading / Hong Kong, Hk At Westbury Partners</td><td>Hong Kong</td><td>2026-11-06</td></tr>
 </table>
