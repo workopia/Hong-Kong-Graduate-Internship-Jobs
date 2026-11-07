@@ -1,7 +1,25 @@
 {
- "asOf": "2026-11-06",
- "count": 220,
+ "asOf": "2026-11-07",
+ "count": 210,
  "jobs": {
+  "ab3b5830dffda438e46900df4da8505a": {
+   "id": "ab3b5830dffda438e46900df4da8505a",
+   "company": "Hyatt Hotels Corporation",
+   "role": "Human Resources Intern - Corporate Office",
+   "location": "Hong Kong"
+  },
+  "c3b819a327c50d204fa4fca00f005aac": {
+   "id": "c3b819a327c50d204fa4fca00f005aac",
+   "company": "Point72",
+   "role": "Corporate Access Intern",
+   "location": "Hong Kong"
+  },
+  "76eef6281022ab80acd674dd1174506e": {
+   "id": "76eef6281022ab80acd674dd1174506e",
+   "company": "Mandarin Oriental Hotel Group",
+   "role": "People & Culture Intern",
+   "location": "Hong Kong"
+  },
   "2a79daf9692b657c2127a34dfd7e2efe": {
    "id": "2a79daf9692b657c2127a34dfd7e2efe",
    "company": "Schonfeld",
@@ -464,24 +482,6 @@
    "role": "Manulife Co-op Program – Fixed Income Investment - January 2027 Intake",
    "location": "Hong Kong"
   },
-  "757ed5e3bb5fc391e94c96658e6a6d68": {
-   "id": "757ed5e3bb5fc391e94c96658e6a6d68",
-   "company": "Sun Life Financial, Inc.",
-   "role": "Finance Intern (jan - Jun 2027) / Hong Kong, Hk At Sun Life Financial, Inc.",
-   "location": "Hong Kong"
-  },
-  "19d3efcc3180ec05dd9148f534711d57": {
-   "id": "19d3efcc3180ec05dd9148f534711d57",
-   "company": "Manulife Investment Management",
-   "role": "Manulife - Analyst Intern (6-months), Private Equity Asia, January 2027 Intake At Manulife",
-   "location": "Hong Kong"
-  },
-  "007516b8afa410dfd1936f7a228f67d8": {
-   "id": "007516b8afa410dfd1936f7a228f67d8",
-   "company": "Manulife Financial Inc",
-   "role": "Manulife - Analyst Intern (6-months), Private Equity Asia, January 2027 Intake",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -654,30 +654,6 @@
    "id": "ed6a9c8c137a5454a9cc390211de8460",
    "company": "AXA UK",
    "role": "Actuarial Intern",
-   "location": "Hong Kong"
-  },
-  "30e8a890150c11999bd759884e8480ca": {
-   "id": "30e8a890150c11999bd759884e8480ca",
-   "company": "AIA Group",
-   "role": "Aia Actuarial Internship Programme",
-   "location": "Hong Kong"
-  },
-  "1c0deae6f1bf3c3b279de505b61c4beb": {
-   "id": "1c0deae6f1bf3c3b279de505b61c4beb",
-   "company": "Blue Cross",
-   "role": "2027 Actuarial Intern (general Insurance)",
-   "location": "Hong Kong"
-  },
-  "22a8d23111c59f1124642378927d7489": {
-   "id": "22a8d23111c59f1124642378927d7489",
-   "company": "AIA Group",
-   "role": "2027 Actuarial Intern",
-   "location": "Hong Kong"
-  },
-  "1b017b06f8a2d68ec8c7ceecf430d05a": {
-   "id": "1b017b06f8a2d68ec8c7ceecf430d05a",
-   "company": "Prudential Corporation Asia Ltd",
-   "role": "Actuarial Intern (july 2027 To Dec 2027)",
    "location": "Hong Kong"
   },
   "69436ef2d7aa926f08ca8cb208352148": {
@@ -980,18 +956,6 @@
    "role": "Equity Derivatives - Warrant Trader",
    "location": "Hong Kong"
   },
-  "5099723957cbaeb472d5f51fca254db3": {
-   "id": "5099723957cbaeb472d5f51fca254db3",
-   "company": "Prudential Com Sg",
-   "role": "Actuarial Associate",
-   "location": "Hong Kong"
-  },
-  "4880c317451d5faafe0f578a634db368": {
-   "id": "4880c317451d5faafe0f578a634db368",
-   "company": "Prudential Corporation Asia Ltd",
-   "role": "Actuarial Associate",
-   "location": "Hong Kong"
-  },
   "90788dd293327bb56edd87c72f909946": {
    "id": "90788dd293327bb56edd87c72f909946",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -1178,18 +1142,6 @@
    "role": "Sales Associate (calvin Klein)",
    "location": "Hong Kong"
   },
-  "f70f5fe8813455a13d2bd376fe2b7ad2": {
-   "id": "f70f5fe8813455a13d2bd376fe2b7ad2",
-   "company": "CHARLES & KEITH GROUP",
-   "role": "Sales Associate",
-   "location": "Hong Kong"
-  },
-  "51fd83ad01f7b253125c5a8a375056ed": {
-   "id": "51fd83ad01f7b253125c5a8a375056ed",
-   "company": "Pierre Fabre",
-   "role": "Beauty Advisor - Hong Kong",
-   "location": "Hong Kong"
-  },
   "d266e160badc69ec0dd0bcf735f8c046": {
    "id": "d266e160badc69ec0dd0bcf735f8c046",
    "company": "Citi",
@@ -1309,18 +1261,6 @@
    "company": "The University of Hong Kong",
    "role": "Part-time Student Affairs Assistant I",
    "location": "Hong Kong Au"
-  },
-  "ec012de7fdb3421142069a495ec0c388": {
-   "id": "ec012de7fdb3421142069a495ec0c388",
-   "company": "AIA",
-   "role": "Administrative Assistant",
-   "location": "Hong Kong"
-  },
-  "efb8316e8e478c5f69cf5249c7795580": {
-   "id": "efb8316e8e478c5f69cf5249c7795580",
-   "company": "Nan Fung Group",
-   "role": "Administrative Assistant",
-   "location": "Airside"
   }
  }
 }

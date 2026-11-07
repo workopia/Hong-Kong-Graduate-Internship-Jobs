@@ -414,4 +414,17 @@
 <tr><td>Lalamove</td><td>Accountant (global Scope) At Lalamove</td><td>Hong Kong</td><td>2026-11-05</td></tr>
 <tr><td>DV Trading</td><td>Quantitative Trader - 2027 Graduate (dv Equities) / Hong Kong, Hk At Dv Trading</td><td>Hong Kong</td><td>2026-11-06</td></tr>
 <tr><td>Westbury Partners</td><td>Quantitative Researcher – Machine Learning & Systematic Trading / Hong Kong, Hk At Westbury Partners</td><td>Hong Kong</td><td>2026-11-06</td></tr>
+<tr><td>Sun Life Financial, Inc.</td><td>Finance Intern (jan - Jun 2027) / Hong Kong, Hk At Sun Life Financial, Inc.</td><td>Hong Kong</td><td>2026-11-07</td></tr>
+<tr><td>Manulife Investment Management</td><td>Manulife - Analyst Intern (6-months), Private Equity Asia, January 2027 Intake At Manulife</td><td>Hong Kong</td><td>2026-11-07</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Manulife - Analyst Intern (6-months), Private Equity Asia, January 2027 Intake</td><td>Hong Kong</td><td>2026-11-07</td></tr>
+<tr><td>AIA Group</td><td>Aia Actuarial Internship Programme</td><td>Hong Kong</td><td>2026-11-07</td></tr>
+<tr><td>Blue Cross</td><td>2027 Actuarial Intern (general Insurance)</td><td>Hong Kong</td><td>2026-11-07</td></tr>
+<tr><td>AIA Group</td><td>2027 Actuarial Intern</td><td>Hong Kong</td><td>2026-11-07</td></tr>
+<tr><td>Prudential Corporation Asia Ltd</td><td>Actuarial Intern (july 2027 To Dec 2027)</td><td>Hong Kong</td><td>2026-11-07</td></tr>
+<tr><td>Prudential Com Sg</td><td>Actuarial Associate</td><td>Hong Kong</td><td>2026-11-07</td></tr>
+<tr><td>Prudential Corporation Asia Ltd</td><td>Actuarial Associate</td><td>Hong Kong</td><td>2026-11-07</td></tr>
+<tr><td>CHARLES & KEITH GROUP</td><td>Sales Associate</td><td>Hong Kong</td><td>2026-11-07</td></tr>
+<tr><td>Pierre Fabre</td><td>Beauty Advisor - Hong Kong</td><td>Hong Kong</td><td>2026-11-07</td></tr>
+<tr><td>AIA</td><td>Administrative Assistant</td><td>Hong Kong</td><td>2026-11-07</td></tr>
+<tr><td>Nan Fung Group</td><td>Administrative Assistant</td><td>Airside</td><td>2026-11-07</td></tr>
 </table>
