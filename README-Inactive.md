@@ -427,4 +427,15 @@
 <tr><td>Pierre Fabre</td><td>Beauty Advisor - Hong Kong</td><td>Hong Kong</td><td>2026-11-07</td></tr>
 <tr><td>AIA</td><td>Administrative Assistant</td><td>Hong Kong</td><td>2026-11-07</td></tr>
 <tr><td>Nan Fung Group</td><td>Administrative Assistant</td><td>Airside</td><td>2026-11-07</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Manulife Co-op Program – Fixed Income Investment - January 2027 Intake</td><td>Hong Kong</td><td>2026-11-08</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Manulife: Actuarial Internship Program 2027 (6.5 Months)</td><td>Hong Kong</td><td>2026-11-08</td></tr>
+<tr><td>AXA</td><td>Actuarial Intern</td><td>Hong Kong</td><td>2026-11-08</td></tr>
+<tr><td>AXA UK</td><td>Actuarial Intern</td><td>Hong Kong</td><td>2026-11-08</td></tr>
+<tr><td>Aaifire</td><td>Ai Solution, Analyst</td><td>Hong Kong</td><td>2026-11-08</td></tr>
+<tr><td>aion-ia.in</td><td>Ai Solution, Analyst</td><td>Hong Kong</td><td>2026-11-08</td></tr>
+<tr><td>Huatai Securities (Singapore)</td><td>Equity Derivatives - Warrant Trader</td><td>Hong Kong</td><td>2026-11-08</td></tr>
+<tr><td>Huatai Securities (HK)</td><td>Equity Derivatives - Warrant Trader</td><td>Hong Kong</td><td>2026-11-08</td></tr>
+<tr><td>Calvin Klein Jeans / Underwear</td><td>Sales Associate 售貨員 - Calvin Klein Jeans / Underwear</td><td>Hong Kong</td><td>2026-11-08</td></tr>
+<tr><td>PVH</td><td>Sales Associate (calvin Klein)</td><td>Hong Kong</td><td>2026-11-08</td></tr>
+<tr><td>The University of Hong Kong</td><td>Part-time Student Affairs Assistant I</td><td>Hong Kong Au</td><td>2026-11-08</td></tr>
 </table>

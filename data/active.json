@@ -1,10 +1,16 @@
 {
- "asOf": "2026-11-07",
- "count": 210,
+ "asOf": "2026-11-08",
+ "count": 200,
  "jobs": {
+  "e02b0e2edefa1a6161a6e2f39bd0e462": {
+   "id": "e02b0e2edefa1a6161a6e2f39bd0e462",
+   "company": "Standard Chartered Bank",
+   "role": "Private Banking Intern Hong Kong 2027",
+   "location": "Central +1"
+  },
   "ab3b5830dffda438e46900df4da8505a": {
    "id": "ab3b5830dffda438e46900df4da8505a",
-   "company": "Hyatt Hotels Corporation",
+   "company": "Park Hyatt Melbourne",
    "role": "Human Resources Intern - Corporate Office",
    "location": "Hong Kong"
   },
@@ -476,12 +482,6 @@
    "role": "Manulife Co-op Program – Business & Investment Advisory, General Accounts Investment - January 2027 Intake",
    "location": "Hong Kong"
   },
-  "3c68c05a84c20af29467c19aaa41d33d": {
-   "id": "3c68c05a84c20af29467c19aaa41d33d",
-   "company": "Manulife Financial Inc",
-   "role": "Manulife Co-op Program – Fixed Income Investment - January 2027 Intake",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -636,24 +636,6 @@
    "id": "072de7807c8585d83dd9eb3dbe0f2600",
    "company": "jobs.barclays",
    "role": "Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong",
-   "location": "Hong Kong"
-  },
-  "08c23d94278aca0b69125bd0ee0df743": {
-   "id": "08c23d94278aca0b69125bd0ee0df743",
-   "company": "Manulife Financial Inc",
-   "role": "Manulife: Actuarial Internship Program 2027 (6.5 Months)",
-   "location": "Hong Kong"
-  },
-  "a67cc67a5fe4d7c098464a1c3903e013": {
-   "id": "a67cc67a5fe4d7c098464a1c3903e013",
-   "company": "AXA",
-   "role": "Actuarial Intern",
-   "location": "Hong Kong"
-  },
-  "ed6a9c8c137a5454a9cc390211de8460": {
-   "id": "ed6a9c8c137a5454a9cc390211de8460",
-   "company": "AXA UK",
-   "role": "Actuarial Intern",
    "location": "Hong Kong"
   },
   "69436ef2d7aa926f08ca8cb208352148": {
@@ -932,30 +914,6 @@
    "role": "Institutional Equity Division – Associate/vice President, Prime Brokerage Strats (hong Kong)",
    "location": "Hong Kong"
   },
-  "5a8863ebd64e20e71458899d76bbc5e8": {
-   "id": "5a8863ebd64e20e71458899d76bbc5e8",
-   "company": "Aaifire",
-   "role": "Ai Solution, Analyst",
-   "location": "Hong Kong"
-  },
-  "4df14b6c6ed00c0ade9d4be0e1706d09": {
-   "id": "4df14b6c6ed00c0ade9d4be0e1706d09",
-   "company": "aion-ia.in",
-   "role": "Ai Solution, Analyst",
-   "location": "Hong Kong"
-  },
-  "0f7434c5f935f1b12d5cd69162d929c0": {
-   "id": "0f7434c5f935f1b12d5cd69162d929c0",
-   "company": "Huatai Securities (Singapore)",
-   "role": "Equity Derivatives - Warrant Trader",
-   "location": "Hong Kong"
-  },
-  "4a625f77011f4a4b4ea5f4010b08495b": {
-   "id": "4a625f77011f4a4b4ea5f4010b08495b",
-   "company": "Huatai Securities (HK)",
-   "role": "Equity Derivatives - Warrant Trader",
-   "location": "Hong Kong"
-  },
   "90788dd293327bb56edd87c72f909946": {
    "id": "90788dd293327bb56edd87c72f909946",
    "company": "PCCW-HKT DataCom Services Ltd",
@@ -1130,18 +1088,6 @@
    "role": "Associate, Fixed Income Sales",
    "location": "Hong Kong"
   },
-  "c0e6432ef8db1fce96285747ac6d4024": {
-   "id": "c0e6432ef8db1fce96285747ac6d4024",
-   "company": "Calvin Klein Jeans / Underwear",
-   "role": "Sales Associate 售貨員 - Calvin Klein Jeans / Underwear",
-   "location": "Hong Kong"
-  },
-  "b468c9b49ecec7e921223ea87ea99813": {
-   "id": "b468c9b49ecec7e921223ea87ea99813",
-   "company": "PVH",
-   "role": "Sales Associate (calvin Klein)",
-   "location": "Hong Kong"
-  },
   "d266e160badc69ec0dd0bcf735f8c046": {
    "id": "d266e160badc69ec0dd0bcf735f8c046",
    "company": "Citi",
@@ -1255,12 +1201,6 @@
    "company": "LSEG (London Stock Exchange Group)",
    "role": "Sales Specialist, Analytics & Ai Solutions",
    "location": "Hong Kong"
-  },
-  "f9dd8f9bb3ac25dfbda800f2d155ee7d": {
-   "id": "f9dd8f9bb3ac25dfbda800f2d155ee7d",
-   "company": "The University of Hong Kong",
-   "role": "Part-time Student Affairs Assistant I",
-   "location": "Hong Kong Au"
   }
  }
 }
