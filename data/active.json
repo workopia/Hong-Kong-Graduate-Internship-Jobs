@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-08",
- "count": 200,
+ "asOf": "2026-11-09",
+ "count": 196,
  "jobs": {
   "e02b0e2edefa1a6161a6e2f39bd0e462": {
    "id": "e02b0e2edefa1a6161a6e2f39bd0e462",
@@ -908,10 +908,10 @@
    "role": "经营分析岗",
    "location": "Hong Kong Sar"
   },
-  "c0def584c231e20ef6edb54a6806417e": {
-   "id": "c0def584c231e20ef6edb54a6806417e",
-   "company": "Morgan Stanley UK",
-   "role": "Institutional Equity Division – Associate/vice President, Prime Brokerage Strats (hong Kong)",
+  "c5be51bb3d6a572b7591428d2916c148": {
+   "id": "c5be51bb3d6a572b7591428d2916c148",
+   "company": "Building Engines",
+   "role": "Technician",
    "location": "Hong Kong"
   },
   "90788dd293327bb56edd87c72f909946": {
@@ -1076,18 +1076,6 @@
    "role": "Beauty Advisor - Hong Kong",
    "location": "Hong Kong"
   },
-  "461c8b18902beaf308f41cbd1df276cf": {
-   "id": "461c8b18902beaf308f41cbd1df276cf",
-   "company": "TD Bank",
-   "role": "Associate, Fixed Income Sales",
-   "location": "Hong Kong"
-  },
-  "f15675af3aed560f9f24d7524db69964": {
-   "id": "f15675af3aed560f9f24d7524db69964",
-   "company": "TD Ameritrade",
-   "role": "Associate, Fixed Income Sales",
-   "location": "Hong Kong"
-  },
   "d266e160badc69ec0dd0bcf735f8c046": {
    "id": "d266e160badc69ec0dd0bcf735f8c046",
    "company": "Citi",
@@ -1189,18 +1177,6 @@
    "company": "TD SYNNEX Accessboard",
    "role": "Receptionist /admin. Assistant",
    "location": "Millennium City"
-  },
-  "93a9602d9ec15333dc6251a196c47e7f": {
-   "id": "93a9602d9ec15333dc6251a196c47e7f",
-   "company": "Land Securities Group",
-   "role": "Sales Specialist, Analytics & Ai Solutions",
-   "location": "Hong Kong"
-  },
-  "21478e1419cbdafc47a97d96b473c23b": {
-   "id": "21478e1419cbdafc47a97d96b473c23b",
-   "company": "LSEG (London Stock Exchange Group)",
-   "role": "Sales Specialist, Analytics & Ai Solutions",
-   "location": "Hong Kong"
   }
  }
 }

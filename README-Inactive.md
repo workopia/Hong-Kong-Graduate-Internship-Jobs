@@ -438,4 +438,9 @@
 <tr><td>Calvin Klein Jeans / Underwear</td><td>Sales Associate 售貨員 - Calvin Klein Jeans / Underwear</td><td>Hong Kong</td><td>2026-11-08</td></tr>
 <tr><td>PVH</td><td>Sales Associate (calvin Klein)</td><td>Hong Kong</td><td>2026-11-08</td></tr>
 <tr><td>The University of Hong Kong</td><td>Part-time Student Affairs Assistant I</td><td>Hong Kong Au</td><td>2026-11-08</td></tr>
+<tr><td>Morgan Stanley UK</td><td>Institutional Equity Division – Associate/vice President, Prime Brokerage Strats (hong Kong)</td><td>Hong Kong</td><td>2026-11-09</td></tr>
+<tr><td>TD Bank</td><td>Associate, Fixed Income Sales</td><td>Hong Kong</td><td>2026-11-09</td></tr>
+<tr><td>TD Ameritrade</td><td>Associate, Fixed Income Sales</td><td>Hong Kong</td><td>2026-11-09</td></tr>
+<tr><td>Land Securities Group</td><td>Sales Specialist, Analytics & Ai Solutions</td><td>Hong Kong</td><td>2026-11-09</td></tr>
+<tr><td>LSEG (London Stock Exchange Group)</td><td>Sales Specialist, Analytics & Ai Solutions</td><td>Hong Kong</td><td>2026-11-09</td></tr>
 </table>
