@@ -443,4 +443,16 @@
 <tr><td>TD Ameritrade</td><td>Associate, Fixed Income Sales</td><td>Hong Kong</td><td>2026-11-09</td></tr>
 <tr><td>Land Securities Group</td><td>Sales Specialist, Analytics & Ai Solutions</td><td>Hong Kong</td><td>2026-11-09</td></tr>
 <tr><td>LSEG (London Stock Exchange Group)</td><td>Sales Specialist, Analytics & Ai Solutions</td><td>Hong Kong</td><td>2026-11-09</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Manulife Co-op Program – Business & Investment Advisory, General Accounts Investment - January 2027 Intake</td><td>Hong Kong</td><td>2026-11-10</td></tr>
+<tr><td>Intact Financial</td><td>Data Scientist I, Hk - Winter 2027</td><td>Hong Kong</td><td>2026-11-10</td></tr>
+<tr><td>Intact Financial Corporation</td><td>Data Scientist I, Hk - Winter 2027</td><td>Hong Kong</td><td>2026-11-10</td></tr>
+<tr><td>Barclays</td><td>Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong</td><td>Hong Kong</td><td>2026-11-10</td></tr>
+<tr><td>jobs.barclays</td><td>Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong</td><td>Hong Kong</td><td>2026-11-10</td></tr>
+<tr><td>Bank of America</td><td>Associate / Vp – Equity Derivatives Strategist, Global Research, Hong Kong</td><td>Hong Kong</td><td>2026-11-10</td></tr>
+<tr><td>Bank of America</td><td>Associate / Vp – Quantitative Analyst – Quant Strategy Research</td><td>Hong Kong</td><td>2026-11-10</td></tr>
+<tr><td>JD</td><td>经营分析岗</td><td>Hong Kong Sar</td><td>2026-11-10</td></tr>
+<tr><td>Otis Worldwide</td><td>調試員 (更新工程 / 安裝部)</td><td>Hong Kong</td><td>2026-11-10</td></tr>
+<tr><td>DAT Deutsche Aufzugstechnik GmbH</td><td>調試員 (更新工程 / 安裝部)</td><td>Hong Kong</td><td>2026-11-10</td></tr>
+<tr><td>Houseoftechcommunity</td><td>Receptionist /admin. Assistant</td><td>Millennium City</td><td>2026-11-10</td></tr>
+<tr><td>TD SYNNEX Accessboard</td><td>Receptionist /admin. Assistant</td><td>Millennium City</td><td>2026-11-10</td></tr>
 </table>

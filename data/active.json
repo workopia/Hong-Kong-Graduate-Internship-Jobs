@@ -1,7 +1,13 @@
 {
- "asOf": "2026-11-09",
- "count": 196,
+ "asOf": "2026-11-10",
+ "count": 185,
  "jobs": {
+  "3eee1e60469d6e86acd701124ea9d62f": {
+   "id": "3eee1e60469d6e86acd701124ea9d62f",
+   "company": "Huatai Securities (HK)",
+   "role": "Research - Strategy - Intern",
+   "location": "Hong Kong"
+  },
   "e02b0e2edefa1a6161a6e2f39bd0e462": {
    "id": "e02b0e2edefa1a6161a6e2f39bd0e462",
    "company": "Standard Chartered Bank",
@@ -476,12 +482,6 @@
    "role": "Saint Laurent Financial Control & Business Analysis Intern (6-month Contract)",
    "location": "Hong Kong"
   },
-  "b8ca66e1d15c11088af5381a46aee344": {
-   "id": "b8ca66e1d15c11088af5381a46aee344",
-   "company": "Manulife Financial Inc",
-   "role": "Manulife Co-op Program – Business & Investment Advisory, General Accounts Investment - January 2027 Intake",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -590,18 +590,6 @@
    "role": "Applied Ai Engineer",
    "location": "Hong Kong"
   },
-  "476c2f516590b46c34fec88f1665296f": {
-   "id": "476c2f516590b46c34fec88f1665296f",
-   "company": "Intact Financial",
-   "role": "Data Scientist I, Hk - Winter 2027",
-   "location": "Hong Kong"
-  },
-  "0e9b8986f9673eb2202ae3ef5d64e010": {
-   "id": "0e9b8986f9673eb2202ae3ef5d64e010",
-   "company": "Intact Financial Corporation",
-   "role": "Data Scientist I, Hk - Winter 2027",
-   "location": "Hong Kong"
-  },
   "8d63bc75c798ffc779b9e56d5d2e9e5b": {
    "id": "8d63bc75c798ffc779b9e56d5d2e9e5b",
    "company": "DV Group Ltd",
@@ -624,18 +612,6 @@
    "id": "4fe83a2de0f57527cc071a0dba71fb35",
    "company": "DV Group Ltd",
    "role": "Quantitative Trading Intern (dv Equities)",
-   "location": "Hong Kong"
-  },
-  "48bf50ec1ff3192f2d078840644454d2": {
-   "id": "48bf50ec1ff3192f2d078840644454d2",
-   "company": "Barclays",
-   "role": "Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong",
-   "location": "Hong Kong"
-  },
-  "072de7807c8585d83dd9eb3dbe0f2600": {
-   "id": "072de7807c8585d83dd9eb3dbe0f2600",
-   "company": "jobs.barclays",
-   "role": "Quantitative Analytics Associate Off Cycle Internship 2027 Hong Kong",
    "location": "Hong Kong"
   },
   "69436ef2d7aa926f08ca8cb208352148": {
@@ -890,24 +866,6 @@
    "role": "Accountant, Finance Department (mj007646) / Hong Kong, Hk At Kpmg",
    "location": "Hong Kong"
   },
-  "0801a1d857818cbd3dabd475266742a1": {
-   "id": "0801a1d857818cbd3dabd475266742a1",
-   "company": "Bank of America",
-   "role": "Associate / Vp – Equity Derivatives Strategist, Global Research, Hong Kong",
-   "location": "Hong Kong"
-  },
-  "708c26e6aeebf47a302ccaca7c944edc": {
-   "id": "708c26e6aeebf47a302ccaca7c944edc",
-   "company": "Bank of America",
-   "role": "Associate / Vp – Quantitative Analyst – Quant Strategy Research",
-   "location": "Hong Kong"
-  },
-  "d6dc7305f83f152b5f5699f7b583dcff": {
-   "id": "d6dc7305f83f152b5f5699f7b583dcff",
-   "company": "JD",
-   "role": "经营分析岗",
-   "location": "Hong Kong Sar"
-  },
   "c5be51bb3d6a572b7591428d2916c148": {
    "id": "c5be51bb3d6a572b7591428d2916c148",
    "company": "Building Engines",
@@ -918,18 +876,6 @@
    "id": "90788dd293327bb56edd87c72f909946",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
-   "location": "Hong Kong"
-  },
-  "4e21bf98cb0ed52420ab4764eb13b4a3": {
-   "id": "4e21bf98cb0ed52420ab4764eb13b4a3",
-   "company": "Otis Worldwide",
-   "role": "調試員 (更新工程 / 安裝部)",
-   "location": "Hong Kong"
-  },
-  "9ecc33dc4992c627a54b0826b9534567": {
-   "id": "9ecc33dc4992c627a54b0826b9534567",
-   "company": "DAT Deutsche Aufzugstechnik GmbH",
-   "role": "調試員 (更新工程 / 安裝部)",
    "location": "Hong Kong"
   },
   "ec6ef76a9418a035a1cfe483f51d26be": {
@@ -1165,18 +1111,6 @@
    "company": "122",
    "role": "Administrative Assistant",
    "location": "Hong Kong"
-  },
-  "5f39f4a500942d5b7c4dff4d17408643": {
-   "id": "5f39f4a500942d5b7c4dff4d17408643",
-   "company": "Houseoftechcommunity",
-   "role": "Receptionist /admin. Assistant",
-   "location": "Millennium City"
-  },
-  "8ee53551e7d8a36382f047069c8d917b": {
-   "id": "8ee53551e7d8a36382f047069c8d917b",
-   "company": "TD SYNNEX Accessboard",
-   "role": "Receptionist /admin. Assistant",
-   "location": "Millennium City"
   }
  }
 }
