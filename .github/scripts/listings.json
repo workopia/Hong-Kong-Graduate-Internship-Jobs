@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1299,
-  "generated_at": "2026-11-10T00:57:41.132Z"
+  "country_live_total": 1028,
+  "generated_at": "2026-11-11T00:46:53.875Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "458c85bcd343ba853a058c438f107188",
+   "source": "Workopia",
+   "company_name": "AIA Group",
+   "company_hi_slug": "aia-group",
+   "title": "Finance, Intern",
+   "location": "Hong Kong",
+   "skills": "Financial reporting, Accounting skills",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-10T12:43:15.786Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/458c85bcd343ba853a058c438f107188",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "3eee1e60469d6e86acd701124ea9d62f",
@@ -564,6 +581,23 @@
    "date_posted": "2026-10-20T04:02:07.879Z",
    "active": true,
    "url": "https://workopia.io/jobs/329ced1d25245bd6654f1b4a560ad192",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "b5e5793559d56135ed2d2bdb3db5c3b2",
+   "source": "Workopia",
+   "company_name": "Boston Consulting Group",
+   "company_hi_slug": "boston-consulting-group",
+   "title": "Part-time Assistant, Internship, Hong Kong",
+   "location": "Hong Kong",
+   "skills": "Full-time student, 6 months commitment",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-20T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/b5e5793559d56135ed2d2bdb3db5c3b2",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1401,40 +1435,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "0c3f459b30c08d5f90a50e346dfc8f8f",
-   "source": "Workopia",
-   "company_name": "MSD",
-   "company_hi_slug": "msd",
-   "title": "Regulatory Affairs Intern",
-   "location": "Hong Kong",
-   "skills": "New Product Registrati, Product Registration L",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-26T09:49:38.518Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/0c3f459b30c08d5f90a50e346dfc8f8f",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "563705892850668",
-   "source": "Workopia",
-   "company_name": "Saint Laurent",
-   "company_hi_slug": "saint-laurent",
-   "title": "Saint Laurent Financial Control & Business Analysis Intern (6-month Contract)",
-   "location": "Hong Kong",
-   "skills": "Support monthly closin, Support budget/forecas",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-25T19:18:32.915Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/563705892850668",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "Hq6SozpyQ7Bg",
    "source": "Workopia",
@@ -1567,23 +1567,6 @@
    "date_posted": "2026-09-13T16:09:01.915Z",
    "active": true,
    "url": "https://workopia.io/jobs/iFI1n6CVRSfM",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "700480b79e78a546b982b506b3d15e96",
-   "source": "Workopia",
-   "company_name": "Bah Partners",
-   "company_hi_slug": "bah-partners",
-   "title": "Software Engineer - Elite Quant Trading Firm - Hong Kong At Bah Partners",
-   "location": "Hong Kong",
-   "skills": "high-performance softw, software development l",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-11T01:05:51.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/700480b79e78a546b982b506b3d15e96",
    "category": "tech",
    "tier": "Entry-level"
   },
@@ -2948,20 +2931,20 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$17k–25k/mo*",
-   "id": "6d379682aa19f6580c105e762be17cb2",
+   "salary_display": "HK$18k–26k/mo*",
+   "id": "8caf0cad0ced9a4c8bff1aca5897ea5c",
    "source": "Workopia",
-   "company_name": "Naturactive",
-   "company_hi_slug": "naturactive",
-   "title": "Beauty Advisor - Hong Kong",
+   "company_name": "S&P Global Ratings",
+   "company_hi_slug": "s-p-global-ratings",
+   "title": "Administrative Assistant",
    "location": "Hong Kong",
-   "skills": "Promote brand products, Unique and personalize",
+   "skills": "calendar management, client communication",
    "sponsorship": false,
    "hot": false,
-   "date_posted": "2026-09-11T03:35:56.721Z",
+   "date_posted": "2026-11-10T19:22:10.366Z",
    "active": true,
-   "url": "https://workopia.io/jobs/6d379682aa19f6580c105e762be17cb2",
-   "category": "sales",
+   "url": "https://workopia.io/jobs/8caf0cad0ced9a4c8bff1aca5897ea5c",
+   "category": "admin",
    "tier": "Entry-level"
   },
   {

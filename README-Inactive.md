@@ -455,4 +455,8 @@
 <tr><td>DAT Deutsche Aufzugstechnik GmbH</td><td>調試員 (更新工程 / 安裝部)</td><td>Hong Kong</td><td>2026-11-10</td></tr>
 <tr><td>Houseoftechcommunity</td><td>Receptionist /admin. Assistant</td><td>Millennium City</td><td>2026-11-10</td></tr>
 <tr><td>TD SYNNEX Accessboard</td><td>Receptionist /admin. Assistant</td><td>Millennium City</td><td>2026-11-10</td></tr>
+<tr><td>MSD</td><td>Regulatory Affairs Intern</td><td>Hong Kong</td><td>2026-11-11</td></tr>
+<tr><td>Saint Laurent</td><td>Saint Laurent Financial Control & Business Analysis Intern (6-month Contract)</td><td>Hong Kong</td><td>2026-11-11</td></tr>
+<tr><td>Bah Partners</td><td>Software Engineer - Elite Quant Trading Firm - Hong Kong At Bah Partners</td><td>Hong Kong</td><td>2026-11-11</td></tr>
+<tr><td>Naturactive</td><td>Beauty Advisor - Hong Kong</td><td>Hong Kong</td><td>2026-11-11</td></tr>
 </table>

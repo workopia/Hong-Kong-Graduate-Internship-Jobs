@@ -1,7 +1,13 @@
 {
- "asOf": "2026-11-10",
- "count": 185,
+ "asOf": "2026-11-11",
+ "count": 184,
  "jobs": {
+  "458c85bcd343ba853a058c438f107188": {
+   "id": "458c85bcd343ba853a058c438f107188",
+   "company": "AIA Group",
+   "role": "Finance, Intern",
+   "location": "Hong Kong"
+  },
   "3eee1e60469d6e86acd701124ea9d62f": {
    "id": "3eee1e60469d6e86acd701124ea9d62f",
    "company": "Huatai Securities (HK)",
@@ -174,6 +180,12 @@
    "id": "329ced1d25245bd6654f1b4a560ad192",
    "company": "Hong Kong Productivity Council",
    "role": "Intern, Ai & Innovation Lab",
+   "location": "Hong Kong"
+  },
+  "b5e5793559d56135ed2d2bdb3db5c3b2": {
+   "id": "b5e5793559d56135ed2d2bdb3db5c3b2",
+   "company": "Boston Consulting Group",
+   "role": "Part-time Assistant, Internship, Hong Kong",
    "location": "Hong Kong"
   },
   "de6b40746046a35c5d01705b3a693359": {
@@ -470,18 +482,6 @@
    "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
    "location": "Hong Kong"
   },
-  "0c3f459b30c08d5f90a50e346dfc8f8f": {
-   "id": "0c3f459b30c08d5f90a50e346dfc8f8f",
-   "company": "MSD",
-   "role": "Regulatory Affairs Intern",
-   "location": "Hong Kong"
-  },
-  "563705892850668": {
-   "id": "563705892850668",
-   "company": "Saint Laurent",
-   "role": "Saint Laurent Financial Control & Business Analysis Intern (6-month Contract)",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -528,12 +528,6 @@
    "id": "iFI1n6CVRSfM",
    "company": "Yubo Trading",
    "role": "C Software Engineer",
-   "location": "Hong Kong"
-  },
-  "700480b79e78a546b982b506b3d15e96": {
-   "id": "700480b79e78a546b982b506b3d15e96",
-   "company": "Bah Partners",
-   "role": "Software Engineer - Elite Quant Trading Firm - Hong Kong At Bah Partners",
    "location": "Hong Kong"
   },
   "dd191fa709443d14886f52b48ac4baa2": {
@@ -1016,10 +1010,10 @@
    "role": "Bottega Veneta Part Time Sales",
    "location": "Hong Kong"
   },
-  "6d379682aa19f6580c105e762be17cb2": {
-   "id": "6d379682aa19f6580c105e762be17cb2",
-   "company": "Naturactive",
-   "role": "Beauty Advisor - Hong Kong",
+  "8caf0cad0ced9a4c8bff1aca5897ea5c": {
+   "id": "8caf0cad0ced9a4c8bff1aca5897ea5c",
+   "company": "S&P Global Ratings",
+   "role": "Administrative Assistant",
    "location": "Hong Kong"
   },
   "d266e160badc69ec0dd0bcf735f8c046": {
