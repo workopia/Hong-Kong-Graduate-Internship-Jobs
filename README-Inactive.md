@@ -459,4 +459,8 @@
 <tr><td>Saint Laurent</td><td>Saint Laurent Financial Control & Business Analysis Intern (6-month Contract)</td><td>Hong Kong</td><td>2026-11-11</td></tr>
 <tr><td>Bah Partners</td><td>Software Engineer - Elite Quant Trading Firm - Hong Kong At Bah Partners</td><td>Hong Kong</td><td>2026-11-11</td></tr>
 <tr><td>Naturactive</td><td>Beauty Advisor - Hong Kong</td><td>Hong Kong</td><td>2026-11-11</td></tr>
+<tr><td>Schonfeld</td><td>2027 Quantitative C++ Developer Intern</td><td>Hong Kong</td><td>2026-11-12</td></tr>
+<tr><td>PCCW-HKT DataCom Services Ltd</td><td>Payroll Intern</td><td>Hong Kong</td><td>2026-11-12</td></tr>
+<tr><td>Oliver Wyman</td><td>Oliver Wyman - Summer Intern (2027) - Hong Kong</td><td>Hong Kong</td><td>2026-11-12</td></tr>
+<tr><td>S&P Global Ratings</td><td>Administrative Assistant</td><td>Hong Kong</td><td>2026-11-12</td></tr>
 </table>

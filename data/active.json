@@ -1,12 +1,30 @@
 {
- "asOf": "2026-11-11",
- "count": 184,
+ "asOf": "2026-11-12",
+ "count": 187,
  "jobs": {
+  "d49d0320a033534f57a529a427a08278": {
+   "id": "d49d0320a033534f57a529a427a08278",
+   "company": "BOUYGUES CONSTRUCTION IT SNC",
+   "role": "Winter Trainee (building / Civil)",
+   "location": "Kwun Tong District"
+  },
   "458c85bcd343ba853a058c438f107188": {
    "id": "458c85bcd343ba853a058c438f107188",
    "company": "AIA Group",
    "role": "Finance, Intern",
    "location": "Hong Kong"
+  },
+  "4431908c2f5b1db010ea4e771b6e8726": {
+   "id": "4431908c2f5b1db010ea4e771b6e8726",
+   "company": "Bowtie",
+   "role": "Actuarial/ Insurance Product Intern (2027 H2)",
+   "location": "Hong Kong"
+  },
+  "fcfc4fa55f7766b361a385c94032643a": {
+   "id": "fcfc4fa55f7766b361a385c94032643a",
+   "company": "Louis Vuitton",
+   "role": "Intern - Visual Merchandising",
+   "location": "Hong Kong Island +1"
   },
   "3eee1e60469d6e86acd701124ea9d62f": {
    "id": "3eee1e60469d6e86acd701124ea9d62f",
@@ -464,24 +482,6 @@
    "role": "Co-op Intern, Business Training, Tied Agency",
    "location": "Hong Kong"
   },
-  "c198e2e60460be08efea48f3e1630e30": {
-   "id": "c198e2e60460be08efea48f3e1630e30",
-   "company": "Schonfeld",
-   "role": "2027 Quantitative C++ Developer Intern",
-   "location": "Hong Kong"
-  },
-  "25a6eefa2a5abbf462a622b44c919398": {
-   "id": "25a6eefa2a5abbf462a622b44c919398",
-   "company": "PCCW-HKT DataCom Services Ltd",
-   "role": "Payroll Intern",
-   "location": "Hong Kong"
-  },
-  "7cd08a75aaaf8845d64dcbf45c5c80fc": {
-   "id": "7cd08a75aaaf8845d64dcbf45c5c80fc",
-   "company": "Oliver Wyman",
-   "role": "Oliver Wyman - Summer Intern (2027) - Hong Kong",
-   "location": "Hong Kong"
-  },
   "Hq6SozpyQ7Bg": {
    "id": "Hq6SozpyQ7Bg",
    "company": "Yubo Trading",
@@ -642,6 +642,12 @@
    "id": "F12QCjOLv4-x",
    "company": "Yubo Trading",
    "role": "Graduate Quantitative Researcher",
+   "location": "Hong Kong"
+  },
+  "8567b71bee2f22ba98a5928f21471f48": {
+   "id": "8567b71bee2f22ba98a5928f21471f48",
+   "company": "HSBC",
+   "role": "Cash Equity Business Analyst & SME",
    "location": "Hong Kong"
   },
   "00d0cf10eb7194c74bba86eb1f646ae9": {
@@ -1010,8 +1016,14 @@
    "role": "Bottega Veneta Part Time Sales",
    "location": "Hong Kong"
   },
-  "8caf0cad0ced9a4c8bff1aca5897ea5c": {
-   "id": "8caf0cad0ced9a4c8bff1aca5897ea5c",
+  "f3a311215a327e3d3865b62a51e951be": {
+   "id": "f3a311215a327e3d3865b62a51e951be",
+   "company": "Rosewood Hotels & Resorts",
+   "role": "Administrative Assistant - Finance",
+   "location": "Hong Kong"
+  },
+  "9ac3fcbece4f16219e062d6c3b28da00": {
+   "id": "9ac3fcbece4f16219e062d6c3b28da00",
    "company": "S&P Global Ratings",
    "role": "Administrative Assistant",
    "location": "Hong Kong"
@@ -1086,6 +1098,12 @@
    "id": "a0a3f25801a0c3ae9908177fdb8127b5",
    "company": "TD SYNNEX",
    "role": "Receptionist /admin. Assistant",
+   "location": "Hong Kong"
+  },
+  "04b15f2e2c3f915dc2106ccecc8eefbe": {
+   "id": "04b15f2e2c3f915dc2106ccecc8eefbe",
+   "company": "HSBC",
+   "role": "Executive Productivity And AI Associate",
    "location": "Hong Kong"
   },
   "7672eda9dafe614d6b286c8d12d6b7eb": {
