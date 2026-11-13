@@ -463,4 +463,12 @@
 <tr><td>PCCW-HKT DataCom Services Ltd</td><td>Payroll Intern</td><td>Hong Kong</td><td>2026-11-12</td></tr>
 <tr><td>Oliver Wyman</td><td>Oliver Wyman - Summer Intern (2027) - Hong Kong</td><td>Hong Kong</td><td>2026-11-12</td></tr>
 <tr><td>S&P Global Ratings</td><td>Administrative Assistant</td><td>Hong Kong</td><td>2026-11-12</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Private Banking Intern Hong Kong 2027</td><td>Central +1</td><td>2026-11-13</td></tr>
+<tr><td>FWD Life Insurance Group</td><td>Co-op Intern, Investment</td><td>Hong Kong</td><td>2026-11-13</td></tr>
+<tr><td>FWD Life Insurance Group</td><td>Co-op Intern, It Application Management</td><td>Hong Kong</td><td>2026-11-13</td></tr>
+<tr><td>FWD Life Insurance Group</td><td>Co-op Intern, Business Training, Tied Agency</td><td>Hong Kong</td><td>2026-11-13</td></tr>
+<tr><td>Yubo Trading</td><td>Graduate C Software Engineer</td><td>Hong Kong</td><td>2026-11-13</td></tr>
+<tr><td>Yubo Trading</td><td>C Software Engineer</td><td>Hong Kong</td><td>2026-11-13</td></tr>
+<tr><td>Yubo Trading</td><td>Graduate Quantitative Researcher</td><td>Hong Kong</td><td>2026-11-13</td></tr>
+<tr><td>KPMG China</td><td>Accountant, Finance Department (mj007646) / Hong Kong, Hk At Kpmg</td><td>Hong Kong</td><td>2026-11-13</td></tr>
 </table>
