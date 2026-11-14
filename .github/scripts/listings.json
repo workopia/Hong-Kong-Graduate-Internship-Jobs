@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-11-13",
+  "as_of": "2026-11-14",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1038,
-  "generated_at": "2026-11-13T00:47:40.833Z"
+  "country_live_total": 1029,
+  "generated_at": "2026-11-14T00:51:41.596Z"
  },
  "categories": [
   {
@@ -74,6 +74,40 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "daac7519c750458702594e79d4c1f41c",
+   "source": "Workopia",
+   "company_name": "Neuberger Berman Group",
+   "company_hi_slug": "neuberger-berman-group",
+   "title": "Intern",
+   "location": "Hong Kong",
+   "skills": "Internship opportunity, Hong Kong location",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-13T13:56:47.845Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/daac7519c750458702594e79d4c1f41c",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": "HK$70/hr",
+   "id": "fb7aa5b7f1ae6ac9f81c05fa07194758",
+   "source": "Workopia",
+   "company_name": "Under Armour",
+   "company_hi_slug": "under-armour",
+   "title": "Intern, Tax",
+   "location": "Hong Kong",
+   "skills": "Tax Compliance, Tax Provision",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-13T00:40:07.248Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/fb7aa5b7f1ae6ac9f81c05fa07194758",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "dede74f0ca0d984b0d05c72580abd8f8",
@@ -1401,40 +1435,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "b1b8d58b6953acb37fe087d06172d3f6",
-   "source": "Workopia",
-   "company_name": "FWD Life Insurance Group",
-   "company_hi_slug": "fwd-life-insurance-group",
-   "title": "Co-op Intern, Business Development, Tied Agency",
-   "location": "Hong Kong",
-   "skills": "Business performance t, Agent onboarding and a",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-30T13:39:56.608Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/b1b8d58b6953acb37fe087d06172d3f6",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "0dde81cbb1f406d9bc8c353f6284a685",
-   "source": "Workopia",
-   "company_name": "FWD Life Insurance Group",
-   "company_hi_slug": "fwd-life-insurance-group",
-   "title": "Co-op Intern, Health Proposition And Healthcare Strategy",
-   "location": "Hong Kong",
-   "skills": "launch VHIS CM Plan pr, develop new FWD Care p",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-30T13:39:56.608Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/0dde81cbb1f406d9bc8c353f6284a685",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "4e6123b22526cad971b82dcc2bef6bc1",
    "source": "Workopia",
@@ -2472,23 +2472,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "0b0d1b914f06cafe8f81f96fe64092d5",
-   "source": "Workopia",
-   "company_name": "Me2Works",
-   "company_hi_slug": "me2works",
-   "title": "Accountant - Financial Reporting At Michael Page",
-   "location": "Hong Kong",
-   "skills": "financial records main, local accounting compl",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-14T01:21:04.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/0b0d1b914f06cafe8f81f96fe64092d5",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": "HK$15k–27k/mo*",
    "id": "c5be51bb3d6a572b7591428d2916c148",
    "source": "Workopia",
@@ -2520,6 +2503,23 @@
    "active": true,
    "url": "https://workopia.io/jobs/90788dd293327bb56edd87c72f909946",
    "category": "trades",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$17k–25k/mo*",
+   "id": "9dfcab694505df297b832defe06c58d4",
+   "source": "Workopia",
+   "company_name": "H&M",
+   "company_hi_slug": "h-m",
+   "title": "Part Time Sales Advisor (harbour City)",
+   "location": "Hong Kong",
+   "skills": "Customer service, Sales assistance",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-12T07:58:38.652Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/9dfcab694505df297b832defe06c58d4",
+   "category": "sales",
    "tier": "Entry-level"
   },
   {
@@ -2587,23 +2587,6 @@
    "date_posted": "2026-10-27T13:34:05.577Z",
    "active": true,
    "url": "https://workopia.io/jobs/b71e41e34489c2ebc49ddd6617df61a3",
-   "category": "sales",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$17k–25k/mo*",
-   "id": "999f3167e37256babe0c79648bb2b02f",
-   "source": "Workopia",
-   "company_name": "H&M",
-   "company_hi_slug": "h-m",
-   "title": "Part Time Sales Advisor (harbour City)",
-   "location": "Hong Kong",
-   "skills": "customer service, sales assistance",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-10-26T09:25:57.931Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/999f3167e37256babe0c79648bb2b02f",
    "category": "sales",
    "tier": "Entry-level"
   },

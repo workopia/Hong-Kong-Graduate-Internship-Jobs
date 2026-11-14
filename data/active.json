@@ -1,7 +1,19 @@
 {
- "asOf": "2026-11-13",
- "count": 185,
+ "asOf": "2026-11-14",
+ "count": 184,
  "jobs": {
+  "daac7519c750458702594e79d4c1f41c": {
+   "id": "daac7519c750458702594e79d4c1f41c",
+   "company": "Neuberger Berman Group",
+   "role": "Intern",
+   "location": "Hong Kong"
+  },
+  "fb7aa5b7f1ae6ac9f81c05fa07194758": {
+   "id": "fb7aa5b7f1ae6ac9f81c05fa07194758",
+   "company": "Under Armour",
+   "role": "Intern, Tax",
+   "location": "Hong Kong"
+  },
   "dede74f0ca0d984b0d05c72580abd8f8": {
    "id": "dede74f0ca0d984b0d05c72580abd8f8",
    "company": "Standard Chartered Bank",
@@ -470,18 +482,6 @@
    "role": "Hong Kong Summer Internship Programme (2027)",
    "location": "Hong Kong"
   },
-  "b1b8d58b6953acb37fe087d06172d3f6": {
-   "id": "b1b8d58b6953acb37fe087d06172d3f6",
-   "company": "FWD Life Insurance Group",
-   "role": "Co-op Intern, Business Development, Tied Agency",
-   "location": "Hong Kong"
-  },
-  "0dde81cbb1f406d9bc8c353f6284a685": {
-   "id": "0dde81cbb1f406d9bc8c353f6284a685",
-   "company": "FWD Life Insurance Group",
-   "role": "Co-op Intern, Health Proposition And Healthcare Strategy",
-   "location": "Hong Kong"
-  },
   "4e6123b22526cad971b82dcc2bef6bc1": {
    "id": "4e6123b22526cad971b82dcc2bef6bc1",
    "company": "Qube Research And Technology",
@@ -848,12 +848,6 @@
    "role": "Quantitative Trading Strategy Algorithm Engineer",
    "location": "Hong Kong"
   },
-  "0b0d1b914f06cafe8f81f96fe64092d5": {
-   "id": "0b0d1b914f06cafe8f81f96fe64092d5",
-   "company": "Me2Works",
-   "role": "Accountant - Financial Reporting At Michael Page",
-   "location": "Hong Kong"
-  },
   "c5be51bb3d6a572b7591428d2916c148": {
    "id": "c5be51bb3d6a572b7591428d2916c148",
    "company": "Building Engines",
@@ -864,6 +858,12 @@
    "id": "90788dd293327bb56edd87c72f909946",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
+   "location": "Hong Kong"
+  },
+  "9dfcab694505df297b832defe06c58d4": {
+   "id": "9dfcab694505df297b832defe06c58d4",
+   "company": "H&M",
+   "role": "Part Time Sales Advisor (harbour City)",
    "location": "Hong Kong"
   },
   "ec6ef76a9418a035a1cfe483f51d26be": {
@@ -888,12 +888,6 @@
    "id": "b71e41e34489c2ebc49ddd6617df61a3",
    "company": "Coach (Tapestry, Inc.)",
    "role": "Sales Associate",
-   "location": "Hong Kong"
-  },
-  "999f3167e37256babe0c79648bb2b02f": {
-   "id": "999f3167e37256babe0c79648bb2b02f",
-   "company": "H&M",
-   "role": "Part Time Sales Advisor (harbour City)",
    "location": "Hong Kong"
   },
   "8909d6f2af19a1424380de5124ad440d": {
