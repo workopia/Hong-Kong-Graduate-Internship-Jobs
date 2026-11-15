@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-11-14",
+  "as_of": "2026-11-15",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1029,
-  "generated_at": "2026-11-14T00:51:41.596Z"
+  "country_live_total": 1026,
+  "generated_at": "2026-11-15T00:43:31.911Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "fce04ffad1e2481b571c27abc3b13794",
+   "source": "Workopia",
+   "company_name": "Hermès International",
+   "company_hi_slug": "hermes-international",
+   "title": "Merchandising Intern (watch Métier)",
+   "location": "Hong Kong SAR",
+   "skills": "Data consolidation, Sales reporting",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-14T16:43:45.564Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/fce04ffad1e2481b571c27abc3b13794",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "daac7519c750458702594e79d4c1f41c",
@@ -1418,23 +1435,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "43ccc0529961755dc9860f67e8ed97bf",
-   "source": "Workopia",
-   "company_name": "Freshfields Bruckhaus Deringer",
-   "company_hi_slug": "freshfields-bruckhaus-deringer",
-   "title": "Hong Kong Summer Internship Programme (2027)",
-   "location": "Hong Kong",
-   "skills": "penultimate year law s, graduating June 2028",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-10-01T04:36:29.127Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/43ccc0529961755dc9860f67e8ed97bf",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "4e6123b22526cad971b82dcc2bef6bc1",
    "source": "Workopia",
@@ -1839,23 +1839,6 @@
    "date_posted": "2026-09-21T07:22:51.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/76fdd66f8e766018e7021e133177c00e",
-   "category": "finance",
-   "tier": "Graduate"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "645ea453634299f76b95ff015d3e5b05",
-   "source": "Workopia",
-   "company_name": "DV Group Ltd",
-   "company_hi_slug": "dv-group",
-   "title": "2027 Quantitative Trader Graduate (dv Equities)",
-   "location": "Hong Kong",
-   "skills": "quantitative trading s, data-driven trading mo",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-15T04:48:48.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/645ea453634299f76b95ff015d3e5b05",
    "category": "finance",
    "tier": "Graduate"
   },

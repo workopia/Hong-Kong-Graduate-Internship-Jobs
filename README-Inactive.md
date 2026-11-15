@@ -475,4 +475,6 @@
 <tr><td>FWD Life Insurance Group</td><td>Co-op Intern, Health Proposition And Healthcare Strategy</td><td>Hong Kong</td><td>2026-11-14</td></tr>
 <tr><td>Me2Works</td><td>Accountant - Financial Reporting At Michael Page</td><td>Hong Kong</td><td>2026-11-14</td></tr>
 <tr><td>H&M</td><td>Part Time Sales Advisor (harbour City)</td><td>Hong Kong</td><td>2026-11-14</td></tr>
+<tr><td>Freshfields Bruckhaus Deringer</td><td>Hong Kong Summer Internship Programme (2027)</td><td>Hong Kong</td><td>2026-11-15</td></tr>
+<tr><td>DV Group Ltd</td><td>2027 Quantitative Trader Graduate (dv Equities)</td><td>Hong Kong</td><td>2026-11-15</td></tr>
 </table>
