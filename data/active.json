@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-15",
- "count": 183,
+ "asOf": "2026-11-16",
+ "count": 182,
  "jobs": {
   "fce04ffad1e2481b571c27abc3b13794": {
    "id": "fce04ffad1e2481b571c27abc3b13794",
@@ -834,12 +834,6 @@
    "id": "70203d307f4868a56b77b45da907ff4e",
    "company": "UOB Group",
    "role": "Officer, Anit-financial Crimes Operations (customer Due Diligence)",
-   "location": "Hong Kong"
-  },
-  "d3346aa1dc85245cc24f2cd18d0a5230": {
-   "id": "d3346aa1dc85245cc24f2cd18d0a5230",
-   "company": "Binance",
-   "role": "Quantitative Trading Strategy Algorithm Engineer",
    "location": "Hong Kong"
   },
   "c5be51bb3d6a572b7591428d2916c148": {
