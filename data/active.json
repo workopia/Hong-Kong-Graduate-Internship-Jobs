@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-16",
- "count": 182,
+ "asOf": "2026-11-17",
+ "count": 178,
  "jobs": {
   "fce04ffad1e2481b571c27abc3b13794": {
    "id": "fce04ffad1e2481b571c27abc3b13794",
@@ -512,18 +512,6 @@
    "role": "Software Engineer, Mobile At Okx",
    "location": "Hong Kong"
   },
-  "bfeb38ccd213fc489fb21be6c6d1aa7a": {
-   "id": "bfeb38ccd213fc489fb21be6c6d1aa7a",
-   "company": "IMC Trading",
-   "role": "Software Engineer - Research",
-   "location": "Hong Kong"
-  },
-  "b3a8da6a1556db4a0c1539ecda86bba2": {
-   "id": "b3a8da6a1556db4a0c1539ecda86bba2",
-   "company": "Bah Partners",
-   "role": "Software Engineer At Bah Partners",
-   "location": "Hong Kong"
-  },
   "dd191fa709443d14886f52b48ac4baa2": {
    "id": "dd191fa709443d14886f52b48ac4baa2",
    "company": "Hong Kong Productivity Council",
@@ -534,6 +522,12 @@
    "id": "897b1f9df4aa79c0e970d319b8ddd12c",
    "company": "Infineon",
    "role": "Internship - Ai Engineer",
+   "location": "Hong Kong"
+  },
+  "8af46b6d6658a6d2a82685e7c12504d9": {
+   "id": "8af46b6d6658a6d2a82685e7c12504d9",
+   "company": "HSBC",
+   "role": "Data Scientist",
    "location": "Hong Kong"
   },
   "cf3ecca7238cebae9ed6ae46293cacce": {
@@ -594,12 +588,6 @@
    "id": "236451a09a96c9aa262ba5eaf9069013",
    "company": "Manulife",
    "role": "Co-op Internship 2027: Business Intelligence (6 Months)",
-   "location": "Hong Kong"
-  },
-  "4fe83a2de0f57527cc071a0dba71fb35": {
-   "id": "4fe83a2de0f57527cc071a0dba71fb35",
-   "company": "DV Group Ltd",
-   "role": "Quantitative Trading Intern (dv Equities)",
    "location": "Hong Kong"
   },
   "69436ef2d7aa926f08ca8cb208352148": {
@@ -824,18 +812,6 @@
    "role": "Junior Quantitative Researcher",
    "location": "Hong Kong"
   },
-  "f3dfc1d18a3e6156a4da9c9d43fe4f9c": {
-   "id": "f3dfc1d18a3e6156a4da9c9d43fe4f9c",
-   "company": "Binance",
-   "role": "Binance Accelerator Program - Quantitative Trading Strategy Algorithm",
-   "location": "Hong Kong"
-  },
-  "70203d307f4868a56b77b45da907ff4e": {
-   "id": "70203d307f4868a56b77b45da907ff4e",
-   "company": "UOB Group",
-   "role": "Officer, Anit-financial Crimes Operations (customer Due Diligence)",
-   "location": "Hong Kong"
-  },
   "c5be51bb3d6a572b7591428d2916c148": {
    "id": "c5be51bb3d6a572b7591428d2916c148",
    "company": "Building Engines",
@@ -986,8 +962,8 @@
    "role": "Bottega Veneta Part Time Sales",
    "location": "Hong Kong"
   },
-  "9ac3fcbece4f16219e062d6c3b28da00": {
-   "id": "9ac3fcbece4f16219e062d6c3b28da00",
+  "1288116d006f10a4408504b9a6201ab1": {
+   "id": "1288116d006f10a4408504b9a6201ab1",
    "company": "S&P Global Ratings",
    "role": "Administrative Assistant",
    "location": "Hong Kong"

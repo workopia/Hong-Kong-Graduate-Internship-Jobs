@@ -478,4 +478,10 @@
 <tr><td>Freshfields Bruckhaus Deringer</td><td>Hong Kong Summer Internship Programme (2027)</td><td>Hong Kong</td><td>2026-11-15</td></tr>
 <tr><td>DV Group Ltd</td><td>2027 Quantitative Trader Graduate (dv Equities)</td><td>Hong Kong</td><td>2026-11-15</td></tr>
 <tr><td>Binance</td><td>Quantitative Trading Strategy Algorithm Engineer</td><td>Hong Kong</td><td>2026-11-16</td></tr>
+<tr><td>IMC Trading</td><td>Software Engineer - Research</td><td>Hong Kong</td><td>2026-11-17</td></tr>
+<tr><td>Bah Partners</td><td>Software Engineer At Bah Partners</td><td>Hong Kong</td><td>2026-11-17</td></tr>
+<tr><td>DV Group Ltd</td><td>Quantitative Trading Intern (dv Equities)</td><td>Hong Kong</td><td>2026-11-17</td></tr>
+<tr><td>Binance</td><td>Binance Accelerator Program - Quantitative Trading Strategy Algorithm</td><td>Hong Kong</td><td>2026-11-17</td></tr>
+<tr><td>UOB Group</td><td>Officer, Anit-financial Crimes Operations (customer Due Diligence)</td><td>Hong Kong</td><td>2026-11-17</td></tr>
+<tr><td>S&P Global Ratings</td><td>Administrative Assistant</td><td>Hong Kong</td><td>2026-11-17</td></tr>
 </table>
