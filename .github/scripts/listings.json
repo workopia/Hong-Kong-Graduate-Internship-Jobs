@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-11-17",
+  "as_of": "2026-11-18",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1022,
-  "generated_at": "2026-11-17T00:53:21.168Z"
+  "country_live_total": 1025,
+  "generated_at": "2026-11-18T00:57:32.628Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "d0402c5699123e81bfec870a71ad1513",
+   "source": "Workopia",
+   "company_name": "Google",
+   "company_hi_slug": "google",
+   "title": "Mba Intern, 2027",
+   "location": "Hong Kong",
+   "skills": "Business strategy, Finance analysis",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-16T23:41:35.363Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/d0402c5699123e81bfec870a71ad1513",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "fce04ffad1e2481b571c27abc3b13794",
@@ -853,23 +870,6 @@
    "date_posted": "2026-10-15T14:29:03.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/5f05d4178e513e6a460026d492647f8a",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "e9f7986a24898009f23b35eb7b9fb835",
-   "source": "Workopia",
-   "company_name": "Google",
-   "company_hi_slug": "google",
-   "title": "Mba Intern, 2027",
-   "location": "Hong Kong",
-   "skills": "Business strategy, Finance analysis",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-10-15T13:14:20.747Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/e9f7986a24898009f23b35eb7b9fb835",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1810,6 +1810,23 @@
   },
   {
    "salary_display": "HK$20k–32k/mo*",
+   "id": "ac10d3d60113aab87e19169db8987604",
+   "source": "Workopia",
+   "company_name": "Point72 Asset Management LP",
+   "company_hi_slug": "point72-asset-management-lp",
+   "title": "Quantitative Analyst, Pcat",
+   "location": "Hong Kong",
+   "skills": "Data analysis, Investment decision-ma",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-17T09:37:35.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/ac10d3d60113aab87e19169db8987604",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
    "id": "c83f7b0a93f69465abf8ce000c24334d",
    "source": "Workopia",
    "company_name": "HSBC",
@@ -2353,23 +2370,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "6e3b91c9f724b499ce1dfb49fccf1549",
-   "source": "Workopia",
-   "company_name": "Flow Traders",
-   "company_hi_slug": "flow-traders",
-   "title": "Junior Quantitative Researcher",
-   "location": "Hong Kong",
-   "skills": "mathematics and statis, quantitative problems ",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-18T09:17:55.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/6e3b91c9f724b499ce1dfb49fccf1549",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": "HK$15k–27k/mo*",
    "id": "c5be51bb3d6a572b7591428d2916c148",
    "source": "Workopia",
@@ -2401,6 +2401,23 @@
    "active": true,
    "url": "https://workopia.io/jobs/90788dd293327bb56edd87c72f909946",
    "category": "trades",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$17k–25k/mo*",
+   "id": "64aef7b95497b19f207722bcb3c818b4",
+   "source": "Workopia",
+   "company_name": "Bottega Veneta",
+   "company_hi_slug": "bottega-veneta",
+   "title": "Bottega Veneta Part Time Sales",
+   "location": "Hong Kong",
+   "skills": "Luxury retail sales, Customer relationship ",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-17T07:50:17.091Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/64aef7b95497b19f207722bcb3c818b4",
+   "category": "sales",
    "tier": "Entry-level"
   },
   {
@@ -2762,23 +2779,6 @@
   },
   {
    "salary_display": "HK$17k–25k/mo*",
-   "id": "563705892650244",
-   "source": "Workopia",
-   "company_name": "Bottega Veneta",
-   "company_hi_slug": "bottega-veneta",
-   "title": "Bottega Veneta Part Time Sales",
-   "location": "Hong Kong",
-   "skills": "Achieve sales targets, Deliver excellent cust",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-29T05:33:32.739Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/563705892650244",
-   "category": "sales",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$17k–25k/mo*",
    "id": "563705892740771",
    "source": "Workopia",
    "company_name": "Bottega Veneta Hong Kong",
@@ -2792,6 +2792,23 @@
    "active": true,
    "url": "https://workopia.io/jobs/563705892740771",
    "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$18k–26k/mo*",
+   "id": "1b710068bb8ae72f631ea2cd773821c9",
+   "source": "Workopia",
+   "company_name": "The University of Hong Kong",
+   "company_hi_slug": "the-university-of-hong-kong",
+   "title": "Clerical Assistant",
+   "location": "Hong Kong",
+   "skills": "Clerical support, Administrative tasks",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-17T01:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/1b710068bb8ae72f631ea2cd773821c9",
+   "category": "admin",
    "tier": "Entry-level"
   },
   {
@@ -2910,23 +2927,6 @@
    "date_posted": "2026-10-21T01:00:00.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/3cd799e9ca506f380a7641492ea1ce25",
-   "category": "admin",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$18k–26k/mo*",
-   "id": "d496c521f4a9378747799429fa347954",
-   "source": "Workopia",
-   "company_name": "The University of Hong Kong",
-   "company_hi_slug": "the-university-of-hong-kong",
-   "title": "Clerical Assistant",
-   "location": "Hong Kong Au",
-   "skills": "administrative support, clinical operations",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-10-20T01:00:00.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/d496c521f4a9378747799429fa347954",
    "category": "admin",
    "tier": "Entry-level"
   },

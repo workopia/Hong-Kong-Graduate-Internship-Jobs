@@ -484,4 +484,8 @@
 <tr><td>Binance</td><td>Binance Accelerator Program - Quantitative Trading Strategy Algorithm</td><td>Hong Kong</td><td>2026-11-17</td></tr>
 <tr><td>UOB Group</td><td>Officer, Anit-financial Crimes Operations (customer Due Diligence)</td><td>Hong Kong</td><td>2026-11-17</td></tr>
 <tr><td>S&P Global Ratings</td><td>Administrative Assistant</td><td>Hong Kong</td><td>2026-11-17</td></tr>
+<tr><td>Google</td><td>Mba Intern, 2027</td><td>Hong Kong</td><td>2026-11-18</td></tr>
+<tr><td>Flow Traders</td><td>Junior Quantitative Researcher</td><td>Hong Kong</td><td>2026-11-18</td></tr>
+<tr><td>Bottega Veneta</td><td>Bottega Veneta Part Time Sales</td><td>Hong Kong</td><td>2026-11-18</td></tr>
+<tr><td>The University of Hong Kong</td><td>Clerical Assistant</td><td>Hong Kong Au</td><td>2026-11-18</td></tr>
 </table>

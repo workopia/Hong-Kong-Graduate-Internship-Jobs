@@ -1,7 +1,13 @@
 {
- "asOf": "2026-11-17",
+ "asOf": "2026-11-18",
  "count": 178,
  "jobs": {
+  "d0402c5699123e81bfec870a71ad1513": {
+   "id": "d0402c5699123e81bfec870a71ad1513",
+   "company": "Google",
+   "role": "Mba Intern, 2027",
+   "location": "Hong Kong"
+  },
   "fce04ffad1e2481b571c27abc3b13794": {
    "id": "fce04ffad1e2481b571c27abc3b13794",
    "company": "Hermès International",
@@ -276,12 +282,6 @@
    "id": "5f05d4178e513e6a460026d492647f8a",
    "company": "The Estée Lauder Companies Inc.",
    "role": "Marketing Intern, Regional Brands (Jan-Jun 2027, 6 months internship)",
-   "location": "Hong Kong"
-  },
-  "e9f7986a24898009f23b35eb7b9fb835": {
-   "id": "e9f7986a24898009f23b35eb7b9fb835",
-   "company": "Google",
-   "role": "Mba Intern, 2027",
    "location": "Hong Kong"
   },
   "e82c0aa5e03ae5a7f1141dcd838b8f33": {
@@ -614,6 +614,12 @@
    "role": "Phd Graduate Quantitative Researcher",
    "location": "Hong Kong"
   },
+  "ac10d3d60113aab87e19169db8987604": {
+   "id": "ac10d3d60113aab87e19169db8987604",
+   "company": "Point72 Asset Management LP",
+   "role": "Quantitative Analyst, Pcat",
+   "location": "Hong Kong"
+  },
   "c83f7b0a93f69465abf8ce000c24334d": {
    "id": "c83f7b0a93f69465abf8ce000c24334d",
    "company": "HSBC",
@@ -806,12 +812,6 @@
    "role": "Specialist, Business Analyst, Institutional Banking Group / Hong Kong, Hk At Dbs Bank (hong Kong) Limited",
    "location": "Hong Kong"
   },
-  "6e3b91c9f724b499ce1dfb49fccf1549": {
-   "id": "6e3b91c9f724b499ce1dfb49fccf1549",
-   "company": "Flow Traders",
-   "role": "Junior Quantitative Researcher",
-   "location": "Hong Kong"
-  },
   "c5be51bb3d6a572b7591428d2916c148": {
    "id": "c5be51bb3d6a572b7591428d2916c148",
    "company": "Building Engines",
@@ -822,6 +822,12 @@
    "id": "90788dd293327bb56edd87c72f909946",
    "company": "PCCW-HKT DataCom Services Ltd",
    "role": "Service Engineer",
+   "location": "Hong Kong"
+  },
+  "64aef7b95497b19f207722bcb3c818b4": {
+   "id": "64aef7b95497b19f207722bcb3c818b4",
+   "company": "Bottega Veneta",
+   "role": "Bottega Veneta Part Time Sales",
    "location": "Hong Kong"
   },
   "9dfcab694505df297b832defe06c58d4": {
@@ -950,16 +956,16 @@
    "role": "Educator Part Time Sales / Citygate Outlet",
    "location": "Hong Kong"
   },
-  "563705892650244": {
-   "id": "563705892650244",
-   "company": "Bottega Veneta",
-   "role": "Bottega Veneta Part Time Sales",
-   "location": "Hong Kong"
-  },
   "563705892740771": {
    "id": "563705892740771",
    "company": "Bottega Veneta Hong Kong",
    "role": "Bottega Veneta Part Time Sales",
+   "location": "Hong Kong"
+  },
+  "1b710068bb8ae72f631ea2cd773821c9": {
+   "id": "1b710068bb8ae72f631ea2cd773821c9",
+   "company": "The University of Hong Kong",
+   "role": "Clerical Assistant",
    "location": "Hong Kong"
   },
   "1288116d006f10a4408504b9a6201ab1": {
@@ -1003,12 +1009,6 @@
    "company": "The University of Hong Kong",
    "role": "Fractional Clerk Ii (holding The Functional Title Of Executive Assistant) In The Joint Universities Computer Centre (jucc)",
    "location": "Hong Kong"
-  },
-  "d496c521f4a9378747799429fa347954": {
-   "id": "d496c521f4a9378747799429fa347954",
-   "company": "The University of Hong Kong",
-   "role": "Clerical Assistant",
-   "location": "Hong Kong Au"
   },
   "24e5f7dab3a18c619359886146336ae8": {
    "id": "24e5f7dab3a18c619359886146336ae8",
