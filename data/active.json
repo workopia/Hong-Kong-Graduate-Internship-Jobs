@@ -1,7 +1,19 @@
 {
- "asOf": "2026-11-18",
- "count": 178,
+ "asOf": "2026-11-19",
+ "count": 185,
  "jobs": {
+  "8feecd4a06f0e3933a3ee92acf67332b": {
+   "id": "8feecd4a06f0e3933a3ee92acf67332b",
+   "company": "Ricoh Asia Pacific Pte Ltd",
+   "role": "Intern, Business Process Analysis",
+   "location": "Hong Kong"
+  },
+  "c4dcf49d017c6324afe48975b730261e": {
+   "id": "c4dcf49d017c6324afe48975b730261e",
+   "company": "Marsh",
+   "role": "Business Development Intern (6-month Internship)",
+   "location": "Hong Kong"
+  },
   "d0402c5699123e81bfec870a71ad1513": {
    "id": "d0402c5699123e81bfec870a71ad1513",
    "company": "Google",
@@ -440,16 +452,16 @@
    "role": "Coverage Banking Intern Hong Kong 2027",
    "location": "Hong Kong"
   },
-  "067fc2a336e2572a1fd88f44833f7e1a": {
-   "id": "067fc2a336e2572a1fd88f44833f7e1a",
-   "company": "Standard Chartered Bank",
-   "role": "Global Banking Intern Hong Kong 2027",
-   "location": "Hong Kong"
-  },
   "3015094f6cc7b79ebb07c2ef6f1bd9fc": {
    "id": "3015094f6cc7b79ebb07c2ef6f1bd9fc",
    "company": "Standard Chartered Bank",
    "role": "Transaction Services Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "067fc2a336e2572a1fd88f44833f7e1a": {
+   "id": "067fc2a336e2572a1fd88f44833f7e1a",
+   "company": "Standard Chartered Bank",
+   "role": "Global Banking Intern Hong Kong 2027",
    "location": "Hong Kong"
   },
   "fdf46c9adb44424c24f08c149ab3f9d6": {
@@ -469,18 +481,6 @@
    "company": "Hermès International",
    "role": "Communications Intern",
    "location": "Hong Kong Sar"
-  },
-  "147d7182ea328ca3831f78ef9b9a44e0": {
-   "id": "147d7182ea328ca3831f78ef9b9a44e0",
-   "company": "Zurich Insurance UK",
-   "role": "Intern (operational Excellence, Apac) (part-time)",
-   "location": "Hong Kong"
-  },
-  "1afe63883c8492b480f1cd5c9a733e66": {
-   "id": "1afe63883c8492b480f1cd5c9a733e66",
-   "company": "DFI Retail Group",
-   "role": "Dfiq Insights Solutions Intern (part Time)",
-   "location": "Hong Kong"
   },
   "4e6123b22526cad971b82dcc2bef6bc1": {
    "id": "4e6123b22526cad971b82dcc2bef6bc1",
@@ -522,6 +522,24 @@
    "id": "897b1f9df4aa79c0e970d319b8ddd12c",
    "company": "Infineon",
    "role": "Internship - Ai Engineer",
+   "location": "Hong Kong"
+  },
+  "2b4ba00fea609af754adca1f249cb76d": {
+   "id": "2b4ba00fea609af754adca1f249cb76d",
+   "company": "智元机器人",
+   "role": "导航与感知算法工程师-hk",
+   "location": "Hong Kong"
+  },
+  "828ea8133ac9d3db6915139a24d93b8d": {
+   "id": "828ea8133ac9d3db6915139a24d93b8d",
+   "company": "智元机器人",
+   "role": "Vla算法工程师-hk",
+   "location": "Hong Kong"
+  },
+  "8336afd9a1d4753b8b572a084b762f7c": {
+   "id": "8336afd9a1d4753b8b572a084b762f7c",
+   "company": "智元机器人",
+   "role": "Vln算法工程师-hk",
    "location": "Hong Kong"
   },
   "8af46b6d6658a6d2a82685e7c12504d9": {
@@ -612,6 +630,18 @@
    "id": "76fdd66f8e766018e7021e133177c00e",
    "company": "Flow Traders",
    "role": "Phd Graduate Quantitative Researcher",
+   "location": "Hong Kong"
+  },
+  "c1b994d0a7ad3e044e4b4ec37b39170e": {
+   "id": "c1b994d0a7ad3e044e4b4ec37b39170e",
+   "company": "HSBC",
+   "role": "HSBC IFRS Reporting Actuarial",
+   "location": "Hong Kong"
+  },
+  "aacfd10332de56f56e0766ce0e6bd7c5": {
+   "id": "aacfd10332de56f56e0766ce0e6bd7c5",
+   "company": "jebsen",
+   "role": "Business Insights & Transformation Assistant",
    "location": "Hong Kong"
   },
   "ac10d3d60113aab87e19169db8987604": {
@@ -960,6 +990,18 @@
    "id": "563705892740771",
    "company": "Bottega Veneta Hong Kong",
    "role": "Bottega Veneta Part Time Sales",
+   "location": "Hong Kong"
+  },
+  "9421cc3ef01b0847cfdd4177bedc4db6": {
+   "id": "9421cc3ef01b0847cfdd4177bedc4db6",
+   "company": "Gravitas Recruitment Group",
+   "role": "Administrative Assistant",
+   "location": "Hong Kong"
+  },
+  "e720df9bb2180fe19629e6236c5dbf9e": {
+   "id": "e720df9bb2180fe19629e6236c5dbf9e",
+   "company": "S&P Capital IQ Pro",
+   "role": "Administrative Assistant",
    "location": "Hong Kong"
   },
   "1b710068bb8ae72f631ea2cd773821c9": {

@@ -488,4 +488,6 @@
 <tr><td>Flow Traders</td><td>Junior Quantitative Researcher</td><td>Hong Kong</td><td>2026-11-18</td></tr>
 <tr><td>Bottega Veneta</td><td>Bottega Veneta Part Time Sales</td><td>Hong Kong</td><td>2026-11-18</td></tr>
 <tr><td>The University of Hong Kong</td><td>Clerical Assistant</td><td>Hong Kong Au</td><td>2026-11-18</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Intern (operational Excellence, Apac) (part-time)</td><td>Hong Kong</td><td>2026-11-19</td></tr>
+<tr><td>DFI Retail Group</td><td>Dfiq Insights Solutions Intern (part Time)</td><td>Hong Kong</td><td>2026-11-19</td></tr>
 </table>
