@@ -490,4 +490,9 @@
 <tr><td>The University of Hong Kong</td><td>Clerical Assistant</td><td>Hong Kong Au</td><td>2026-11-18</td></tr>
 <tr><td>Zurich Insurance UK</td><td>Intern (operational Excellence, Apac) (part-time)</td><td>Hong Kong</td><td>2026-11-19</td></tr>
 <tr><td>DFI Retail Group</td><td>Dfiq Insights Solutions Intern (part Time)</td><td>Hong Kong</td><td>2026-11-19</td></tr>
+<tr><td>Hermès International</td><td>Communications Intern</td><td>Hong Kong Sar</td><td>2026-11-21</td></tr>
+<tr><td>Flow Traders</td><td>Phd Graduate Quantitative Researcher</td><td>Hong Kong</td><td>2026-11-21</td></tr>
+<tr><td>DBS Bank (Hong Kong) Limited</td><td>Specialist, Business Analyst, Institutional Banking Group / Hong Kong, Hk At Dbs Bank (hong Kong) Limited</td><td>Hong Kong</td><td>2026-11-21</td></tr>
+<tr><td>Hang Lung Properties Ltd</td><td>Officer (administration And Documentation Support)</td><td>Hong Kong</td><td>2026-11-21</td></tr>
+<tr><td>122</td><td>Administrative Assistant</td><td>Hong Kong</td><td>2026-11-21</td></tr>
 </table>
