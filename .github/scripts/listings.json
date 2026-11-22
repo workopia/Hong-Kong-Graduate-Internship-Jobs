@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-11-21",
+  "as_of": "2026-11-22",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1019,
-  "generated_at": "2026-11-21T00:50:30.086Z"
+  "country_live_total": 1020,
+  "generated_at": "2026-11-22T00:50:30.166Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "71570835129f3e06",
+   "source": "Workopia",
+   "company_name": "BANK OF CHINA LIMITED",
+   "company_hi_slug": "bank-of-china-limited",
+   "title": "Financial Institutions Intern",
+   "location": "Marina",
+   "skills": "Client Due Diligence, KYC Compliance",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-20T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/71570835129f3e06",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "1e8769d89c40f10269d5ba5348af8adb",
@@ -1418,23 +1435,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "8e446e19fd175eec4a44f8b88fcc7d29",
-   "source": "Workopia",
-   "company_name": "Alphafmcroles",
-   "company_hi_slug": "alphafmcroles",
-   "title": "Graduate Internship",
-   "location": "Hong Kong",
-   "skills": "Support client deliver, Perform analysis in Ex",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-10-02T01:32:16.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/8e446e19fd175eec4a44f8b88fcc7d29",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "4e6123b22526cad971b82dcc2bef6bc1",
    "source": "Workopia",
@@ -1858,6 +1858,40 @@
    "url": "https://workopia.io/jobs/d4645be7cc6f19624fa348fb6855ccc7",
    "category": "finance",
    "tier": "Graduate"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "29b9b1c9ea0889339529ab0dd15ab758",
+   "source": "Workopia",
+   "company_name": "Millennium Management",
+   "company_hi_slug": "millennium-management",
+   "title": "Quantitative Researcher – Ai Algorithm Specialist (predictive Modeling & Analysis)",
+   "location": "Hong Kong",
+   "skills": "Predictive Modeling, Deep Learning",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-21T06:15:22.783Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/29b9b1c9ea0889339529ab0dd15ab758",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$20k–32k/mo*",
+   "id": "a122a1b4e75048388a20ac66d4861c14",
+   "source": "Workopia",
+   "company_name": "Millennium Management",
+   "company_hi_slug": "millennium-management",
+   "title": "Quantitative Researcher – Portfolio Construction",
+   "location": "Hong Kong",
+   "skills": "Quantitative Research, Market Data Analysis",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-21T06:15:22.783Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/a122a1b4e75048388a20ac66d4861c14",
+   "category": "finance",
+   "tier": "Entry-level"
   },
   {
    "salary_display": "HK$20k–32k/mo*",

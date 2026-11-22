@@ -495,4 +495,5 @@
 <tr><td>DBS Bank (Hong Kong) Limited</td><td>Specialist, Business Analyst, Institutional Banking Group / Hong Kong, Hk At Dbs Bank (hong Kong) Limited</td><td>Hong Kong</td><td>2026-11-21</td></tr>
 <tr><td>Hang Lung Properties Ltd</td><td>Officer (administration And Documentation Support)</td><td>Hong Kong</td><td>2026-11-21</td></tr>
 <tr><td>122</td><td>Administrative Assistant</td><td>Hong Kong</td><td>2026-11-21</td></tr>
+<tr><td>Alphafmcroles</td><td>Graduate Internship</td><td>Hong Kong</td><td>2026-11-22</td></tr>
 </table>
