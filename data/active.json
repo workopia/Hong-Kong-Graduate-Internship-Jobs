@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-22",
- "count": 184,
+ "asOf": "2026-11-23",
+ "count": 183,
  "jobs": {
   "71570835129f3e06": {
    "id": "71570835129f3e06",
@@ -464,16 +464,16 @@
    "role": "Coverage Banking Intern Hong Kong 2027",
    "location": "Hong Kong"
   },
-  "3015094f6cc7b79ebb07c2ef6f1bd9fc": {
-   "id": "3015094f6cc7b79ebb07c2ef6f1bd9fc",
-   "company": "Standard Chartered Bank",
-   "role": "Transaction Services Intern Hong Kong 2027",
-   "location": "Hong Kong"
-  },
   "067fc2a336e2572a1fd88f44833f7e1a": {
    "id": "067fc2a336e2572a1fd88f44833f7e1a",
    "company": "Standard Chartered Bank",
    "role": "Global Banking Intern Hong Kong 2027",
+   "location": "Hong Kong"
+  },
+  "3015094f6cc7b79ebb07c2ef6f1bd9fc": {
+   "id": "3015094f6cc7b79ebb07c2ef6f1bd9fc",
+   "company": "Standard Chartered Bank",
+   "role": "Transaction Services Intern Hong Kong 2027",
    "location": "Hong Kong"
   },
   "fdf46c9adb44424c24f08c149ab3f9d6": {
@@ -840,12 +840,6 @@
    "id": "755958065522",
    "company": "Millennium Management",
    "role": "Quantitative Developer - Equity Volatility Execution",
-   "location": "Hong Kong"
-  },
-  "eb903d355b39a68d27060819c1bb92c7": {
-   "id": "eb903d355b39a68d27060819c1bb92c7",
-   "company": "Gravitas Recruitment Group",
-   "role": "Vp - Gm Liquid Financing Quantitative Analyst / Hong Kong, Hk At Gravitas Recruitment Group",
    "location": "Hong Kong"
   },
   "c5be51bb3d6a572b7591428d2916c148": {

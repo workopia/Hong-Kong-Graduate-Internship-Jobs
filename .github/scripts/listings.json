@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-11-22",
+  "as_of": "2026-11-23",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 1020,
-  "generated_at": "2026-11-22T00:50:30.166Z"
+  "generated_at": "2026-11-23T00:58:05.139Z"
  },
  "categories": [
   {
@@ -1385,23 +1385,6 @@
   },
   {
    "salary_display": null,
-   "id": "3015094f6cc7b79ebb07c2ef6f1bd9fc",
-   "source": "Workopia",
-   "company_name": "Standard Chartered Bank",
-   "company_hi_slug": "standard-chartered-bank",
-   "title": "Transaction Services Intern Hong Kong 2027",
-   "location": "Hong Kong",
-   "skills": "cash management, trade finance",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-10-02T08:06:43.668Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/3015094f6cc7b79ebb07c2ef6f1bd9fc",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
    "id": "067fc2a336e2572a1fd88f44833f7e1a",
    "source": "Workopia",
    "company_name": "Standard Chartered Bank",
@@ -1414,6 +1397,23 @@
    "date_posted": "2026-10-02T08:06:43.668Z",
    "active": true,
    "url": "https://workopia.io/jobs/067fc2a336e2572a1fd88f44833f7e1a",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "3015094f6cc7b79ebb07c2ef6f1bd9fc",
+   "source": "Workopia",
+   "company_name": "Standard Chartered Bank",
+   "company_hi_slug": "standard-chartered-bank",
+   "title": "Transaction Services Intern Hong Kong 2027",
+   "location": "Hong Kong",
+   "skills": "cash management, trade finance",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-10-02T08:06:43.668Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/3015094f6cc7b79ebb07c2ef6f1bd9fc",
    "category": "grad",
    "tier": "Intern"
   },
@@ -2451,23 +2451,6 @@
    "date_posted": "2026-09-25T18:01:27.181Z",
    "active": true,
    "url": "https://workopia.io/jobs/755958065522",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "eb903d355b39a68d27060819c1bb92c7",
-   "source": "Workopia",
-   "company_name": "Gravitas Recruitment Group",
-   "company_hi_slug": null,
-   "title": "Vp - Gm Liquid Financing Quantitative Analyst / Hong Kong, Hk At Gravitas Recruitment Group",
-   "location": "Hong Kong",
-   "skills": "quantitative models an, market analysis and ri",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-23T19:14:05.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/eb903d355b39a68d27060819c1bb92c7",
    "category": "finance",
    "tier": "Entry-level"
   },
