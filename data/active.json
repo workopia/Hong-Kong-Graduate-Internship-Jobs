@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-23",
- "count": 183,
+ "asOf": "2026-11-24",
+ "count": 184,
  "jobs": {
   "71570835129f3e06": {
    "id": "71570835129f3e06",
@@ -506,12 +506,6 @@
    "role": "Game Engineer",
    "location": "Hong Kong"
   },
-  "0e71ac0cd95b890b3d00516a30e4d09f": {
-   "id": "0e71ac0cd95b890b3d00516a30e4d09f",
-   "company": "OKX",
-   "role": "Software Engineer, Mobile At Okx",
-   "location": "Hong Kong"
-  },
   "dd191fa709443d14886f52b48ac4baa2": {
    "id": "dd191fa709443d14886f52b48ac4baa2",
    "company": "Hong Kong Productivity Council",
@@ -590,6 +584,18 @@
    "role": "Applied Ai Engineer",
    "location": "Hong Kong"
   },
+  "63465d754931fabac70ec37f2810c03b": {
+   "id": "63465d754931fabac70ec37f2810c03b",
+   "company": "AIA Group",
+   "role": "Actuarial Intern",
+   "location": "Hong Kong"
+  },
+  "65425865625c97293199938074f3dae1": {
+   "id": "65425865625c97293199938074f3dae1",
+   "company": "CTF Services Ltd",
+   "role": "Intern, Actuarial",
+   "location": "Hong Kong"
+  },
   "d4b40285557a79b043f442d380748d49": {
    "id": "d4b40285557a79b043f442d380748d49",
    "company": "Milliman",
@@ -626,10 +632,10 @@
    "role": "2027 Quantitative Researcher Graduate (dv Qes)",
    "location": "Hong Kong"
   },
-  "d4645be7cc6f19624fa348fb6855ccc7": {
-   "id": "d4645be7cc6f19624fa348fb6855ccc7",
-   "company": "DV Group Ltd",
-   "role": "2027 Quantitative Researcher Graduate (dv Equities)",
+  "49cdaf7f3001519e0eb777d4eb1f788e": {
+   "id": "49cdaf7f3001519e0eb777d4eb1f788e",
+   "company": "OKX",
+   "role": "Structured Products Trader",
    "location": "Hong Kong"
   },
   "29b9b1c9ea0889339529ab0dd15ab758": {

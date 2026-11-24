@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-11-23",
+  "as_of": "2026-11-24",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1020,
-  "generated_at": "2026-11-23T00:58:05.139Z"
+  "country_live_total": 1026,
+  "generated_at": "2026-11-24T00:46:50.554Z"
  },
  "categories": [
   {
@@ -1503,23 +1503,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "0e71ac0cd95b890b3d00516a30e4d09f",
-   "source": "Workopia",
-   "company_name": "OKX",
-   "company_hi_slug": "okx",
-   "title": "Software Engineer, Mobile At Okx",
-   "location": "Hong Kong",
-   "skills": "Build and scale native, Architect core systems",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-24T19:19:28.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/0e71ac0cd95b890b3d00516a30e4d09f",
-   "category": "tech",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": null,
    "id": "dd191fa709443d14886f52b48ac4baa2",
    "source": "Workopia",
@@ -1742,6 +1725,40 @@
   },
   {
    "salary_display": null,
+   "id": "63465d754931fabac70ec37f2810c03b",
+   "source": "Workopia",
+   "company_name": "AIA Group",
+   "company_hi_slug": "aia-group",
+   "title": "Actuarial Intern",
+   "location": "Hong Kong",
+   "skills": "Actuarial analysis, Data validation",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-23T09:47:26.839Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/63465d754931fabac70ec37f2810c03b",
+   "category": "finance",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "65425865625c97293199938074f3dae1",
+   "source": "Workopia",
+   "company_name": "CTF Services Ltd",
+   "company_hi_slug": "ctf-services-ltd",
+   "title": "Intern, Actuarial",
+   "location": "Hong Kong",
+   "skills": "Alteryx workflow, Data cleansing",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-23T02:12:32.626Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/65425865625c97293199938074f3dae1",
+   "category": "finance",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
    "id": "d4b40285557a79b043f442d380748d49",
    "source": "Workopia",
    "company_name": "Milliman",
@@ -1844,20 +1861,20 @@
   },
   {
    "salary_display": "HK$20k–32k/mo*",
-   "id": "d4645be7cc6f19624fa348fb6855ccc7",
+   "id": "49cdaf7f3001519e0eb777d4eb1f788e",
    "source": "Workopia",
-   "company_name": "DV Group Ltd",
-   "company_hi_slug": "dv-group",
-   "title": "2027 Quantitative Researcher Graduate (dv Equities)",
+   "company_name": "OKX",
+   "company_hi_slug": "okx",
+   "title": "Structured Products Trader",
    "location": "Hong Kong",
-   "skills": "systematic signal gene, quantitative models",
+   "skills": "Structured Products, Trading",
    "sponsorship": false,
    "hot": false,
-   "date_posted": "2026-09-24T04:16:05.000Z",
+   "date_posted": "2026-11-23T09:30:21.000Z",
    "active": true,
-   "url": "https://workopia.io/jobs/d4645be7cc6f19624fa348fb6855ccc7",
+   "url": "https://workopia.io/jobs/49cdaf7f3001519e0eb777d4eb1f788e",
    "category": "finance",
-   "tier": "Graduate"
+   "tier": "Entry-level"
   },
   {
    "salary_display": "HK$20k–32k/mo*",

@@ -497,4 +497,6 @@
 <tr><td>122</td><td>Administrative Assistant</td><td>Hong Kong</td><td>2026-11-21</td></tr>
 <tr><td>Alphafmcroles</td><td>Graduate Internship</td><td>Hong Kong</td><td>2026-11-22</td></tr>
 <tr><td>Gravitas Recruitment Group</td><td>Vp - Gm Liquid Financing Quantitative Analyst / Hong Kong, Hk At Gravitas Recruitment Group</td><td>Hong Kong</td><td>2026-11-23</td></tr>
+<tr><td>OKX</td><td>Software Engineer, Mobile At Okx</td><td>Hong Kong</td><td>2026-11-24</td></tr>
+<tr><td>DV Group Ltd</td><td>2027 Quantitative Researcher Graduate (dv Equities)</td><td>Hong Kong</td><td>2026-11-24</td></tr>
 </table>
