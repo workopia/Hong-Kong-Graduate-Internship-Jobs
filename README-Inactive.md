@@ -499,4 +499,8 @@
 <tr><td>Gravitas Recruitment Group</td><td>Vp - Gm Liquid Financing Quantitative Analyst / Hong Kong, Hk At Gravitas Recruitment Group</td><td>Hong Kong</td><td>2026-11-23</td></tr>
 <tr><td>OKX</td><td>Software Engineer, Mobile At Okx</td><td>Hong Kong</td><td>2026-11-24</td></tr>
 <tr><td>DV Group Ltd</td><td>2027 Quantitative Researcher Graduate (dv Equities)</td><td>Hong Kong</td><td>2026-11-24</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Markets Intern Hong Kong 2027</td><td>Hong Kong</td><td>2026-11-25</td></tr>
+<tr><td>Millennium Management</td><td>Quantitative Trader</td><td>Hong Kong</td><td>2026-11-25</td></tr>
+<tr><td>Millennium Management</td><td>Quantitative Developer - Equity Volatility Execution</td><td>Hong Kong</td><td>2026-11-25</td></tr>
+<tr><td>Bottega Veneta Hong Kong</td><td>Bottega Veneta Part Time Sales</td><td>Hong Kong</td><td>2026-11-25</td></tr>
 </table>

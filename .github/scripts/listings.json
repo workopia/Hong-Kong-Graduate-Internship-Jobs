@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-11-24",
+  "as_of": "2026-11-25",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1026,
-  "generated_at": "2026-11-24T00:46:50.554Z"
+  "country_live_total": 1013,
+  "generated_at": "2026-11-25T00:54:01.232Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "d9213933b95bb75aab9b1874113e9fbd",
+   "source": "Workopia",
+   "company_name": "Richemont",
+   "company_hi_slug": "richemont",
+   "title": "Intern",
+   "location": "Hong Kong",
+   "skills": "Data analysis, SQL proficiency",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-24T03:00:28.552Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/d9213933b95bb75aab9b1874113e9fbd",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "71570835129f3e06",
@@ -1418,23 +1435,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "fdf46c9adb44424c24f08c149ab3f9d6",
-   "source": "Workopia",
-   "company_name": "Standard Chartered Bank",
-   "company_hi_slug": "standard-chartered-bank",
-   "title": "Markets Intern Hong Kong 2027",
-   "location": "Hong Kong",
-   "skills": "work on real business , build future-ready ski",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-10-02T08:06:42.750Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/fdf46c9adb44424c24f08c149ab3f9d6",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "4e6123b22526cad971b82dcc2bef6bc1",
    "source": "Workopia",
@@ -1722,6 +1722,23 @@
    "url": "https://workopia.io/jobs/c8e9865474adeb6e948f8e9402ab2f21",
    "category": "data",
    "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "c475e42ec529e43409e0085622c69e3e",
+   "source": "Workopia",
+   "company_name": "Prudential Singapore",
+   "company_hi_slug": "prudential",
+   "title": "Actuarial Internship (july - December 2027)",
+   "location": "Hong Kong",
+   "skills": "Actuarial modeling, Financial reporting",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-24T01:03:11.281Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/c475e42ec529e43409e0085622c69e3e",
+   "category": "finance",
+   "tier": "Intern"
   },
   {
    "salary_display": null,
@@ -2438,40 +2455,6 @@
    "tier": "Entry-level"
   },
   {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "755954333809",
-   "source": "Workopia",
-   "company_name": "Millennium Management",
-   "company_hi_slug": "millennium-management",
-   "title": "Quantitative Trader",
-   "location": "Hong Kong",
-   "skills": "APAC Delta 1 trading, equity finance trading",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-25T18:01:27.368Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/755954333809",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$20k–32k/mo*",
-   "id": "755958065522",
-   "source": "Workopia",
-   "company_name": "Millennium Management",
-   "company_hi_slug": "millennium-management",
-   "title": "Quantitative Developer - Equity Volatility Execution",
-   "location": "Hong Kong",
-   "skills": "C++ development, Low-latency trading sy",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-25T18:01:27.181Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/755958065522",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
    "salary_display": "HK$15k–27k/mo*",
    "id": "c5be51bb3d6a572b7591428d2916c148",
    "source": "Workopia",
@@ -2503,6 +2486,23 @@
    "active": true,
    "url": "https://workopia.io/jobs/90788dd293327bb56edd87c72f909946",
    "category": "trades",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$17k–25k/mo*",
+   "id": "4b099eb1729a3783de264fe6b2d065f9",
+   "source": "Workopia",
+   "company_name": "COTTON ON Careers",
+   "company_hi_slug": "cotton-on-careers",
+   "title": "Full Time Retail - Cotton On Lee Theatre Plaza",
+   "location": "Hong Kong",
+   "skills": "Retail sales, Customer service",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-24T18:22:32.853Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/4b099eb1729a3783de264fe6b2d065f9",
+   "category": "sales",
    "tier": "Entry-level"
   },
   {
@@ -2876,23 +2876,6 @@
    "date_posted": "2026-09-30T00:00:00.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/6ad475d022824389b870871c793de4b6",
-   "category": "sales",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": "HK$17k–25k/mo*",
-   "id": "563705892740771",
-   "source": "Workopia",
-   "company_name": "Bottega Veneta Hong Kong",
-   "company_hi_slug": "bottega-veneta-hong-kong",
-   "title": "Bottega Veneta Part Time Sales",
-   "location": "Hong Kong",
-   "skills": "Achieve sales targets, Excellent customer ser",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-25T19:18:33.082Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/563705892740771",
    "category": "sales",
    "tier": "Entry-level"
   },
