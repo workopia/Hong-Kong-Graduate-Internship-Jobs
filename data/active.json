@@ -1,11 +1,47 @@
 {
- "asOf": "2026-11-25",
+ "asOf": "2026-11-26",
  "count": 183,
  "jobs": {
+  "7cce9898f69d2e5e38f837945e494ff4": {
+   "id": "7cce9898f69d2e5e38f837945e494ff4",
+   "company": "IQVIA Holdings",
+   "role": "Hong Kong Clinical Intern",
+   "location": "Hong Kong"
+  },
+  "64da81d6bbf9b18734d8b9f89d62e7af": {
+   "id": "64da81d6bbf9b18734d8b9f89d62e7af",
+   "company": "BASF",
+   "role": "Intern, Data Analytics, Dispersions & Resins",
+   "location": "Hong Kong"
+  },
+  "4101c192ddbf34492b3101693cd039da": {
+   "id": "4101c192ddbf34492b3101693cd039da",
+   "company": "BASF",
+   "role": "Intern, Global Controlling & Strategy, Dispersions & Resins",
+   "location": "Hong Kong"
+  },
+  "507259e8f35d7ef8e74af928b3e12ee8": {
+   "id": "507259e8f35d7ef8e74af928b3e12ee8",
+   "company": "CHUN WO DEVELOPMENT HOLDINGS Ltd",
+   "role": "Internship",
+   "location": "Hong Kong"
+  },
   "d9213933b95bb75aab9b1874113e9fbd": {
    "id": "d9213933b95bb75aab9b1874113e9fbd",
    "company": "Richemont",
    "role": "Intern",
+   "location": "Hong Kong"
+  },
+  "3a67935083cf1e082656ad8c87c3054f": {
+   "id": "3a67935083cf1e082656ad8c87c3054f",
+   "company": "Hong Kong Productivity Council",
+   "role": "Intern, (tech) Healthtech And Tcm",
+   "location": "Hong Kong"
+  },
+  "aa09749ca3ac05a1488acc69624941e2": {
+   "id": "aa09749ca3ac05a1488acc69624941e2",
+   "company": "Sleek Hong Kong Limited",
+   "role": "Legal Tech Internship",
    "location": "Hong Kong"
   },
   "71570835129f3e06": {
@@ -54,6 +90,12 @@
    "id": "fb7aa5b7f1ae6ac9f81c05fa07194758",
    "company": "Under Armour",
    "role": "Intern, Tax",
+   "location": "Hong Kong"
+  },
+  "a9b90fe898ec28d75fc8570857418d0d": {
+   "id": "a9b90fe898ec28d75fc8570857418d0d",
+   "company": "Hermès",
+   "role": "Merchandising Intern (watch Métier)",
    "location": "Hong Kong"
   },
   "dede74f0ca0d984b0d05c72580abd8f8": {
@@ -139,6 +181,12 @@
    "company": "Marsh",
    "role": "Placement Intern (6-month Full Time Internship)",
    "location": "Hong Kong"
+  },
+  "ffb63359439b72f3692e59ed78ebf28c": {
+   "id": "ffb63359439b72f3692e59ed78ebf28c",
+   "company": "Hermès",
+   "role": "Communications Intern",
+   "location": "Hong Kong Sar"
   },
   "d586b7a34bcc7e7c9a254ea8a405425b": {
    "id": "d586b7a34bcc7e7c9a254ea8a405425b",
@@ -432,54 +480,6 @@
    "id": "63e5b5aadfa610ee07bb14446c8c85b6",
    "company": "Manulife Financial Inc",
    "role": "Co-op Internship 2027: Tech Placement Program (6 Months)",
-   "location": "Hong Kong"
-  },
-  "9081cab5f78a54040304853b47b48733": {
-   "id": "9081cab5f78a54040304853b47b48733",
-   "company": "Hang Lung Properties Ltd",
-   "role": "Intern",
-   "location": "Hong Kong"
-  },
-  "acb66fc1807c8fefd16659314a75c53b": {
-   "id": "acb66fc1807c8fefd16659314a75c53b",
-   "company": "The Church of Jesus Christ of Latter-day Saints",
-   "role": "Facilities Management Internship",
-   "location": "Hong Kong"
-  },
-  "b3420bc773e9973b2da0569780ea5cbf": {
-   "id": "b3420bc773e9973b2da0569780ea5cbf",
-   "company": "The Church of Jesus Christ of Latter-day Saints",
-   "role": "Temple Construction And Facilities Management Internship",
-   "location": "Hong Kong"
-  },
-  "1b2da956fe93ae95b799546ef8039ad2": {
-   "id": "1b2da956fe93ae95b799546ef8039ad2",
-   "company": "Manulife",
-   "role": "Co-op Internship 2027 – Global Information Risk Management (6 Months)",
-   "location": "Hong Kong"
-  },
-  "a202ebed0d76b5724dcd027c4f4fd5fd": {
-   "id": "a202ebed0d76b5724dcd027c4f4fd5fd",
-   "company": "Banklife",
-   "role": "Co-op Internship 2027 – Global Information Risk Management (6 Months)",
-   "location": "Hong Kong"
-  },
-  "b172f67c7ff0b58a96373e07e6fbff70": {
-   "id": "b172f67c7ff0b58a96373e07e6fbff70",
-   "company": "Standard Chartered Bank",
-   "role": "Coverage Banking Intern Hong Kong 2027",
-   "location": "Hong Kong"
-  },
-  "067fc2a336e2572a1fd88f44833f7e1a": {
-   "id": "067fc2a336e2572a1fd88f44833f7e1a",
-   "company": "Standard Chartered Bank",
-   "role": "Global Banking Intern Hong Kong 2027",
-   "location": "Hong Kong"
-  },
-  "3015094f6cc7b79ebb07c2ef6f1bd9fc": {
-   "id": "3015094f6cc7b79ebb07c2ef6f1bd9fc",
-   "company": "Standard Chartered Bank",
-   "role": "Transaction Services Intern Hong Kong 2027",
    "location": "Hong Kong"
   },
   "4e6123b22526cad971b82dcc2bef6bc1": {
@@ -854,6 +854,12 @@
    "role": "Service Engineer",
    "location": "Hong Kong"
   },
+  "c30fd90ba227e2e75027628ad4e880e8": {
+   "id": "c30fd90ba227e2e75027628ad4e880e8",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Sales Associate",
+   "location": "Hong Kong"
+  },
   "4b099eb1729a3783de264fe6b2d065f9": {
    "id": "4b099eb1729a3783de264fe6b2d065f9",
    "company": "COTTON ON Careers",
@@ -888,12 +894,6 @@
    "id": "34ad04127adba372f511d4edafe2e5df",
    "company": "Kering",
    "role": "Bottega Veneta Part Time Sales",
-   "location": "Hong Kong"
-  },
-  "b71e41e34489c2ebc49ddd6617df61a3": {
-   "id": "b71e41e34489c2ebc49ddd6617df61a3",
-   "company": "Coach (Tapestry, Inc.)",
-   "role": "Sales Associate",
    "location": "Hong Kong"
   },
   "8909d6f2af19a1424380de5124ad440d": {

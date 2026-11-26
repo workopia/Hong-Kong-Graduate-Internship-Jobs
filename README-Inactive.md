@@ -503,4 +503,13 @@
 <tr><td>Millennium Management</td><td>Quantitative Trader</td><td>Hong Kong</td><td>2026-11-25</td></tr>
 <tr><td>Millennium Management</td><td>Quantitative Developer - Equity Volatility Execution</td><td>Hong Kong</td><td>2026-11-25</td></tr>
 <tr><td>Bottega Veneta Hong Kong</td><td>Bottega Veneta Part Time Sales</td><td>Hong Kong</td><td>2026-11-25</td></tr>
+<tr><td>Hang Lung Properties Ltd</td><td>Intern</td><td>Hong Kong</td><td>2026-11-26</td></tr>
+<tr><td>The Church of Jesus Christ of Latter-day Saints</td><td>Facilities Management Internship</td><td>Hong Kong</td><td>2026-11-26</td></tr>
+<tr><td>The Church of Jesus Christ of Latter-day Saints</td><td>Temple Construction And Facilities Management Internship</td><td>Hong Kong</td><td>2026-11-26</td></tr>
+<tr><td>Manulife</td><td>Co-op Internship 2027 – Global Information Risk Management (6 Months)</td><td>Hong Kong</td><td>2026-11-26</td></tr>
+<tr><td>Banklife</td><td>Co-op Internship 2027 – Global Information Risk Management (6 Months)</td><td>Hong Kong</td><td>2026-11-26</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Coverage Banking Intern Hong Kong 2027</td><td>Hong Kong</td><td>2026-11-26</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Global Banking Intern Hong Kong 2027</td><td>Hong Kong</td><td>2026-11-26</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Transaction Services Intern Hong Kong 2027</td><td>Hong Kong</td><td>2026-11-26</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Hong Kong</td><td>2026-11-26</td></tr>
 </table>
