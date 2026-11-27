@@ -9,11 +9,11 @@
   "site_slug": "hong-kong",
   "lang": "en",
   "site_live": false,
-  "as_of": "2026-11-26",
+  "as_of": "2026-11-27",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 1015,
-  "generated_at": "2026-11-26T00:48:47.920Z"
+  "country_live_total": 1017,
+  "generated_at": "2026-11-27T00:48:45.195Z"
  },
  "categories": [
   {
@@ -74,6 +74,23 @@
   }
  ],
  "listings": [
+  {
+   "salary_display": null,
+   "id": "cefe6374f92b4d3ea40e2d46992da3a6",
+   "source": "Workopia",
+   "company_name": "Richemont",
+   "company_hi_slug": "richemont",
+   "title": "Retail Intern",
+   "location": "Hong Kong",
+   "skills": "Sales support, Prospecting",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-26T03:09:07.927Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/cefe6374f92b4d3ea40e2d46992da3a6",
+   "category": "grad",
+   "tier": "Intern"
+  },
   {
    "salary_display": null,
    "id": "7cce9898f69d2e5e38f837945e494ff4",
@@ -1418,23 +1435,6 @@
    "tier": "Intern"
   },
   {
-   "salary_display": null,
-   "id": "63e5b5aadfa610ee07bb14446c8c85b6",
-   "source": "Workopia",
-   "company_name": "Manulife Financial Inc",
-   "company_hi_slug": "manulife-financial",
-   "title": "Co-op Internship 2027: Tech Placement Program (6 Months)",
-   "location": "Hong Kong",
-   "skills": "Full-time availability, Analytical problem-sol",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-10-05T11:04:51.200Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/63e5b5aadfa610ee07bb14446c8c85b6",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
    "salary_display": "HK$20k–32k/mo*",
    "id": "4e6123b22526cad971b82dcc2bef6bc1",
    "source": "Workopia",
@@ -2490,18 +2490,35 @@
   },
   {
    "salary_display": "HK$17k–25k/mo*",
-   "id": "c30fd90ba227e2e75027628ad4e880e8",
+   "id": "7344ffad24c7e3288937bf79ecd7f566",
+   "source": "Workopia",
+   "company_name": "lululemon",
+   "company_hi_slug": "lululemon",
+   "title": "Full Time Educator (sales Associate) / Festival Walk Store",
+   "location": "Hong Kong",
+   "skills": "customer engagement, product education",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-26T20:22:53.066Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/7344ffad24c7e3288937bf79ecd7f566",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$17k–25k/mo*",
+   "id": "d2b94bd34b691d35d99c64de01d44227",
    "source": "Workopia",
    "company_name": "Coach (Tapestry, Inc.)",
    "company_hi_slug": "coach-tapestry-inc",
    "title": "Sales Associate",
    "location": "Hong Kong",
-   "skills": "Luxury retail sales, Client relationship bu",
+   "skills": "Luxury retail experien, Mobile POS operation",
    "sponsorship": false,
    "hot": false,
-   "date_posted": "2026-11-25T01:49:17.673Z",
+   "date_posted": "2026-11-26T04:41:47.330Z",
    "active": true,
-   "url": "https://workopia.io/jobs/c30fd90ba227e2e75027628ad4e880e8",
+   "url": "https://workopia.io/jobs/d2b94bd34b691d35d99c64de01d44227",
    "category": "sales",
    "tier": "Entry-level"
   },
@@ -2877,6 +2894,23 @@
    "active": true,
    "url": "https://workopia.io/jobs/6ad475d022824389b870871c793de4b6",
    "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": "HK$18k–26k/mo*",
+   "id": "0ccd3972aa6b6227100eb58f2955d8a7",
+   "source": "Workopia",
+   "company_name": "Building Engines",
+   "company_hi_slug": "building-engines",
+   "title": "Customer Services Assistant",
+   "location": "Hong Kong",
+   "skills": "Customer service, Hospitality",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-11-26T02:16:38.467Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/0ccd3972aa6b6227100eb58f2955d8a7",
+   "category": "admin",
    "tier": "Entry-level"
   },
   {

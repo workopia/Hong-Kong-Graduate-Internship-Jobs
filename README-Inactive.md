@@ -512,4 +512,6 @@
 <tr><td>Standard Chartered Bank</td><td>Global Banking Intern Hong Kong 2027</td><td>Hong Kong</td><td>2026-11-26</td></tr>
 <tr><td>Standard Chartered Bank</td><td>Transaction Services Intern Hong Kong 2027</td><td>Hong Kong</td><td>2026-11-26</td></tr>
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Hong Kong</td><td>2026-11-26</td></tr>
+<tr><td>Manulife Financial Inc</td><td>Co-op Internship 2027: Tech Placement Program (6 Months)</td><td>Hong Kong</td><td>2026-11-27</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Hong Kong</td><td>2026-11-27</td></tr>
 </table>
