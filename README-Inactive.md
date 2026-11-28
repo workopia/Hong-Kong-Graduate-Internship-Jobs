@@ -514,4 +514,6 @@
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Hong Kong</td><td>2026-11-26</td></tr>
 <tr><td>Manulife Financial Inc</td><td>Co-op Internship 2027: Tech Placement Program (6 Months)</td><td>Hong Kong</td><td>2026-11-27</td></tr>
 <tr><td>Coach (Tapestry, Inc.)</td><td>Sales Associate</td><td>Hong Kong</td><td>2026-11-27</td></tr>
+<tr><td>Me2Works</td><td>Fund Accountant At 2wa.io</td><td>Hong Kong</td><td>2026-11-28</td></tr>
+<tr><td>jll.co.in</td><td>Administrative Assistant</td><td>Hong Kong</td><td>2026-11-28</td></tr>
 </table>

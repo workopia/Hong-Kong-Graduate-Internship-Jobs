@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-27",
- "count": 185,
+ "asOf": "2026-11-28",
+ "count": 183,
  "jobs": {
   "cefe6374f92b4d3ea40e2d46992da3a6": {
    "id": "cefe6374f92b4d3ea40e2d46992da3a6",
@@ -836,12 +836,6 @@
    "role": "Kering Eyewear Business Analysis Specialist",
    "location": "Hong Kong"
   },
-  "d5478bb53d24fa86279109737e78a1cf": {
-   "id": "d5478bb53d24fa86279109737e78a1cf",
-   "company": "Me2Works",
-   "role": "Fund Accountant At 2wa.io",
-   "location": "Hong Kong"
-  },
   "c5be51bb3d6a572b7591428d2916c148": {
    "id": "c5be51bb3d6a572b7591428d2916c148",
    "company": "Building Engines",
@@ -1104,12 +1098,6 @@
    "id": "04b15f2e2c3f915dc2106ccecc8eefbe",
    "company": "HSBC",
    "role": "Executive Productivity And AI Associate",
-   "location": "Hong Kong"
-  },
-  "7672eda9dafe614d6b286c8d12d6b7eb": {
-   "id": "7672eda9dafe614d6b286c8d12d6b7eb",
-   "company": "jll.co.in",
-   "role": "Administrative Assistant",
    "location": "Hong Kong"
   }
  }
